@@ -1,47 +1,432 @@
 #EXTM3U
-#EXTINF:-1,UK: Sky Sports Golf
-http://5.189.187.55:8000/live/Fadil/skype/478.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://5.189.187.55:8000/live/Fadil/skype/480.ts
+#EXTINF:-1  UPDATE 11/08/2018 9:47AM
+
+#EXTINF:-1,UK: Sky Sports Main Event
+http://ipsatpro.com:8080/live/ivan003/ivan003/1561.ts
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/546.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://ipsatpro.com:8080/live/ivan003/ivan003/1562.ts
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8080/live/ivan003/ivan003/1475.ts
+#EXTINF:0,SP: SKYNET SPORTS HD
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6444.ts
+#EXTINF:0,SP: SKYNET SPORTS 1
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6438.ts
+#EXTINF:0,SP: SKYNET SPORTS 2
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6439.ts
+#EXTINF:0,SP: SKYNET SPORTS 3
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6440.ts
+#EXTINF:0,SP: SKYNET SPORTS 4
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6441.ts
+#EXTINF:0,SP: SKYNET SPORTS 5
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6442.ts
+#EXTINF:0,SP: SKYNET SPORTS 6
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/6443.ts
+#EXTINF:0,UK | SKYNET SPORTS 1
+http://163.172.103.172:8005/live/123454321/123454321/1932.ts
+#EXTINF:0,UK | SKYNET SPORTS 2
+http://163.172.103.172:8005/live/123454321/123454321/1931.ts
+#EXTINF:0,UK | SKYNET SPORTS 3
+http://163.172.103.172:8005/live/123454321/123454321/1930.ts
+#EXTINF:0,UK | SKYNET SPORTS 4
+http://163.172.103.172:8005/live/123454321/123454321/1929.ts
+#EXTINF:0,UK | SKYNET SPORTS 5
+http://163.172.103.172:8005/live/123454321/123454321/1928.ts
+#EXTINF:0,UK | SKYNET SPORTS 6
+http://163.172.103.172:8005/live/123454321/123454321/1927.ts
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1476.m3u8
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 1 | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1431.m3u8
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 2 | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1436.m3u8
+#EXTINF:0 group-title="(US) United States",SKYNET SPORTS 6 | SD (US)
+#EXTINF:-1,----------- USA -----------
+http://ipsatpro.com:8080/live/ivan003/ivan003/1554.ts
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8080/live/ivan003/ivan003/1475.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS 11 | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/11312.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS 12 | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/9536.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS HD11 | HD (UK)
+http://titiroq.xyz:25461/live/Saad55/Saad55/13528.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS HD11 | HD (UK)
+http://titiroq.xyz:25461/live/123412341234/123412341234/13528.m3u8
+
+#EXTINF:-1,LN: Star Sport 1 HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1774.ts
+#EXTINF:-1,LN: Star Sport 2 HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1775.ts
+#EXTINF:-1,LN: Star Sport 3 HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1776.ts
+#EXTINF:-1,LN: Star Sport 4 HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1777.ts
+#EXTINF:-1,UK:Sky Sports Premier league
+http://egyman.net:1978/live/1997/1997/6480.ts
+#EXTINF:-1,UK:BT_SPORT_1
+http://egyman.net:1978/live/1997/1997/6499.ts
+#EXTINF:-1,UK:BT_SPORT_2
+http://egyman.net:1978/live/1997/1997/6498.ts
+#EXTINF:-1,UK:BT_SPORT_3
+http://egyman.net:1978/live/1997/1997/6497.ts
+#EXTINF:-1,USA:NBC SPORTS NETWORK
+http://showsat.hopto.me:9000/live/123456789/1234/15827.ts
+#EXTINF:-1,USA: NBC Sports Bay Area HD
+http://www.jomyson.com:8000/live/lorena1/lorena1/7744.ts
+#EXTINF:-1,USA: NBC Sports Boston
+http://www.jomyson.com:8000/live/lorena1/lorena1/7737.ts
+#EXTINF:-1,USA: NBC Sports California
+http://www.jomyson.com:8000/live/lorena1/lorena1/7743.ts
+#EXTINF:-1,USA: NBC Sports Chicago
+http://www.jomyson.com:8000/live/lorena1/lorena1/7736.ts
+#EXTINF:-1,USA: NBC SPORT CHICAGO PLUS
+http://www.jomyson.com:8000/live/lorena1/lorena1/7865.ts
+#EXTINF:-1,USA: NBC Sports Northwest
+http://www.jomyson.com:8000/live/lorena1/lorena1/7735.ts
+#EXTINF:-1,USA: NBC Sports Philadelphia
+http://www.jomyson.com:8000/live/lorena1/lorena1/7734.ts
+#EXTINF:-1,USA: NBC Sports Washington
+http://www.jomyson.com:8000/live/lorena1/lorena1/7742.ts
+#EXTINF:-1,.****_SPORTS_UK_****.
+http://smart-iptv2016.com:9500/live/jp1/jp2/1003.ts
+#EXTINF:-1,UK_BT_Sports_1_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1188.ts
+#EXTINF:-1,UK_BT_Sports_2_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1187.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/36515.ts
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/32859.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37155.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chief/chief/37227.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/36508.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37153.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chief/chief/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/32223.ts
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1601.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/7400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://www.e900x.com:8000/live/soot3/93retno/641.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1600.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/7401.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://www.e900x.com:8000/live/soot3/93retno/640.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/17572.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/7402.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/2759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | SD (UK)
+http://5.196.92.12:8000/live/test/test/453.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/432.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 | HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/433.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 | SD (UK)
+http://5.196.92.12:8000/live/test/test/454.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 3 | HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/2924.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS ESPN | SD (UK)
+http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/1591.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/528.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 1 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/543.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/527.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 2 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/542.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY BT SPORT 3 EX EUROPE | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/453.m3u8
+#EXTINF:-1,****_SPORTS_Portugal_****
+http://smart-iptv2016.com:9500/live/jp1/jp2/867.ts
+#EXTINF:-1,PT_SPORT_TV_1_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1005.ts
+#EXTINF:-1,PT_SPORT_TV_2_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1006.ts
+#EXTINF:-1,PT_SPORT_TV_3_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1007.ts
+#EXTINF:-1,PT_SPORT_TV_4_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1008.ts
+#EXTINF:-1,PT_SPORT_TV_5_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/1013.ts
+#EXTINF:-1,****_Sky_UK_****
+http://smart-iptv2016.com:9500/live/jp1/jp2/641.ts
+#EXTINF:-1,UK_Sky_Sports_1_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/642.ts
+#EXTINF:-1,UK_Sky_Sports_2_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/643.ts
+#EXTINF:-1,UK_Sky_Sports_3_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/644.ts
+#EXTINF:-1,UK_Sky_Sports_4_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/645.ts
+#EXTINF:-1,UK_Sky_Sports_5_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/646.ts
+#EXTINF:-1,UK_Sky Sports_F1_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/647.ts
+#EXTINF:-1,UK_BT_Sport_1_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/648.ts
+#EXTINF:-1,UK_BT_Sport_2_HD
+http://smart-iptv2016.com:9500/live/jp1/jp2/649.ts
+#EXTINF:0,USA: NBC Sports HD (Premier League)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/11290.ts
+#EXTINF:0,USA: SportsNet Ontario HD (Premier League)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/11289.ts
+#EXTINF:-1,US: NBC SN
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3367.ts
+#EXTINF:-1,US: TSN 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1985.ts
+#EXTINF:-1,US: TSN 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1984.ts
+#EXTINF:-1,US: TSN 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1983.ts
+#EXTINF:-1,IN: Star Sports 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/5297.ts
+#EXTINF:-1,IN: Star Sports 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/5298.ts
+#EXTINF:-1,IN: Star Sports 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/5219.ts
+#EXTINF:-1,IN: Star Sports 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/5220.ts
+#EXTINF:-1,CA: TSN HD 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3887.ts
+#EXTINF:-1,CA: TSN HD 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3888.ts
+#EXTINF:-1,CA: TSN HD 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3889.ts
+#EXTINF:-1,CA: TSN HD 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3890.ts
+#EXTINF:-1,CA: SNW HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3868.ts
+#EXTINF:-1,USA:TSN 1 HD
+http://showsat.hopto.me:9000/live/123456789/1234/15825.ts
+#EXTINF:-1,USA:TSN 2 HD
+http://showsat.hopto.me:9000/live/123456789/1234/15824.ts
+#EXTINF:-1,USA:TSN 3 HD
+http://showsat.hopto.me:9000/live/123456789/1234/15823.ts
+#EXTINF:-1,USA:TSN 4 HD
+http://showsat.hopto.me:9000/live/123456789/1234/15822.ts
+#EXTINF:-1,USA:TSN 5 HD
+http://showsat.hopto.me:9000/live/123456789/1234/15821.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chief/chief/9725.ts
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/37299.ts
 #EXTINF:-1,UK: Sky Sports News HQ
 http://5.189.187.55:8000/live/Fadil/skype/481.ts
-#EXTINF:-1,UK::SkySportsMix
-http://tv2iptv.com:8000/live/ex12/545654/7693.ts
-#EXTINF:-1,UK::SKY-SPORTS-F1
-http://tv2iptv.com:8000/live/ex12/545654/7701.ts
-#EXTINF:-1,UK::Sky_Sports_Premier_League.HD
-http://tv2iptv.com:8000/live/ex12/545654/7608.ts
-#EXTINF:-1,UK: Sky Sports Football HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3226.ts
-#EXTINF:-1,UK::BT-SPORT-1
-http://tv2iptv.com:8000/live/ex12/545654/7691.ts
-#EXTINF:-1,UK::Sky_Sports_Arena.HD
-http://tv2iptv.com:8000/live/ex12/545654/7607.ts
-#EXTINF:-1,UK:BT-SPORT-3
-http://tv2iptv.com:8000/live/ex12/545654/7689.ts
-#EXTINF:-1,UK::Sky_Sport_Mix.HD
-http://tv2iptv.com:8000/live/ex12/545654/7603.ts
-#EXTINF:-1,UK::SkySportsPremierLeague
-http://tv2iptv.com:8000/live/ex12/545654/7696.ts
-#EXTINF:-1,UK::BT-SPORT-2
-http://tv2iptv.com:8000/live/ex12/545654/7690.ts
-#EXTINF:-1,UK:Sky_Sports_Cricket
-http://tv2iptv.com:8000/live/ex12/545654/7699.ts
-#EXTINF:-1,UK::Sky_Sports_Cricket.HD
-http://tv2iptv.com:8000/live/ex12/545654/7611.ts
-#EXTINF:-1,UK::SkySportsMix
-http://tv2iptv.com:8000/live/ex12/545654/7693.ts
-#EXTINF:-1,UK::Sky_Sports_Main_EventHD
-http://tv2iptv.com:8000/live/ex12/545654/7612.ts
-#EXTINF:-1,UK::SkySportsArena
-http://tv2iptv.com:8000/live/ex12/545654/7695.ts
-#EXTINF:-1,UK::SkySportsPremierLeague
-http://tv2iptv.com:8000/live/ex12/545654/7696.ts
-#EXTINF:-1,UK::Sky_Sports_Football.HD
-http://tv2iptv.com:8000/live/ex12/545654/7606.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/141.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/142.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/158.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2973.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/1675.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://5.196.92.12:8000/live/test/test/503.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/549.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/481.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8080/live/ivan003/ivan003/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8080/live/ivan003/ivan003/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.com:8080/live/ivan003/ivan003/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8080/live/ivan003/ivan003/1475.ts
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.com:8080/live/ivan003/ivan003/1516.ts
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.com:8080/live/ivan003/ivan003/1502.ts
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.com:8080/live/ivan003/ivan003/1483.ts
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.com:8080/live/ivan003/ivan003/1430.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1497.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1526.ts
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.com:8080/live/ivan003/ivan003/1503.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/1525.ts
+EXTINF:-1,[US] NBC SPORT
+http://145.239.1.103:8000/live/Engin/Ozturk/7569.ts
+EXTINF:-1,[US] NBC SPORT
+http://145.239.1.103:8000/live/Engin/Ozturk/7569.ts
+#EXTINF:0 group-title="(US) United States",NBC SPORT | HD (US)
+http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/2405.m3u8
+#EXTINF:0 group-title="(US) United States",NBC SPORTS | SD (US)
+http://www.e900x.com:8000/live/soot3/93retno/2042.m3u8
+#EXTINF:0 group-title="(US) United States",NBC SPORTS NETWORK | SD (US)
+http://5.196.92.12:8000/live/test/test/1613.m3u8
+#EXTINF:0 group-title="(US) United States",NBC SPORTS PREMIER LEAGUE | HD (US)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/11290.m3u8
+
+#EXTINF:0,SKY_SPORT_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1476.ts
+#EXTINF:0,SKY_SPORT_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1477.ts
+#EXTINF:0,SKY_SPORT_4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1479.ts
+#EXTINF:0,SKY_SPORT_3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1478.ts
+#EXTINF:0,SKY_SPORT_5
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1480.ts
+#EXTINF:0,UK: Sky Sports Premier League
+http://ipsatpro.com:8080/live/ivan003/ivan003/1562.ts
+#EXTINF:0,UK: Sky Sports Premier League HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/544.ts
+#EXTINF:0,UK: Sky Sports Main Event
+http://ipsatpro.com:8080/live/ivan003/ivan003/1561.ts
+#EXTINF:0,UK: Sky Sports Main Event HD
+http://ipsatpro.com:8080/live/ivan003/ivan003/546.ts
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/2755.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/546.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://ksportiptv.com:1557/live/H0sy1HLPQ0/9ip5GPSxOh!k2/10720.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/475.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1561.m3u8
+
+#EXTINF:0,Sky_Sport_F1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1484.ts
+#EXTINF:0,BT_SPORT_1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1593.ts
+#EXTINF:0,BT_SPORT_2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1592.ts
+#EXTINF:0,BT_SPORTS_EUROPE
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/1485.ts
+#EXTINF:0,US_TSN 1
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2248.m3u8
+#EXTINF:0,US_TSN 2
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2249.m3u8
+#EXTINF:0,US_TSN 3
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2250.m3u8
+#EXTINF:0,US_TSN 4
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2251.m3u8
+#EXTINF:0,US_TSN 5
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2252.m3u8
+#EXTINF:0,US_NBC_SPORT
+http://w.bs-share.com:8000/live/nullcms/0F5q2IU0E/2854.m3u8
+#EXTINF:-1,(Sport) Bein_1 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/3943.ts
+#EXTINF:-1,(Sport) Bein_2 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/3944.ts
+#EXTINF:-1,(Sport) Bein_3 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/3945.ts
+#EXTINF:-1,(Sport) Bein_4 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/3946.ts
+#EXTINF:-1,(Sport) Bein_5 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4194.ts
+#EXTINF:-1,(Sport) Bein_6 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4195.ts
+#EXTINF:-1,(Sport) Bein_7 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4196.ts
+#EXTINF:-1,(Sport) Bein_8 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4197.ts
+#EXTINF:-1,(Sport) Bein_9 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4366.ts
+#EXTINF:-1,(Sport) Bein_10 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4365.ts
+#EXTINF:-1,(Sport) Bein_11 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4364.ts
+#EXTINF:-1,(Sport) Bein_12 HD (local)
+http://hbox.cdnss.me:80/live/jonny/jonny/4363.ts
