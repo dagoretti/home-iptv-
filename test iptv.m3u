@@ -1,17 +1,5 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 15/08/2018 19:52 PM
 
-#EXTINF:-1,UK@ Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/36512.ts
-#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
-http://izgemma.ddns.net:8000/live/shaun/shaun/36513.ts
-#EXTINF:-1,UK@ Sky Sports Premier League HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/36514.ts
-#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
-http://izgemma.ddns.net:8000/live/shaun/shaun/13633.ts
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/12451.ts
-#EXTINF:-1,UK@ Sky Sports Football(Backup)
-http://izgemma.ddns.net:8000/live/shaun/shaun/36511.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://izgemma.ddns.net:8000/live/shaun/shaun/37400.ts
+#EXTINF:-1, NBC SPORT  IPTVultra.com [1920x1080]
+http://51.15.6.71:8889/live/dildil2/pakistan2/1059.ts
