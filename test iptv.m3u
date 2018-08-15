@@ -4,4 +4,7 @@
 http://ipsatpro.biz:8080/live/amal/amal1/1458.ts
 #EXTINF:-1, US: ABC 7
 http://ipsatpro.biz:8080/live/amal/amal1/1491.ts
-
+#EXTINF:0,USA: ABC
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7904.ts
+#EXTINF:0,USA: ABC HD
+http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7909.ts
