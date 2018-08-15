@@ -1,51 +1,17 @@
 #EXTM3U
-#EXTINF:-1  UPDATE 15/08/2018 18:39 PM
+#EXTINF:-1  UPDATE 15/08/2018 19:52 PM
 
-#EXTINF:-1,ABC 7 LOS ANGELES
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5847.ts
-#EXTINF:-1,CBS 2 LOS ANGELES
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5740.ts
-#EXTINF:-1,FOX 11 LOS ANGELES
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5738.ts
-#EXTINF:-1,NBC 4 LOS ANGELES
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5739.ts
-#EXTINF:-1,CBS 2 NEW YORK
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/947.ts
-#EXTINF:-1,ABC 7 NEW YORK
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/948.ts
-#EXTINF:-1,FOX 5 NEW YORK
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/852.ts
-#EXTINF:-1,NBC 4 NEW YORK
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/938.ts
-#EXTINF:-1,BT SPORT 1
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/863.ts
-#EXTINF:-1,BT SPORT 2
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/862.ts
-#EXTINF:-1,BT SPORT 3
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/864.ts
-#EXTINF:-1,BT SPORT ESPN
-http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/1269.ts
-#EXTINF:0,UK@ Sky Sports Main Event HD
+#EXTINF:-1,UK@ Sky Sports Main Event HD
 http://izgemma.ddns.net:8000/live/shaun/shaun/36512.ts
-#EXTINF:0,UK@ Sky Sports Main Event(Backup)
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
 http://izgemma.ddns.net:8000/live/shaun/shaun/36513.ts
-#EXTINF:0,UK@ Sky Sports Premier League HD
+#EXTINF:-1,UK@ Sky Sports Premier League HD
 http://izgemma.ddns.net:8000/live/shaun/shaun/36514.ts
-#EXTINF:0,UK@ Sky Sports Premier League(Backup)
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
 http://izgemma.ddns.net:8000/live/shaun/shaun/13633.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://5.189.187.55:8000/live/Fadil/skype/481.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://5.189.187.55:8000/live/Fadil/skype/479.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://5.189.187.55:8000/live/Fadil/skype/475.ts
-#EXTINF:-1,USA CA-TSN1
-http://54.37.255.204:9977/live/leon/iptv/35217.ts
-#EXTINF:-1,USA CA-TSN2
-http://54.37.255.204:9977/live/leon/iptv/35216.ts
-#EXTINF:-1,USA CA-TSN3
-http://54.37.255.204:9977/live/leon/iptv/35215.ts
-#EXTINF:-1,USA CA-TSN4
-http://54.37.255.204:9977/live/leon/iptv/35214.ts
-#EXTINF:-1,USA CA-TSN5
-http://54.37.255.204:9977/live/leon/iptv/35213.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/shaun/shaun/36511.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/shaun/shaun/37400.ts
