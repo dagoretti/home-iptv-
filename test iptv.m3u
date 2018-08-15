@@ -1,98 +1,19 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 15/08/2018 18:39 PM
 
-#EXTINF:-1,UK@ BT Sport 1 HD
-http://izgemma.ddns.net:8000/live/chief/chief/36515.ts
-
-#EXTINF:-1,UK@ BT Sport 1(Backup)
-http://izgemma.ddns.net:8000/live/chief/chief/32859.ts
-
-#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
-http://izgemma.ddns.net:8000/live/chief/chief/37155.ts
-
-#EXTINF:-1,UK@ BT Sport 2 HD
-http://izgemma.ddns.net:8000/live/chief/chief/37227.ts
-
-#EXTINF:-1,UK@ BT Sport 2 (Backup)
-http://izgemma.ddns.net:8000/live/chief/chief/36508.ts
-
-#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
-http://izgemma.ddns.net:8000/live/chief/chief/37153.ts
-
-#EXTINF:-1,UK@ BT Sport 3 HD
-http://izgemma.ddns.net:8000/live/chief/chief/32931.ts
-
-#EXTINF:-1,UK@ BT Sport 3 (Backup)
-http://izgemma.ddns.net:8000/live/chief/chief/32223.ts
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/2759.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/432.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 | HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/433.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 3 | HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/2924.m3u8
-
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://izgemma.ddns.net:8000/live/chief/chief/9725.ts
-
-#EXTINF:-1,UK@ Sky Sports News HD (Backup)
-http://izgemma.ddns.net:8000/live/chief/chief/37299.ts
-
-#EXTINF:-1,UK: Sky Sports News HQ
-http://5.189.187.55:8000/live/Fadil/skype/481.ts
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/481.m3u8
-
-#EXTINF:-1,UK: BT Sports 2 HD
-http://5.189.187.55:8000/live/Fadil/skype/433.ts
-
-#EXTINF:-1,UK: BT Sports 1
-http://5.189.187.55:8000/live/Fadil/skype/432.ts
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/2755.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/475.m3u8
-
-#EXTINF:-1,(Sport) Bein_1 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/3943.ts
-
-#EXTINF:-1,(Sport) Bein_2 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/3944.ts
-
-#EXTINF:-1,(Sport) Bein_3 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/3945.ts
-
-#EXTINF:-1,(Sport) Bein_4 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/3946.ts
-
-#EXTINF:-1,(Sport) Bein_5 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4194.ts
-
-#EXTINF:-1,(Sport) Bein_6 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4195.ts
-
-#EXTINF:-1,(Sport) Bein_7 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4196.ts
-
-#EXTINF:-1,(Sport) Bein_8 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4197.ts
-
-#EXTINF:-1,(Sport) Bein_9 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4366.ts
-
-#EXTINF:-1,(Sport) Bein_10 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4365.ts
-
-#EXTINF:-1,(Sport) Bein_11 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4364.ts
-
-#EXTINF:-1,(Sport) Bein_12 HD (local)
-http://hbox.cdnss.me:80/live/jonny/jonny/4363.ts
+#EXTINF:-1,ABC 7 LOS ANGELES
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5847.ts
+#EXTINF:-1,CBS 2 LOS ANGELES
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5740.ts
+#EXTINF:-1,FOX 11 LOS ANGELES
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5738.ts
+#EXTINF:-1,NBC 4 LOS ANGELES
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5739.ts
+#EXTINF:-1,CBS 2 NEW YORK
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/947.ts
+#EXTINF:-1,ABC 7 NEW YORK
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/948.ts
+#EXTINF:-1,FOX 5 NEW YORK
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/852.ts
+#EXTINF:-1,NBC 4 NEW YORK
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/938.ts
