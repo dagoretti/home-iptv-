@@ -4,7 +4,65 @@
 http://ipsatpro.biz:8080/live/amal/amal1/1458.ts
 #EXTINF:-1, US: ABC 7
 http://ipsatpro.biz:8080/live/amal/amal1/1491.ts
-#EXTINF:0,USA: ABC
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7904.ts
-#EXTINF:0,USA: ABC HD
-http://tv.smartal.net:25461/live/50CconectionPlus/KM3bfAyk0I/7909.ts
+#EXTINF:-1,CA: ABC HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/77188.ts
+#EXTINF:-1,US: ABC 7 (NYC) HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/121301.ts
+#EXTINF:-1,US: NBC SPORTS HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/89079.ts
+#EXTINF:-1,US: NBC Sports HD (Premier League)
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74827.ts
+#EXTINF:-1,SPORT: STAR SPORTS SELECT 1 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79608.ts
+#EXTINF:-1,SPORT: STAR SPORTS SELECT 2 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79609.ts
+#EXTINF:-1,SPORT: UK SkyNet Sports 1
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74627.ts
+#EXTINF:-1,SPORT: UK SkyNet Sports 2
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/121814.ts
+#EXTINF:-1,SPORT: UK SkyNet Sports 3
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74629.ts
+#EXTINF:-1,SPORT: UK SkyNet Sports 6
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74632.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108777.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108778.ts
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108779.ts
+#EXTINF:-1,UK: Channel 4 +1 HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/75731.ts
+#EXTINF:-1,UK: Channel 4 FHD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74789.ts
+#EXTINF:-1,UK: Channel 5 +1
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/104365.ts
+#EXTINF:-1,UK: Channel 5 FHD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74790.ts
+#EXTINF:-1,UK: Channel AKA HD
+http://prima.stream-control.live:8080/live/Mertgenc/400exchange/65059.ts
+#EXTINF:0,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+#EXTINF:0,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+#EXTINF:0,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/kris/kris/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/36513.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
+http://izgemma.ddns.net:8000/live/kris/kris/37826.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://izgemma.ddns.net:8000/live/kris/kris/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/13633.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-2)
+http://izgemma.ddns.net:8000/live/kris/kris/37831.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
+http://izgemma.ddns.net:8000/live/kris/kris/37834.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/kris/kris/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-2)
+http://izgemma.ddns.net:8000/live/kris/kris/37835.ts
