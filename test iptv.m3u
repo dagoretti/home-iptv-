@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 15/08/2018 19:52 PM
+#EXTINF:-1, US: ABC
+http://ipsatpro.biz:8080/live/amal/amal1/1458.ts
+#EXTINF:-1, US: ABC 7
+http://ipsatpro.biz:8080/live/amal/amal1/1491.ts
 
-#EXTINF:-1, NBC SPORT  IPTVultra.com [1920x1080]
-http://51.15.6.71:8889/live/dildil2/pakistan2/1059.ts
