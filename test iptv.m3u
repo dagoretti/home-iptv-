@@ -17,3 +17,35 @@ http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/948.ts
 http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/852.ts
 #EXTINF:-1,NBC 4 NEW YORK
 http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/938.ts
+#EXTINF:-1,BT SPORT 1
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/863.ts
+#EXTINF:-1,BT SPORT 2
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/862.ts
+#EXTINF:-1,BT SPORT 3
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/864.ts
+#EXTINF:-1,BT SPORT ESPN
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/1269.ts
+#EXTINF:0,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/36512.ts
+#EXTINF:0,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/shaun/shaun/36513.ts
+#EXTINF:0,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/36514.ts
+#EXTINF:0,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/shaun/shaun/13633.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+#EXTINF:-1,USA CA-TSN1
+http://54.37.255.204:9977/live/leon/iptv/35217.ts
+#EXTINF:-1,USA CA-TSN2
+http://54.37.255.204:9977/live/leon/iptv/35216.ts
+#EXTINF:-1,USA CA-TSN3
+http://54.37.255.204:9977/live/leon/iptv/35215.ts
+#EXTINF:-1,USA CA-TSN4
+http://54.37.255.204:9977/live/leon/iptv/35214.ts
+#EXTINF:-1,USA CA-TSN5
+http://54.37.255.204:9977/live/leon/iptv/35213.ts
