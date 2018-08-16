@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
 15/08/2018 21:11 PM
+
+#EXTINF:-1,---
 http://unlockyourtv.com:8000/get.php?username=Ted1&password=Ted1&type=m3u
-
+#EXTINF:-1,---
 http://158.69.127.19:8000/get.php?username=sandy&password=sandy&type=m3u
-
+#EXTINF:-1,--
 http://ligatv.net:25461/get.php?username=ligatvapk02&password=04082018&type=m3u
-
 #EXTINF:-1, US: ABC
 http://ipsatpro.biz:8080/live/amal/amal1/1458.ts
 #EXTINF:-1, US: ABC 7
