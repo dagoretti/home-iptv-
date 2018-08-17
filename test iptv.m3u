@@ -18,14 +18,20 @@ http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74827.ts
 http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79608.ts
 #EXTINF:-1,SPORT: STAR SPORTS SELECT 2 HD
 http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79609.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 1
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74627.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 2
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/121814.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 3
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74629.ts
-#EXTINF:-1,SPORT: UK SkyNet Sports 6
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74632.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports HD" tvg-logo="" group-title="Skyuk",US: Skynet Sports HD
+http://e2.iudtv.org:8080/live/junior/junior1/1476.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 1" tvg-logo="http://ipsatpro.info/logo-us/Sports-Versus-HD.jpg" group-title="Skyuk",US: Skynet Sports 1
+http://e2.iudtv.org:8080/live/junior/junior1/1431.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 2" tvg-logo="http://ipsatpro.info/logo-us/Sports-Fight.jpg" group-title="Skyuk",US: Skynet Sports 2
+http://e2.iudtv.org:8080/live/junior/junior1/1436.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 3" tvg-logo="" group-title="Skyuk",US: Skynet Sports 3
+http://e2.iudtv.org:8080/live/junior/junior1/1472.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 4" tvg-logo="" group-title="Skyuk",US: Skynet Sports 4
+http://e2.iudtv.org:8080/live/junior/junior1/1473.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 5" tvg-logo="" group-title="Skyuk",US: Skynet Sports 5
+http://e2.iudtv.org:8080/live/junior/junior1/1474.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 6" tvg-logo="" group-title="Skyuk",US: Skynet Sports 6
+http://e2.iudtv.org:8080/live/junior/junior1/1475.ts
 #EXTINF:-1,UK: BT Sport 1 HD
 http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108777.ts
 #EXTINF:-1,UK: BT Sport 2 HD
