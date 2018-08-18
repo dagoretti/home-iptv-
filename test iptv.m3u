@@ -1,23 +1,237 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
-15/08/2018 21:11 PM
+18/08/2018 07:28 AM
+#EXTINF:-1,NBC SPORTS
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/914.ts
 
-#EXTINF:-1, US: ABC
-http://ipsatpro.biz:8080/live/amal/amal1/1458.ts
-#EXTINF:-1, US: ABC 7
-http://ipsatpro.biz:8080/live/amal/amal1/1491.ts
-#EXTINF:-1,CA: ABC HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/77188.ts
-#EXTINF:-1,US: ABC 7 (NYC) HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/121301.ts
-#EXTINF:-1,US: NBC SPORTS HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/89079.ts
-#EXTINF:-1,US: NBC Sports HD (Premier League)
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74827.ts
-#EXTINF:-1,SPORT: STAR SPORTS SELECT 1 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79608.ts
-#EXTINF:-1,SPORT: STAR SPORTS SELECT 2 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/79609.ts
+#EXTINF:0,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+#EXTINF:0,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/kris/kris/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chewy/chewy/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+#EXTINF:-1,UK@ Boxnation (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37382.ts
+#EXTINF:-1,UK@ Premier Sports HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.ts
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.ts
+#EXTINF:-1,UK@ eir Sports 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37425.ts
+#EXTINF:-1,UK@ Motorsports TV
+http://izgemma.ddns.net:8000/live/chewy/chewy/10772.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/Fadil/skype/480.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/Fadil/skype/478.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/Fadil/skype/477.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/Fadil/skype/476.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
+#EXTINF:-1,UK: BT Sport Extra
+http://5.189.187.55:8000/live/Fadil/skype/2083.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://5.189.187.55:8000/live/Fadil/skype/464.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chewy/chewy/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 1" tvg-logo="" group-title="SPORT",US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 2" tvg-logo="" group-title="SPORT",US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 3" tvg-logo="" group-title="SPORT",US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 4" tvg-logo="" group-title="SPORT",US: TSN SPORT 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 5" tvg-logo="" group-title="SPORT",US: TSN SPORT 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sport TSN 1" tvg-logo="http://ipsatpro.info/logo-us/Sport-TSN-1.jpg" group-title="Skyuk",US: Sport TSN 1
+http://e2.iudtv.org:8080/live/junior/junior1/1451.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sport TSN 2" tvg-logo="http://ipsatpro.info/logo-us/Sport-TSN-1.jpg" group-title="Skyuk",US: Sport TSN 2
+http://e2.iudtv.org:8080/live/junior/junior1/1452.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sport TSN 3" tvg-logo="http://ipsatpro.info/logo-us/Sport-TSN-3.jpg" group-title="Skyuk",US: Sport TSN 3
+http://e2.iudtv.org:8080/live/junior/junior1/1453.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sport TSN 4" tvg-logo="http://ipsatpro.info/logo-us/Sport-TSN-4.png" group-title="Skyuk",US: Sport TSN 4
+http://e2.iudtv.org:8080/live/junior/junior1/1454.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sport TSN 5" tvg-logo="http://ipsatpro.info/logo-us/Sport-TSN-5.png" group-title="Skyuk",US: Sport TSN 5
+http://e2.iudtv.org:8080/live/junior/junior1/1455.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports HD" tvg-logo="" group-title="Skyuk",US: Skynet Sports HD
 http://e2.iudtv.org:8080/live/junior/junior1/1476.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 1" tvg-logo="http://ipsatpro.info/logo-us/Sports-Versus-HD.jpg" group-title="Skyuk",US: Skynet Sports 1
@@ -32,45 +246,263 @@ http://e2.iudtv.org:8080/live/junior/junior1/1473.ts
 http://e2.iudtv.org:8080/live/junior/junior1/1474.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: Skynet Sports 6" tvg-logo="" group-title="Skyuk",US: Skynet Sports 6
 http://e2.iudtv.org:8080/live/junior/junior1/1475.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108777.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108778.ts
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/108779.ts
-#EXTINF:-1,UK: Channel 4 +1 HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/75731.ts
-#EXTINF:-1,UK: Channel 4 FHD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74789.ts
-#EXTINF:-1,UK: Channel 5 +1
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/104365.ts
-#EXTINF:-1,UK: Channel 5 FHD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/74790.ts
-#EXTINF:-1,UK: Channel AKA HD
-http://prima.stream-control.live:8080/live/Mertgenc/400exchange/65059.ts
-#EXTINF:0,UK: Sky Sports News HQ
+#EXTINF:-1 tvg-id="" tvg-name="LN: Star Sport 1 HD" tvg-logo="" group-title="india",LN: Star Sport 1 HD
+http://e2.iudtv.org:8080/live/junior/junior1/1774.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN: Star Sport 2 HD" tvg-logo="" group-title="india",LN: Star Sport 2 HD
+http://e2.iudtv.org:8080/live/junior/junior1/1775.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN: Star Sport 3 HD" tvg-logo="" group-title="india",LN: Star Sport 3 HD
+http://e2.iudtv.org:8080/live/junior/junior1/1776.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN: Star Sport 4 HD" tvg-logo="" group-title="india",LN: Star Sport 4 HD
+http://e2.iudtv.org:8080/live/junior/junior1/1777.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-News-HD.jpg" group-title="Skyuk",UK: Sky Sports News
+http://e2.iudtv.org:8080/live/junior/junior1/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport 1" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-1-HD.jpg" group-title="Skyuk",UK: Sky BT Sport 1
+http://e2.iudtv.org:8080/live/junior/junior1/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport 2" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-2.jpg" group-title="Skyuk",UK: Sky BT Sport 2
+http://e2.iudtv.org:8080/live/junior/junior1/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport 1 HD" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-1-HD.png" group-title="Skyuk",UK: Sky BT Sport 1 HD
+http://e2.iudtv.org:8080/live/junior/junior1/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport 2 HD" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-2-HD.png" group-title="Skyuk",UK: Sky BT Sport 2 HD
+http://e2.iudtv.org:8080/live/junior/junior1/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport ESPN" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-Extra.png" group-title="Skyuk",UK: Sky BT Sport ESPN
+http://e2.iudtv.org:8080/live/junior/junior1/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sport 3 (Ex Europe)" tvg-logo="http://ipsatpro.info/logo-skuk/BT-Sport-Europe.jpg" group-title="Skyuk",UK: Sky BT Sport 3 (Ex Europe)
+http://e2.iudtv.org:8080/live/junior/junior1/453.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sports Extra 1" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-1-SD.png" group-title="Skyuk",UK: Sky BT Sports Extra 1
+http://e2.iudtv.org:8080/live/junior/junior1/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky BT Sports Extra 2" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-2-sd.png" group-title="Skyuk",UK: Sky BT Sports Extra 2
+http://e2.iudtv.org:8080/live/junior/junior1/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky ROK" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-3-SD.png" group-title="Skyuk",UK: Sky ROK
+http://e2.iudtv.org:8080/live/junior/junior1/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky YourTV HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-4-SD.jpg" group-title="Skyuk",UK: Sky YourTV HD
+http://e2.iudtv.org:8080/live/junior/junior1/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-5-SD.jpg" group-title="Skyuk",UK: Sky Sports Box Office HD
+http://e2.iudtv.org:8080/live/junior/junior1/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Eurosport 1 HD" tvg-logo="http://ipsatpro.info/logo-skuk/Eurosport-1-HD.png" group-title="Skyuk",UK: Sky Eurosport 1 HD
+http://e2.iudtv.org:8080/live/junior/junior1/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Eurosport 2 HD" tvg-logo="http://ipsatpro.info/logo-skuk/Eurosport-2-HD.png" group-title="Skyuk",UK: Sky Eurosport 2 HD
+http://e2.iudtv.org:8080/live/junior/junior1/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Eir Sport 1" tvg-logo="" group-title="Skyuk",UK: Sky Eir Sport 1
+http://e2.iudtv.org:8080/live/junior/junior1/1566.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Eir Sport 2" tvg-logo="" group-title="Skyuk",UK: Sky Eir Sport 2
+http://e2.iudtv.org:8080/live/junior/junior1/1567.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky motorsport.tv" tvg-logo="" group-title="Skyuk",UK: Sky motorsport.tv
+http://e2.iudtv.org:8080/live/junior/junior1/1555.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-F1.jpg" group-title="Skyuk",UK: Sky Sports F1
+http://e2.iudtv.org:8080/live/junior/junior1/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport AU 1" tvg-logo="" group-title="Skyuk",UK: Sky Sport AU 1
+http://e2.iudtv.org:8080/live/junior/junior1/438.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="Skyuk",UK: Sky Sports Action
+http://e2.iudtv.org:8080/live/junior/junior1/1560.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-4-HD.png" group-title="Skyuk",UK: Sky Sports Action HD
+http://e2.iudtv.org:8080/live/junior/junior1/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier" tvg-logo="" group-title="Skyuk",UK: Sky Sports Premier
+http://e2.iudtv.org:8080/live/junior/junior1/1565.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="Skyuk",UK: Sky Sports Premier League
+http://e2.iudtv.org:8080/live/junior/junior1/1562.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sport-5-HD.jpg" group-title="Skyuk",UK: Sky Sports Premier League HD
+http://e2.iudtv.org:8080/live/junior/junior1/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="Skyuk",UK: Sky Sports Main Event
+http://e2.iudtv.org:8080/live/junior/junior1/1561.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-3-HD.jpg" group-title="Skyuk",UK: Sky Sports Main Event HD
+http://e2.iudtv.org:8080/live/junior/junior1/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-1-HD.png" group-title="Skyuk",UK: Sky Sports Golf
+http://e2.iudtv.org:8080/live/junior/junior1/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="Skyuk",UK: Sky Sports Golf HD
+http://e2.iudtv.org:8080/live/junior/junior1/1563.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="Skyuk",UK: Sky Sports Cricket
+http://e2.iudtv.org:8080/live/junior/junior1/1564.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://ipsatpro.info/logo-skuk/Sports-2-HD.jpg" group-title="Skyuk",UK: Sky Sports Cricket HD
+http://e2.iudtv.org:8080/live/junior/junior1/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena" tvg-logo="" group-title="Skyuk",UK: Sky Sport Arena
+http://e2.iudtv.org:8080/live/junior/junior1/1558.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football" tvg-logo="" group-title="Skyuk",UK: Sky Sport Football
+http://e2.iudtv.org:8080/live/junior/junior1/1559.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="http://ipsatpro.info/logo-skuk/Premier-Sports-HD.png" group-title="Skyuk",UK: Sky Sports Mix HD
+http://e2.iudtv.org:8080/live/junior/junior1/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Setanta Sports" tvg-logo="http://ipsatpro.info/logo-skuk/Setanta-Sports.jpg" group-title="Skyuk",UK: Sky Setanta Sports
+http://e2.iudtv.org:8080/live/junior/junior1/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Liverpool FC TV HD" tvg-logo="http://ipsatpro.info/logo-skuk/Liverpool-FC-TV-HD.jpg" group-title="Skyuk",UK: Sky Liverpool FC TV HD
+http://e2.iudtv.org:8080/live/junior/junior1/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Chelsea TV HD" tvg-logo="http://ipsatpro.info/logo-skuk/Chelsea-TV-HD.png" group-title="Skyuk",UK: Sky Chelsea TV HD
+http://e2.iudtv.org:8080/live/junior/junior1/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky MUTV" tvg-logo="http://ipsatpro.info/logo-skuk/MUTV.jpg" group-title="Skyuk",UK: Sky MUTV
+http://e2.iudtv.org:8080/live/junior/junior1/535.ts
+#EXTINF:-1,Us- TSN 1 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10636.ts
+#EXTINF:-1,Us- TSN 2 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10635.ts
+#EXTINF:-1,Us- TSN 3 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10634.ts
+#EXTINF:-1,Us- TSN 4 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10633.ts
+#EXTINF:-1,Us- TSN 5 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10632.ts
+#EXTINF:-1,Us- NBCSN HD
+http://m-iptv.net:6204/live/Mohamed/Badr/10398.ts
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/8582.ts
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://m-iptv.net:6204/live/Mohamed/Badr/8580.ts
+#EXTINF:-1,bein Sport SD1
+http://m-iptv.net:6204/live/Mohamed/Badr/1913.ts
+#EXTINF:-1,Bein Sport SD2
+http://m-iptv.net:6204/live/Mohamed/Badr/1914.ts
+#EXTINF:-1,Bein Sport SD3
+http://m-iptv.net:6204/live/Mohamed/Badr/1915.ts
+#EXTINF:-1,Bein Sport SD4
+http://m-iptv.net:6204/live/Mohamed/Badr/1916.ts
+#EXTINF:-1,Bein Sport SD5
+http://m-iptv.net:6204/live/Mohamed/Badr/1917.ts
+#EXTINF:-1,Bein Sport SD6
+http://m-iptv.net:6204/live/Mohamed/Badr/1918.ts
+#EXTINF:-1,Bein Sport SD7
+http://m-iptv.net:6204/live/Mohamed/Badr/1919.ts
+#EXTINF:-1,Bein Sport SD8
+http://m-iptv.net:6204/live/Mohamed/Badr/1920.ts
+#EXTINF:-1,Bein Sport SD9
+http://m-iptv.net:6204/live/Mohamed/Badr/1921.ts
+#EXTINF:-1,Bein Sport SD10
+http://m-iptv.net:6204/live/Mohamed/Badr/1922.ts
+#EXTINF:-1,Bein Sport SD11
+http://m-iptv.net:6204/live/Mohamed/Badr/1923.ts
+#EXTINF:-1,Bein Sport SD12
+http://m-iptv.net:6204/live/Mohamed/Badr/1924.ts
+
+#EXTINF:-1,UK: Sky Sports News HQ
 http://5.189.187.55:8000/live/Fadil/skype/481.ts
-#EXTINF:0,UK: Sky Sports Premier League
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/Fadil/skype/480.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League
 http://5.189.187.55:8000/live/Fadil/skype/479.ts
-#EXTINF:0,UK: Sky Sports Main Event
+
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/Fadil/skype/478.ts
+
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/Fadil/skype/477.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/Fadil/skype/476.ts
+
+#EXTINF:-1,UK: Sky Sports Main Event
 http://5.189.187.55:8000/live/Fadil/skype/475.ts
+
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
 #EXTINF:-1,UK@ Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/kris/kris/36512.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
-http://izgemma.ddns.net:8000/live/kris/kris/36513.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
-http://izgemma.ddns.net:8000/live/kris/kris/37826.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge HD
-http://izgemma.ddns.net:8000/live/kris/kris/36514.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
-http://izgemma.ddns.net:8000/live/kris/kris/13633.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-2)
-http://izgemma.ddns.net:8000/live/kris/kris/37831.ts
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
-http://izgemma.ddns.net:8000/live/kris/kris/37834.ts
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+
 #EXTINF:-1,UK@ Sky Sports News HQ
-http://izgemma.ddns.net:8000/live/kris/kris/9725.ts
-#EXTINF:-1,UK@ Sky Sports News (Backup-1)
-http://izgemma.ddns.net:8000/live/kris/kris/37299.ts
-#EXTINF:-1,UK@ Sky Sports News (Backup-2)
-http://izgemma.ddns.net:8000/live/kris/kris/37835.ts
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+
