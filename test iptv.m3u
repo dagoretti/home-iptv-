@@ -299,3 +299,5647 @@ http://54.37.255.204:9977/live/rosendo/iptv/35204.ts
 http://54.37.255.204:9977/live/rosendo/iptv/35201.ts
 #EXTINF:-1,CA-Sportsnet World
 http://54.37.255.204:9977/live/rosendo/iptv/35202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 5" tvg-logo="" group-title="SPORT",US: TSN SPORT 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 4" tvg-logo="" group-title="SPORT",US: TSN SPORT 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
+
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://izgemma.ddns.net:8000/live/chief/chief/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chief/chief/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/kris/kris/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37299.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chief/chief/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/29507.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chief/chief/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chief/chief/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chief/chief/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chief/chief/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+
+#EXTINF:-1,UK@ Premier Sports HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.ts
+
+#EXTINF:-1,UK@ MUTV HD
+http://izgemma.ddns.net:8000/live/chief/chief/26034.ts
+
+#EXTINF:-1,UK@ MUTV (Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/29480.ts
+
+#EXTINF:-1,UK@ Motorsports TV
+http://izgemma.ddns.net:8000/live/chewy/chewy/10772.ts
+
+#EXTINF:-1,UK@ LFC TV
+http://izgemma.ddns.net:8000/live/chief/chief/33271.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chief/chief/10763.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/29815.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+
+#EXTINF:-1,UK@ eir Sports 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37425.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chief/chief/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/10760.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chief/chief/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32223.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chief/chief/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32859.ts
+
+#EXTINF:-1,UK@ Boxnation (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37382.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+
+#EXTINF:0,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+
+#EXTINF:0,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/Fadil/skype/478.ts
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/Fadil/skype/480.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/Fadil/skype/476.ts
+
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/Fadil/skype/477.ts
+
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
+
+#EXTINF:-1,UK: BT Sport Europe
+http://5.189.187.55:8000/live/Fadil/skype/464.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chief/chief/36499.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chief/chief/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chief/chief/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chief/chief/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chief/chief/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chief/chief/36504.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chief/chief/36505.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chewy/chewy/36505.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/862.ts
+
+#EXTINF:-1,TR: LIGTV 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1993.ts
+
+#EXTINF:-1,TR: LIGTV 1
+http://5.189.187.55:8000/live/Fadil/skype/861.ts
+
+#EXTINF:-1,TR: LIG TV HD
+http://5.189.187.55:8000/live/Fadil/skype/2370.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2328.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2278.ts
+
+#EXTINF:-1,NO: Viasat Fotboll
+http://5.189.187.55:8000/live/Fadil/skype/3146.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.ts
+
+#EXTINF:-1,beIN_SPORTS_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4038.ts
+
+#EXTINF:-1,beIN_SPORTS_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4037.ts
+
+#EXTINF:-1,beIN_SPORTS_3 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4036.ts
+
+#EXTINF:-1,EUROSPORT_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3605.ts
+
+#EXTINF:-1,EUROSPORT_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3606.ts
+
+#EXTINF:-1,EXTREME_SPORTS
+http://pro.smartgotv.com:8005/live/mondher/mondher/3604.ts
+
+#EXTINF:-1,INFOSPORT+
+http://pro.smartgotv.com:8005/live/mondher/mondher/3591.ts
+
+#EXTINF:-1,RMC SPORT 1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3562.ts
+
+#EXTINF:-1,RMC SPORT 2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3561.ts
+
+#EXTINF:-1,RMC SPORT 3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3560.ts
+
+#EXTINF:-1,RMC SPORT 5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3559.ts
+
+#EXTINF:-1,CANAL+_SPORT_HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3634.ts
+
+#EXTINF:-1,CANAL+_SPORT_SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/4030.ts
+
+#EXTINF:-1,BFM_SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/2225.ts
+
+#EXTINF:-1,RMC SPORT 1 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6596.ts
+
+#EXTINF:-1,RMC SPORT 2 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6597.ts
+
+#EXTINF:-1,RMC SPORT 3 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6598.ts
+
+#EXTINF:-1,BeIN_SPORTS_1 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/684.ts
+
+#EXTINF:-1,BeIN_SPORTS_2 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/683.ts
+
+#EXTINF:-1,BeIN_SPORTS_3 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/682.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX4
+http://pro.smartgotv.com:8005/live/mondher/mondher/681.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX5
+http://pro.smartgotv.com:8005/live/mondher/mondher/680.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX6
+http://pro.smartgotv.com:8005/live/mondher/mondher/679.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX7
+http://pro.smartgotv.com:8005/live/mondher/mondher/678.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX8
+http://pro.smartgotv.com:8005/live/mondher/mondher/677.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX9
+http://pro.smartgotv.com:8005/live/mondher/mondher/676.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX10
+http://pro.smartgotv.com:8005/live/mondher/mondher/675.ts
+
+#EXTINF:-1,EUROSPORT-1 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/10921.ts
+
+#EXTINF:-1,EUROSPORT-2 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/10922.ts
+
+#EXTINF:-1,beIN-SPORTS-News HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3047.ts
+
+#EXTINF:-1,beIN-SPORTS HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3046.ts
+
+#EXTINF:-1,beIN SPORTS HD11
+http://pro.smartgotv.com:8005/live/mondher/mondher/8259.ts
+
+#EXTINF:-1,beIN SPORTS HD12
+http://pro.smartgotv.com:8005/live/mondher/mondher/8260.ts
+
+#EXTINF:-1,beIN-SPORTS HD1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3066.ts
+
+#EXTINF:-1,beIN-SPORTS HD2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3065.ts
+
+#EXTINF:-1,beIN-SPORTS HD3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3064.ts
+
+#EXTINF:-1,beIN-SPORTS HD4
+http://pro.smartgotv.com:8005/live/mondher/mondher/3063.ts
+
+#EXTINF:-1,beIN-SPORTS HD5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3062.ts
+
+#EXTINF:-1,beIN-SPORTS HD6
+http://pro.smartgotv.com:8005/live/mondher/mondher/3061.ts
+
+#EXTINF:-1,beIN-SPORTS HD7
+http://pro.smartgotv.com:8005/live/mondher/mondher/3060.ts
+
+#EXTINF:-1,beIN-SPORTS HD8
+http://pro.smartgotv.com:8005/live/mondher/mondher/3059.ts
+
+#EXTINF:-1,beIN-SPORTS HD9
+http://pro.smartgotv.com:8005/live/mondher/mondher/3058.ts
+
+#EXTINF:-1,beIN-SPORTS HD10
+http://pro.smartgotv.com:8005/live/mondher/mondher/3057.ts
+
+#EXTINF:-1,beIN-SPORTS SD1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3076.ts
+
+#EXTINF:-1,beIN-SPORTS SD2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3075.ts
+
+#EXTINF:-1,beIN-SPORTS SD3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3074.ts
+
+#EXTINF:-1,beIN-SPORTS SD4
+http://pro.smartgotv.com:8005/live/mondher/mondher/3073.ts
+
+#EXTINF:-1,beIN-SPORTS SD5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3072.ts
+
+#EXTINF:-1,beIN-SPORTS SD6
+http://pro.smartgotv.com:8005/live/mondher/mondher/3071.ts
+
+#EXTINF:-1,beIN-SPORTS SD7
+http://pro.smartgotv.com:8005/live/mondher/mondher/3070.ts
+
+#EXTINF:-1,beIN-SPORTS SD8
+http://pro.smartgotv.com:8005/live/mondher/mondher/3069.ts
+
+#EXTINF:-1,beIN-SPORTS SD9
+http://pro.smartgotv.com:8005/live/mondher/mondher/3068.ts
+
+#EXTINF:-1,beIN-SPORTS SD10
+http://pro.smartgotv.com:8005/live/mondher/mondher/3067.ts
+
+#EXTINF:-1,AR_KSA-SPORTS-1
+http://pro.smartgotv.com:8005/live/mondher/mondher/4918.ts
+
+#EXTINF:-1,AR_DMC_SPORTS
+http://pro.smartgotv.com:8005/live/mondher/mondher/2443.ts
+
+#EXTINF:-1,AR_DUBAI_SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/5041.ts
+
+#EXTINF:-1,AR_DUBAI_SPORT_2
+http://pro.smartgotv.com:8005/live/mondher/mondher/5162.ts
+
+#EXTINF:-1,AR_NILE-SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/2478.ts
+
+#EXTINF:-1,AR_OMAN-SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/5145.ts
+
+#EXTINF:-1,AR_ON_SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/2447.ts
+
+#EXTINF:-1,Band Sports
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2332.ts
+
+#EXTINF:-1,Band Sports [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13773.ts
+
+#EXTINF:-1,Band Sports [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7480.ts
+
+#EXTINF:-1,Band Sports HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2331.ts
+
+#EXTINF:-1,Band Sports HD [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13774.ts
+
+#EXTINF:-1,Band Sports HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7479.ts
+
+#EXTINF:-1,Esporte Interativo
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2299.ts
+
+#EXTINF:-1,Esporte Interativo [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7426.ts
+
+#EXTINF:-1,Esporte Interativo 2
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2298.ts
+
+#EXTINF:-1,Esporte Interativo 2 [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7424.ts
+
+#EXTINF:-1,Esporte Interativo 2 FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7159.ts
+
+#EXTINF:-1,Esporte Interativo 2 HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2297.ts
+
+#EXTINF:-1,Esporte Interativo 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7423.ts
+
+#EXTINF:-1,Esporte Interativo BR [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7422.ts
+
+#EXTINF:-1,Esporte Interativo BR FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7138.ts
+
+#EXTINF:-1,Esporte Interativo BR HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7421.ts
+
+#EXTINF:-1,Esporte Interativo FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7158.ts
+
+#EXTINF:-1,Esporte Interativo HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2295.ts
+
+#EXTINF:-1,Esporte Interativo HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7425.ts
+
+#EXTINF:-1,Fox Sport HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2286.ts
+
+#EXTINF:-1,Fox Sports
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2285.ts
+
+#EXTINF:-1,Fox Sports [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13757.ts
+
+#EXTINF:-1,Fox Sports [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7408.ts
+
+#EXTINF:-1,Fox Sports 2
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2284.ts
+
+#EXTINF:-1,Fox Sports 2 [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13759.ts
+
+#EXTINF:-1,Fox Sports 2 [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7406.ts
+
+#EXTINF:-1,FOX Sports 2 HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2283.ts
+
+#EXTINF:-1,Fox Sports 2 HD [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13760.ts
+
+#EXTINF:-1,Fox Sports 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7405.ts
+
+#EXTINF:-1,Fox Sports FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7171.ts
+
+#EXTINF:-1,Fox Sports HD [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13758.ts
+
+#EXTINF:-1,Fox Sports HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7407.ts
+
+#EXTINF:-1,FOX Sportv 2 FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7157.ts
+
+#EXTINF:-1,Sport TV 2 HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2191.ts
+
+#EXTINF:-1,Sport TV 3 HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2190.ts
+
+#EXTINF:-1,Sport TV HD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2189.ts
+
+#EXTINF:-1,SporTV
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2188.ts
+
+#EXTINF:-1,SporTV [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13423.ts
+
+#EXTINF:-1,SporTV [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7280.ts
+
+#EXTINF:-1,SporTV 2
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2187.ts
+
+#EXTINF:-1,SporTV 2 [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7279.ts
+
+#EXTINF:-1,Sportv 2 FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7154.ts
+
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7278.ts
+
+#EXTINF:-1,SporTV 3
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/2186.ts
+
+#EXTINF:-1,SporTV 3 [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7277.ts
+
+#EXTINF:-1,Sportv 3 FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7153.ts
+
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7276.ts
+
+#EXTINF:-1,Sportv FHD
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7178.ts
+
+#EXTINF:-1,SporTV HD [Alter 2]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/13422.ts
+
+#EXTINF:-1,SporTV HD [Alter]
+http://sspitv.liss.fun:8880/live/5z4cgfq9/5z4cgfq9/7275.ts
+
+#EXTINF:-1,Esporte Sangrento
+http://sspitv.liss.fun:8880/movie/5z4cgfq9/5z4cgfq9/8689.mp4
+
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6672.ts
+
+#EXTINF:-1,UK: Sky Sports Main Event (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1121.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/38.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/44.ts
+
+#EXTINF:-1,UK: Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/12450.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6669.ts
+
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13181.ts
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/5.ts
+
+#EXTINF:-1,UK: Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6670.ts
+
+#EXTINF:-1,UK: Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6668.ts
+
+#EXTINF:-1,UK: Sky Sports News SD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/20.ts
+
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6461.ts
+
+#EXTINF:-1,UK: BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1389.ts
+
+#EXTINF:-1,UK: BT Sport 1 (backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/56.ts
+
+#EXTINF:-1,UK: BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6667.ts
+
+#EXTINF:-1,UK: BT Sport 2 (backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1124.ts
+
+#EXTINF:-1,UK: BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6671.ts
+
+#EXTINF:-1,UK: BT Sport 3 SD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/815.ts
+
+#EXTINF:-1,UK: BT Sport ESPN..
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/129.ts
+
+#EXTINF:-1,UK: Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/799.ts
+
+#EXTINF:-1,UK: Eurosport 2
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/798.ts
+
+#EXTINF:-1,UK: Premiere Sport HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/45.ts
+
+#EXTINF:-1,USA SportsNet 360
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37794.ts
+
+#EXTINF:-1,US CBS Sports
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37815.ts
+
+#EXTINF:-1,US FOX SPORTS 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37811.ts
+
+#EXTINF:-1,US Sports Net Ontario HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37814.ts
+
+#EXTINF:-1,US Sports Net Pacific HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37813.ts
+
+#EXTINF:-1,US Sports Net World HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37812.ts
+
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37774.ts
+
+#EXTINF:-1,AR:beIN SPORT 2 HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37775.ts
+
+#EXTINF:-1,AR:beIN SPORT 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37776.ts
+
+#EXTINF:-1,AR:beIN SPORT 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37777.ts
+
+#EXTINF:-1,AR:beIN SPORT 5 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37778.ts
+
+#EXTINF:-1,AR:beIN SPORT 6 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37779.ts
+
+#EXTINF:-1,AR:beIN SPORT 7 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37780.ts
+
+#EXTINF:-1,AR:beIN SPORT 8 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37781.ts
+
+#EXTINF:-1,AR:beIN SPORT 9 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37782.ts
+
+#EXTINF:-1,AR:beIN SPORT 10 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37783.ts
+
+#EXTINF:-1,AR:beIN SPORT 11 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37784.ts
+
+#EXTINF:-1,AR:beIN SPORT 12 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37785.ts
+
+#EXTINF:-1,Rom: Sport Klub 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37786.ts
+
+#EXTINF:-1,Rom: Sport Klub 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37787.ts
+
+#EXTINF:-1,Rom:  Sport Klub 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37788.ts
+
+#EXTINF:-1,Albanian Super Sports 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37807.ts
+
+#EXTINF:-1,Albanian Super Sports 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37808.ts
+
+#EXTINF:-1,Albanian Super Sports 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37809.ts
+
+#EXTINF:-1,Albanian Super Sports 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37810.ts
+
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/375.ts
+
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/376.ts
+
+#EXTINF:-1,Arena Sports 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37803.ts
+
+#EXTINF:-1,Arena Sports 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37804.ts
+
+#EXTINF:-1,Arena Sports 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37805.ts
+
+#EXTINF:-1,Arena Sports 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37806.ts
+
+#EXTINF:-1,DE SKY SPORTS 1HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37801.ts
+
+#EXTINF:-1,DE SKY SPORTS 2HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37802.ts
+
+#EXTINF:-1,OSN Sports 1HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37796.ts
+
+#EXTINF:-1,OSN Sports 2HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37797.ts
+
+#EXTINF:-1,OSN Sports 3HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37798.ts
+
+#EXTINF:-1,AD: Abu Dhabi Sports 1
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2964.ts
+
+#EXTINF:-1,Sw: VIASAT SPORT
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37789.ts
+
+#EXTINF:-1,IN: Star Sports 2 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/309.ts
+
+#EXTINF:-1,IN: Star Sports 2 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/611.ts
+
+#EXTINF:-1,IN: Star Sports 3 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/308.ts
+
+#EXTINF:-1,IN: Star Sports 3 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/610.ts
+
+#EXTINF:-1,IN: Star Sports 4 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/307.ts
+#EXTINF:-1,US: C SPAIN 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16688.ts
+
+#EXTINF:-1,US: C SPAIN 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16689.ts
+
+#EXTINF:-1,US: C SPAIN 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16690.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20254.ts
+
+#EXTINF:-1,US: TSN SPORT 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20255.ts
+
+#EXTINF:-1,US: TSN SPORT 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20256.ts
+
+#EXTINF:-1,US: TSN SPORT 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20600.ts
+
+#EXTINF:-1,US: TSN SPORT 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20599.ts
+
+#EXTINF:-1,US: FOX 25 BOSTON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
+
+#EXTINF:-1,US: SCC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
+
+#EXTINF:-1,US: CBS 47 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
+
+#EXTINF:-1,US: LTV EDU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
+
+#EXTINF:-1,US: CBN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
+
+#EXTINF:-1,US: Bloomington TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
+
+#EXTINF:-1,US: CBN NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
+
+#EXTINF:-1,US: CBSN News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
+
+#EXTINF:-1,US: CMC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
+
+#EXTINF:-1,US: PAC-12 Bay Area
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9472.ts
+
+#EXTINF:-1,US: PAC-12 Mountain
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9473.ts
+
+#EXTINF:-1,US:  PAC-12 Los Angeles
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9471.ts
+
+#EXTINF:-1,US: PAC-12 Oregon
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9474.ts
+
+#EXTINF:-1,US: PAC-12 Washington
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9475.ts
+
+#EXTINF:-1,US: FOX 23 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
+
+#EXTINF:-1,US: HOPE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
+
+#EXTINF:-1,US: INFOWARS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
+
+#EXTINF:-1,US: DAYSTAR TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
+
+#EXTINF:-1,US: CALIFORNIA MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
+
+#EXTINF:-1,US: DAYTONA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
+
+#EXTINF:-1,US: DCN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
+
+#EXTINF:-1,US: DKN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
+
+#EXTINF:-1,US: WHPR TV 33 Detroit
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
+
+#EXTINF:-1,US: NFL NETWORK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
+
+#EXTINF:-1,US: SBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
+
+#EXTINF:-1,US: NBC 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
+
+#EXTINF:-1,US: RT NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
+
+#EXTINF:-1,US: SG TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
+
+#EXTINF:-1,US: Southeastern Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
+
+#EXTINF:-1,US: KIRO-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
+
+#EXTINF:-1,US: TUFF  TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
+
+#EXTINF:-1,US: TVV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
+
+#EXTINF:-1,US: Denver 8 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
+
+#EXTINF:-1,US: GC Church TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
+
+#EXTINF:-1,US: WGN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
+
+#EXTINF:-1,US: PIX 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
+
+#EXTINF:-1,US: The Florida Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
+
+#EXTINF:-1,US: NEWSMAX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
+
+#EXTINF:-1,US: AMGA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
+
+#EXTINF:-1,US:  RADIO MONTE CARLO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
+
+#EXTINF:-1,US:  Zarin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
+
+#EXTINF:-1,US:  RETRO MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
+
+#EXTINF:-1,US:  AKC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
+
+#EXTINF:-1,US: GOD TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
+
+#EXTINF:-1,US:  Virgin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
+
+#EXTINF:-1,US: CTN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
+
+#EXTINF:-1,US: BLOOMBERG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
+
+#EXTINF:-1,US: NLF
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
+
+#EXTINF:-1,US: MSNBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
+
+#EXTINF:-1,US: Ditty TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
+
+#EXTINF:-1,US: WGN NEWS CHICAGO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
+
+#EXTINF:-1,US: ABC   east
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
+
+#EXTINF:-1,US: IMPAC FRESLING
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
+
+#EXTINF:-1,US: KEY TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
+
+#EXTINF:-1,US: ARTS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
+
+#EXTINF:-1,US: HOUSE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
+
+#EXTINF:-1,US: Catholic TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
+
+#EXTINF:-1,US: San Francisco Gov TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
+
+#EXTINF:-1,US: Cascade Hills Church
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
+
+#EXTINF:-1,US: LTV GOV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
+
+#EXTINF:-1,US: ABNSAT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
+
+#EXTINF:-1,US: Columbia Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
+
+#EXTINF:-1,US: LTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
+
+#EXTINF:-1,US: Knowledge Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
+
+#EXTINF:-1,US: NBC 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
+
+#EXTINF:-1,US: IBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
+
+#EXTINF:-1,US: SBN Domestic
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
+
+#EXTINF:-1,US: SBN Global
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
+
+#EXTINF:-1,US: SBN International
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
+
+#EXTINF:-1,US: NWCT 12
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
+
+#EXTINF:-1,US: TCT KIDS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
+
+#EXTINF:-1,US: The Blaze
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
+
+#EXTINF:-1,US: The Country Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
+
+#EXTINF:-1,US: The NOW Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
+
+#EXTINF:-1,US: TBN armenial
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
+
+#EXTINF:-1,US: EWTN espanol
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
+
+#EXTINF:-1,US: JCTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
+
+#EXTINF:-1,US: DHTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
+
+#EXTINF:-1,US: PCTV 26
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
+
+#EXTINF:-1,US: SFGovTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
+
+#EXTINF:-1,US: SBN Internacional TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
+
+#EXTINF:-1,US: ACRE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
+
+#EXTINF:-1,US: CYC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
+
+#EXTINF:-1,US: TVW 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
+
+#EXTINF:-1,US: WWE Network HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
+
+#EXTINF:-1,US: Central Valley Talk
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
+
+#EXTINF:-1,US: WPCH TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
+
+#EXTINF:-1,US: City of Charlotte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
+
+#EXTINF:-1,US: RADUT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
+
+#EXTINF:-1,US: CT-N
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
+
+#EXTINF:-1,US: REVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
+
+#EXTINF:-1,US: Jewelry TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
+
+#EXTINF:-1,US: LA 36
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
+
+#EXTINF:-1,US: LFUCG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
+
+#EXTINF:-1,US: Cable Central TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
+
+#EXTINF:-1,US: Oscar Aguero Ministry
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
+
+#EXTINF:-1,US: RadioU TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
+
+#EXTINF:-1,US: RTN Channel 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
+
+#EXTINF:-1,US: SFGovTV 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
+
+#EXTINF:-1,US: SPRIT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
+
+#EXTINF:-1,US: TCT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
+
+#EXTINF:-1,US: WCCA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
+
+#EXTINF:-1,US: Better Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
+
+#EXTINF:-1,US: WACX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
+
+#EXTINF:-1,US: InfoWars TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
+
+#EXTINF:-1,US: BYU.TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
+
+#EXTINF:-1,US: Free Speech TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
+
+#EXTINF:-1,US: WRXY-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
+
+#EXTINF:-1,US: OWN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
+
+#EXTINF:-1,US: United Nations TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
+
+#EXTINF:-1,US: FOX 5 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
+
+#EXTINF:-1,US: WGGS-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
+
+#EXTINF:-1,US: NFL Now TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
+
+#EXTINF:-1,US: 10 Health TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
+
+#EXTINF:-1,US: NEWS 25
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
+
+#EXTINF:-1,US: CHANNEL 11 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
+
+#EXTINF:-1,US: LifeChurch TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
+
+#EXTINF:-1,US: ABC 7 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
+
+#EXTINF:-1,US: Midpeninsula TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
+
+#EXTINF:-1,US: Collier TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
+
+#EXTINF:-1,US: Red Bull tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
+
+#EXTINF:-1,US: TVW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
+
+#EXTINF:-1,US: Voice of America
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
+
+#EXTINF:-1,US: VTV Channel 6 Colorado
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
+
+#EXTINF:-1,US: WEATHER CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
+
+#EXTINF:-1,US: WGN 9 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
+
+#EXTINF:-1,US: KVLA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
+
+#EXTINF:-1,US: ORANGE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
+
+#EXTINF:-1,US: FOX 25 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
+
+#EXTINF:-1,US: ABC NEWS HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
+
+#EXTINF:-1,US: NewsChannel 21
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
+
+#EXTINF:-1,US: Capital TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
+
+#EXTINF:-1,US: WBRZ-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
+
+#EXTINF:-1,US: SBN Global TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
+
+#EXTINF:-1,US: Most Video TV HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
+
+#EXTINF:-1,US: WVLR-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
+
+#EXTINF:-1,US: Jewish Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
+
+#EXTINF:-1,US: CARTOON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
+
+#EXTINF:-1,US: New Orleans TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
+
+#EXTINF:-1,USA: ABC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4192.ts
+
+#EXTINF:-1,USA: ABC NEWS HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4191.ts
+
+#EXTINF:-1,USA: AMC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4188.ts
+
+#EXTINF:-1,USA: Bein Sports USA HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4187.ts
+
+#EXTINF:-1,USA: CBS Sports Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4185.ts
+
+#EXTINF:-1,USA: CBSN HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4184.ts
+
+#EXTINF:-1,USA: CNBC
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4183.ts
+
+#EXTINF:-1,USA: Comedy Central
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4182.ts
+
+#EXTINF:-1,USA: DISCCOVERY HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4181.ts
+
+#EXTINF:-1,USA: Discovery Science HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4180.ts
+
+#EXTINF:-1,USA: ESPN
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4178.ts
+
+#EXTINF:-1,USA: ESPN 2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4177.ts
+
+#EXTINF:-1,USA: ESPN News US HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4176.ts
+
+#EXTINF:-1,USA: ESPN U HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4175.ts
+
+#EXTINF:-1,USA: Fight HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4174.ts
+
+#EXTINF:-1,USA: FIGHT SPORT
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4173.ts
+
+#EXTINF:-1,USA: Food Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4172.ts
+
+#EXTINF:-1,USA: Food Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4171.ts
+
+#EXTINF:-1,USA: Fox HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4170.ts
+
+#EXTINF:-1,USA: FOX News HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4169.ts
+
+#EXTINF:-1,USA: Fox Sports 1
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4168.ts
+
+#EXTINF:-1,USA: Fox Sports 2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4167.ts
+
+#EXTINF:-1,USA: FOXX HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4165.ts
+
+#EXTINF:-1,USA: FX HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4164.ts
+
+#EXTINF:-1,USA: H2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4163.ts
+
+#EXTINF:-1,USA: HBO Comedy
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4162.ts
+
+#EXTINF:-1,USA: HBO East
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4161.ts
+
+#EXTINF:-1,USA: HBO HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4160.ts
+
+#EXTINF:-1,USA: HBO Signature
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4159.ts
+
+#EXTINF:-1,USA: HBO Zone
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4158.ts
+
+#EXTINF:-1,USA: MBL HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4157.ts
+
+#EXTINF:-1,USA: MLB Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4156.ts
+
+#EXTINF:-1,USA: MSNBC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4155.ts
+
+#EXTINF:-1,USA: National Geographic
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4154.ts
+
+#EXTINF:-1,USA: NBA TV HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4153.ts
+
+#EXTINF:-1,USA: NBC
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4152.ts
+
+#EXTINF:-1,USA: NBCSN HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
+
+#EXTINF:-1,USA: NFL Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4148.ts
+
+#EXTINF:-1,USA: NHL Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4147.ts
+
+#EXTINF:-1,USA: NICKELODEON HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4146.ts
+
+#EXTINF:-1,USA: PAC-12 Oregon
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4141.ts
+
+#EXTINF:-1,USA: Red Bull
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4139.ts
+
+#EXTINF:-1,USA: SEC Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4138.ts
+
+#EXTINF:-1,USA: SPIKE HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4136.ts
+
+#EXTINF:-1,USA: Sports-Net
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4135.ts
+
+#EXTINF:-1,USA: TBS HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4134.ts
+
+#EXTINF:-1,USA: Tennis Channel HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4133.ts
+
+#EXTINF:-1,USA: TLC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4132.ts
+
+#EXTINF:-1,USA: Toon Kids
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4131.ts
+
+#EXTINF:-1,USA: UFC Fight pass
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4130.ts
+
+#EXTINF:-1,USA: USA Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4129.ts
+
+#EXTINF:-1,USA: WWE HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4127.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/kris/kris/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+
+#EXTINF:-1,UK@ Premier Sports HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.ts
+
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chief/chief/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://izgemma.ddns.net:8000/live/chief/chief/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chief/chief/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chief/chief/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chief/chief/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37299.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chief/chief/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chief/chief/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/29507.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chief/chief/10763.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chief/chief/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chief/chief/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
+http://izgemma.ddns.net:8000/live/chief/chief/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chief/chief/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chief/chief/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://izgemma.ddns.net:8000/live/chief/chief/10760.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chief/chief/36505.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chief/chief/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chief/chief/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chief/chief/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chief/chief/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chief/chief/36499.ts
+
+#EXTINF:-1,UK@ LFC TV
+http://izgemma.ddns.net:8000/live/chief/chief/33271.ts
+
+#EXTINF:-1,UK@ MUTV HD
+http://izgemma.ddns.net:8000/live/chief/chief/26034.ts
+
+#EXTINF:-1,UK@ MUTV (Backup)
+http://izgemma.ddns.net:8000/live/chief/chief/29480.ts
+
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1451.ts
+
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/live/mpolo/mpolo/1452.ts
+
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/live/mpolo/mpolo/1453.ts
+
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/live/mpolo/mpolo/1454.ts
+
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/live/mpolo/mpolo/1455.ts
+
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1476.ts
+
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1431.ts
+
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8080/live/mpolo/mpolo/1436.ts
+
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8080/live/mpolo/mpolo/1472.ts
+
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8080/live/mpolo/mpolo/1473.ts
+
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8080/live/mpolo/mpolo/1475.ts
+
+#EXTINF:-1,US: Euro Sports 1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1437.ts
+
+#EXTINF:-1,US: Euro Sports 5
+http://ipsatpro.com:8080/live/mpolo/mpolo/1435.ts
+
+#EXTINF:-1,US: Euro Sports 6
+http://ipsatpro.com:8080/live/mpolo/mpolo/1439.ts
+
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1516.ts
+
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.com:8080/live/mpolo/mpolo/1502.ts
+
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.com:8080/live/mpolo/mpolo/1483.ts
+
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.com:8080/live/mpolo/mpolo/1430.ts
+
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1497.ts
+
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1508.ts
+
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1526.ts
+
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.com:8080/live/mpolo/mpolo/1503.ts
+
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1525.ts
+
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.com:8080/live/mpolo/mpolo/1459.ts
+
+#EXTINF:-1,US: Sport LTVE HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1496.ts
+
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.com:8080/live/mpolo/mpolo/1486.ts
+
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1434.ts
+
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1429.ts
+
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.com:8080/live/mpolo/mpolo/1533.ts
+
+#EXTINF:-1,US: Willow Cricket
+http://ipsatpro.com:8080/live/mpolo/mpolo/1492.ts
+
+#EXTINF:-1,US: AFN Pulse
+http://ipsatpro.com:8080/live/mpolo/mpolo/1468.ts
+
+#EXTINF:-1,US: AFN Spectrum
+http://ipsatpro.com:8080/live/mpolo/mpolo/1469.ts
+
+#EXTINF:-1,US: AFN Sports
+http://ipsatpro.com:8080/live/mpolo/mpolo/1470.ts
+
+#EXTINF:-1,US: AFN Sports 2
+http://ipsatpro.com:8080/live/mpolo/mpolo/1446.ts
+
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1479.ts
+
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1509.ts
+
+#EXTINF:-1,US: Free From
+http://ipsatpro.com:8080/live/mpolo/mpolo/1448.ts
+
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1441.ts
+
+#EXTINF:-1,US: FX HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1478.ts
+
+#EXTINF:-1,US: FXX
+http://ipsatpro.com:8080/live/mpolo/mpolo/1490.ts
+
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1433.ts
+
+#EXTINF:-1,US: HBO East
+http://ipsatpro.com:8080/live/mpolo/mpolo/1518.ts
+
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.com:8080/live/mpolo/mpolo/1536.ts
+
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.com:8080/live/mpolo/mpolo/1517.ts
+
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.com:8080/live/mpolo/mpolo/1438.ts
+
+#EXTINF:-1,US: Starz East
+http://ipsatpro.com:8080/live/mpolo/mpolo/1450.ts
+
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.com:8080/live/mpolo/mpolo/1537.ts
+
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.com:8080/live/mpolo/mpolo/1524.ts
+
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.com:8080/live/mpolo/mpolo/1527.ts
+
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.com:8080/live/mpolo/mpolo/1480.ts
+
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.com:8080/live/mpolo/mpolo/1539.ts
+
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.com:8080/live/mpolo/mpolo/1461.ts
+
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.com:8080/live/mpolo/mpolo/1512.ts
+
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.com:8080/live/mpolo/mpolo/1528.ts
+
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.com:8080/live/mpolo/mpolo/1540.ts
+
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.com:8080/live/mpolo/mpolo/1457.ts
+
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.com:8080/live/mpolo/mpolo/1458.ts
+
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1532.ts
+
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.com:8080/live/mpolo/mpolo/1471.ts
+
+#EXTINF:-1,US: Discovery World
+http://ipsatpro.com:8080/live/mpolo/mpolo/1499.ts
+
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1534.ts
+
+#EXTINF:-1,US: USA
+http://ipsatpro.com:8080/live/mpolo/mpolo/1519.ts
+
+#EXTINF:-1,US: CBS
+http://ipsatpro.com:8080/live/mpolo/mpolo/1510.ts
+
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.com:8080/live/mpolo/mpolo/1464.ts
+
+#EXTINF:-1,US: History
+http://ipsatpro.com:8080/live/mpolo/mpolo/1523.ts
+
+#EXTINF:-1,US: NatGeo Wild
+http://ipsatpro.com:8080/live/mpolo/mpolo/1484.ts
+
+#EXTINF:-1,US: Animal Planet+1
+http://ipsatpro.com:8080/live/mpolo/mpolo/1467.ts
+
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1529.ts
+
+#EXTINF:-1,US: Crime and Investigation
+http://ipsatpro.com:8080/live/mpolo/mpolo/1511.ts
+
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1487.ts
+
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1488.ts
+
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1489.ts
+
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1495.ts
+
+#EXTINF:-1,US: SEC Network
+http://ipsatpro.com:8080/live/mpolo/mpolo/1463.ts
+
+#EXTINF:-1,US: LIFE TIME
+http://ipsatpro.com:8080/live/mpolo/mpolo/1432.ts
+
+#EXTINF:-1,US: USA Network
+http://ipsatpro.com:8080/live/mpolo/mpolo/1498.ts
+
+#EXTINF:-1,US: More Max HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1460.ts
+
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1506.ts
+
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.com:8080/live/mpolo/mpolo/1541.ts
+
+#EXTINF:-1,US: CBC Vancover
+http://ipsatpro.com:8080/live/mpolo/mpolo/1494.ts
+
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1507.ts
+
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1500.ts
+
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1442.ts
+
+#EXTINF:-1,US: truTV
+http://ipsatpro.com:8080/live/mpolo/mpolo/1477.ts
+
+#EXTINF:-1,US: E TV
+http://ipsatpro.com:8080/live/mpolo/mpolo/1531.ts
+
+#EXTINF:-1,US: TV ONE HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1481.ts
+
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1485.ts
+
+#EXTINF:-1,US: CHCH
+http://ipsatpro.com:8080/live/mpolo/mpolo/1482.ts
+
+#EXTINF:-1,US: RDS2
+http://ipsatpro.com:8080/live/mpolo/mpolo/1505.ts
+
+#EXTINF:-1,US: CBSN HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1462.ts
+
+#EXTINF:-1,US: ABC 7
+http://ipsatpro.com:8080/live/mpolo/mpolo/1491.ts
+
+#EXTINF:-1,US: NBA TV
+http://ipsatpro.com:8080/live/mpolo/mpolo/1520.ts
+
+#EXTINF:-1,US: OWN
+http://ipsatpro.com:8080/live/mpolo/mpolo/1493.ts
+
+#EXTINF:-1,US: News Channel 21
+http://ipsatpro.com:8080/live/mpolo/mpolo/1456.ts
+
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1466.ts
+
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.com:8080/live/mpolo/mpolo/1514.ts
+
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.com:8080/live/mpolo/mpolo/1443.ts
+
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1515.ts
+
+#EXTINF:-1,US: Fox Deportes HD
+http://ipsatpro.com:8080/live/mpolo/mpolo/1513.ts
+
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.com:8080/live/mpolo/mpolo/1501.ts
+
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.com:8080/live/mpolo/mpolo/1447.ts
+
+#EXTINF:-1,US: Beto TV
+http://ipsatpro.com:8080/live/mpolo/mpolo/1530.ts
+
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.com:8080/live/mpolo/mpolo/1535.ts
+
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.com:8080/live/mpolo/mpolo/1465.ts
+
+#EXTINF:-1,US: TSC
+http://ipsatpro.com:8080/live/mpolo/mpolo/1449.ts
+
+#EXTINF:-1,US: ABC
+http://ipsatpro.com:8080/live/mpolo/mpolo/1504.ts
+
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1451.ts
+
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1452.ts
+
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.biz:8080/live/noemie/noemie1/1453.ts
+
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.biz:8080/live/noemie/noemie1/1454.ts
+
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.biz:8080/live/noemie/noemie1/1455.ts
+
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1476.ts
+
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1431.ts
+
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1436.ts
+
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.biz:8080/live/noemie/noemie1/1472.ts
+
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.biz:8080/live/noemie/noemie1/1473.ts
+
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.biz:8080/live/noemie/noemie1/1475.ts
+
+#EXTINF:-1,US: Euro Sports 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1437.ts
+
+#EXTINF:-1,US: Euro Sports 5
+http://ipsatpro.biz:8080/live/noemie/noemie1/1435.ts
+
+#EXTINF:-1,US: Euro Sports 6
+http://ipsatpro.biz:8080/live/noemie/noemie1/1439.ts
+
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1516.ts
+
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1502.ts
+
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.biz:8080/live/noemie/noemie1/1483.ts
+
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.biz:8080/live/noemie/noemie1/1430.ts
+
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1497.ts
+
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1508.ts
+
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1526.ts
+
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.biz:8080/live/noemie/noemie1/1503.ts
+
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1525.ts
+
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1459.ts
+
+#EXTINF:-1,US: Sport LTVE HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1496.ts
+
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1486.ts
+
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1434.ts
+
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1429.ts
+
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.biz:8080/live/noemie/noemie1/1533.ts
+
+#EXTINF:-1,US: Willow Cricket
+http://ipsatpro.biz:8080/live/noemie/noemie1/1492.ts
+
+#EXTINF:-1,US: AFN Pulse
+http://ipsatpro.biz:8080/live/noemie/noemie1/1468.ts
+
+#EXTINF:-1,US: AFN Spectrum
+http://ipsatpro.biz:8080/live/noemie/noemie1/1469.ts
+
+#EXTINF:-1,US: AFN Sports
+http://ipsatpro.biz:8080/live/noemie/noemie1/1470.ts
+
+#EXTINF:-1,US: AFN Sports 2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1446.ts
+
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1479.ts
+
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1509.ts
+
+#EXTINF:-1,US: Free From
+http://ipsatpro.biz:8080/live/noemie/noemie1/1448.ts
+
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1441.ts
+
+#EXTINF:-1,US: FX HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1478.ts
+
+#EXTINF:-1,US: FXX
+http://ipsatpro.biz:8080/live/noemie/noemie1/1490.ts
+
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1433.ts
+
+#EXTINF:-1,US: HBO East
+http://ipsatpro.biz:8080/live/noemie/noemie1/1518.ts
+
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.biz:8080/live/noemie/noemie1/1536.ts
+
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.biz:8080/live/noemie/noemie1/1517.ts
+
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.biz:8080/live/noemie/noemie1/1438.ts
+
+#EXTINF:-1,US: Starz East
+http://ipsatpro.biz:8080/live/noemie/noemie1/1450.ts
+
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.biz:8080/live/noemie/noemie1/1538.ts
+
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.biz:8080/live/noemie/noemie1/1537.ts
+
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1524.ts
+
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1527.ts
+
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1480.ts
+
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.biz:8080/live/noemie/noemie1/1539.ts
+
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.biz:8080/live/noemie/noemie1/1461.ts
+
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.biz:8080/live/noemie/noemie1/1512.ts
+
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.biz:8080/live/noemie/noemie1/1528.ts
+
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.biz:8080/live/noemie/noemie1/1540.ts
+
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1457.ts
+
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1458.ts
+
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1532.ts
+
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.biz:8080/live/noemie/noemie1/1471.ts
+
+#EXTINF:-1,US: Discovery World
+http://ipsatpro.biz:8080/live/noemie/noemie1/1499.ts
+
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1534.ts
+
+#EXTINF:-1,US: USA
+http://ipsatpro.biz:8080/live/noemie/noemie1/1519.ts
+
+#EXTINF:-1,US: CBS
+http://ipsatpro.biz:8080/live/noemie/noemie1/1510.ts
+
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.biz:8080/live/noemie/noemie1/1464.ts
+
+#EXTINF:-1,US: History
+http://ipsatpro.biz:8080/live/noemie/noemie1/1523.ts
+
+#EXTINF:-1,US: NatGeo Wild
+http://ipsatpro.biz:8080/live/noemie/noemie1/1484.ts
+
+#EXTINF:-1,US: Animal Planet+1
+http://ipsatpro.biz:8080/live/noemie/noemie1/1467.ts
+
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1529.ts
+
+#EXTINF:-1,US: Crime and Investigation
+http://ipsatpro.biz:8080/live/noemie/noemie1/1511.ts
+
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1487.ts
+
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1488.ts
+
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1489.ts
+
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1495.ts
+
+#EXTINF:-1,US: SEC Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1463.ts
+
+#EXTINF:-1,US: LIFE TIME
+http://ipsatpro.biz:8080/live/noemie/noemie1/1432.ts
+
+#EXTINF:-1,US: USA Network
+http://ipsatpro.biz:8080/live/noemie/noemie1/1498.ts
+
+#EXTINF:-1,US: More Max HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1460.ts
+
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1506.ts
+
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.biz:8080/live/noemie/noemie1/1541.ts
+
+#EXTINF:-1,US: CBC Vancover
+http://ipsatpro.biz:8080/live/noemie/noemie1/1494.ts
+
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1507.ts
+
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1500.ts
+
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1442.ts
+
+#EXTINF:-1,US: truTV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1477.ts
+
+#EXTINF:-1,US: E TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1531.ts
+
+#EXTINF:-1,US: TV ONE HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1481.ts
+
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1485.ts
+
+#EXTINF:-1,US: CHCH
+http://ipsatpro.biz:8080/live/noemie/noemie1/1482.ts
+
+#EXTINF:-1,US: RDS2
+http://ipsatpro.biz:8080/live/noemie/noemie1/1505.ts
+
+#EXTINF:-1,US: CBSN HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1462.ts
+
+#EXTINF:-1,US: ABC 7
+http://ipsatpro.biz:8080/live/noemie/noemie1/1491.ts
+
+#EXTINF:-1,US: NBA TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1520.ts
+
+#EXTINF:-1,US: OWN
+http://ipsatpro.biz:8080/live/noemie/noemie1/1493.ts
+
+#EXTINF:-1,US: News Channel 21
+http://ipsatpro.biz:8080/live/noemie/noemie1/1456.ts
+
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1466.ts
+
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.biz:8080/live/noemie/noemie1/1514.ts
+
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.biz:8080/live/noemie/noemie1/1443.ts
+
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1515.ts
+
+#EXTINF:-1,US: Fox Deportes HD
+http://ipsatpro.biz:8080/live/noemie/noemie1/1513.ts
+
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.biz:8080/live/noemie/noemie1/1501.ts
+
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.biz:8080/live/noemie/noemie1/1447.ts
+
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.biz:8080/live/noemie/noemie1/1535.ts
+
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.biz:8080/live/noemie/noemie1/1465.ts
+
+#EXTINF:-1,US: TSC
+http://ipsatpro.biz:8080/live/noemie/noemie1/1449.ts
+
+#EXTINF:-1,US: ABC
+http://ipsatpro.biz:8080/live/noemie/noemie1/1504.ts
+
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1451.ts
+
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1452.ts
+
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1453.ts
+
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1454.ts
+
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1455.ts
+
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1476.ts
+
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1431.ts
+
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1436.ts
+
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1472.ts
+
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1473.ts
+
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1475.ts
+
+#EXTINF:-1,US: Euro Sports 1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1437.ts
+
+#EXTINF:-1,US: Euro Sports 5
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1435.ts
+
+#EXTINF:-1,US: Euro Sports 6
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1439.ts
+
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1516.ts
+
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1502.ts
+
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1483.ts
+
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1430.ts
+
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1497.ts
+
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1508.ts
+
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1526.ts
+
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1503.ts
+
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1525.ts
+
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1459.ts
+
+#EXTINF:-1,US: Sport LTVE HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1496.ts
+
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1486.ts
+
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1434.ts
+
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1429.ts
+
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1533.ts
+
+#EXTINF:-1,US: Willow Cricket
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1492.ts
+
+#EXTINF:-1,US: AFN Pulse
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1468.ts
+
+#EXTINF:-1,US: AFN Spectrum
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1469.ts
+
+#EXTINF:-1,US: AFN Sports
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1470.ts
+
+#EXTINF:-1,US: AFN Sports 2
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1446.ts
+
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1479.ts
+
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1509.ts
+
+#EXTINF:-1,US: Free From
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1448.ts
+
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1441.ts
+
+#EXTINF:-1,US: FX HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1478.ts
+
+#EXTINF:-1,US: FXX
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1490.ts
+
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1433.ts
+
+#EXTINF:-1,US: HBO East
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1518.ts
+
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1536.ts
+
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1517.ts
+
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1438.ts
+
+#EXTINF:-1,US: Starz East
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1450.ts
+
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1538.ts
+
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1537.ts
+
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1524.ts
+
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1527.ts
+
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1480.ts
+
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1539.ts
+
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1461.ts
+
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1512.ts
+
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1528.ts
+
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1540.ts
+
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1457.ts
+
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1458.ts
+
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1532.ts
+
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1471.ts
+
+#EXTINF:-1,US: Discovery World
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1499.ts
+
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1534.ts
+
+#EXTINF:-1,US: USA
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1519.ts
+
+#EXTINF:-1,US: CBS
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1510.ts
+
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1464.ts
+
+#EXTINF:-1,US: History
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1523.ts
+
+#EXTINF:-1,US: NatGeo Wild
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1484.ts
+
+#EXTINF:-1,US: Animal Planet+1
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1467.ts
+
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1529.ts
+
+#EXTINF:-1,US: Crime and Investigation
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1511.ts
+
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1487.ts
+
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1488.ts
+
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1489.ts
+
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1495.ts
+
+#EXTINF:-1,US: SEC Network
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1463.ts
+
+#EXTINF:-1,US: LIFE TIME
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1432.ts
+
+#EXTINF:-1,US: USA Network
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1498.ts
+
+#EXTINF:-1,US: More Max HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1460.ts
+
+#EXTINF:-1,US: TBS HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1506.ts
+
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1541.ts
+
+#EXTINF:-1,US: CBC Vancover
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1494.ts
+
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1507.ts
+
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1500.ts
+
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1442.ts
+
+#EXTINF:-1,US: truTV
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1477.ts
+
+#EXTINF:-1,US: E TV
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1531.ts
+
+#EXTINF:-1,US: TV ONE HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1481.ts
+
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1485.ts
+
+#EXTINF:-1,US: CHCH
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1482.ts
+
+#EXTINF:-1,US: RDS2
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1505.ts
+
+#EXTINF:-1,US: CBSN HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1462.ts
+
+#EXTINF:-1,US: ABC 7
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1491.ts
+
+#EXTINF:-1,US: NBA TV
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1520.ts
+
+#EXTINF:-1,US: OWN
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1493.ts
+
+#EXTINF:-1,US: News Channel 21
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1456.ts
+
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1466.ts
+
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1514.ts
+
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1443.ts
+
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1515.ts
+
+#EXTINF:-1,US: Fox Deportes HD
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1513.ts
+
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1501.ts
+
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1447.ts
+
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1535.ts
+
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1465.ts
+
+#EXTINF:-1,US: TSC
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1449.ts
+
+#EXTINF:-1,US: ABC
+http://ipsatpro.biz:8080/live/mpolo/mpolo/1504.ts
+#EXTINF:-1,VIP BEINSPORTS-NEWS
+http://sw.fannan.se:8000/live/zizo18040/54544452/6836.ts
+
+#EXTINF:-1,Bein sport 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6811.ts
+
+#EXTINF:-1,Bein sport 2 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6810.ts
+
+#EXTINF:-1,Bein sport 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6809.ts
+
+#EXTINF:-1,Bein sport 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6808.ts
+
+#EXTINF:-1,Bein sport 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6807.ts
+
+#EXTINF:-1,Bein sport 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6806.ts
+
+#EXTINF:-1,Bein sport 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6805.ts
+
+#EXTINF:-1,Bein sport 8 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6804.ts
+
+#EXTINF:-1,Bein sport 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6803.ts
+
+#EXTINF:-1,Bein sport 10 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6802.ts
+
+#EXTINF:-1,Bein sport 11 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6801.ts
+
+#EXTINF:-1,Bein sport 12 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6800.ts
+
+#EXTINF:-1,SFR SPORT 1HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6796.ts
+
+#EXTINF:-1,SFR SPORT 2HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6795.ts
+
+#EXTINF:-1,SFR SPORT 3HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6794.ts
+
+#EXTINF:-1,Bein Sport 1HD FR
+http://sw.fannan.se:8000/live/zizo18040/54544452/6799.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6793.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6792.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6791.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6790.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6788.ts
+
+#EXTINF:-1,AR Abu-Dhabi_Sports_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6770.ts
+
+#EXTINF:-1,AR Abu-Dhabi_Sports_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6769.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6765.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6764.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_3_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6763.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_4_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6762.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_5_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6761.ts
+
+#EXTINF:-1,AR: MBC_PRO_SPORT_1
+http://sw.fannan.se:8000/live/zizo18040/54544452/6760.ts
+
+#EXTINF:-1,AR:MBC_PRO_SPORT_2
+http://sw.fannan.se:8000/live/zizo18040/54544452/6759.ts
+
+#EXTINF:-1,AR:MBC_PRO_SPORT_3
+http://sw.fannan.se:8000/live/zizo18040/54544452/6758.ts
+
+#EXTINF:-1,AR AD-SPORT1
+http://sw.fannan.se:8000/live/zizo18040/54544452/6772.ts
+
+#EXTINF:-1,AR AD-Sport2
+http://sw.fannan.se:8000/live/zizo18040/54544452/6771.ts
+
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8089.ts
+
+#EXTINF:-1,IT: SKY SPORT 2
+http://sw.fannan.se:8000/live/zizo18040/54544452/8088.ts
+
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8087.ts
+
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8086.ts
+
+#EXTINF:-1,DE:SKY_SPORT_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8059.ts
+
+#EXTINF:-1,DE:SKY_SPORT_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8060.ts
+
+#EXTINF:-1,DE:SKY_SPORT_NEWS_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8062.ts
+
+#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/7892.ts
+
+#EXTINF:-1,NL: Fox sports 2
+http://sw.fannan.se:8000/live/zizo18040/54544452/7891.ts
+
+#EXTINF:-1,NL: Fox sports 3
+http://sw.fannan.se:8000/live/zizo18040/54544452/7890.ts
+
+#EXTINF:-1,NL: Fox sports 4
+http://sw.fannan.se:8000/live/zizo18040/54544452/7889.ts
+
+#EXTINF:-1,NL: Fox Sports 6
+http://sw.fannan.se:8000/live/zizo18040/54544452/7903.ts
+
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://sw.fannan.se:8000/live/zizo18040/54544452/7887.ts
+
+#EXTINF:-1,beIN SPORTS HABER HD
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1322.ts
+
+#EXTINF:-1,S SPORT
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1041.ts
+
+#EXTINF:-1,SMART SPOR 1
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1014.ts
+
+#EXTINF:-1,SMART SPOR 2
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1018.ts
+
+#EXTINF:-1,TIVIBU SPOR 1
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1019.ts
+
+#EXTINF:-1,TIVIBU SPOR 2
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1020.ts
+
+#EXTINF:-1,TIVIBU SPOR 3
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1021.ts
+
+#EXTINF:-1,TIVIBU SPOR 4
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1022.ts
+
+#EXTINF:-1,Sport Plus (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1003.ts
+
+#EXTINF:-1,Diema Sport 1 (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/864.ts
+
+#EXTINF:-1,Diema Sport 2 (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/865.ts
+
+#EXTINF:-1,C More Golf (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/597.ts
+
+#EXTINF:-1,C More Fotboll (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/728.ts
+
+#EXTINF:-1,C More Live 1 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/614.ts
+
+#EXTINF:-1,C More Live 2 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/41.ts
+
+#EXTINF:-1,C More Live 3 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/42.ts
+
+#EXTINF:-1,C More Live 4 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/43.ts
+
+#EXTINF:-1,Eurosport 2 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/811.ts
+
+#EXTINF:-1,Eurosport 1 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/651.ts
+
+#EXTINF:-1,Viasat Motor (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/412.ts
+
+#EXTINF:-1,Viasat Golf (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/680.ts
+
+#EXTINF:-1,Viasat Fight Sports (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/888.ts
+
+#EXTINF:-1,Sportkanalen (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/615.ts
+
+#EXTINF:-1,TV3 Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/911.ts
+
+#EXTINF:-1,C More Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/626.ts
+
+#EXTINF:-1,C More Hockey (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/909.ts
+
+#EXTINF:-1,Viasat Hockey (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/630.ts
+
+#EXTINF:-1,Viasat Fotboll (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/411.ts
+
+#EXTINF:-1,Viasat Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/410.ts
+
+#EXTINF:-1,Viasat Sport Premium (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/866.ts
+
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://5.189.187.55:8000/live/Fadil/skype/2737.ts
+
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://5.189.187.55:8000/live/Fadil/skype/2366.ts
+
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/1728.ts
+
+#EXTINF:-1,NL: Fox Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/1727.ts
+
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/1726.ts
+
+#EXTINF:-1,NL: Fox Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/1725.ts
+
+#EXTINF:-1,NL: Fox Sports 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1724.ts
+
+#EXTINF:-1,FR: L'EQUIPE
+http://5.189.187.55:8000/live/Fadil/skype/1995.ts
+
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://5.189.187.55:8000/live/Fadil/skype/1893.ts
+
+#EXTINF:-1,FR: Infosport+
+http://5.189.187.55:8000/live/Fadil/skype/1137.ts
+
+#EXTINF:-1,FR: Foot+ 24/24
+http://5.189.187.55:8000/live/Fadil/skype/884.ts
+
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/752.ts
+
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/836.ts
+
+#EXTINF:-1,FR: EURONEWS
+http://5.189.187.55:8000/live/Fadil/skype/965.ts
+
+#EXTINF:-1,FR: EQUIDIA
+http://5.189.187.55:8000/live/Fadil/skype/835.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://5.189.187.55:8000/live/Fadil/skype/2128.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://5.189.187.55:8000/live/Fadil/skype/2127.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://5.189.187.55:8000/live/Fadil/skype/2129.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://5.189.187.55:8000/live/Fadil/skype/2126.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://5.189.187.55:8000/live/Fadil/skype/2125.ts
+
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/988.ts
+
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://5.189.187.55:8000/live/Fadil/skype/701.ts
+
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/702.ts
+
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
+http://5.189.187.55:8000/live/Fadil/skype/2376.ts
+
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
+http://5.189.187.55:8000/live/Fadil/skype/2375.ts
+
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/674.ts
+
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/673.ts
+
+#EXTINF:-1,EX YU: Arena Sport 3 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/1092.ts
+
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/1091.ts
+
+#EXTINF:-1,EX YU: Arena Sport 2 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/672.ts
+
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/671.ts
+
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://5.189.187.55:8000/live/Fadil/skype/769.ts
+
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://5.189.187.55:8000/live/Fadil/skype/770.ts
+
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://5.189.187.55:8000/live/Fadil/skype/771.ts
+
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/772.ts
+
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/773.ts
+
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/774.ts
+
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/775.ts
+
+#EXTINF:-1,AR: Bein Sports 12 HD
+http://5.189.187.55:8000/live/Fadil/skype/776.ts
+
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://5.189.187.55:8000/live/Fadil/skype/777.ts
+
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://5.189.187.55:8000/live/Fadil/skype/778.ts
+
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/779.ts
+
+#EXTINF:-1,AL: Supersport Kosova 2
+http://5.189.187.55:8000/live/Fadil/skype/1542.ts
+
+#EXTINF:-1,AL: Supersport Kosova 1
+http://5.189.187.55:8000/live/Fadil/skype/1541.ts
+
+#EXTINF:-1,AL: Supersonic
+http://5.189.187.55:8000/live/Fadil/skype/978.ts
+
+#EXTINF:-1,AL: Super Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/284.ts
+
+#EXTINF:-1,AL: Super Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/283.ts
+
+#EXTINF:-1,AL: Super sport 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/205.ts
+
+#EXTINF:-1,AL: super sport 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/208.ts
+
+#EXTINF:-1,AL: Sport News HD
+http://5.189.187.55:8000/live/Fadil/skype/1919.ts
+
+#EXTINF:-1,RO: DigiSport 3
+http://5.189.187.55:8000/live/Fadil/skype/2802.ts
+
+#EXTINF:-1,RO: Digisport 2
+http://5.189.187.55:8000/live/Fadil/skype/2801.ts
+
+#EXTINF:-1,RO: DigiSport 1
+http://5.189.187.55:8000/live/Fadil/skype/2800.ts
+
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2207.ts
+
+#EXTINF:-1,IT: Premium Joi
+http://5.189.187.55:8000/live/Fadil/skype/364.ts
+
+#EXTINF:-1,IT: Premium EuroSport 2
+http://5.189.187.55:8000/live/Fadil/skype/2132.ts
+
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2131.ts
+
+#EXTINF:-1,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/Fadil/skype/480.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/Fadil/skype/478.ts
+
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/Fadil/skype/477.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/Fadil/skype/476.ts
+
+#EXTINF:-1,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/Fadil/skype/475.ts
+
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
+
+#EXTINF:-1,UK: BT Sport Europe
+http://5.189.187.55:8000/live/Fadil/skype/464.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/862.ts
+
+#EXTINF:-1,TR: LIGTV 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1993.ts
+
+#EXTINF:-1,TR: LIGTV 1
+http://5.189.187.55:8000/live/Fadil/skype/861.ts
+
+#EXTINF:-1,TR: LIG TV HD
+http://5.189.187.55:8000/live/Fadil/skype/2370.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2328.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2278.ts
+
+#EXTINF:-1,NO: Viasat Fotboll
+http://5.189.187.55:8000/live/Fadil/skype/3146.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chewy/chewy/36505.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+
+#EXTINF:-1,UK@ Boxnation (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37382.ts
+
+#EXTINF:-1,UK@ Premier Sports HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.ts
+
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.ts
+
+#EXTINF:-1,UK@ eir Sports 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37425.ts
+
+#EXTINF:-1,UK@ Motorsports TV
+http://izgemma.ddns.net:8000/live/chewy/chewy/10772.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+
+#EXTINF:-1,AR: ADSport 1HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7825.ts
+
+#EXTINF:-1,AR: ADSport 2HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7826.ts
+
+#EXTINF:-1,RU: SETANTA SPORT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.ts
+
+#EXTINF:-1,RU: SETANTA SPORT +
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.ts
+
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11780.ts
+
+#EXTINF:-1,IT: Rai Sport 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19058.ts
+
+#EXTINF:-1,IT: Sportitalia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11775.ts
+
+#EXTINF:-1,IT: Super Tennis HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11774.ts
+
+#EXTINF:-1,beIN_SPORTS_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4038.ts
+
+#EXTINF:-1,beIN_SPORTS_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4037.ts
+
+#EXTINF:-1,beIN_SPORTS_3 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4036.ts
+
+#EXTINF:-1,EQUIDIA_LIVE
+http://pro.smartgotv.com:8005/live/mondher/mondher/3608.ts
+
+#EXTINF:-1,EUROSPORT_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3605.ts
+
+#EXTINF:-1,EUROSPORT_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3606.ts
+
+#EXTINF:-1,EXTREME_SPORTS
+http://pro.smartgotv.com:8005/live/mondher/mondher/3604.ts
+
+#EXTINF:-1,GOLF+
+http://pro.smartgotv.com:8005/live/mondher/mondher/3596.ts
+
+#EXTINF:-1,GOLF_CHANNEL
+http://pro.smartgotv.com:8005/live/mondher/mondher/3595.ts
+
+#EXTINF:-1,INFOSPORT+
+http://pro.smartgotv.com:8005/live/mondher/mondher/3591.ts
+
+#EXTINF:-1,L'EQUIPE_21
+http://pro.smartgotv.com:8005/live/mondher/mondher/3590.ts
+
+#EXTINF:-1,RMC SPORT 1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3562.ts
+
+#EXTINF:-1,RMC SPORT 2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3561.ts
+
+#EXTINF:-1,RMC SPORT 3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3560.ts
+
+#EXTINF:-1,RMC SPORT 5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3559.ts
+
+#EXTINF:-1,CANAL+_SPORT_HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3634.ts
+
+#EXTINF:-1,FOOT+
+http://pro.smartgotv.com:8005/live/mondher/mondher/1120.ts
+
+#EXTINF:-1,BFM_SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/2225.ts
+
+#EXTINF:-1,L.EQUIPE21_SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/1112.ts
+
+#EXTINF:-1,EQUIDIA_LIVE_SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/1121.ts
+
+#EXTINF:-1,RMC SPORT 1 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6596.ts
+
+#EXTINF:-1,RMC SPORT 2 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6597.ts
+
+#EXTINF:-1,RMC SPORT 3 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6598.ts
+
+#EXTINF:-1,BeIN_SPORTS_1 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/684.ts
+
+#EXTINF:-1,BeIN_SPORTS_2 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/683.ts
+
+#EXTINF:-1,BeIN_SPORTS_3 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/682.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX4
+http://pro.smartgotv.com:8005/live/mondher/mondher/681.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX5
+http://pro.smartgotv.com:8005/live/mondher/mondher/680.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX6
+http://pro.smartgotv.com:8005/live/mondher/mondher/679.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX7
+http://pro.smartgotv.com:8005/live/mondher/mondher/678.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX8
+http://pro.smartgotv.com:8005/live/mondher/mondher/677.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX9
+http://pro.smartgotv.com:8005/live/mondher/mondher/676.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX10
+http://pro.smartgotv.com:8005/live/mondher/mondher/675.ts
+
+#EXTINF:-1,Sky Sport24 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14690.ts
+
+#EXTINF:-1,Sky Sport  Uno Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14693.ts
+
+#EXTINF:-1,Sky Sport Arena  Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14870.ts
+
+#EXTINF:-1,Sky Sport Football Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14869.ts
+
+#EXTINF:-1,Sky Sport NBA Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15285.ts
+
+#EXTINF:-1,Sky Sport Golf Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/16621.ts
+
+#EXTINF:-1,Sky Sport F1 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13713.ts
+
+#EXTINF:-1,Sky Sport MotoGP Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13714.ts
+
+#EXTINF:-1,Bike Channel Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15287.ts
+
+#EXTINF:-1,Rai Sport 1 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/500.ts
+
+#EXTINF:-1,Sky Sport 24HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/28.ts
+
+#EXTINF:-1,Sky Sport Uno HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/25.ts
+
+#EXTINF:-1,Sky Sport Arena  HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26.ts
+
+#EXTINF:-1,Sky Sport Football HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27.ts
+
+#EXTINF:-1,Sky Sport NBA HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/30.ts
+
+#EXTINF:-1,Sky Sport Golf HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/29.ts
+
+#EXTINF:-1,Sky Sport F1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/31.ts
+
+#EXTINF:-1,Sky Sport MotoGP HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/147.ts
+
+#EXTINF:-1,Bike Channel HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/274.ts
+
+#EXTINF:-1,Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/106.ts
+
+#EXTINF:-1,Eurosport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/210.ts
+
+#EXTINF:-1,Supertennis HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/324.ts
+
+#EXTINF:-1,Sportitalia
+http://redhot.tech:80/live/Mat2/SSvfm079En/150.ts
+
+#EXTINF:-1,Q13 AutoMoto TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/8274.ts
+
+#EXTINF:-1,Unire Sat HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13755.ts
+
+#EXTINF:-1,My Sports 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26360.ts
+
+#EXTINF:-1,My Sports 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26361.ts
+
+#EXTINF:-1,My Sports 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27288.ts
+
+#EXTINF:-1,My Sports 4 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27289.ts
+
+#EXTINF:-1,My Sports 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27290.ts
+
+#EXTINF:-1,My Sports 6 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27291.ts
+
+#EXTINF:-1,My Sports 7 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27292.ts
+
+#EXTINF:-1,My Sports 8 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27293.ts
+
+#EXTINF:-1,Sky Sport24 SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/467.ts
+
+#EXTINF:-1,Sky Sport Uno SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/423.ts
+
+#EXTINF:-1,Sky Sport Arena  SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/466.ts
+
+#EXTINF:-1,Sky Sport Football SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/465.ts
+
+#EXTINF:-1,Sky Sport NBA SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/424.ts
+
+#EXTINF:-1,Sky Sport Golf SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/3196.ts
+
+#EXTINF:-1,Sky Sport F1 SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/426.ts
+
+#EXTINF:-1,Sky Sport MotoGP SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/453.ts
+
+#EXTINF:-1,Bike Channel SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15348.ts
+
+#EXTINF:-1,Premium Eurosport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/61.ts
+
+#EXTINF:-1,Premium Eurosport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/60.ts
+
+#EXTINF:-1,((DE)) Sky Sport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36541.ts
+
+#EXTINF:-1,((DE)) Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26933.ts
+
+#EXTINF:-1,((DE)) Eurosport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/26930.ts
+
+#EXTINF:-1,(DE) Eurosport 2 Extra
+http://redhot.tech:80/live/Mat2/SSvfm079En/27069.ts
+
+#EXTINF:-1,(DE) Motorvision TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/26934.ts
+
+#EXTINF:-1,(DE) Sky Sport 1 FHD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26956.ts
+
+#EXTINF:-1,(DE) Sky Sport 2 FHD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26955.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36082.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36081.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36080.ts
+
+#EXTINF:-1,(FR) BFM SPORT
+http://redhot.tech:80/live/Mat2/SSvfm079En/36076.ts
+
+#EXTINF:-1,(FR) INFOSPORT
+http://redhot.tech:80/live/Mat2/SSvfm079En/36077.ts
+
+#EXTINF:-1,(FR) L EQUIPE 21 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36073.ts
+
+#EXTINF:-1,(NL) Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35998.ts
+
+#EXTINF:-1,(NL) Eurosport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35997.ts
+
+#EXTINF:-1,(NL) Extreme Sports
+http://redhot.tech:80/live/Mat2/SSvfm079En/35996.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 1 EREDIVISIE HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35984.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 2 INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35983.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 3 EREDIVISIE
+http://redhot.tech:80/live/Mat2/SSvfm079En/35982.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 4 INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35981.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 5 EREDIVISIE HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35980.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 6 INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35979.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/35910.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/35909.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT GOLF
+http://redhot.tech:80/live/Mat2/SSvfm079En/35908.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT RACING
+http://redhot.tech:80/live/Mat2/SSvfm079En/35907.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT SELECT HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35906.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35905.ts
+
+#EXTINF:-1,[CH] Teleclub Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/435.ts
+
+#EXTINF:-1,[CH] Teleclub Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/434.ts
+
+#EXTINF:-1,(ES) Barca TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35403.ts
+
+#EXTINF:-1,(ES) Bein Sports HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35402.ts
+
+#EXTINF:-1,(ES) Bein Sports La Liga HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35401.ts
+
+#EXTINF:-1,(PT) SPORT TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35304.ts
+
+#EXTINF:-1,(PT) SPORT TV 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35303.ts
+
+#EXTINF:-1,(PT) SPORT TV 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35302.ts
+
+#EXTINF:-1,(PT) SPORT TV 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35301.ts
+
+#EXTINF:-1,(PT) SPORT TV 4 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35300.ts
+
+#EXTINF:-1,(PT) SPORT TV 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35299.ts
+
+#EXTINF:-1,(PT) SPORTING TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35295.ts
+
+#EXTINF:-1,(RS) Arena Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/33746.ts
+
+#EXTINF:-1,(RS) Arena Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/33745.ts
+
+#EXTINF:-1,(RS) Arena Sport 3
+http://redhot.tech:80/live/Mat2/SSvfm079En/33744.ts
+
+#EXTINF:-1,(RS) Arena Sport 4
+http://redhot.tech:80/live/Mat2/SSvfm079En/33743.ts
+
+#EXTINF:-1,(RS) Arena Sport 5
+http://redhot.tech:80/live/Mat2/SSvfm079En/33742.ts
+
+#EXTINF:-1,(PL) Polsat Sport Extra HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33798.ts
+
+#EXTINF:-1,(PL) Polsat Sport HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33797.ts
+
+#EXTINF:-1,(PL) Polsat Sport News HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33796.ts
+
+#EXTINF:-1,(BG) DIEMA SPORT 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34020.ts
+
+#EXTINF:-1,(BG) Diema Sport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34019.ts
+
+#EXTINF:-1,(BG) Diema Sport HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34021.ts
+
+#EXTINF:-1,(RO) Digi Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/33850.ts
+
+#EXTINF:-1,(RO) Digi Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/33849.ts
+
+#EXTINF:-1,(RO) Digi Sport 3
+http://redhot.tech:80/live/Mat2/SSvfm079En/33848.ts
+
+#EXTINF:-1,(RO) Digi Sport 4
+http://redhot.tech:80/live/Mat2/SSvfm079En/33847.ts
+
+#EXTINF:-1,(AR) beIN Sport News
+http://redhot.tech:80/live/Mat2/SSvfm079En/34266.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34209.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34200.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34199.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34208.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34207.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34205.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 6 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34204.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 7 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34203.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 8 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34202.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 9 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34201.ts
+#EXTINF:-1,VIP BEINSPORTS-NEWS
+http://sw.fannan.se:8000/live/zizo18040/54544452/6836.ts
+
+#EXTINF:-1,Bein sport 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6811.ts
+
+#EXTINF:-1,Bein sport 2 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6810.ts
+
+#EXTINF:-1,Bein sport 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6809.ts
+
+#EXTINF:-1,Bein sport 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6808.ts
+
+#EXTINF:-1,Bein sport 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6807.ts
+
+#EXTINF:-1,Bein sport 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6806.ts
+
+#EXTINF:-1,Bein sport 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6805.ts
+
+#EXTINF:-1,Bein sport 8 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6804.ts
+
+#EXTINF:-1,Bein sport 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6803.ts
+
+#EXTINF:-1,Bein sport 10 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6802.ts
+
+#EXTINF:-1,Bein sport 11 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6801.ts
+
+#EXTINF:-1,Bein sport 12 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6800.ts
+
+#EXTINF:-1,SFR SPORT 1HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6796.ts
+
+#EXTINF:-1,SFR SPORT 2HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6795.ts
+
+#EXTINF:-1,SFR SPORT 3HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6794.ts
+
+#EXTINF:-1,Bein Sport 1HD FR
+http://sw.fannan.se:8000/live/zizo18040/54544452/6799.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6793.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6792.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6791.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6790.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6788.ts
+
+#EXTINF:-1,AR Abu-Dhabi_Sports_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6770.ts
+
+#EXTINF:-1,AR Abu-Dhabi_Sports_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6769.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6765.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6764.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_3_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6763.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_4_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6762.ts
+
+#EXTINF:-1,AR:ALKASS_SPORT_5_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6761.ts
+
+#EXTINF:-1,AR: MBC_PRO_SPORT_1
+http://sw.fannan.se:8000/live/zizo18040/54544452/6760.ts
+
+#EXTINF:-1,AR:MBC_PRO_SPORT_2
+http://sw.fannan.se:8000/live/zizo18040/54544452/6759.ts
+
+#EXTINF:-1,AR:MBC_PRO_SPORT_3
+http://sw.fannan.se:8000/live/zizo18040/54544452/6758.ts
+
+#EXTINF:-1,AR AD-SPORT1
+http://sw.fannan.se:8000/live/zizo18040/54544452/6772.ts
+
+#EXTINF:-1,AR AD-Sport2
+http://sw.fannan.se:8000/live/zizo18040/54544452/6771.ts
+
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8089.ts
+
+#EXTINF:-1,IT: SKY SPORT 2
+http://sw.fannan.se:8000/live/zizo18040/54544452/8088.ts
+
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8087.ts
+
+#EXTINF:-1,IT: SKY SPORT 3 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8086.ts
+
+#EXTINF:-1,DE:SKY_SPORT_1_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8059.ts
+
+#EXTINF:-1,DE:SKY_SPORT_2_HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/8060.ts
+
+#EXTINF:-1,DE:Sky_Sport_News
+http://sw.fannan.se:8000/live/zizo18040/54544452/8061.ts
+
+#EXTINF:-1,NL: Fox Sports 1 Eredivisie HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/7892.ts
+
+#EXTINF:-1,NL: Fox sports 2
+http://sw.fannan.se:8000/live/zizo18040/54544452/7891.ts
+
+#EXTINF:-1,NL: Fox sports 3
+http://sw.fannan.se:8000/live/zizo18040/54544452/7890.ts
+
+#EXTINF:-1,NL: Fox sports 4
+http://sw.fannan.se:8000/live/zizo18040/54544452/7889.ts
+
+#EXTINF:-1,NL: Fox Sports 6
+http://sw.fannan.se:8000/live/zizo18040/54544452/7903.ts
+
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://sw.fannan.se:8000/live/zizo18040/54544452/7887.ts
+
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/7901.ts
+
+#EXTINF:-1,beIN SPORTS HABER HD
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1322.ts
+
+#EXTINF:-1,S SPORT
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1041.ts
+
+#EXTINF:-1,SMART SPOR 1
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1014.ts
+
+#EXTINF:-1,SMART SPOR 2
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1018.ts
+
+#EXTINF:-1,TIVIBU SPOR 1
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1019.ts
+
+#EXTINF:-1,TIVIBU SPOR 2
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1020.ts
+
+#EXTINF:-1,TIVIBU SPOR 3
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1021.ts
+
+#EXTINF:-1,TIVIBU SPOR 4
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1022.ts
+
+#EXTINF:-1,Sport Plus (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1003.ts
+
+#EXTINF:-1,Diema Sport 1 (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/864.ts
+
+#EXTINF:-1,Diema Sport 2 (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/865.ts
+
+#EXTINF:-1,C More Golf (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/597.ts
+
+#EXTINF:-1,C More Fotboll (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/728.ts
+
+#EXTINF:-1,C More Live 1 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/614.ts
+
+#EXTINF:-1,C More Live 2 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/41.ts
+
+#EXTINF:-1,C More Live 3 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/42.ts
+
+#EXTINF:-1,C More Live 4 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/43.ts
+
+#EXTINF:-1,Eurosport 2 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/811.ts
+
+#EXTINF:-1,Eurosport 1 (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/651.ts
+
+#EXTINF:-1,Viasat Motor (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/412.ts
+
+#EXTINF:-1,Viasat Golf (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/680.ts
+
+#EXTINF:-1,Viasat Fight Sports (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/888.ts
+
+#EXTINF:-1,Sportkanalen (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/615.ts
+
+#EXTINF:-1,TV3 Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/911.ts
+
+#EXTINF:-1,C More Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/626.ts
+
+#EXTINF:-1,C More Hockey (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/909.ts
+
+#EXTINF:-1,Viasat Hockey (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/630.ts
+
+#EXTINF:-1,Viasat Fotboll (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/411.ts
+
+#EXTINF:-1,Viasat Sport (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/410.ts
+
+#EXTINF:-1,Viasat Sport Premium (SV)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/866.ts
+
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://5.189.187.55:8000/live/Fadil/skype/2737.ts
+
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://5.189.187.55:8000/live/Fadil/skype/2366.ts
+
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/1728.ts
+
+#EXTINF:-1,NL: Fox Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/1727.ts
+
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/1726.ts
+
+#EXTINF:-1,NL: Fox Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/1725.ts
+
+#EXTINF:-1,NL: Fox Sports 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1724.ts
+
+#EXTINF:-1,FR: L'EQUIPE
+http://5.189.187.55:8000/live/Fadil/skype/1995.ts
+
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://5.189.187.55:8000/live/Fadil/skype/1893.ts
+
+#EXTINF:-1,FR: Infosport+
+http://5.189.187.55:8000/live/Fadil/skype/1137.ts
+
+#EXTINF:-1,FR: Foot+ 24/24
+http://5.189.187.55:8000/live/Fadil/skype/884.ts
+
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/752.ts
+
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/836.ts
+
+#EXTINF:-1,FR: EURONEWS
+http://5.189.187.55:8000/live/Fadil/skype/965.ts
+
+#EXTINF:-1,FR: EQUIDIA
+http://5.189.187.55:8000/live/Fadil/skype/835.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://5.189.187.55:8000/live/Fadil/skype/2128.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://5.189.187.55:8000/live/Fadil/skype/2127.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://5.189.187.55:8000/live/Fadil/skype/2129.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://5.189.187.55:8000/live/Fadil/skype/2126.ts
+
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://5.189.187.55:8000/live/Fadil/skype/2125.ts
+
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/988.ts
+
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://5.189.187.55:8000/live/Fadil/skype/701.ts
+
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/702.ts
+
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
+http://5.189.187.55:8000/live/Fadil/skype/2376.ts
+
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
+http://5.189.187.55:8000/live/Fadil/skype/2375.ts
+
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/674.ts
+
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/673.ts
+
+#EXTINF:-1,EX YU: Arena Sport 3 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/1092.ts
+
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/1091.ts
+
+#EXTINF:-1,EX YU: Arena Sport 2 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/672.ts
+
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://5.189.187.55:8000/live/Fadil/skype/671.ts
+
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://5.189.187.55:8000/live/Fadil/skype/768.ts
+
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://5.189.187.55:8000/live/Fadil/skype/769.ts
+
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://5.189.187.55:8000/live/Fadil/skype/770.ts
+
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://5.189.187.55:8000/live/Fadil/skype/771.ts
+
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/772.ts
+
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/774.ts
+
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/775.ts
+
+#EXTINF:-1,AR: Bein Sports 12 HD
+http://5.189.187.55:8000/live/Fadil/skype/776.ts
+
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://5.189.187.55:8000/live/Fadil/skype/777.ts
+
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://5.189.187.55:8000/live/Fadil/skype/778.ts
+
+#EXTINF:-1,AL: Supersport Kosova 2
+http://5.189.187.55:8000/live/Fadil/skype/1542.ts
+
+#EXTINF:-1,AL: Supersport Kosova 1
+http://5.189.187.55:8000/live/Fadil/skype/1541.ts
+
+#EXTINF:-1,AL: Supersonic
+http://5.189.187.55:8000/live/Fadil/skype/978.ts
+
+#EXTINF:-1,AL: Super Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/284.ts
+
+#EXTINF:-1,AL: Super Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/283.ts
+
+#EXTINF:-1,AL: Super sport 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/205.ts
+
+#EXTINF:-1,AL: super sport 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/208.ts
+
+#EXTINF:-1,AL: Sport News HD
+http://5.189.187.55:8000/live/Fadil/skype/1919.ts
+
+#EXTINF:-1,RO: DigiSport 3
+http://5.189.187.55:8000/live/Fadil/skype/2802.ts
+
+#EXTINF:-1,RO: DigiSport 1
+http://5.189.187.55:8000/live/Fadil/skype/2800.ts
+
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2207.ts
+
+#EXTINF:-1,IT: Premium Joi
+http://5.189.187.55:8000/live/Fadil/skype/364.ts
+
+#EXTINF:-1,IT: Premium EuroSport 2
+http://5.189.187.55:8000/live/Fadil/skype/2132.ts
+
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2131.ts
+
+#EXTINF:-1,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/Fadil/skype/481.ts
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/Fadil/skype/480.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/Fadil/skype/479.ts
+
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/Fadil/skype/478.ts
+
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/Fadil/skype/477.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/Fadil/skype/476.ts
+
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/433.ts
+
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/Fadil/skype/432.ts
+
+#EXTINF:-1,UK: BT Sport Extra
+http://5.189.187.55:8000/live/Fadil/skype/2083.ts
+
+#EXTINF:-1,UK: BT Sport Europe
+http://5.189.187.55:8000/live/Fadil/skype/464.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/862.ts
+
+#EXTINF:-1,TR: LIGTV 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1993.ts
+
+#EXTINF:-1,TR: LIGTV 1
+http://5.189.187.55:8000/live/Fadil/skype/861.ts
+
+#EXTINF:-1,TR: LIG TV HD
+http://5.189.187.55:8000/live/Fadil/skype/2370.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2328.ts
+
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2278.ts
+
+#EXTINF:-1,NO: Viasat Fotboll
+http://5.189.187.55:8000/live/Fadil/skype/3146.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.ts
+
+#EXTINF:-1,UK@ Sky Sports Main Event(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.ts
+
+#EXTINF:-1,UK@ Sky Sports Premier League(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.ts
+
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.ts
+
+#EXTINF:-1,UK@ Sky Sports Football(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.ts
+
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37400.ts
+
+#EXTINF:-1,UK@ Sky Sports Cricket(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.ts
+
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.ts
+
+#EXTINF:-1,UK@ Sky Sports F1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.ts
+
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.ts
+
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.ts
+
+#EXTINF:-1,UK@ Sky Sports News HD (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.ts
+
+#EXTINF:-1,UK@Sky Sports Golf
+http://izgemma.ddns.net:8000/live/chewy/chewy/37569.ts
+
+#EXTINF:-1,UK@ Sky Sports Golf(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.ts
+
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.ts
+
+#EXTINF:-1,UK@ Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.ts
+
+#EXTINF:-1,UK@ Sky Sports Mix (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29507.ts
+
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.ts
+
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.ts
+
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.ts
+
+#EXTINF:-1,UK@ BT Sport 1(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.ts
+
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.ts
+
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.ts
+
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.ts
+
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.ts
+
+#EXTINF:-1,UK@ BT Sport 3 (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.ts
+
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.ts
+
+#EXTINF:-1,UK@ BT Sport Espn(Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.ts
+
+#EXTINF:-1,MY@ .Astro Sports
+http://izgemma.ddns.net:8000/live/chewy/chewy/36505.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://izgemma.ddns.net:8000/live/chewy/chewy/36504.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://izgemma.ddns.net:8000/live/chewy/chewy/36503.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://izgemma.ddns.net:8000/live/chewy/chewy/36502.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://izgemma.ddns.net:8000/live/chewy/chewy/36501.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://izgemma.ddns.net:8000/live/chewy/chewy/36500.ts
+
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/chewy/chewy/36499.ts
+
+#EXTINF:-1,UK@ Boxnation (Backup)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37382.ts
+
+#EXTINF:-1,UK@ Premier Sports HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.ts
+
+#EXTINF:-1,UK@ Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.ts
+
+#EXTINF:-1,UK@ eir Sports 2 HD
+http://izgemma.ddns.net:8000/live/chewy/chewy/37425.ts
+
+#EXTINF:-1,UK@ Motorsports TV
+http://izgemma.ddns.net:8000/live/chewy/chewy/10772.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+
+#EXTINF:-1,AR: ADSport 1HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7825.ts
+
+#EXTINF:-1,AR: ADSport 2HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7826.ts
+
+#EXTINF:-1,RU: SETANTA SPORT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.ts
+
+#EXTINF:-1,RU: SETANTA SPORT +
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.ts
+
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11780.ts
+
+#EXTINF:-1,IT: Rai Sport 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19058.ts
+
+#EXTINF:-1,IT: Sportitalia
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11775.ts
+
+#EXTINF:-1,IT: Super Tennis HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11774.ts
+
+#EXTINF:-1,beIN_SPORTS_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4038.ts
+
+#EXTINF:-1,beIN_SPORTS_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4037.ts
+
+#EXTINF:-1,beIN_SPORTS_3 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/4036.ts
+
+#EXTINF:-1,EQUIDIA_LIVE
+http://pro.smartgotv.com:8005/live/mondher/mondher/3608.ts
+
+#EXTINF:-1,EUROSPORT_1 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3605.ts
+
+#EXTINF:-1,EUROSPORT_2 FR
+http://pro.smartgotv.com:8005/live/mondher/mondher/3606.ts
+
+#EXTINF:-1,EXTREME_SPORTS
+http://pro.smartgotv.com:8005/live/mondher/mondher/3604.ts
+
+#EXTINF:-1,GOLF+
+http://pro.smartgotv.com:8005/live/mondher/mondher/3596.ts
+
+#EXTINF:-1,GOLF_CHANNEL
+http://pro.smartgotv.com:8005/live/mondher/mondher/3595.ts
+
+#EXTINF:-1,INFOSPORT+
+http://pro.smartgotv.com:8005/live/mondher/mondher/3591.ts
+
+#EXTINF:-1,L'EQUIPE_21
+http://pro.smartgotv.com:8005/live/mondher/mondher/3590.ts
+
+#EXTINF:-1,RMC SPORT 1
+http://pro.smartgotv.com:8005/live/mondher/mondher/3562.ts
+
+#EXTINF:-1,RMC SPORT 2
+http://pro.smartgotv.com:8005/live/mondher/mondher/3561.ts
+
+#EXTINF:-1,RMC SPORT 3
+http://pro.smartgotv.com:8005/live/mondher/mondher/3560.ts
+
+#EXTINF:-1,RMC SPORT 5
+http://pro.smartgotv.com:8005/live/mondher/mondher/3559.ts
+
+#EXTINF:-1,CANAL+_SPORT_HD
+http://pro.smartgotv.com:8005/live/mondher/mondher/3634.ts
+
+#EXTINF:-1,FOOT+
+http://pro.smartgotv.com:8005/live/mondher/mondher/1120.ts
+
+#EXTINF:-1,BFM_SPORT
+http://pro.smartgotv.com:8005/live/mondher/mondher/2225.ts
+
+#EXTINF:-1,L.EQUIPE21_SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/1112.ts
+
+#EXTINF:-1,EQUIDIA_LIVE_SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/1121.ts
+
+#EXTINF:-1,RMC SPORT 1 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6596.ts
+
+#EXTINF:-1,RMC SPORT 2 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6597.ts
+
+#EXTINF:-1,RMC SPORT 3 SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/6598.ts
+
+#EXTINF:-1,BeIN_SPORTS_1 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/684.ts
+
+#EXTINF:-1,BeIN_SPORTS_2 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/683.ts
+
+#EXTINF:-1,BeIN_SPORTS_3 FR SD
+http://pro.smartgotv.com:8005/live/mondher/mondher/682.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX4
+http://pro.smartgotv.com:8005/live/mondher/mondher/681.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX5
+http://pro.smartgotv.com:8005/live/mondher/mondher/680.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX6
+http://pro.smartgotv.com:8005/live/mondher/mondher/679.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX7
+http://pro.smartgotv.com:8005/live/mondher/mondher/678.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX8
+http://pro.smartgotv.com:8005/live/mondher/mondher/677.ts
+
+#EXTINF:-1,beIN-SPORTS-MAX9
+http://pro.smartgotv.com:8005/live/mondher/mondher/676.ts
+
+#EXTINF:-1,Sky Sport24 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14690.ts
+
+#EXTINF:-1,Sky Sport  Uno Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14693.ts
+
+#EXTINF:-1,Sky Sport Arena  Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14870.ts
+
+#EXTINF:-1,Sky Sport Football Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/14869.ts
+
+#EXTINF:-1,Sky Sport NBA Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15285.ts
+
+#EXTINF:-1,Sky Sport Golf Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/16621.ts
+
+#EXTINF:-1,Sky Sport F1 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13713.ts
+
+#EXTINF:-1,Sky Sport MotoGP Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13714.ts
+
+#EXTINF:-1,Bike Channel Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15287.ts
+
+#EXTINF:-1,Rai Sport 1 Full HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/500.ts
+
+#EXTINF:-1,Sky Sport 24HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/28.ts
+
+#EXTINF:-1,Sky Sport Uno HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/25.ts
+
+#EXTINF:-1,Sky Sport Arena  HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26.ts
+
+#EXTINF:-1,Sky Sport Football HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27.ts
+
+#EXTINF:-1,Sky Sport NBA HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/30.ts
+
+#EXTINF:-1,Sky Sport Golf HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/29.ts
+
+#EXTINF:-1,Sky Sport F1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/31.ts
+
+#EXTINF:-1,Sky Sport MotoGP HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/147.ts
+
+#EXTINF:-1,Bike Channel HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/274.ts
+
+#EXTINF:-1,Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/106.ts
+
+#EXTINF:-1,Eurosport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/210.ts
+
+#EXTINF:-1,Supertennis HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/324.ts
+
+#EXTINF:-1,Sportitalia
+http://redhot.tech:80/live/Mat2/SSvfm079En/150.ts
+
+#EXTINF:-1,Q13 AutoMoto TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/8274.ts
+
+#EXTINF:-1,Unire Sat HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/13755.ts
+
+#EXTINF:-1,My Sports 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26360.ts
+
+#EXTINF:-1,My Sports 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26361.ts
+
+#EXTINF:-1,My Sports 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27288.ts
+
+#EXTINF:-1,My Sports 4 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27289.ts
+
+#EXTINF:-1,My Sports 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27290.ts
+
+#EXTINF:-1,My Sports 6 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27291.ts
+
+#EXTINF:-1,My Sports 7 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27292.ts
+
+#EXTINF:-1,My Sports 8 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/27293.ts
+
+#EXTINF:-1,Sky Sport24 SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/467.ts
+
+#EXTINF:-1,Sky Sport Uno SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/423.ts
+
+#EXTINF:-1,Sky Sport Arena  SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/466.ts
+
+#EXTINF:-1,Sky Sport Football SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/465.ts
+
+#EXTINF:-1,Sky Sport NBA SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/424.ts
+
+#EXTINF:-1,Sky Sport Golf SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/3196.ts
+
+#EXTINF:-1,Sky Sport F1 SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/426.ts
+
+#EXTINF:-1,Sky Sport MotoGP SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/453.ts
+
+#EXTINF:-1,Bike Channel SD
+http://redhot.tech:80/live/Mat2/SSvfm079En/15348.ts
+
+#EXTINF:-1,Premium Eurosport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/61.ts
+
+#EXTINF:-1,Premium Eurosport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/60.ts
+
+#EXTINF:-1,((DE)) Sky Sport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36541.ts
+
+#EXTINF:-1,((DE)) Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26933.ts
+
+#EXTINF:-1,((DE)) Eurosport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/26930.ts
+
+#EXTINF:-1,(DE) Eurosport 2 Extra
+http://redhot.tech:80/live/Mat2/SSvfm079En/27069.ts
+
+#EXTINF:-1,(DE) Motorvision TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/26934.ts
+
+#EXTINF:-1,(DE) Sky Sport 1 FHD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26956.ts
+
+#EXTINF:-1,(DE) Sky Sport 2 FHD
+http://redhot.tech:80/live/Mat2/SSvfm079En/26955.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36082.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36081.ts
+
+#EXTINF:-1,(FR) BEIN SPORT 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36080.ts
+
+#EXTINF:-1,(FR) BFM SPORT
+http://redhot.tech:80/live/Mat2/SSvfm079En/36076.ts
+
+#EXTINF:-1,(FR) INFOSPORT
+http://redhot.tech:80/live/Mat2/SSvfm079En/36077.ts
+
+#EXTINF:-1,(FR) L EQUIPE 21 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/36073.ts
+
+#EXTINF:-1,(NL) Eurosport 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35998.ts
+
+#EXTINF:-1,(NL) Eurosport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35997.ts
+
+#EXTINF:-1,(NL) Extreme Sports
+http://redhot.tech:80/live/Mat2/SSvfm079En/35996.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 1 EREDIVISIE HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35984.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 2 INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35983.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 3 EREDIVISIE
+http://redhot.tech:80/live/Mat2/SSvfm079En/35982.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 5 EREDIVISIE HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35980.ts
+
+#EXTINF:-1,(NL) FOX SPORTS 6 INTERNATIONAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35979.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/35910.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/35909.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT GOLF
+http://redhot.tech:80/live/Mat2/SSvfm079En/35908.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT RACING
+http://redhot.tech:80/live/Mat2/SSvfm079En/35907.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT SELECT HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35906.ts
+
+#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL
+http://redhot.tech:80/live/Mat2/SSvfm079En/35905.ts
+
+#EXTINF:-1,[CH] Teleclub Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/435.ts
+
+#EXTINF:-1,[CH] Teleclub Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/434.ts
+
+#EXTINF:-1,(ES) Barca TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35403.ts
+
+#EXTINF:-1,(ES) Bein Sports HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35402.ts
+
+#EXTINF:-1,(ES) Bein Sports La Liga HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35401.ts
+
+#EXTINF:-1,(PT) SPORT TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35304.ts
+
+#EXTINF:-1,(PT) SPORT TV 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35303.ts
+
+#EXTINF:-1,(PT) SPORT TV 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35302.ts
+
+#EXTINF:-1,(PT) SPORT TV 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35301.ts
+
+#EXTINF:-1,(PT) SPORT TV 4 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35300.ts
+
+#EXTINF:-1,(PT) SPORT TV 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/35299.ts
+
+#EXTINF:-1,(PT) SPORTING TV
+http://redhot.tech:80/live/Mat2/SSvfm079En/35295.ts
+
+#EXTINF:-1,(RS) Arena Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/33746.ts
+
+#EXTINF:-1,(RS) Arena Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/33745.ts
+
+#EXTINF:-1,(RS) Arena Sport 3
+http://redhot.tech:80/live/Mat2/SSvfm079En/33744.ts
+
+#EXTINF:-1,(RS) Arena Sport 4
+http://redhot.tech:80/live/Mat2/SSvfm079En/33743.ts
+
+#EXTINF:-1,(RS) Arena Sport 5
+http://redhot.tech:80/live/Mat2/SSvfm079En/33742.ts
+
+#EXTINF:-1,(PL) Polsat Sport Extra HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33798.ts
+
+#EXTINF:-1,(PL) Polsat Sport HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33797.ts
+
+#EXTINF:-1,(PL) Polsat Sport News HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/33796.ts
+
+#EXTINF:-1,(BG) DIEMA SPORT 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34020.ts
+
+#EXTINF:-1,(BG) Diema Sport 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34019.ts
+
+#EXTINF:-1,(BG) Diema Sport HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34021.ts
+
+#EXTINF:-1,(RO) Digi Sport 1
+http://redhot.tech:80/live/Mat2/SSvfm079En/33850.ts
+
+#EXTINF:-1,(RO) Digi Sport 2
+http://redhot.tech:80/live/Mat2/SSvfm079En/33849.ts
+
+#EXTINF:-1,(RO) Digi Sport 3
+http://redhot.tech:80/live/Mat2/SSvfm079En/33848.ts
+
+#EXTINF:-1,(RO) Digi Sport 4
+http://redhot.tech:80/live/Mat2/SSvfm079En/33847.ts
+
+#EXTINF:-1,(AR) beIN Sport News
+http://redhot.tech:80/live/Mat2/SSvfm079En/34266.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 1 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34209.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34200.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34199.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 2 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34208.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 3 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34207.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 5 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34205.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 6 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34204.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 7 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34203.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 8 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34202.ts
+
+#EXTINF:-1,(AR) BEIN SPORTS 9 HD
+http://redhot.tech:80/live/Mat2/SSvfm079En/34201.ts
+
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/773.ts
+
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/779.ts
+
+#EXTINF:-1,RO: Digisport 2
+http://5.189.187.55:8000/live/Fadil/skype/2801.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 8 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6789.ts
+
+#EXTINF:0,IT: Rai Sport + HD
+http://5.189.187.55:8000/live/Fadil/skype/1524.ts
+
+#EXTINF:0,UK: Premier Sports
+http://5.189.187.55:8000/live/Fadil/skype/1073.ts
+
+#EXTINF:0,UK: Eurosport 2
+http://5.189.187.55:8000/live/Fadil/skype/444.ts
+
+#EXTINF:0,UK: Eurosport 1
+http://5.189.187.55:8000/live/Fadil/skype/443.ts
+
+#EXTINF:0,UK: ESPN HD
+http://5.189.187.55:8000/live/Fadil/skype/442.ts
+
+#EXTINF:0,SE: Viasat Sport HD
+http://5.189.187.55:8000/live/Fadil/skype/2814.ts
+
+#EXTINF:0,NL: SPORT 1 SELECT
+http://5.189.187.55:8000/live/Fadil/skype/1736.ts
+
+#EXTINF:0,FR: Canal+ Sport HD
+http://5.189.187.55:8000/live/Fadil/skype/727.ts
+
+#EXTINF:0,EX YU:  Arena Sport 4 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/1094.ts
+
+#EXTINF:0,EX YU:  Arena Sport 1 (SR)
+http://5.189.187.55:8000/live/Fadil/skype/1095.ts
+
+#EXTINF:0,ES: Teledeporte
+http://5.189.187.55:8000/live/Fadil/skype/2180.ts
+
+#EXTINF:0,ES: Bein Sports FHD
+http://5.189.187.55:8000/live/Fadil/skype/2184.ts
+
+#EXTINF:0,ES: BARCA TV
+http://5.189.187.55:8000/live/Fadil/skype/1673.ts
+
+#EXTINF:0,DE: Sky Sports 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2384.ts
+
+#EXTINF:0,DE: Sky Sports 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/320.ts
+
+#EXTINF:0,DE: Sky Sports 2
+http://5.189.187.55:8000/live/Fadil/skype/2632.ts
+
+#EXTINF:0,DE: Sky Sports 1 FHD
+http://5.189.187.55:8000/live/Fadil/skype/321.ts
+
+#EXTINF:0,DE: Sky Sport News
+http://5.189.187.55:8000/live/Fadil/skype/1780.ts
+
+#EXTINF:0,DE: Sky Sport Austria
+http://5.189.187.55:8000/live/Fadil/skype/310.ts
+
+#EXTINF:0,DE: Sport 1+ HD
+http://5.189.187.55:8000/live/Fadil/skype/2540.ts
+
+#EXTINF:0,AL: TRING SPORTS 4
+http://5.189.187.55:8000/live/Fadil/skype/1927.ts
+
+#EXTINF:0,AL: TRING SPORTS 3
+http://5.189.187.55:8000/live/Fadil/skype/1926.ts
+
+#EXTINF:0,AL: TRING SPORTS 2
+http://5.189.187.55:8000/live/Fadil/skype/1925.ts
+
+#EXTINF:0,AL: TRING SPORTS 1
+http://5.189.187.55:8000/live/Fadil/skype/1924.ts
+
+#EXTINF:0,FR: SFR Sport 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2791.ts
+
+#EXTINF:0,FR: SFR Sport 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2792.ts
+
+#EXTINF:0,PT: Sport TV 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/1797.ts
+
+#EXTINF:0,PT: Sport TV 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2827.ts
+
+#EXTINF:0,PT: Sport TV 3 HD
+http://5.189.187.55:8000/live/Fadil/skype/2828.ts
+
+#EXTINF:0,PT: Sport TV 4 HD
+http://5.189.187.55:8000/live/Fadil/skype/2829.ts
+
+#EXTINF:0,PT: Sport TV 5 HD
+http://5.189.187.55:8000/live/Fadil/skype/2830.ts
+
+#EXTINF:0,PT: Sporting TV HD
+http://5.189.187.55:8000/live/Fadil/skype/2476.ts
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37774.ts
+
+#EXTINF:-1,AR:beIN SPORT 2 HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37775.ts
+
+#EXTINF:-1,AR:beIN SPORT 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37776.ts
+
+#EXTINF:-1,AR:beIN SPORT 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37777.ts
+
+#EXTINF:-1,AR:beIN SPORT 5 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37778.ts
+
+#EXTINF:-1,AR:beIN SPORT 6 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37779.ts
+
+#EXTINF:-1,AR:beIN SPORT 7 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37780.ts
+
+#EXTINF:-1,AR:beIN SPORT 8 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37781.ts
+
+#EXTINF:-1,AR:beIN SPORT 9 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37782.ts
+
+#EXTINF:-1,AR:beIN SPORT 10 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37783.ts
+
+#EXTINF:-1,AR:beIN SPORT 11 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37784.ts
+
+#EXTINF:-1,AR:beIN SPORT 12 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37785.ts
+
+#EXTINF:-1,Rom: Sport Klub 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37786.ts
+
+#EXTINF:-1,Rom: Sport Klub 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37787.ts
+
+#EXTINF:-1,Rom:  Sport Klub 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37788.ts
+
+#EXTINF:-1,Albanian Super Sports 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37807.ts
+
+#EXTINF:-1,Albanian Super Sports 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37808.ts
+
+#EXTINF:-1,Albanian Super Sports 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37809.ts
+
+#EXTINF:-1,Albanian Super Sports 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37810.ts
+
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/375.ts
+
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/376.ts
+
+#EXTINF:-1,Arena Sports 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37803.ts
+
+#EXTINF:-1,Arena Sports 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37804.ts
+
+#EXTINF:-1,Arena Sports 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37805.ts
+
+#EXTINF:-1,Arena Sports 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37806.ts
+
+#EXTINF:-1,DE SKY SPORTS 1HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37801.ts
+
+#EXTINF:-1,DE SKY SPORTS 2HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37802.ts
+
+#EXTINF:-1,OSN Sports 1HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37796.ts
+
+#EXTINF:-1,OSN Sports 2HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37797.ts
+
+#EXTINF:-1,OSN Sports 3HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37798.ts
+
+#EXTINF:-1,AD: Abu Dhabi Sports 1
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2964.ts
+
+#EXTINF:-1,Sw: VIASAT SPORT
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37789.ts
+
+#EXTINF:-1,BR: A&E Brasil
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8130.ts
+
+#EXTINF:-1,UK@ TVC News
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6043.ts
+
+#EXTINF:-1,AF: OTV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6040.ts
+
+#EXTINF:-1,AR: MBC Drama (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/649.ts
+
+#EXTINF:-1,AR: MBC Action (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/648.ts
+
+#EXTINF:-1,UK: Star Plus HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/726.ts
+
+#EXTINF:-1,UK: Star Plus.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1765.ts
+
+#EXTINF:-1,UK: Star Plus (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/14090.ts
+
+#EXTINF:-1,UK: Star Life OK.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1778.ts
+
+#EXTINF:-1,UK: Star Gold
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6285.ts
+
+#EXTINF:-1,UK: B4U Movie
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1780.ts
+
+#EXTINF:-1,UK: B4U Music
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1779.ts
+
+#EXTINF:-1,UK: B4U PLUS
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8920.ts
+
+#EXTINF:-1,UK: Zee TV HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1770.ts
+
+#EXTINF:-1,UK: Zee Cinema.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1771.ts
+
+#EXTINF:-1,UK: Zee News..
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1862.ts
+
+#EXTINF:-1,UK: Colors HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1767.ts
+
+#EXTINF:-1,UK: Colours (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/14080.ts
+
+#EXTINF:-1,UK: Sony TV Asian
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1772.ts
+
+#EXTINF:-1,UK: Sony Max.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1773.ts
+
+#EXTINF:-1,UK: Sony Sab.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1776.ts
+
+#EXTINF:-1,UK: Discovery Channel HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/608.ts
+
+#EXTINF:-1,UK: Animal Planet HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/128.ts
+
+#EXTINF:-1,UK: National-Geo Wild HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2986.ts
+
+#EXTINF:-1,UK: Discovery Turbo
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/107.ts
+
+#EXTINF:-1,UK: Discovery Science
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/105.ts
+
+#EXTINF:-1,UK: BBC One HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13688.ts
+
+#EXTINF:-1,UK: Discovery History
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/106.ts
+
+#EXTINF:-1,UK: BBC Two HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/120.ts
+
+#EXTINF:-1,UK: ITV 1 HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13657.ts
+
+#EXTINF:-1,UK: ITV 1 Granada
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1874.ts
+
+#EXTINF:-1,UK: Channel 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3.ts
+
+#EXTINF:-1,UK: Channel 5 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1155.ts
+
+#EXTINF:-1,UK: Sky One HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/698.ts
+
+#EXTINF:-1,UK: Sky One (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/14078.ts
+
+#EXTINF:-1,UK: Sky Living
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/78.ts
+
+#EXTINF:-1,UK: Gold
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/629.ts
+
+#EXTINF:-1,UK: Dave
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1410.ts
+
+#EXTINF:-1,UK: Universal HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1751.ts
+
+#EXTINF:-1,UK: Syfy
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1233.ts
+
+#EXTINF:-1,UK: BBC One London
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/821.ts
+
+#EXTINF:-1,UK: BBC 4 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1757.ts
+
+#EXTINF:-1,UK: ITV 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13715.ts
+
+#EXTINF:-1,UK: ITV 3
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/100.ts
+
+#EXTINF:-1,UK: TLC
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1396.ts
+
+#EXTINF:-1,UK: MTV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1754.ts
+
+#EXTINF:-1,UK: Comedy Central Extra
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1746.ts
+
+#EXTINF:-1,UK: Sky 2
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/696.ts
+
+#EXTINF:-1,UK: E4
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1414.ts
+
+#EXTINF:-1,UK: More4
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1157.ts
+
+#EXTINF:-1,UK: CBS Reality
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/814.ts
+
+#EXTINF:-1,UK: CBS Drama
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/113.ts
+
+#EXTINF:-1,UK: UTV Ireland
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6038.ts
+
+#EXTINF:-1,UK: Sony Channel
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1764.ts
+
+#EXTINF:-1,UK: Spike
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1246.ts
+
+#EXTINF:-1,UK: ITV Be HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1397.ts
+
+#EXTINF:-1,UK: DMAX
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1399.ts
+
+#EXTINF:-1,UK: Food Network
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1394.ts
+
+#EXTINF:-1,UK: Samaa
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2941.ts
+
+#EXTINF:-1,UK: RTE 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/83.ts
+
+#EXTINF:-1,UK: RTE 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/84.ts
+
+#EXTINF:-1,UK: 3e.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3406.ts
+
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/67.ts
+
+#EXTINF:-1,UK: Sky Cinema Action
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6229.ts
+
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/7836.ts
+
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/73.ts
+
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6225.ts
+
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6221.ts
+
+#EXTINF:-1,UK: Sky Cinema Select
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/65.ts
+
+#EXTINF:-1,UK: Sky Cinema Drama
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/71.ts
+
+#EXTINF:-1,UK: Sky Cinema Thriller HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6223.ts
+
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/76.ts
+
+#EXTINF:-1,UK: Sky Cinema ScFi-Horror
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/66.ts
+
+#EXTINF:-1,UK: Sky Cinema Modern Greats
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/69.ts
+
+#EXTINF:-1,UK: Film 4
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/102.ts
+
+#EXTINF:-1,UK: TCM HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1248.ts
+
+#EXTINF:-1,UK: Movie 4 Men
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1259.ts
+
+#EXTINF:-1,UK: True Movies 1
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/25.ts
+
+#EXTINF:-1,UK: MTV Base
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1440.ts
+
+#EXTINF:-1,UK: MTV Dance
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1441.ts
+
+#EXTINF:-1,UK: MTV Hits
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/92.ts
+
+#EXTINF:-1,UK: Virgin Radio TV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1158.ts
+
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6672.ts
+
+#EXTINF:-1,UK: Sky Sports Main Event (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1121.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/38.ts
+
+#EXTINF:-1,UK: Sky Sports Premier League (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/44.ts
+
+#EXTINF:-1,UK: Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/12450.ts
+
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6669.ts
+
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/13181.ts
+
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/5.ts
+
+#EXTINF:-1,UK: Sky Sports F1 (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1416.ts
+
+#EXTINF:-1,UK: Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6670.ts
+
+#EXTINF:-1,UK: Sky Sports Action (Backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1123.ts
+
+#EXTINF:-1,UK: Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6668.ts
+
+#EXTINF:-1,UK: Sky Sports News SD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/20.ts
+
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6461.ts
+
+#EXTINF:-1,UK: BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1389.ts
+
+#EXTINF:-1,UK: BT Sport 1 (backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/56.ts
+
+#EXTINF:-1,UK: BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6667.ts
+
+#EXTINF:-1,UK: BT Sport 2 (backup)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1124.ts
+
+#EXTINF:-1,UK: BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6671.ts
+
+#EXTINF:-1,UK: BT Sport 3 SD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/815.ts
+
+#EXTINF:-1,UK: BT Sport ESPN..
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/129.ts
+
+#EXTINF:-1,UK: Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/799.ts
+
+#EXTINF:-1,UK: Eurosport 2
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/798.ts
+
+#EXTINF:-1,UK: Premiere Sport HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/45.ts
+
+#EXTINF:-1,UK: Liverpool FC
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/716.ts
+
+#EXTINF:-1,UK: Chelsea TV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/23.ts
+
+#EXTINF:-1,UK: Motors Tv
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/61.ts
+
+#EXTINF:-1,UK: At The Races
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/60.ts
+
+#EXTINF:-1,UK: Racing UK HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1417.ts
+
+#EXTINF:-1,UK: BoxNation.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/96.ts
+
+#EXTINF:-1,UK: Sky News HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/63.ts
+
+#EXTINF:-1,UK: Dunya News.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2981.ts
+
+#EXTINF:-1,UK: FOX News
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/614.ts
+
+#EXTINF:-1,UK: NHK World News HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/89.ts
+
+#EXTINF:-1,UK: BBC News HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1384.ts
+
+#EXTINF:-1,UK: BBC News.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/123.ts
+
+#EXTINF:-1,UK: BBC World News.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/124.ts
+
+#EXTINF:-1,UK: Bloomberg.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1865.ts
+
+#EXTINF:-1,UK: Nat Geographic
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/91.ts
+
+#EXTINF:-1,UK: History
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1370.ts
+
+#EXTINF:-1,UK: H2.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3494.ts
+
+#EXTINF:-1,UK: Crime & Investigation
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/109.ts
+
+#EXTINF:-1,UK: Nick Jr.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/86.ts
+
+#EXTINF:-1,UK: Disney Channel
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/804.ts
+
+#EXTINF:-1,UK: Disney XD HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2704.ts
+
+#EXTINF:-1,UK: Boomerang
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/115.ts
+
+#EXTINF:-1,UK: Cbeebies
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/116.ts
+
+#EXTINF:-1,UK: Disney junior
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/103.ts
+
+#EXTINF:-1,UK: Nick HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/88.ts
+
+#EXTINF:-1,UK: Nickelodeon
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/87.ts
+
+#EXTINF:-1,UK: Nicktoons
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/85.ts
+
+#EXTINF:-1,UK: CNN
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1750.ts
+
+#EXTINF:-1,UK: And TV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/272.ts
+
+#EXTINF:-1,UK: Islam Channel
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8074.ts
+
+#EXTINF:-1,UK: GEO News
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8071.ts
+
+#EXTINF:-1,UK: Geo Tez.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2985.ts
+
+#EXTINF:-1,UK: Geo TV.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2979.ts
+
+#EXTINF:-1,UK: Horror Channel
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1253.ts
+
+#EXTINF:-1,UK: Urdu1 Europe
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8072.ts
+
+#EXTINF:-1,UK: Hum Europe.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2982.ts
+
+#EXTINF:-1,UK: Rishtey.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1777.ts
+
+#EXTINF:-1,UK: AAJ Tak
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2984.ts
+
+#EXTINF:-1,UK: Brit Asia TV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/2949.ts
+
+#EXTINF:-1,UK: Zing.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1859.ts
+
+#EXTINF:-1,UK: Zee Alwan
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6244.ts
+
+#EXTINF:-1,UK: Lebanon
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6277.ts
+
+#EXTINF:-1,UK: Horse & Country
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6241.ts
+
+#EXTINF:-1,UK: Aastha
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/7856.ts
+
+#EXTINF:-1,UK: MTV HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/21295.ts
+
+#EXTINF:-1,USA TSN 1HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37793.ts
+
+#EXTINF:-1,USA TSN 2HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37792.ts
+
+#EXTINF:-1,USA TSN 3HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37795.ts
+
+#EXTINF:-1,USA TSN 4HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37790.ts
+
+#EXTINF:-1,USA SportsNet 360
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37794.ts
+
+#EXTINF:-1,US CBS Sports
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37815.ts
+
+#EXTINF:-1,US FOX SPORTS 1 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37800.ts
+
+#EXTINF:-1,US FOX SPORTS 2 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37811.ts
+
+#EXTINF:-1,US Sports Net Ontario HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37814.ts
+
+#EXTINF:-1,US Sports Net Pacific HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37813.ts
+
+#EXTINF:-1,US Sports Net World HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37812.ts
+
+#EXTINF:-1,IN: & Picture HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/271.ts
+
+#EXTINF:-1,IN: B4U Music (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/282.ts
+
+#EXTINF:-1,IN: Colors Tv HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/270.ts
+
+#EXTINF:-1,IN: Rishtey Europe (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/293.ts
+
+#EXTINF:-1,IN: Sony Sab Tv
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/292.ts
+
+#EXTINF:-1,IN: Sony Six (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/277.ts
+
+#EXTINF:-1,IN: Sony Tv HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/269.ts
+
+#EXTINF:-1,IN: Star Plus 2 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/286.ts
+
+#EXTINF:-1,IN: Star Sports 2 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/309.ts
+
+#EXTINF:-1,IN: Star Sports 2 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/611.ts
+
+#EXTINF:-1,IN: Star Sports 3 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/308.ts
+
+#EXTINF:-1,IN: Star Sports 3 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/610.ts
+
+#EXTINF:-1,IN: Star Sports 4 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/307.ts
+
+#EXTINF:-1,IN: Star plus HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/268.ts
+
+#EXTINF:-1,IN: Sun Music Tamil (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/280.ts
+
+#EXTINF:-1,IN: Sun TV Tamil (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/279.ts
+
+#EXTINF:-1,IN: UTV Movies (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/290.ts
+
+#EXTINF:-1,IN: AsianNet Plus
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6293.ts
+
+#EXTINF:-1,IN: Jaya Max
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6297.ts
+
+#EXTINF:-1,UK: KTV
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6296.ts
+
+#EXTINF:-1,IN: MTV India
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6303.ts
+
+#EXTINF:-1,IN: Raj Musix
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6298.ts
+
+#EXTINF:-1,IN: Star Jalsha
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6299.ts
+
+#EXTINF:-1,IN: Zee Bangla
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6276.ts
+
+#EXTINF:-1,IN: Zee Cinema HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/264.ts
+
+#EXTINF:-1,IN: Zee Tv (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/288.ts
+
+#EXTINF:-1,IN: Zee Tv HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/287.ts
+
+#EXTINF:-1,IN:Zee Tv HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/267.ts
+
+#EXTINF:-1,PK: 92 News Hd (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/324.ts
+
+#EXTINF:-1,PK: Aaj Tak
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/322.ts
+
+#EXTINF:-1,PK: Ary News (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/320.ts
+
+#EXTINF:-1,PK: Ary Zindagi (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/319.ts
+
+#EXTINF:-1,PK: Geo Super (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/317.ts
+
+#EXTINF:-1,PK: Geo TV (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/327.ts
+
+#EXTINF:-1,PK: Ptv Home (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/312.ts
+
+#EXTINF:-1,PK: Waqt News (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/329.ts
+
+#EXTINF:-1,PK: Kohenoor
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6275.ts
+
+#EXTINF:-1,BAN: Colors
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6284.ts
+
+#EXTINF:-1,BAN: Sony Tv
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6283.ts
+
+#EXTINF:-1,BAN: Tv Prime
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6280.ts
+
+#EXTINF:-1,IN@ Garv Punjab Live HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37675.ts
+
+#EXTINF:-1,IN@ Asianet Plus
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37677.ts
+
+#EXTINF:-1,FR: 6Ter HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/221.ts
+
+#EXTINF:-1,FR: Arte HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/210.ts
+
+#EXTINF:-1,FR: Canal Cinema HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3317.ts
+
+#EXTINF:-1,FR: Canal Series HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3316.ts
+
+#EXTINF:-1,FR: Cine Premier HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3314.ts
+
+#EXTINF:-1,FR: Canal Plus
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3509.ts
+
+#EXTINF:-1,FR: Canal Play 2 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3219.ts
+
+#EXTINF:-1,FR: Canal Play 4 (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3217.ts
+
+#EXTINF:-1,FR: Cherie 25
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3507.ts
+
+#EXTINF:-1,FR: Cine Frisson..
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/247.ts
+
+#EXTINF:-1,FR: Disney Channel
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/255.ts
+
+#EXTINF:-1,FR: France O HD..
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/208.ts
+
+#EXTINF:-1,FR: Game One L
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/457.ts
+
+#EXTINF:-1,FR: Hd1 HD.
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/220.ts
+
+#EXTINF:-1,FR: LCP
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/456.ts
+
+#EXTINF:-1,FR: Lequipe 21 HD (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/455.ts
+
+#EXTINF:-1,FR: Piwi
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/238.ts
+
+#EXTINF:-1,FR: Planete A E HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/235.ts
+
+#EXTINF:-1,FR: Rmc Decouverte
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/225.ts
+
+#EXTINF:-1,FR: TMC France
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3506.ts
+
+#EXTINF:-1,FR: TV5 FR (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3254.ts
+
+#EXTINF:-1,FR: Toute l'Histoire
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/232.ts
+
+#EXTINF:-1,FR: CANAL +  CINEMA HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8102.ts
+
+#EXTINF:-1,FR: TF 1
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8104.ts
+
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8106.ts
+
+#EXTINF:-1,FR: GAME ONE
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8124.ts
+
+#EXTINF:-1,FR: NT1
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37528.ts
+
+#EXTINF:-1,FR: 6ter HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37529.ts
+
+#EXTINF:-1,FR: M6 HD
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37531.ts
+
+#EXTINF:-1,Afg: Kayhan TV (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/336.ts
+
+#EXTINF:-1,Afg: Pezhvak Show (.)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/334.ts
