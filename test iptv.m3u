@@ -1,1039 +1,1415 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
 25/08/2018 11:00 aM
-#EXTINF:-1,UK | BBC One HD
-http://bigstreams.tk:25461/live/charlie/1234/3038.ts
-#EXTINF:-1,UK | BBC One HD*
-http://bigstreams.tk:25461/live/charlie/1234/251.ts
-#EXTINF:-1,UK | (L) BBC One Wales FHD
-http://bigstreams.tk:25461/live/charlie/1234/19341.ts
-#EXTINF:-1,UK | BBC Two FHD
-http://bigstreams.tk:25461/live/charlie/1234/3416.ts
-#EXTINF:-1,UK | BBC Two HD
-http://bigstreams.tk:25461/live/charlie/1234/3036.ts
-#EXTINF:-1,UK | BBC Two HD*
-http://bigstreams.tk:25461/live/charlie/1234/250.ts
-#EXTINF:-1,UK | BBC Three*
-http://bigstreams.tk:25461/live/charlie/1234/249.ts
-#EXTINF:-1,UK | BBC Four HD
-http://bigstreams.tk:25461/live/charlie/1234/3040.ts
-#EXTINF:-1,UK | BBC Four*
-http://bigstreams.tk:25461/live/charlie/1234/248.ts
-#EXTINF:-1,UK | ITV 1 FHD
-http://bigstreams.tk:25461/live/charlie/1234/3417.ts
-#EXTINF:-1,UK | ITV 1 HD
-http://bigstreams.tk:25461/live/charlie/1234/2969.ts
-#EXTINF:-1,UK: ITV 1
-http://bigstreams.tk:25461/live/charlie/1234/2846.ts
-#EXTINF:-1,UK | ITV1 HD*
-http://bigstreams.tk:25461/live/charlie/1234/247.ts
-#EXTINF:-1,UK | (L) ITV 1 +1
-http://bigstreams.tk:25461/live/charlie/1234/19350.ts
-#EXTINF:-1,UK | ITV 2 HD
-http://bigstreams.tk:25461/live/charlie/1234/246.ts
-#EXTINF:-1,UK | ITV 2 HD*
-http://bigstreams.tk:25461/live/charlie/1234/2968.ts
-#EXTINF:-1,UK | (L) ITV 2 +1
-http://bigstreams.tk:25461/live/charlie/1234/19347.ts
-#EXTINF:-1,UK | ITV 3 HD*
-http://bigstreams.tk:25461/live/charlie/1234/245.ts
-#EXTINF:-1,UK | ITV 3 HD
-http://bigstreams.tk:25461/live/charlie/1234/2967.ts
-#EXTINF:-1,UK | ITV 4 HD*
-http://bigstreams.tk:25461/live/charlie/1234/2966.ts
-#EXTINF:-1,UK | ITV Be*
-http://bigstreams.tk:25461/live/charlie/1234/530.ts
-#EXTINF:-1,UK | ITV Be
-http://bigstreams.tk:25461/live/charlie/1234/2965.ts
-#EXTINF:-1,UK: Channel 4 FHD
-http://bigstreams.tk:25461/live/charlie/1234/3418.ts
-#EXTINF:-1,UK | Channel 4 HD*
-http://bigstreams.tk:25461/live/charlie/1234/243.ts
-#EXTINF:-1,UK | Channel 4
-http://bigstreams.tk:25461/live/charlie/1234/3013.ts
-#EXTINF:-1,UK | (L) Channel 4  +1
-http://bigstreams.tk:25461/live/charlie/1234/19346.ts
-#EXTINF:-1,UK | Channel 5 FHD
-http://bigstreams.tk:25461/live/charlie/1234/3419.ts
-#EXTINF:-1,UK | Channel 5 HD
-http://bigstreams.tk:25461/live/charlie/1234/3012.ts
-#EXTINF:-1,UK | Channel 5 SD
-http://bigstreams.tk:25461/live/charlie/1234/2850.ts
-#EXTINF:-1,UK | (L) Channel 5 +1
-http://bigstreams.tk:25461/live/charlie/1234/19345.ts
-#EXTINF:-1,UK | Channel 5*
-http://bigstreams.tk:25461/live/charlie/1234/242.ts
-#EXTINF:-1,UK | Sky One FHD
-http://bigstreams.tk:25461/live/charlie/1234/3420.ts
-#EXTINF:-1,UK | Sky One HD
-http://bigstreams.tk:25461/live/charlie/1234/505.ts
-#EXTINF:-1,UK | Sky One*
-http://bigstreams.tk:25461/live/charlie/1234/2899.ts
-#EXTINF:-1,UK | Sky 2
-http://bigstreams.tk:25461/live/charlie/1234/2927.ts
-#EXTINF:-1,UK | Sky Atlantic FHD
-http://bigstreams.tk:25461/live/charlie/1234/2925.ts
-#EXTINF:-1,UK | Sky Atlantic
-http://bigstreams.tk:25461/live/charlie/1234/2924.ts
-#EXTINF:-1,UK | Sky Atlantic HD*
-http://bigstreams.tk:25461/live/charlie/1234/241.ts
-#EXTINF:-1,UK | Sky Living FHD
-http://bigstreams.tk:25461/live/charlie/1234/3421.ts
-#EXTINF:-1,UK | Sky Living
-http://bigstreams.tk:25461/live/charlie/1234/2901.ts
-#EXTINF:-1,UK | Sky Arts
-http://bigstreams.tk:25461/live/charlie/1234/2926.ts
-#EXTINF:-1,UK | (L) Comedy Central
-http://bigstreams.tk:25461/live/charlie/1234/19335.ts
-#EXTINF:-1,UK | Comedy Central
-http://bigstreams.tk:25461/live/charlie/1234/239.ts
-#EXTINF:-1,UK | (L) Comedy Central  +1
-http://bigstreams.tk:25461/live/charlie/1234/19334.ts
-#EXTINF:-1,UK | Comedy Central +1
-http://bigstreams.tk:25461/live/charlie/1234/3005.ts
-#EXTINF:-1,UK | Comedy Central Extra
-http://bigstreams.tk:25461/live/charlie/1234/3006.ts
-#EXTINF:-1,UK | (L) Comedy Xtra
-http://bigstreams.tk:25461/live/charlie/1234/19333.ts
-#EXTINF:-1,UK | Good Food
-http://bigstreams.tk:25461/live/charlie/1234/3485.ts
-#EXTINF:-1,UK | Syfy HD
-http://bigstreams.tk:25461/live/charlie/1234/2875.ts
-#EXTINF:-1,UK | SYFY
-http://bigstreams.tk:25461/live/charlie/1234/3462.ts
-#EXTINF:-1,UK | SYFY*
-http://bigstreams.tk:25461/live/charlie/1234/3461.ts
-#EXTINF:-1,UK | (L) SYFY +1
-http://bigstreams.tk:25461/live/charlie/1234/19325.ts
-#EXTINF:-1,UK | W HD
-http://bigstreams.tk:25461/live/charlie/1234/2865.ts
-#EXTINF:-1,UK | W
-http://bigstreams.tk:25461/live/charlie/1234/2864.ts
-#EXTINF:-1,UK | (L) W +1
-http://bigstreams.tk:25461/live/charlie/1234/19324.ts
-#EXTINF:-1,UK | Alibi
-http://bigstreams.tk:25461/live/charlie/1234/3047.ts
-#EXTINF:-1,UK | (L) Alibi
-http://bigstreams.tk:25461/live/charlie/1234/19344.ts
-#EXTINF:-1,UK | (L) Alibi  1
-http://bigstreams.tk:25461/live/charlie/1234/19343.ts
-#EXTINF:-1,UK | Gold
-http://bigstreams.tk:25461/live/charlie/1234/2976.ts
-#EXTINF:-1,UK | (L) Gold +1
-http://bigstreams.tk:25461/live/charlie/1234/19331.ts
-#EXTINF:-1,UK |  Dave*
-http://bigstreams.tk:25461/live/charlie/1234/510.ts
-#EXTINF:-1,UK | Dave
-http://bigstreams.tk:25461/live/charlie/1234/3003.ts
-#EXTINF:-1,UK | Dave Ja Vu
-http://bigstreams.tk:25461/live/charlie/1234/3489.ts
-#EXTINF:-1,UK | Dave JaVu
-http://bigstreams.tk:25461/live/charlie/1234/3002.ts
-#EXTINF:-1,UK | Yesterday
-http://bigstreams.tk:25461/live/charlie/1234/3456.ts
-#EXTINF:-1,UK | (L) Yesterday +1
-http://bigstreams.tk:25461/live/charlie/1234/19323.ts
-#EXTINF:-1,UK | TLC
-http://bigstreams.tk:25461/live/charlie/1234/2872.ts
-#EXTINF:-1,UK | 5 Spike
-http://bigstreams.tk:25461/live/charlie/1234/3463.ts
-#EXTINF:-1,UK | Universal Channel
-http://bigstreams.tk:25461/live/charlie/1234/2870.ts
-#EXTINF:-1,UK | (L) Universal+1
-http://bigstreams.tk:25461/live/charlie/1234/19353.ts
-#EXTINF:-1,UK | Lifetime
-http://bigstreams.tk:25461/live/charlie/1234/529.ts
-#EXTINF:-1,UK | Quest
-http://bigstreams.tk:25461/live/charlie/1234/2934.ts
-#EXTINF:-1,UK | Quest*
-http://bigstreams.tk:25461/live/charlie/1234/533.ts
-#EXTINF:-1,UK | (L) Quest +1
-http://bigstreams.tk:25461/live/charlie/1234/19326.ts
-#EXTINF:-1,UK | Drama
-http://bigstreams.tk:25461/live/charlie/1234/2991.ts
-#EXTINF:-1,UK |  E!
-http://bigstreams.tk:25461/live/charlie/1234/509.ts
-#EXTINF:-1,UK | E!
-http://bigstreams.tk:25461/live/charlie/1234/2990.ts
-#EXTINF:-1,UK | E4
-http://bigstreams.tk:25461/live/charlie/1234/2989.ts
-#EXTINF:-1,UK | E4 HD*
-http://bigstreams.tk:25461/live/charlie/1234/238.ts
-#EXTINF:-1,UK | More 4 HD
-http://bigstreams.tk:25461/live/charlie/1234/2958.ts
-#EXTINF:-1,UK | Eden
-http://bigstreams.tk:25461/live/charlie/1234/2987.ts
-#EXTINF:-1,UK | Eden*
-http://bigstreams.tk:25461/live/charlie/1234/534.ts
-#EXTINF:-1,UK | (L) Eden +1
-http://bigstreams.tk:25461/live/charlie/1234/19332.ts
-#EXTINF:-1,UK | MTV HD
-http://bigstreams.tk:25461/live/charlie/1234/1014.ts
-#EXTINF:-1,UK | True Entertainment
-http://bigstreams.tk:25461/live/charlie/1234/3457.ts
-#EXTINF:-1,UK | (L)  CBS Drama
-http://bigstreams.tk:25461/live/charlie/1234/19338.ts
-#EXTINF:-1,UK | CBS Drama*
-http://bigstreams.tk:25461/live/charlie/1234/240.ts
-#EXTINF:-1,UK | CBS Drama
-http://bigstreams.tk:25461/live/charlie/1234/3017.ts
-#EXTINF:-1,UK | (L) CBS Action
-http://bigstreams.tk:25461/live/charlie/1234/19339.ts
-#EXTINF:-1,UK | CBS Action
-http://bigstreams.tk:25461/live/charlie/1234/3018.ts
-#EXTINF:-1,UK | (L) CBS Reality
-http://bigstreams.tk:25461/live/charlie/1234/19337.ts
-#EXTINF:-1,UK | CBS Reality
-http://bigstreams.tk:25461/live/charlie/1234/3016.ts
-#EXTINF:-1,UK | (L) CBS Reality  1
-http://bigstreams.tk:25461/live/charlie/1234/19336.ts
-#EXTINF:-1,UK | Pick
-http://bigstreams.tk:25461/live/charlie/1234/2938.ts
-#EXTINF:-1,UK | Home
-http://bigstreams.tk:25461/live/charlie/1234/3483.ts
-#EXTINF:-1,UK | Home & Health
-http://bigstreams.tk:25461/live/charlie/1234/3482.ts
-#EXTINF:-1,UK | (L) Home & Health 1
-http://bigstreams.tk:25461/live/charlie/1234/19329.ts
-#EXTINF:-1,UK | TG4
-http://bigstreams.tk:25461/live/charlie/1234/504.ts
-#EXTINF:-1,UK | RTE 1 HD
-http://bigstreams.tk:25461/live/charlie/1234/235.ts
-#EXTINF:-1,UK | RTE 2 HD
-http://bigstreams.tk:25461/live/charlie/1234/234.ts
-#EXTINF:-1,UK | 4seven
-http://bigstreams.tk:25461/live/charlie/1234/3054.ts
-#EXTINF:-1,UK | 4seven HD
-http://bigstreams.tk:25461/live/charlie/1234/3052.ts
-#EXTINF:-1,UK | 5 Star
-http://bigstreams.tk:25461/live/charlie/1234/3051.ts
-#EXTINF:-1,UK | 5 Usa
-http://bigstreams.tk:25461/live/charlie/1234/3050.ts
-#EXTINF:-1,UK | 5 usa +1
-http://bigstreams.tk:25461/live/charlie/1234/3049.ts
-#EXTINF:-1,UK | 5Star
-http://bigstreams.tk:25461/live/charlie/1234/3048.ts
-#EXTINF:-1,UK | AMC
-http://bigstreams.tk:25461/live/charlie/1234/3046.ts
-#EXTINF:-1,UK | Challenge
-http://bigstreams.tk:25461/live/charlie/1234/3015.ts
-#EXTINF:-1,UK | H2
-http://bigstreams.tk:25461/live/charlie/1234/2975.ts
-#EXTINF:-1,UK | Horror Channel
-http://bigstreams.tk:25461/live/charlie/1234/2971.ts
-#EXTINF:-1,UK | (L) Horror Channel +1
-http://bigstreams.tk:25461/live/charlie/1234/19328.ts
-#EXTINF:-1,UK | Really
-http://bigstreams.tk:25461/live/charlie/1234/2930.ts
-#EXTINF:-1,UK | UTV
-http://bigstreams.tk:25461/live/charlie/1234/2869.ts
-#EXTINF:-1,UK | Travel Channel
-http://bigstreams.tk:25461/live/charlie/1234/3460.ts
-#EXTINF:-1,UK | VIirtual Betting Channel
-http://bigstreams.tk:25461/live/charlie/1234/14656.ts
-#EXTINF:-1,UK | William Hill TV
-http://bigstreams.tk:25461/live/charlie/1234/14655.ts
-#EXTINF:-1,UK | Betfred
-http://bigstreams.tk:25461/live/charlie/1234/14661.ts
-#EXTINF:-1,UK | Coral TV
-http://bigstreams.tk:25461/live/charlie/1234/14660.ts
-#EXTINF:-1,UK: Ladbrokes TV
-http://bigstreams.tk:25461/live/charlie/1234/14659.ts
-#EXTINF:-1,UK | Sheffield Steelers
-http://bigstreams.tk:25461/live/charlie/1234/14654.ts
-#EXTINF:-1,(L)BBC One NI FHD
-http://bigstreams.tk:25461/live/charlie/1234/20822.ts
-#EXTINF:-1,(L)BBC One Scot FHD
-http://bigstreams.tk:25461/live/charlie/1234/20821.ts
-#EXTINF:-1,(L)BBC One Wales FHD
-http://bigstreams.tk:25461/live/charlie/1234/20820.ts
-#EXTINF:-1,(L)ITV Central West
-http://bigstreams.tk:25461/live/charlie/1234/20819.ts
-#EXTINF:-1,(L)ITV Granada FHD
-http://bigstreams.tk:25461/live/charlie/1234/20818.ts
-#EXTINF:-1,(L)ITV London
-http://bigstreams.tk:25461/live/charlie/1234/20817.ts
-#EXTINF:-1,(L)ITV Meridian
-http://bigstreams.tk:25461/live/charlie/1234/20816.ts
-#EXTINF:-1,(L)ITV Tyne Tees FHD
-http://bigstreams.tk:25461/live/charlie/1234/20815.ts
-#EXTINF:-1,(L)ITV Wales FHD
-http://bigstreams.tk:25461/live/charlie/1234/20814.ts
-#EXTINF:-1,(L)ITV Westcountry South West FHD
-http://bigstreams.tk:25461/live/charlie/1234/20813.ts
-#EXTINF:-1,(L)ITV Westcountry West FHD
-http://bigstreams.tk:25461/live/charlie/1234/20812.ts
-#EXTINF:-1,(L)ITV Yorkshire
-http://bigstreams.tk:25461/live/charlie/1234/20811.ts
-#EXTINF:-1,UK | I.D HD
-http://bigstreams.tk:25461/live/charlie/1234/2970.ts
-#EXTINF:-1,UK | (L) I.D +1
-http://bigstreams.tk:25461/live/charlie/1234/19327.ts
-#EXTINF:-1,UK | Discovery History*
-http://bigstreams.tk:25461/live/charlie/1234/256.ts
-#EXTINF:-1,UK | Investigation Discovery HD*
-http://bigstreams.tk:25461/live/charlie/1234/257.ts
-#EXTINF:-1,UK |  Discovery Turbo
-http://bigstreams.tk:25461/live/charlie/1234/258.ts
-#EXTINF:-1,UK | Discovery History HD
-http://bigstreams.tk:25461/live/charlie/1234/259.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://bigstreams.tk:25461/live/charlie/1234/260.ts
-#EXTINF:-1,UK | Crime & Investigation HD
-http://bigstreams.tk:25461/live/charlie/1234/3004.ts
-#EXTINF:-1,UK | Crime And Investigation
-http://bigstreams.tk:25461/live/charlie/1234/3442.ts
-#EXTINF:-1,UK | Crime And Investigation HD
-http://bigstreams.tk:25461/live/charlie/1234/3441.ts
-#EXTINF:-1,UK | Animal Planet HD
-http://bigstreams.tk:25461/live/charlie/1234/3045.ts
-#EXTINF:-1,UK | Animal Planet*
-http://bigstreams.tk:25461/live/charlie/1234/255.ts
-#EXTINF:-1,UK | History FHD
-http://bigstreams.tk:25461/live/charlie/1234/2973.ts
-#EXTINF:-1,UK | History
-http://bigstreams.tk:25461/live/charlie/1234/2972.ts
-#EXTINF:-1,UK | National Geo Wild HD*
-http://bigstreams.tk:25461/live/charlie/1234/254.ts
-#EXTINF:-1,UK | Nat Geographic HD*
-http://bigstreams.tk:25461/live/charlie/1234/253.ts
-#EXTINF:-1,UK | Disc History
-http://bigstreams.tk:25461/live/charlie/1234/3001.ts
-#EXTINF:-1,UK | Disc Science
-http://bigstreams.tk:25461/live/charlie/1234/3000.ts
-#EXTINF:-1,UK | Discovery Channel HD
-http://bigstreams.tk:25461/live/charlie/1234/2999.ts
-#EXTINF:-1,UK | Discovery Channel*
-http://bigstreams.tk:25461/live/charlie/1234/2998.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://bigstreams.tk:25461/live/charlie/1234/2996.ts
-#EXTINF:-1,UK | Nat Geo Wild
-http://bigstreams.tk:25461/live/charlie/1234/2945.ts
-#EXTINF:-1,IRE | BBC Northern Ireland
-http://bigstreams.tk:25461/live/charlie/1234/2863.ts
-#EXTINF:-1,IRE | RTE 1
-http://bigstreams.tk:25461/live/charlie/1234/3221.ts
-#EXTINF:-1,IRE | RTE 2
-http://bigstreams.tk:25461/live/charlie/1234/3220.ts
-#EXTINF:-1,IRE | RTE JNR
-http://bigstreams.tk:25461/live/charlie/1234/3219.ts
-#EXTINF:-1,IRE | 3e Ireland
-http://bigstreams.tk:25461/live/charlie/1234/3222.ts
-#EXTINF:-1,IRE | TG4
-http://bigstreams.tk:25461/live/charlie/1234/3217.ts
-#EXTINF:-1,IRE | TV3 HD
-http://bigstreams.tk:25461/live/charlie/1234/3216.ts
-#EXTINF:-1,IRE | UTV
-http://bigstreams.tk:25461/live/charlie/1234/3215.ts
-#EXTINF:-1,UK | MTV
-http://bigstreams.tk:25461/live/charlie/1234/2954.ts
-#EXTINF:-1,UK | MTV UK
-http://bigstreams.tk:25461/live/charlie/1234/106.ts
-#EXTINF:-1,UK | MTV Base
-http://bigstreams.tk:25461/live/charlie/1234/2953.ts
-#EXTINF:-1,UK | MTV Classics
-http://bigstreams.tk:25461/live/charlie/1234/2952.ts
-#EXTINF:-1,UK | MTV Dance
-http://bigstreams.tk:25461/live/charlie/1234/2951.ts
-#EXTINF:-1,UK | MTV Hits
-http://bigstreams.tk:25461/live/charlie/1234/2950.ts
-#EXTINF:-1,UK | MTV Music
-http://bigstreams.tk:25461/live/charlie/1234/2949.ts
-#EXTINF:-1,UK | MTV Rocks
-http://bigstreams.tk:25461/live/charlie/1234/2948.ts
-#EXTINF:-1,UK | MTV Rocks HD
-http://bigstreams.tk:25461/live/charlie/1234/107.ts
-#EXTINF:-1,UK | VH1
-http://bigstreams.tk:25461/live/charlie/1234/2868.ts
-#EXTINF:-1,UK | KISS
-http://bigstreams.tk:25461/live/charlie/1234/2962.ts
-#EXTINF:-1,UK | Now 80s
-http://bigstreams.tk:25461/live/charlie/1234/2941.ts
-#EXTINF:-1,UK | Now 90's
-http://bigstreams.tk:25461/live/charlie/1234/2940.ts
-#EXTINF:-1,UK | ViVA
-http://bigstreams.tk:25461/live/charlie/1234/2866.ts
-#EXTINF:-1,UK | Vintage TV
-http://bigstreams.tk:25461/live/charlie/1234/3505.ts
-#EXTINF:-1,UK | Box Hits
-http://bigstreams.tk:25461/live/charlie/1234/3033.ts
-#EXTINF:-1,UK | Chart Show Hits
-http://bigstreams.tk:25461/live/charlie/1234/3011.ts
-#EXTINF:-1,UK | Sky Cinema Premiere HD*
-http://bigstreams.tk:25461/live/charlie/1234/1013.ts
-#EXTINF:-1,UK | Sky Cinema Premier HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2912.ts
-#EXTINF:-1,UK | Sky Cinema Premiere
-http://bigstreams.tk:25461/live/charlie/1234/2911.ts
-#EXTINF:-1,UK | Sky Cinema Premiere +1
-http://bigstreams.tk:25461/live/charlie/1234/3422.ts
-#EXTINF:-1,UK | Sky Cinema Action HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3410.ts
-#EXTINF:-1,UK | Sky Cinema Action HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/1006.ts
-#EXTINF:-1,UK | Sky Cinema Action HD*
-http://bigstreams.tk:25461/live/charlie/1234/2923.ts
-#EXTINF:-1,UK | Sky Cinema Comedy HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3411.ts
-#EXTINF:-1,UK | Sky Cinema Comedy HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2922.ts
-#EXTINF:-1,UK | Sky Cinema Comedy HD*
-http://bigstreams.tk:25461/live/charlie/1234/979.ts
-#EXTINF:-1,UK | Sky Cinema Thriller HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3412.ts
-#EXTINF:-1,UK | Sky Cinema Thriller HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/1004.ts
-#EXTINF:-1,UK | Sky Cinema Family HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3409.ts
-#EXTINF:-1,UK | Sky Cinema Family HD
-http://bigstreams.tk:25461/live/charlie/1234/1007.ts
-#EXTINF:-1,UK | Sky Cinema Family HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2917.ts
-#EXTINF:-1,UK | Sky Cinema Family*
-http://bigstreams.tk:25461/live/charlie/1234/2916.ts
-#EXTINF:-1,UK | Sky Cinema Hits HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/1010.ts
-#EXTINF:-1,UK | Sky Cinema Hits HD
-http://bigstreams.tk:25461/live/charlie/1234/2915.ts
-#EXTINF:-1,UK | Sky Cinema Scifi & Horror HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3413.ts
-#EXTINF:-1,UK | Sky Cinema SciFi & Horror HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/1003.ts
-#EXTINF:-1,UK | Sky Cinema Scifi & Horror*
-http://bigstreams.tk:25461/live/charlie/1234/2910.ts
-#EXTINF:-1,UK | Sky Cinema Scifi & Horror
-http://bigstreams.tk:25461/live/charlie/1234/2909.ts
-#EXTINF:-1,UK | Sky Cinema Select (main)
-http://bigstreams.tk:25461/live/charlie/1234/1002.ts
-#EXTINF:-1,UK | Sky Cinema Select HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3414.ts
-#EXTINF:-1,UK | Sky Cinema Select HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2908.ts
-#EXTINF:-1,UK | Sky Cinema Select
-http://bigstreams.tk:25461/live/charlie/1234/2843.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/3408.ts
-#EXTINF:-1,UK | Sky Cinema Disney HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2920.ts
-#EXTINF:-1,UK | Sky Cinema Disney*
-http://bigstreams.tk:25461/live/charlie/1234/2919.ts
-#EXTINF:-1,UK | Sky Cinema Disney HD
-http://bigstreams.tk:25461/live/charlie/1234/1008.ts
-#EXTINF:-1,UK | Sky Cinema Drama & Romance
-http://bigstreams.tk:25461/live/charlie/1234/2918.ts
-#EXTINF:-1,UK | Sky Cinema Drama & Romance HD*
-http://bigstreams.tk:25461/live/charlie/1234/980.ts
-#EXTINF:-1,UK | Sky Cinema Greats HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/1009.ts
-#EXTINF:-1,UK | Sky Cinema Thriller HD
-http://bigstreams.tk:25461/live/charlie/1234/2905.ts
-#EXTINF:-1,UK | FILM 4 HD
-http://bigstreams.tk:25461/live/charlie/1234/3542.ts
-#EXTINF:-1,UK | FILM 4
-http://bigstreams.tk:25461/live/charlie/1234/3544.ts
-#EXTINF:-1,UK | Film4
-http://bigstreams.tk:25461/live/charlie/1234/2981.ts
-#EXTINF:-1,UK | True Movies
-http://bigstreams.tk:25461/live/charlie/1234/2871.ts
-#EXTINF:-1,UK | Movies4Men
-http://bigstreams.tk:25461/live/charlie/1234/2955.ts
-#EXTINF:-1,UK | TCM
-http://bigstreams.tk:25461/live/charlie/1234/3509.ts
-#EXTINF:-1,UK | TCM HD
-http://bigstreams.tk:25461/live/charlie/1234/2874.ts
-#EXTINF:-1,UK | Cartoon Network HD
-http://bigstreams.tk:25461/live/charlie/1234/3021.ts
-#EXTINF:-1,UK | Cartoonito
-http://bigstreams.tk:25461/live/charlie/1234/101.ts
-#EXTINF:-1,UK | Boomerang
-http://bigstreams.tk:25461/live/charlie/1234/102.ts
-#EXTINF:-1,UK | Disney Channel
-http://bigstreams.tk:25461/live/charlie/1234/99.ts
-#EXTINF:-1,UK | Disney Channel*
-http://bigstreams.tk:25461/live/charlie/1234/2995.ts
-#EXTINF:-1,UK | Disney Junior HD
-http://bigstreams.tk:25461/live/charlie/1234/2994.ts
-#EXTINF:-1,UK | Disney Junior*
-http://bigstreams.tk:25461/live/charlie/1234/100.ts
-#EXTINF:-1,UK | Disney XD HD
-http://bigstreams.tk:25461/live/charlie/1234/2993.ts
-#EXTINF:-1,UK | Nick Junior
-http://bigstreams.tk:25461/live/charlie/1234/2942.ts
-#EXTINF:-1,UK | Nick Jr
-http://bigstreams.tk:25461/live/charlie/1234/97.ts
-#EXTINF:-1,UK | Nick JR Too
-http://bigstreams.tk:25461/live/charlie/1234/2943.ts
-#EXTINF:-1,UK | Nickelodeon
-http://bigstreams.tk:25461/live/charlie/1234/96.ts
-#EXTINF:-1,UK | Nicktoons
-http://bigstreams.tk:25461/live/charlie/1234/94.ts
-#EXTINF:-1,UK | Baby TV
-http://bigstreams.tk:25461/live/charlie/1234/103.ts
-#EXTINF:-1,UK | CBBC HD
-http://bigstreams.tk:25461/live/charlie/1234/3020.ts
-#EXTINF:-1,UK | CBeebies HD
-http://bigstreams.tk:25461/live/charlie/1234/3019.ts
-#EXTINF:-1,UK | Pop
-http://bigstreams.tk:25461/live/charlie/1234/2937.ts
-#EXTINF:-1,UK |  Sky News HD
-http://bigstreams.tk:25461/live/charlie/1234/479.ts
-#EXTINF:-1,UK | Sky News HD*
-http://bigstreams.tk:25461/live/charlie/1234/2900.ts
-#EXTINF:-1,UK | (L) BBC News FHD
-http://bigstreams.tk:25461/live/charlie/1234/19351.ts
-#EXTINF:-1,UK | BBC News HD
-http://bigstreams.tk:25461/live/charlie/1234/3039.ts
-#EXTINF:-1,UK | Euronews
-http://bigstreams.tk:25461/live/charlie/1234/3436.ts
-#EXTINF:-1,IRE | RTE News
-http://bigstreams.tk:25461/live/charlie/1234/3218.ts
-#EXTINF:-1,UK | AL JAZEERA
-http://bigstreams.tk:25461/live/charlie/1234/15961.ts
-#EXTINF:-1,UK | Sky Sports Main Event FHD
-http://bigstreams.tk:25461/live/charlie/1234/15870.ts
-#EXTINF:-1,UK | Sky Sports Main Event FHD2
-http://bigstreams.tk:25461/live/charlie/1234/15869.ts
-#EXTINF:-1,UK | Sky Sports Main Event HD
-http://bigstreams.tk:25461/live/charlie/1234/2885.ts
-#EXTINF:-1,UK | Sky Sports Main Event HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/1001.ts
-#EXTINF:-1,UK | Sky Sports Main Event*
-http://bigstreams.tk:25461/live/charlie/1234/2884.ts
-#EXTINF:-1,UK | Sky Sports Prem League FHD
-http://bigstreams.tk:25461/live/charlie/1234/15868.ts
-#EXTINF:-1,UK | Sky Sports Premier League FHD*
-http://bigstreams.tk:25461/live/charlie/1234/15867.ts
-#EXTINF:-1,UK | Sky Sports Premier League HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/1000.ts
-#EXTINF:-1,UK | Sky Sports Premier League HD (main)
-http://bigstreams.tk:25461/live/charlie/1234/2878.ts
-#EXTINF:-1,UK | Sky Sports Premier League HD*
-http://bigstreams.tk:25461/live/charlie/1234/130.ts
-#EXTINF:-1,UK | Sky Sports Action FHD
-http://bigstreams.tk:25461/live/charlie/1234/15858.ts
-#EXTINF:-1,UK | Sky Sports Action FHD*
-http://bigstreams.tk:25461/live/charlie/1234/15857.ts
-#EXTINF:-1,UK | Sky Sports Action HD (L)
-http://bigstreams.tk:25461/live/charlie/1234/995.ts
-#EXTINF:-1,UK | Sky Sports Action HD*
-http://bigstreams.tk:25461/live/charlie/1234/2897.ts
-#EXTINF:-1,UK | Sky Sports Arena FHD
-http://bigstreams.tk:25461/live/charlie/1234/15856.ts
-#EXTINF:-1,US |  HBO Zone HD
-http://bigstreams.tk:25461/live/charlie/1234/27481.ts
-#EXTINF:-1,US | A&E
-http://bigstreams.tk:25461/live/charlie/1234/27760.ts
-#EXTINF:-1,US | AandE US
-http://bigstreams.tk:25461/live/charlie/1234/27536.ts
-#EXTINF:-1,US | ABC
-http://bigstreams.tk:25461/live/charlie/1234/27749.ts
-#EXTINF:-1,US | ABC HD
-http://bigstreams.tk:25461/live/charlie/1234/27546.ts
-#EXTINF:-1,US | ABC NEWS
-http://bigstreams.tk:25461/live/charlie/1234/27759.ts
-#EXTINF:-1,US | ABC News 24
-http://bigstreams.tk:25461/live/charlie/1234/27535.ts
-#EXTINF:-1,US | Action Max HD
-http://bigstreams.tk:25461/live/charlie/1234/27534.ts
-#EXTINF:-1,US | Adult Swim Channel
-http://bigstreams.tk:25461/live/charlie/1234/27748.ts
-#EXTINF:-1,US | AFN MOVIE
-http://bigstreams.tk:25461/live/charlie/1234/27747.ts
-#EXTINF:-1,US | AFN MOVIES HD
-http://bigstreams.tk:25461/live/charlie/1234/27548.ts
-#EXTINF:-1,US | AFN NEWS
-http://bigstreams.tk:25461/live/charlie/1234/27746.ts
-#EXTINF:-1,US | AFN PRIME ATLANTIC
-http://bigstreams.tk:25461/live/charlie/1234/27745.ts
-#EXTINF:-1,US | AFN Spectrum
-http://bigstreams.tk:25461/live/charlie/1234/27758.ts
-#EXTINF:-1,US | AFN SPORTS
-http://bigstreams.tk:25461/live/charlie/1234/27744.ts
-#EXTINF:-1,US | AMC
-http://bigstreams.tk:25461/live/charlie/1234/27743.ts
-#EXTINF:-1,US | Animal Planet
-http://bigstreams.tk:25461/live/charlie/1234/27533.ts
-#EXTINF:-1,US | ANIMAL PLANET HD
-http://bigstreams.tk:25461/live/charlie/1234/27757.ts
-#EXTINF:-1,US | Atlanta Channel
-http://bigstreams.tk:25461/live/charlie/1234/27742.ts
-#EXTINF:-1,US | Beach TV - Panama City
-http://bigstreams.tk:25461/live/charlie/1234/27741.ts
-#EXTINF:-1,US | Beach TV - Pawleys Island
-http://bigstreams.tk:25461/live/charlie/1234/27740.ts
-#EXTINF:-1,US | Bein Sports
-http://bigstreams.tk:25461/live/charlie/1234/27532.ts
-#EXTINF:-1,US | Bein Sports  HD
-http://bigstreams.tk:25461/live/charlie/1234/27739.ts
-#EXTINF:-1,US | BEIN SPORTS FHD
-http://bigstreams.tk:25461/live/charlie/1234/27738.ts
-#EXTINF:-1,US | Benfica TV
-http://bigstreams.tk:25461/live/charlie/1234/27737.ts
-#EXTINF:-1,US | BET
-http://bigstreams.tk:25461/live/charlie/1234/27736.ts
-#EXTINF:-1,US | BET her
-http://bigstreams.tk:25461/live/charlie/1234/27735.ts
-#EXTINF:-1,US | Bloomberg
-http://bigstreams.tk:25461/live/charlie/1234/27531.ts
-#EXTINF:-1,US | BOOMERANG
-http://bigstreams.tk:25461/live/charlie/1234/27734.ts
-#EXTINF:-1,US | Bounce TV
-http://bigstreams.tk:25461/live/charlie/1234/27733.ts
-#EXTINF:-1,US | Bravo
-http://bigstreams.tk:25461/live/charlie/1234/27530.ts
-#EXTINF:-1,US | BRAVO HD
-http://bigstreams.tk:25461/live/charlie/1234/27756.ts
-#EXTINF:-1,US | Buzzer TV
-http://bigstreams.tk:25461/live/charlie/1234/27732.ts
-#EXTINF:-1,US | CARTOON NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27731.ts
-#EXTINF:-1,US | Cartoon Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27529.ts
-#EXTINF:-1,US | CBN
-http://bigstreams.tk:25461/live/charlie/1234/27730.ts
-#EXTINF:-1,US | CBS
-http://bigstreams.tk:25461/live/charlie/1234/27729.ts
-#EXTINF:-1,US | CBS HD
-http://bigstreams.tk:25461/live/charlie/1234/27557.ts
-#EXTINF:-1,US | CBS NEWS
-http://bigstreams.tk:25461/live/charlie/1234/27728.ts
-#EXTINF:-1,US | CBS SN
-http://bigstreams.tk:25461/live/charlie/1234/27727.ts
-#EXTINF:-1,US | CBS Sports Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27528.ts
-#EXTINF:-1,US | CINEMAX ACTIONMAX
-http://bigstreams.tk:25461/live/charlie/1234/27726.ts
-#EXTINF:-1,US | CINEMAX HD
-http://bigstreams.tk:25461/live/charlie/1234/27563.ts
-#EXTINF:-1,US | Cinemax moremax
-http://bigstreams.tk:25461/live/charlie/1234/27725.ts
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://bigstreams.tk:25461/live/charlie/1234/27724.ts
-#EXTINF:-1,US | CNBC
-http://bigstreams.tk:25461/live/charlie/1234/27723.ts
-#EXTINF:-1,US | CNBC HD
-http://bigstreams.tk:25461/live/charlie/1234/27722.ts
-#EXTINF:-1,US | CNBC WORLD
-http://bigstreams.tk:25461/live/charlie/1234/27721.ts
-#EXTINF:-1,US | CNN
-http://bigstreams.tk:25461/live/charlie/1234/27755.ts
-#EXTINF:-1,US | CNN HD
-http://bigstreams.tk:25461/live/charlie/1234/27720.ts
-#EXTINF:-1,US | CNN NEWS FHD
-http://bigstreams.tk:25461/live/charlie/1234/27567.ts
-#EXTINF:-1,US | Comedy Central
-http://bigstreams.tk:25461/live/charlie/1234/27527.ts
-#EXTINF:-1,US | COMEDY CENTRAL HD
-http://bigstreams.tk:25461/live/charlie/1234/27719.ts
-#EXTINF:-1,US | COOKING CHANNEL HD
-http://bigstreams.tk:25461/live/charlie/1234/27718.ts
-#EXTINF:-1,US | Cozi TV
-http://bigstreams.tk:25461/live/charlie/1234/27717.ts
-#EXTINF:-1,US | CW
-http://bigstreams.tk:25461/live/charlie/1234/27716.ts
-#EXTINF:-1,US | CW HD
-http://bigstreams.tk:25461/live/charlie/1234/27715.ts
-#EXTINF:-1,US | Daystar
-http://bigstreams.tk:25461/live/charlie/1234/27714.ts
-#EXTINF:-1,US | Daytona Beach TV
-http://bigstreams.tk:25461/live/charlie/1234/27713.ts
-#EXTINF:-1,US | Destination America
-http://bigstreams.tk:25461/live/charlie/1234/27754.ts
-#EXTINF:-1,US | DISCOVERY
-http://bigstreams.tk:25461/live/charlie/1234/27712.ts
-#EXTINF:-1,US | Discovery Channel HD
-http://bigstreams.tk:25461/live/charlie/1234/27711.ts
-#EXTINF:-1,US | Discovery Science HD
-http://bigstreams.tk:25461/live/charlie/1234/27710.ts
-#EXTINF:-1,US | Disney XD
-http://bigstreams.tk:25461/live/charlie/1234/27753.ts
-#EXTINF:-1,US | DIY Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27709.ts
-#EXTINF:-1,US | E!
-http://bigstreams.tk:25461/live/charlie/1234/27708.ts
-#EXTINF:-1,US | E! Entertainment
-http://bigstreams.tk:25461/live/charlie/1234/27707.ts
-#EXTINF:-1,US | EL REY NETWORK (FHD)
-http://bigstreams.tk:25461/live/charlie/1234/27706.ts
-#EXTINF:-1,US | EPIX
-http://bigstreams.tk:25461/live/charlie/1234/27705.ts
-#EXTINF:-1,US | ESPN
-http://bigstreams.tk:25461/live/charlie/1234/27704.ts
-#EXTINF:-1,US | ESPN 2
-http://bigstreams.tk:25461/live/charlie/1234/27703.ts
-#EXTINF:-1,US | ESPN 2 HD
-http://bigstreams.tk:25461/live/charlie/1234/27702.ts
-#EXTINF:-1,US | ESPN Deportes
-http://bigstreams.tk:25461/live/charlie/1234/27526.ts
-#EXTINF:-1,US | ESPN HD
-http://bigstreams.tk:25461/live/charlie/1234/27701.ts
-#EXTINF:-1,US | ESPN News HD
-http://bigstreams.tk:25461/live/charlie/1234/27525.ts
-#EXTINF:-1,US | ESPN U HD
-http://bigstreams.tk:25461/live/charlie/1234/27524.ts
-#EXTINF:-1,US | ESPN USA HD
-http://bigstreams.tk:25461/live/charlie/1234/27523.ts
-#EXTINF:-1,US | FANTASY SPORTS NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27700.ts
-#EXTINF:-1,US | FIGHT NETWORK (HD)
-http://bigstreams.tk:25461/live/charlie/1234/27699.ts
-#EXTINF:-1,US | FOOD NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27698.ts
-#EXTINF:-1,US | Food Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27697.ts
-#EXTINF:-1,US | FOX
-http://bigstreams.tk:25461/live/charlie/1234/27696.ts
-#EXTINF:-1,US | FOX 43
-http://bigstreams.tk:25461/live/charlie/1234/27695.ts
-#EXTINF:-1,US | Fox 5 Washington DC
-http://bigstreams.tk:25461/live/charlie/1234/27694.ts
-#EXTINF:-1,US | FOX BUSINESS
-http://bigstreams.tk:25461/live/charlie/1234/27693.ts
-#EXTINF:-1,US | FOX NEWS
-http://bigstreams.tk:25461/live/charlie/1234/27692.ts
-#EXTINF:-1,US | FOX NEWS HD
-http://bigstreams.tk:25461/live/charlie/1234/27522.ts
-#EXTINF:-1,US | FOX SOCCER PLUS HD
-http://bigstreams.tk:25461/live/charlie/1234/27691.ts
-#EXTINF:-1,US | Fox Sport 1
-http://bigstreams.tk:25461/live/charlie/1234/27690.ts
-#EXTINF:-1,US | FOX SPORTS 1 (HD)
-http://bigstreams.tk:25461/live/charlie/1234/27689.ts
-#EXTINF:-1,US | FOX SPORTS 1 HD
-http://bigstreams.tk:25461/live/charlie/1234/27688.ts
-#EXTINF:-1,US | Fox Sports 2
-http://bigstreams.tk:25461/live/charlie/1234/27687.ts
-#EXTINF:-1,US | FOX SPORTS 2 (HD)
-http://bigstreams.tk:25461/live/charlie/1234/27686.ts
-#EXTINF:-1,US | Fox Sports 2 HD
-http://bigstreams.tk:25461/live/charlie/1234/27521.ts
-#EXTINF:-1,US | FREEFORM
-http://bigstreams.tk:25461/live/charlie/1234/27685.ts
-#EXTINF:-1,US | FS 1
-http://bigstreams.tk:25461/live/charlie/1234/27752.ts
-#EXTINF:-1,US | FS 2
-http://bigstreams.tk:25461/live/charlie/1234/27751.ts
-#EXTINF:-1,US | FX
-http://bigstreams.tk:25461/live/charlie/1234/27520.ts
-#EXTINF:-1,US | FX East
-http://bigstreams.tk:25461/live/charlie/1234/27765.ts
-#EXTINF:-1,US | FX HD
-http://bigstreams.tk:25461/live/charlie/1234/27684.ts
-#EXTINF:-1,US | FXM
-http://bigstreams.tk:25461/live/charlie/1234/27683.ts
-#EXTINF:-1,US | FXX
-http://bigstreams.tk:25461/live/charlie/1234/27750.ts
-#EXTINF:-1,US | FYI
-http://bigstreams.tk:25461/live/charlie/1234/27682.ts
-#EXTINF:-1,US | Golf HD
-http://bigstreams.tk:25461/live/charlie/1234/27519.ts
-#EXTINF:-1,US | GRIT TV
-http://bigstreams.tk:25461/live/charlie/1234/27681.ts
-#EXTINF:-1,US | HALLMARK
-http://bigstreams.tk:25461/live/charlie/1234/27680.ts
-#EXTINF:-1,US | HALLMARK HD
-http://bigstreams.tk:25461/live/charlie/1234/27679.ts
-#EXTINF:-1,US | HALLMARK M&M
-http://bigstreams.tk:25461/live/charlie/1234/27678.ts
-#EXTINF:-1,US | HBO
-http://bigstreams.tk:25461/live/charlie/1234/27677.ts
-#EXTINF:-1,US | HBO Comedy
-http://bigstreams.tk:25461/live/charlie/1234/27676.ts
-#EXTINF:-1,US | HBO Comedy HD
-http://bigstreams.tk:25461/live/charlie/1234/27581.ts
-#EXTINF:-1,US | HBO Family
-http://bigstreams.tk:25461/live/charlie/1234/27580.ts
-#EXTINF:-1,US | HBO Family HD
-http://bigstreams.tk:25461/live/charlie/1234/27675.ts
-#EXTINF:-1,US | HBO HD
-http://bigstreams.tk:25461/live/charlie/1234/27674.ts
-#EXTINF:-1,US | HBO Signature
-http://bigstreams.tk:25461/live/charlie/1234/27518.ts
-#EXTINF:-1,US | HBO Zone
-http://bigstreams.tk:25461/live/charlie/1234/27517.ts
-#EXTINF:-1,US | HBO Zone HD
-http://bigstreams.tk:25461/live/charlie/1234/27673.ts
-#EXTINF:-1,US | HGTV
-http://bigstreams.tk:25461/live/charlie/1234/27672.ts
-#EXTINF:-1,US | HGTV HD
-http://bigstreams.tk:25461/live/charlie/1234/27671.ts
-#EXTINF:-1,US | HISTORY
-http://bigstreams.tk:25461/live/charlie/1234/27516.ts
-#EXTINF:-1,US | HISTORY (FHD)
-http://bigstreams.tk:25461/live/charlie/1234/27670.ts
-#EXTINF:-1,US | HISTORY HD
-http://bigstreams.tk:25461/live/charlie/1234/27669.ts
-#EXTINF:-1,US | ID DISCOVERY
-http://bigstreams.tk:25461/live/charlie/1234/27562.ts
-#EXTINF:-1,US | INVESTIGATION DISCOVERY
-http://bigstreams.tk:25461/live/charlie/1234/27668.ts
-#EXTINF:-1,US | Investigation Discovery HD
-http://bigstreams.tk:25461/live/charlie/1234/27515.ts
-#EXTINF:-1,US | ION HD
-http://bigstreams.tk:25461/live/charlie/1234/27667.ts
-#EXTINF:-1,US | Key TV
-http://bigstreams.tk:25461/live/charlie/1234/27666.ts
-#EXTINF:-1,US | LIFE TIME
-http://bigstreams.tk:25461/live/charlie/1234/27665.ts
-#EXTINF:-1,US | LifeTime
-http://bigstreams.tk:25461/live/charlie/1234/27579.ts
-#EXTINF:-1,US | LIFETIME HD
-http://bigstreams.tk:25461/live/charlie/1234/27551.ts
-#EXTINF:-1,US | LIFETIME MOVIES
-http://bigstreams.tk:25461/live/charlie/1234/27664.ts
-#EXTINF:-1,US | MBL NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27555.ts
-#EXTINF:-1,US | Miami TV
-http://bigstreams.tk:25461/live/charlie/1234/27663.ts
-#EXTINF:-1,US | MLB NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27550.ts
-#EXTINF:-1,US | MLB Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27514.ts
-#EXTINF:-1,US | MoreMax HD
-http://bigstreams.tk:25461/live/charlie/1234/27513.ts
-#EXTINF:-1,US | MSG HD
-http://bigstreams.tk:25461/live/charlie/1234/27662.ts
-#EXTINF:-1,US | MSNBC
-http://bigstreams.tk:25461/live/charlie/1234/27556.ts
-#EXTINF:-1,US | MTV
-http://bigstreams.tk:25461/live/charlie/1234/27661.ts
-#EXTINF:-1,US | NAT GEO
-http://bigstreams.tk:25461/live/charlie/1234/27566.ts
-#EXTINF:-1,US | NAT GEO WILD
-http://bigstreams.tk:25461/live/charlie/1234/27660.ts
-#EXTINF:-1,US | NAT GEO WILD HD
-http://bigstreams.tk:25461/live/charlie/1234/27659.ts
-#EXTINF:-1,US | National Geographic
-http://bigstreams.tk:25461/live/charlie/1234/27512.ts
-#EXTINF:-1,US | NBA
-http://bigstreams.tk:25461/live/charlie/1234/27545.ts
-#EXTINF:-1,US | NBA HD
-http://bigstreams.tk:25461/live/charlie/1234/27511.ts
-#EXTINF:-1,US | NBA TV
-http://bigstreams.tk:25461/live/charlie/1234/27658.ts
-#EXTINF:-1,US | NBA TV (HD)
-http://bigstreams.tk:25461/live/charlie/1234/27657.ts
-#EXTINF:-1,US | NBA TV HD
-http://bigstreams.tk:25461/live/charlie/1234/27656.ts
-#EXTINF:-1,US | NBC
-http://bigstreams.tk:25461/live/charlie/1234/27655.ts
-#EXTINF:-1,US | NBC  GOLF
-http://bigstreams.tk:25461/live/charlie/1234/27654.ts
-#EXTINF:-1,US | NBC (HD)
-http://bigstreams.tk:25461/live/charlie/1234/27653.ts
-#EXTINF:-1,US | NBC EAST HD
-http://bigstreams.tk:25461/live/charlie/1234/27652.ts
-#EXTINF:-1,US | NBC GOLD 1(FHD)
-http://bigstreams.tk:25461/live/charlie/1234/27651.ts
-#EXTINF:-1,US | NBC GOLD 2(FHD)
-http://bigstreams.tk:25461/live/charlie/1234/27650.ts
-#EXTINF:-1,US | NBC GOLD 3(LIVE ONLY)
-http://bigstreams.tk:25461/live/charlie/1234/27649.ts
-#EXTINF:-1,US | NBC GOLD 4(LIVE ONLY)
-http://bigstreams.tk:25461/live/charlie/1234/27648.ts
-#EXTINF:-1,US | NBC GOLD 5 (FHD)
-http://bigstreams.tk:25461/live/charlie/1234/27647.ts
-#EXTINF:-1,US | NBC GOLD 6
-http://bigstreams.tk:25461/live/charlie/1234/27646.ts
-#EXTINF:-1,US | NBC GOLF HD
-http://bigstreams.tk:25461/live/charlie/1234/27645.ts
-#EXTINF:-1,US | NBC SPORT
-http://bigstreams.tk:25461/live/charlie/1234/27644.ts
-#EXTINF:-1,US | NBC SPORTS
-http://bigstreams.tk:25461/live/charlie/1234/27565.ts
-#EXTINF:-1,US | NBC SPORTS BAY AREA HD
-http://bigstreams.tk:25461/live/charlie/1234/27643.ts
-#EXTINF:-1,US | NHL Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27508.ts
-#EXTINF:-1,US | Nick
-http://bigstreams.tk:25461/live/charlie/1234/27578.ts
-#EXTINF:-1,US | Nick HD
-http://bigstreams.tk:25461/live/charlie/1234/27629.ts
-#EXTINF:-1,US | NICK jr
-http://bigstreams.tk:25461/live/charlie/1234/27628.ts
-#EXTINF:-1,US | NICK USA
-http://bigstreams.tk:25461/live/charlie/1234/27627.ts
-#EXTINF:-1,US | NICKELODEN HD
-http://bigstreams.tk:25461/live/charlie/1234/27626.ts
-#EXTINF:-1,US | NICKELODEON
-http://bigstreams.tk:25461/live/charlie/1234/27625.ts
-#EXTINF:-1,US | Nickelodeon HD
-http://bigstreams.tk:25461/live/charlie/1234/27507.ts
-#EXTINF:-1,US | Olympic Channel
-http://bigstreams.tk:25461/live/charlie/1234/27547.ts
-#EXTINF:-1,US | Oprah Winfrey Network
-http://bigstreams.tk:25461/live/charlie/1234/27506.ts
-#EXTINF:-1,US | OUTDOOR CHANNEL
-http://bigstreams.tk:25461/live/charlie/1234/27558.ts
-#EXTINF:-1,US | OWN
-http://bigstreams.tk:25461/live/charlie/1234/27624.ts
-#EXTINF:-1,US | OWN HD
-http://bigstreams.tk:25461/live/charlie/1234/27623.ts
-#EXTINF:-1,US | OXYGEN
-http://bigstreams.tk:25461/live/charlie/1234/27622.ts
-#EXTINF:-1,US | OXYGEN HD
-http://bigstreams.tk:25461/live/charlie/1234/27621.ts
-#EXTINF:-1,US | PAC 12 MOUNTAIN
-http://bigstreams.tk:25461/live/charlie/1234/27620.ts
-#EXTINF:-1,US | PAC NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27554.ts
-#EXTINF:-1,US | PAC-12 Mountain HD
-http://bigstreams.tk:25461/live/charlie/1234/27505.ts
-#EXTINF:-1,US | PAC-12 Washington HD
-http://bigstreams.tk:25461/live/charlie/1234/27504.ts
-#EXTINF:-1,US | PBS AMERICA
-http://bigstreams.tk:25461/live/charlie/1234/27764.ts
-#EXTINF:-1,US | PBS KIDS
-http://bigstreams.tk:25461/live/charlie/1234/27619.ts
-#EXTINF:-1,US | SEC NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27618.ts
-#EXTINF:-1,US | Showtime
-http://bigstreams.tk:25461/live/charlie/1234/27503.ts
-#EXTINF:-1,US | SHOWTIME 1
-http://bigstreams.tk:25461/live/charlie/1234/27560.ts
-#EXTINF:-1,US | SHOWTIME 2
-http://bigstreams.tk:25461/live/charlie/1234/27617.ts
-#EXTINF:-1,US | SHOWTIME Extreme
-http://bigstreams.tk:25461/live/charlie/1234/27616.ts
-#EXTINF:-1,US | SHOWTIME HD
-http://bigstreams.tk:25461/live/charlie/1234/27615.ts
-#EXTINF:-1,US | SHOWTIME SHOWCASE HD
-http://bigstreams.tk:25461/live/charlie/1234/27614.ts
-#EXTINF:-1,US | SkyNet Sports 4
-http://bigstreams.tk:25461/live/charlie/1234/27543.ts
-#EXTINF:-1,US | SkyNet Sports 5
-http://bigstreams.tk:25461/live/charlie/1234/27542.ts
-#EXTINF:-1,US | SkyNet Sports 6
-http://bigstreams.tk:25461/live/charlie/1234/27541.ts
-#EXTINF:-1,US | SONY MOVIES
-http://bigstreams.tk:25461/live/charlie/1234/27559.ts
-#EXTINF:-1,US | SPIKE HD
-http://bigstreams.tk:25461/live/charlie/1234/27502.ts
-#EXTINF:-1,US | SPIKE TV
-http://bigstreams.tk:25461/live/charlie/1234/27613.ts
-#EXTINF:-1,US | Sports Net One HD
-http://bigstreams.tk:25461/live/charlie/1234/27501.ts
-#EXTINF:-1,US | Sports Net World HD
-http://bigstreams.tk:25461/live/charlie/1234/27500.ts
-#EXTINF:-1,US | Sprout
-http://bigstreams.tk:25461/live/charlie/1234/27612.ts
-#EXTINF:-1,US | Star Edge East US
-http://bigstreams.tk:25461/live/charlie/1234/27577.ts
-#EXTINF:-1,US | STARZ
-http://bigstreams.tk:25461/live/charlie/1234/27763.ts
-#EXTINF:-1,US | Starz Cinema HD
-http://bigstreams.tk:25461/live/charlie/1234/27499.ts
-#EXTINF:-1,US | Starz Comedy
-http://bigstreams.tk:25461/live/charlie/1234/27611.ts
-#EXTINF:-1,US | Starz East
-http://bigstreams.tk:25461/live/charlie/1234/27610.ts
-#EXTINF:-1,US | STARZ EDGE
-http://bigstreams.tk:25461/live/charlie/1234/27609.ts
-#EXTINF:-1,US | STARZ EDGE HD
-http://bigstreams.tk:25461/live/charlie/1234/27608.ts
-#EXTINF:-1,US | Starz HD
-http://bigstreams.tk:25461/live/charlie/1234/27498.ts
-#EXTINF:-1,US | STARZ West
-http://bigstreams.tk:25461/live/charlie/1234/27607.ts
-#EXTINF:-1,US | SUNDANCE
-http://bigstreams.tk:25461/live/charlie/1234/27606.ts
-#EXTINF:-1,US | Sundance HD
-http://bigstreams.tk:25461/live/charlie/1234/27605.ts
-#EXTINF:-1,US | SYFY
-http://bigstreams.tk:25461/live/charlie/1234/27604.ts
-#EXTINF:-1,US | SYFY HD
-http://bigstreams.tk:25461/live/charlie/1234/27603.ts
-#EXTINF:-1,US | TBN
-http://bigstreams.tk:25461/live/charlie/1234/27602.ts
-#EXTINF:-1,US | TBS
-http://bigstreams.tk:25461/live/charlie/1234/27762.ts
-#EXTINF:-1,US | TBS HD
-http://bigstreams.tk:25461/live/charlie/1234/27601.ts
-#EXTINF:-1,US | Tennis Channel HD
-http://bigstreams.tk:25461/live/charlie/1234/27600.ts
-#EXTINF:-1,US | THE WEATHER CHANNEL
-http://bigstreams.tk:25461/live/charlie/1234/27599.ts
-#EXTINF:-1,US | TLC
-http://bigstreams.tk:25461/live/charlie/1234/27598.ts
-#EXTINF:-1,US | TLC HD
-http://bigstreams.tk:25461/live/charlie/1234/27597.ts
-#EXTINF:-1,US | TNT
-http://bigstreams.tk:25461/live/charlie/1234/27596.ts
-#EXTINF:-1,US | TNT HD
-http://bigstreams.tk:25461/live/charlie/1234/27576.ts
-#EXTINF:-1,US | Travel Channel
-http://bigstreams.tk:25461/live/charlie/1234/27575.ts
-#EXTINF:-1,US | TRU TV
-http://bigstreams.tk:25461/live/charlie/1234/27595.ts
-#EXTINF:-1,US | TSN 1
-http://bigstreams.tk:25461/live/charlie/1234/27594.ts
-#EXTINF:-1,US | TSN 1 HD
-http://bigstreams.tk:25461/live/charlie/1234/27573.ts
-#EXTINF:-1,US | TSN 2
-http://bigstreams.tk:25461/live/charlie/1234/27593.ts
-#EXTINF:-1,US | TSN 2 HD
-http://bigstreams.tk:25461/live/charlie/1234/27572.ts
-#EXTINF:-1,US | TSN 3
-http://bigstreams.tk:25461/live/charlie/1234/27592.ts
-#EXTINF:-1,US | TSN 3 HD
-http://bigstreams.tk:25461/live/charlie/1234/27571.ts
-#EXTINF:-1,US | TSN 4
-http://bigstreams.tk:25461/live/charlie/1234/27591.ts
-#EXTINF:-1,US | TSN 4 HD
-http://bigstreams.tk:25461/live/charlie/1234/27570.ts
-#EXTINF:-1,US | TSN 5
-http://bigstreams.tk:25461/live/charlie/1234/27590.ts
-#EXTINF:-1,US | TSN 5 HD
-http://bigstreams.tk:25461/live/charlie/1234/27569.ts
-#EXTINF:-1,US | TSN Sports 2
-http://bigstreams.tk:25461/live/charlie/1234/27540.ts
-#EXTINF:-1,US | TSN Sports 3
-http://bigstreams.tk:25461/live/charlie/1234/27539.ts
-#EXTINF:-1,US | TSN Sports 4
-http://bigstreams.tk:25461/live/charlie/1234/27538.ts
-#EXTINF:-1,US | TSN Sports 5
-http://bigstreams.tk:25461/live/charlie/1234/27537.ts
-#EXTINF:-1,US | TSN1 US
-http://bigstreams.tk:25461/live/charlie/1234/27497.ts
-#EXTINF:-1,US | TSN2 US
-http://bigstreams.tk:25461/live/charlie/1234/27496.ts
-#EXTINF:-1,US | TSN3 US
-http://bigstreams.tk:25461/live/charlie/1234/27495.ts
-#EXTINF:-1,US | TSN4 US
-http://bigstreams.tk:25461/live/charlie/1234/27494.ts
-#EXTINF:-1,US | TSN5 US
-http://bigstreams.tk:25461/live/charlie/1234/27493.ts
-#EXTINF:-1,US | Tv Land
-http://bigstreams.tk:25461/live/charlie/1234/27574.ts
-#EXTINF:-1,US | TV LAND HD
-http://bigstreams.tk:25461/live/charlie/1234/27589.ts
-#EXTINF:-1,US | TV ONE
-http://bigstreams.tk:25461/live/charlie/1234/27588.ts
-#EXTINF:-1,US | UNIVERSAL KIDS
-http://bigstreams.tk:25461/live/charlie/1234/27587.ts
-#EXTINF:-1,US | USA NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27586.ts
-#EXTINF:-1,US | USA NETWORK HD
-http://bigstreams.tk:25461/live/charlie/1234/27492.ts
-#EXTINF:-1,US | Velocity
-http://bigstreams.tk:25461/live/charlie/1234/27568.ts
-#EXTINF:-1,US | VH1
-http://bigstreams.tk:25461/live/charlie/1234/27585.ts
-#EXTINF:-1,US | Viceland
-http://bigstreams.tk:25461/live/charlie/1234/27491.ts
-#EXTINF:-1,US | WEATHER CHANNEL
-http://bigstreams.tk:25461/live/charlie/1234/27584.ts
-#EXTINF:-1,US | Willow Cricket HD
-http://bigstreams.tk:25461/live/charlie/1234/27490.ts
-#EXTINF:-1,US | WWE
-http://bigstreams.tk:25461/live/charlie/1234/27564.ts
-#EXTINF:-1,US | WWE Network HD
-http://bigstreams.tk:25461/live/charlie/1234/27489.ts
-#EXTINF:-1,US | WWE PPV
-http://bigstreams.tk:25461/live/charlie/1234/27583.ts
-#EXTINF:-1,US | YES NETWORK
-http://bigstreams.tk:25461/live/charlie/1234/27582.ts
- 
+
+#EXTM3U
+
+
+#EXTINF:0 group-title="(AFR) Africa",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AFR) Africa",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AFR) Africa",SPORT | SD (AFR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/8909.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AL) Albania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AL) Albania",KASS SPORTS | SD (AL)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:0 group-title="(AL) Albania",TRING SPORT 4 | HD (AL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/76687.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(AR) Arabia",A1 SPORTS | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/110.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU-DHABI SPORTS 1 | HD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6770.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU-DHABI SPORTS 2 | HD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6769.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT 1 | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20352.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD SPORT 2 | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20351.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AD-SPORT2 | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6771.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL-NAHAR-SPORT | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7027.m3u8
+#EXTINF:0 group-title="(AR) Arabia",AL-NAHAR-SPORT | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/7027.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ALERTH-ALNBAWI | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7020.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ALKASS SPORT 1 | HD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6765.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ALKASS SPORT 2 | HD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6764.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ALKASS SPORT 3 | HD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6763.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 1 | HD (AR)
+http://izgemma.ddns.net:8000/live/kris/kris/37774.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 1 | HD (AR)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37774.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 11 | HD (AR)
+http://izgemma.ddns.net:8000/live/kris/kris/37784.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 11 | HD (AR)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37784.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 11 | HD (AR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2880.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 3 | HD (AR)
+http://izgemma.ddns.net:8000/live/kris/kris/37776.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 3 | HD (AR)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37776.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 3 | HD (AR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2878.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 5 | HD (AR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2876.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 8 | HD (AR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2873.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 9 | HD (AR)
+http://izgemma.ddns.net:8000/live/kris/kris/37782.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 9 | HD (AR)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37782.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 9 | HD (AR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2872.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 1 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20674.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 1 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3729.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20665.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3730.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20653.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 10LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/193.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 11HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20652.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 12 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20663.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 1HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20662.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 2 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20661.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 2 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20673.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 3 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20672.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 3HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20660.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 4 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20671.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 4HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20659.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20670.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3739.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20658.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 5LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/188.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20669.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3740.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20657.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 6LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/187.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20656.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20668.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3741.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 7LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/186.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20667.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20655.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/185.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
+http://izgemma.ddns.net:8000/live/kris/kris/376.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20666.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3743.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9HD | SD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20654.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9LOW | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/184.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEINSPORTS 2 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3736.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEINSPORTS 3 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3737.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BEINSPORTS 4 | HD (AR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/3738.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BN SPORT 7 | HD (AR)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/2874.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BN SPORT 9 | HD (AR)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/2872.m3u8
+#EXTINF:0 group-title="(AR) Arabia",BN SPORTS NEWS | HD (AR)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/2870.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DMC-SPORT | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/196.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 1 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20311.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS 3 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20312.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI-SPORT | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/7089.m3u8
+#EXTINF:0 group-title="(AR) Arabia",DUBAI-SPORT | SD (AR)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7089.m3u8
+#EXTINF:0 group-title="(AR) Arabia",FOX SPORTS 1 | SD (AR)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4569.m3u8
+#EXTINF:0 group-title="(AR) Arabia",FOX SPORTS 2 | SD (AR)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4567.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IRAQIA-SPORT | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6971.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IRAQIA-SPORT | SD (AR)
+http://swar.fannan.se:8000/live/zizo18040/54544452/6971.m3u8
+#EXTINF:0 group-title="(AR) Arabia",IRAQIYASPORT | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/7068.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORT 1 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20345.m3u8
+#EXTINF:0 group-title="(AR) Arabia",MBC PRO SPORT 2 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20344.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE-SPORT | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6951.m3u8
+#EXTINF:0 group-title="(AR) Arabia",NILE-SPORT | SD (AR)
+http://swar.fannan.se:8000/live/zizo18040/54544452/6951.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ON-SPORT | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/119.m3u8
+#EXTINF:0 group-title="(AR) Arabia",OSN SPORT ALKASS 1 | HD (AR)
+http://bigstreams.tk:25461/live/charlie/1234/20394.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SPORT 1 | SD (AR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/8751.m3u8
+#EXTINF:0 group-title="(AR) Arabia",SPORT 2 | SD (AR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23324.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/150.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/151.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/152.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/153.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/154.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/155.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/158.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/312.m3u8
+#EXTINF:0 group-title="(AR) Arabia",VIP | SD (AR)
+http://3mb.top:8000/live/world0910y/shamsy/313.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(ARG) Argentina",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(ARG) Argentina",FOX SPORTS 1 | HD (ARG)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4884.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(BG) Bulgaria",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(BG) Bulgaria",100AUTOMOTO TV | SD (BG)
+http://3mb.top:8000/live/world0910y/shamsy/192.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT 1 | SD (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/864.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT 2 | SD (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/865.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",SPORT PLUS | SD (BG)
+http://sweip.noip.me:9090/live/Mecnun1/kHgghnOipf/1003.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",SPORT PLUS | SD (BG)
+http://109.236.92.197:9090/live/Mecnun1/kHgghnOipf/1003.m3u8
+#EXTINF:0 group-title="(BG) Bulgaria",SPORTAL | HD (BG)
+http://3mb.top:8000/live/world0910y/shamsy/79.m3u8
+
+#EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(FR) France",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 1 | HD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9383.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 1HD | SD (FR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6799.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 2 | HD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20685.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 2 | HD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9382.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 | HD (FR)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4054.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4038.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12417.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | HD (FR)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4053.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/683.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4037.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12416.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | HD (FR)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4052.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/682.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4036.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12415.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS MAX 4 | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/353.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS MAX 5 | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/352.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS MAX 6 | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/351.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS MAX 9 | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/514.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT 1 | HD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20686.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 10 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12408.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 4 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12414.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 5 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12413.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 6 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12412.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 7 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12411.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 8 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12410.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 9 | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12409.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SPORT | HD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20769.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SPORT | SD (FR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12418.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT | SD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9375.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 1 | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/33.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20687.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | SD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9374.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/34.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORTS 1 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20688.m3u8
+#EXTINF:0 group-title="(FR) France",GOLF | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/289.m3u8
+#EXTINF:0 group-title="(FR) France",GOLF CHANNEL | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1402.m3u8
+#EXTINF:0 group-title="(FR) France",INFOSPORT | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20694.m3u8
+#EXTINF:0 group-title="(FR) France",INFOSPORT | SD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/42.m3u8
+#EXTINF:0 group-title="(FR) France",MA CHAINE SPORT | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20693.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 2 SFR | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/253.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 3 SFR | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3069.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 4 SFR | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3248.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 1 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20692.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 2 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20691.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 3 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20690.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 5 | SD (FR)
+http://bigstreams.tk:25461/live/charlie/1234/20689.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | HD (DE)
+http://54.37.255.204:9977/live/Rivera/Rivera/23360.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | SD (DE)
+http://54.37.255.204:9977/live/Rivera/Rivera/23359.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 XTRA | HD (DE)
+http://54.37.255.204:9977/live/Rivera/Rivera/23358.m3u8
+#EXTINF:0 group-title="(DE) Germany",MOTORVISION TV | SD (DE)
+http://54.37.255.204:9977/live/Rivera/Rivera/23323.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | HD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8059.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12321.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12320.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 10 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12303.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 10 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12302.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 11 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12301.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 11 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12300.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | HD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8060.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12319.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9468.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12318.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12317.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9460.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12316.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12315.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9466.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12314.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12313.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12312.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12311.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 6 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12310.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12309.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 7 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12308.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 8 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12307.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 8 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12306.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 9 | HD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12305.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 9 | SD (DE)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12304.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT BUNDESLIGA 1 | SD (DE)
+http://3mb.top:8000/live/world0910y/shamsy/202.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS | SD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8061.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 2HD | SD (DE)
+http://izgemma.ddns.net:8000/live/kris/kris/37802.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 | HD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8069.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT1 | HD (DE)
+http://54.37.255.204:9977/live/Rivera/Rivera/23361.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT | SD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12405.m3u8
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 2 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12404.m3u8
+#EXTINF:0 group-title="(IT) Italy",MOTOGP | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12403.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12401.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 2 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12400.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 2 | SD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12402.m3u8
+#EXTINF:0 group-title="(IT) Italy",PRUMUM SPORT | SD (IT)
+http://3mb.top:8000/live/world0910y/shamsy/43.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORTS 1 | SD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12407.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORTS 2 | SD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12406.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 1 | HD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8089.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 1 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12399.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 2 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12398.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 2 | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8088.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 24 | HD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8087.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 24 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12397.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3 | HD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8086.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3 | HD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8086.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12396.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT F1 | HD (IT)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12395.m3u8
+#EXTINF:0 group-title="(IT) Italy",SPORT | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8082.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",ESPN | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12909.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12909.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 2 | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12908.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 2 | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12908.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 3 | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12907.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 3 | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12907.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN DEPORTES | HD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12906.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN DEPORTES | HD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12906.m3u8
+#EXTINF:0 group-title="(MX) Mexico",FOX SPORTS | SD (MX)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4571.m3u8
+#EXTINF:0 group-title="(MX) Mexico",WIN SPORTS | SD (MX)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4560.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",EUROSPORT 1 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8948.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",EUROSPORT 2 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8947.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORT 6 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8955.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8960.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 EREDIVISIE | HD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7892.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 EREDIVISIE | HD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7892.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8959.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7891.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7891.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8958.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7890.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7890.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7890.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8957.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7889.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 5 | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8956.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 6 | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7903.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 6 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7903.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",SPORTS 1 EXTRA 2 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7902.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",SPORTS 1 EXTRA 2 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7902.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8954.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 1 | SD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/11464.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 2 | SD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/11465.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8951.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7887.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7887.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT RACING | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8950.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT SELECT | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8953.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT VOETBAL | HD (NL)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8952.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PK) Pakistan",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PK) Pakistan",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PK) Pakistan",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PK) Pakistan",PTV SPORTS | SD (PK)
+http://izgemma.ddns.net:8000/live/kris/kris/37301.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PL) Poland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PL) Poland",CANAL SPORT 2 | HD (PL)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23274.m3u8
+#EXTINF:0 group-title="(PL) Poland",EUROSPORT | HD (PL)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23284.m3u8
+#EXTINF:0 group-title="(PL) Poland",EXTREME SPORTS | HD (PL)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23306.m3u8
+#EXTINF:0 group-title="(PL) Poland",FIGHTBOX | SD (PL)
+http://titiroq.xyz:25461/live/123412341234/123412341234/23285.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(PT) Portugal",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(PT) Portugal",ESPN | SD (PT)
+http://titiroq.xyz:25461/live/Saad55/Saad55/19560.m3u8
+#EXTINF:0 group-title="(PT) Portugal",EUROSPORT 1 1080 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4050.m3u8
+#EXTINF:0 group-title="(PT) Portugal",MOTORVISION | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19956.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19933.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4047.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4048.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 1 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4046.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19948.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4045.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4044.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 4 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4043.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORT TV 5 | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4042.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19944.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | HD (PT)
+http://plexapps.dyndns.tv:8000/live/Anna03/1234/6492.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTING TV | HD (PT)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4041.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 1 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19942.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 1 | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19943.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 2 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19940.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 2 | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19941.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 3 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19938.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 3 | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19939.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 4 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19936.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 4 | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19937.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 5 | HD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19934.m3u8
+#EXTINF:0 group-title="(PT) Portugal",SPORTTV 5 | SD (PT)
+http://bigstreams.tk:25461/live/charlie/1234/19935.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(RO) Romania",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(RO) Romania",DIGISPORT 1 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35308.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGISPORT 2 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35307.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGISPORT 3 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35306.m3u8
+#EXTINF:0 group-title="(RO) Romania",DIGISPORT 4 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35305.m3u8
+#EXTINF:0 group-title="(RO) Romania",EUROSPORT 1 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35302.m3u8
+#EXTINF:0 group-title="(RO) Romania",EUROSPORT 2 | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35301.m3u8
+#EXTINF:0 group-title="(RO) Romania",FISHING & HUNTING | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35300.m3u8
+#EXTINF:0 group-title="(RO) Romania",SPORT | SD (RO)
+http://54.37.255.204:9977/live/Rivera/Rivera/35276.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(EX-YU) Slovenia",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(EX-YU) Slovenia",3PM EPL ARENA SPORT 2 | SD (EX-YU)
+http://titiroq.xyz:25461/live/123412341234/123412341234/13476.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",3PM EPL ARENA SPORT 3 | SD (EX-YU)
+http://titiroq.xyz:25461/live/123412341234/123412341234/13474.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 SR | HD (EX-YU)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/77926.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 | HD (EX-YU)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/77925.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 | HD (EX-YU)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/77923.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 5 | HD (EX-YU)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/77921.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BLK ARENA SPORT 1 | SD (EX-YU)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12286.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BLK ARENA SPORT 2 | SD (EX-YU)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12288.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BLK ARENA SPORT 3 | SD (EX-YU)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12290.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BLK ARENA SPORT 4 | SD (EX-YU)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12292.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",BLK ARENA SPORT 5 | SD (EX-YU)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12294.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ESPN | HD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4089.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ESPN | SD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4573.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ESPN 2 | HD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4093.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",ESPN 3 | HD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4092.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX SPORTS 1 | HD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4088.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX SPORTS 1 | SD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4568.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX SPORTS 2 | HD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4077.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX SPORTS 2 | SD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4566.m3u8
+#EXTINF:0 group-title="(EX-YU) Slovenia",FOX SPORTS 3 | SD (EX-YU)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4565.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",BEIN SPORTS | SD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20608.m3u8
+#EXTINF:0 group-title="(SP) Spain",BEIN SPORTS LALIGA | SD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4393.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL GOLF | SD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20599.m3u8
+#EXTINF:0 group-title="(SP) Spain",CANAL GOLF | SD (SP)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12421.m3u8
+#EXTINF:0 group-title="(SP) Spain",ESPORT 3 | SD (SP)
+http://54.37.255.204:9977/live/Rivera/Rivera/28637.m3u8
+#EXTINF:0 group-title="(SP) Spain",ESPORT 3 CAT | SD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4391.m3u8
+#EXTINF:0 group-title="(SP) Spain",EURO SPORT 1 | HD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4068.m3u8
+#EXTINF:0 group-title="(SP) Spain",EURO SPORT 2 | SD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4067.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT | SD (SP)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6339.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT 1 | HD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20611.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT 1 | SD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4385.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT 2 | HD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20610.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR F1 | HD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20590.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR F1 | HD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4062.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR F1 | SD (SP)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12419.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR FORMULA 1 | SD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20612.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR GOLF | SD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20638.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR GOLF | SD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4381.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR MOTO GP | HD (SP)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4059.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR MOTO GP | SD (SP)
+http://bigstreams.tk:25461/live/charlie/1234/20613.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR MOTO GP | SD (SP)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12420.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",A SPOR | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/87.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT HABER | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/10002.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1373.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12221.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 2 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1372.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 3 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1371.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 4 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1370.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS MAX 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1369.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/70.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORT2 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/69.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORT HABER | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/10188.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 1 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8265.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8264.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 2 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8263.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 3 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8262.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 4 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8261.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS 5 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8260.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I BEIN SPORTS MAX 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/10190.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I SMART SPOR 1 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8255.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I SMART SPOR 2 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8254.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I TIVIBU SPOR 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8259.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I TIVIBU SPOR 2 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8258.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I TIVIBU SPOR 3 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8257.m3u8
+#EXTINF:0 group-title="(TR) Turkey",I TIVIBU SPOR 4 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8256.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMART SPOR 1 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1368.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMART SPOR 2 | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1367.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SPORT | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/8668.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 1 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1366.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 2 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1365.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 3 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1364.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBU SPOR 4 | SD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/1363.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR | HD (TR)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/16.m3u8
+
+#EXTINF:0 group-title="(UA) Ukraine",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UA) Ukraine",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UA) Ukraine",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UA) Ukraine",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UA) Ukraine",DONBAS | SD (UA)
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/29479.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36498.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29479.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36498.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS HD11 | HD (UK)
+http://titiroq.xyz:25461/live/Saad55/Saad55/13528.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12335.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36506.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36506.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3031.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1389.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12349.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3027.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12348.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1124.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3025.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17572.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12347.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3024.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3023.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3022.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12346.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EUROPE | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12345.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12339.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 2 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12344.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 3 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12343.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 4 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 5 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EXTRA 6 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12340.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT MOSAIC 2 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/23.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12336.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17578.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17578.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2986.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2985.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2984.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/799.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12351.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2982.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2983.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10763.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12350.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37159.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/31950.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/33271.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/61.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17577.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17577.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10772.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10772.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTOTRS TV | SD (UK)
+http://54.37.255.204:9977/live/Rivera/Rivera/27081.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29480.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17574.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10767.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17574.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10767.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4040.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2936.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17220.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/11160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/11160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1417.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2933.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29478.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT FOOTBALL | HD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4038.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 1 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12363.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 1 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12361.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12362.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12359.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12360.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12357.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12358.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12355.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 5 | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17559.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2897.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17559.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15857.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1123.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4037.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2896.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15855.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17556.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2893.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17556.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15863.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6669.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2892.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4036.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17558.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2891.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17558.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15860.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/5.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12354.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4035.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 L | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/996.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2889.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17147.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2887.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17147.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37569.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15861.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4034.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37836.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36513.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37826.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36513.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1121.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12353.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29507.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/29507.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4033.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2880.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15871.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4032.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/141.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/20.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://dani.moppie.info:7444/live/JZk12aRSLm/BwGpFkbT6D/12352.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17561.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17561.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS L | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/994.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36514.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15867.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36514.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/44.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4031.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE MAIN | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2878.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIERE LEAGUE | SD (UK)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3184.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SPORTS | SD (UK)
+http://plexapps.dyndns.tv:8000/live/Anna03/1234/530.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",DISH | HD (US)
+http://plexapps.dyndns.tv:8000/live/Anna03/1234/727.m3u8
+#EXTINF:0 group-title="(US) United States",DISH | SD (US)
+http://plexapps.dyndns.tv:8000/live/Anna03/1234/531.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4178.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3234.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN COPYRIGHT | SD (US)
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORT 1 | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3233.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | HD (US)
+http://izgemma.ddns.net:8000/live/kris/kris/37811.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | HD (US)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37811.m3u8
+#EXTINF:0 group-title="(US) United States",MLB NETWORK | SD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4156.m3u8
+#EXTINF:0 group-title="(US) United States",NBA TV | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4153.m3u8
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3235.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4148.m3u8
+#EXTINF:0 group-title="(US) United States",SKY | HD (US)
+http://plexapps.dyndns.tv:8000/live/Anna03/1234/1045.m3u8
+#EXTINF:0 group-title="(US) United States",UFC FIGHT PASS | SD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4130.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 1 | SD (WW)
+http://titiroq.xyz:25461/live/123412341234/123412341234/29276.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 1 | SD (WW)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3468.m3u8
+
 
 
 
