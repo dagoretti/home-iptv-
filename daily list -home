@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
 29/08/2018 22:48 PM
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,US: TSN SPORT 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1,US: TSN SPORT 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
 #EXTINF:0,US: TSN SPORT 1
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
 #EXTINF:0,US: TSN SPORT 2
@@ -13,25 +24,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
 #EXTINF:0,US: ABC   east
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
-1	UK: Sky Sport Action HD	Online	http://54.37.255.204:9977/live/leon/iptv/27092.ts
-2	UK: Sky Sport Arena HD	Online	http://54.37.255.204:9977/live/leon/iptv/27088.ts
-3	UK: SKY SPORT MIX	Online	http://54.37.255.204:9977/live/leon/iptv/27086.ts
-4	UK: SKY SPORTS GOLF HD	Online	http://54.37.255.204:9977/live/leon/iptv/27090.ts
-5	UK: SKY SPORTS MAIN EVENT HD	Online	http://54.37.255.204:9977/live/leon/iptv/27089.ts
-6	UK: SKY SPORTS PREMIER LEAGUE FHD	Online	http://54.37.255.204:9977/live/leon/iptv/27085.ts
-7	UK: SKY Atlantic HD	Online	http://54.37.255.204:9977/live/leon/iptv/27115.ts
-8	UK: Sky Cinema Action HD	Online	http://54.37.255.204:9977/live/leon/iptv/27135.ts
-9	UK: Sky Cinema Comedy HD	Online	http://54.37.255.204:9977/live/leon/iptv/27134.ts
-10	UK: Sky Cinema Crime & Thriller HD	Online	http://54.37.255.204:9977/live/leon/iptv/27133.ts
-11	UK: Sky Cinema Disney HD	Online	http://54.37.255.204:9977/live/leon/iptv/27132.ts
-12	UK: Sky Cinema Drama & Romance HD	Online	http://54.37.255.204:9977/live/leon/iptv/27131.ts
-13	UK: Sky Cinema Sci-Fi & Horror HD	Online	http://54.37.255.204:9977/live/leon/iptv/27128.ts
-14	UK: Sky Movies Select HD	Online	http://54.37.255.204:9977/live/leon/iptv/27123.ts
-15	UK: Sky Arts	Online	http://54.37.255.204:9977/live/leon/iptv/27100.ts
-16	UK: SKY NEWS	Online	http://54.37.255.204:9977/live/leon/iptv/27098.ts
-#EXTM3U
-
-
 #EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
 https://autoiptv.net
 #EXTINF:0 group-title="(US) United States",https://autoiptv.net
