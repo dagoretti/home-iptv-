@@ -1,408 +1,205 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
-29/08/2018 22:48 PM
-
-#EXTINF:-1,US: TSN SPORT 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
-#EXTINF:-1,US: TSN SPORT 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
-#EXTINF:-1,US: TSN SPORT 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
-#EXTINF:-1,US: TSN SPORT 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
-#EXTINF:-1,US: TSN SPORT 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
-#EXTINF:0,US: TSN SPORT 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
-#EXTINF:0,US: TSN SPORT 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
-#EXTINF:0,US: TSN SPORT 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
-#EXTINF:0,US: TSN SPORT 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
-#EXTINF:0,US: TSN SPORT 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
-#EXTINF:0,US: ABC   east
+30/08/2018 22:48 PM
+#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN1" tvg-logo="" group-title="USA",USA CA-TSN1
+http://iptvtool.es:9977/live/roberto/iptv/35217.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN2" tvg-logo="" group-title="USA",USA CA-TSN2
+http://iptvtool.es:9977/live/roberto/iptv/35216.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN3" tvg-logo="" group-title="USA",USA CA-TSN3
+http://iptvtool.es:9977/live/roberto/iptv/35215.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN4" tvg-logo="" group-title="USA",USA CA-TSN4
+http://iptvtool.es:9977/live/roberto/iptv/35214.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN5" tvg-logo="" group-title="USA",USA CA-TSN5
+http://iptvtool.es:9977/live/roberto/iptv/35213.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet 360" tvg-logo="" group-title="USA",CA-Sportsnet 360
+http://iptvtool.es:9977/live/roberto/iptv/35203.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet One" tvg-logo="" group-title="USA",CA-Sportsnet One
+http://iptvtool.es:9977/live/roberto/iptv/35204.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet Ontario" tvg-logo="" group-title="USA",CA-Sportsnet Ontario
+http://iptvtool.es:9977/live/roberto/iptv/35201.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet World" tvg-logo="" group-title="USA",CA-Sportsnet World
+http://iptvtool.es:9977/live/roberto/iptv/35202.ts
+#EXTINF:-1,US: ABC   east
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",A&E | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137339.m3u8
-#EXTINF:0 group-title="(US) United States",A&E | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130905.m3u8
-#EXTINF:0 group-title="(US) United States",AMAZING FACTS TV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130903.m3u8
-#EXTINF:0 group-title="(US) United States",AMC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137332.m3u8
-#EXTINF:0 group-title="(US) United States",AMC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130919.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137421.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130904.m3u8
-#EXTINF:0 group-title="(US) United States",BEACH TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112316.m3u8
-#EXTINF:0 group-title="(US) United States",BEACH TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112317.m3u8
-#EXTINF:0 group-title="(US) United States",BEACH TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112318.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BOWIE TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112315.m3u8
-#EXTINF:0 group-title="(US) United States",BRAVO | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130926.m3u8
-#EXTINF:0 group-title="(US) United States",BUFFALO TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112314.m3u8
-#EXTINF:0 group-title="(US) United States",BYU TV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137328.m3u8
-#EXTINF:0 group-title="(US) United States",BYUTV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112313.m3u8
-#EXTINF:0 group-title="(US) United States",CAPITAL TV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137418.m3u8
-#EXTINF:0 group-title="(US) United States",CBS | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130944.m3u8
-#EXTINF:0 group-title="(US) United States",CBS 2 | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130943.m3u8
-#EXTINF:0 group-title="(US) United States",CBS W | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137313.m3u8
-#EXTINF:0 group-title="(US) United States",CBSN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130942.m3u8
-#EXTINF:0 group-title="(US) United States",CBSN | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137327.m3u8
-#EXTINF:0 group-title="(US) United States",CHANNEL 7 | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112305.m3u8
-#EXTINF:0 group-title="(US) United States",CHILLER | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137312.m3u8
-#EXTINF:0 group-title="(US) United States",CHINESE TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/100003.m3u8
-#EXTINF:0 group-title="(US) United States",CLASSIC ARTS SHOWCASE | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112304.m3u8
-#EXTINF:0 group-title="(US) United States",COMEDY CENTRAL | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137306.m3u8
-#EXTINF:0 group-title="(US) United States",COMET TV GEO | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112303.m3u8
-#EXTINF:0 group-title="(US) United States",CORNERSTONE TV | SD
-http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",CTNI ES | SD
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137413.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137443.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL CA | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137415.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL CA | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137416.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY SCIENCE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137410.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY SCIENCE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137411.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY SHOWCASE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137409.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY SHOWCASE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137412.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY VELOCITY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137407.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY VELOCITY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137408.m3u8
-#EXTINF:0 group-title="(US) United States",DISTRICT KNOWLEDGE NETWORK | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112302.m3u8
-#EXTINF:0 group-title="(US) United States",DISTRICT OF COLUMBIA NETWORK | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112301.m3u8
-#EXTINF:0 group-title="(US) United States",DIY NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137405.m3u8
-#EXTINF:0 group-title="(US) United States",DIY NETWORK | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137406.m3u8
-#EXTINF:0 group-title="(US) United States",E! ENTERTAINMENT | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137403.m3u8
-#EXTINF:0 group-title="(US) United States",EL REY NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137402.m3u8
-#EXTINF:0 group-title="(US) United States",EL REY NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137439.m3u8
-#EXTINF:0 group-title="(US) United States",ESPERANZA TV ES | SD
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",FASHION ONE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137220.m3u8
-#EXTINF:0 group-title="(US) United States",FINE LIVING | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137216.m3u8
-#EXTINF:0 group-title="(US) United States",FOOD NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137215.m3u8
-#EXTINF:0 group-title="(US) United States",FOOD NETWORK | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130902.m3u8
-#EXTINF:0 group-title="(US) United States",FOX 4 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137214.m3u8
-#EXTINF:0 group-title="(US) United States",FREE SPEECH TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112298.m3u8
-#EXTINF:0 group-title="(US) United States",FREEFORM | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130925.m3u8
-#EXTINF:0 group-title="(US) United States",FREEFORM | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137210.m3u8
-#EXTINF:0 group-title="(US) United States",FUEL | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137208.m3u8
-#EXTINF:0 group-title="(US) United States",FXX | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137204.m3u8
-#EXTINF:0 group-title="(US) United States",GARLAND TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112297.m3u8
-#EXTINF:0 group-title="(US) United States",GEB | SD
-http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",GEM TV | SD
-http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
-#EXTINF:0 group-title="(US) United States",GLOBAL BC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137203.m3u8
-#EXTINF:0 group-title="(US) United States",GOL TV | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137202.m3u8
-#EXTINF:0 group-title="(US) United States",GREENBELT TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112296.m3u8
-#EXTINF:0 group-title="(US) United States",GSN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137200.m3u8
-#EXTINF:0 group-title="(US) United States",HALLMARK | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137198.m3u8
-#EXTINF:0 group-title="(US) United States",HALLMARK CHANNEL | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137436.m3u8
-#EXTINF:0 group-title="(US) United States",HBO | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130916.m3u8
-#EXTINF:0 group-title="(US) United States",HBO COMEDY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137370.m3u8
-#EXTINF:0 group-title="(US) United States",HBO COMEDY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130915.m3u8
-#EXTINF:0 group-title="(US) United States",HBO EAST | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137369.m3u8
-#EXTINF:0 group-title="(US) United States",HBO SIGNATURE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130913.m3u8
-#EXTINF:0 group-title="(US) United States",HBO ZONE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130912.m3u8
-#EXTINF:0 group-title="(US) United States",HGTV | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137434.m3u8
-#EXTINF:0 group-title="(US) United States",HGTV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137195.m3u8
-#EXTINF:0 group-title="(US) United States",HIFI | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137197.m3u8
-#EXTINF:0 group-title="(US) United States",HISTORY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137433.m3u8
-#EXTINF:0 group-title="(US) United States",HISTORY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137196.m3u8
-#EXTINF:0 group-title="(US) United States",HISTORY CHANNEL | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130901.m3u8
-#EXTINF:0 group-title="(US) United States",HLN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137363.m3u8
-#EXTINF:0 group-title="(US) United States",HOUSE OF REPRESENTATIVES | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112295.m3u8
-#EXTINF:0 group-title="(US) United States",HSN LIVE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137362.m3u8
-#EXTINF:0 group-title="(US) United States",HSN YT LIVE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137194.m3u8
-#EXTINF:0 group-title="(US) United States",ID EXTRA | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137360.m3u8
-#EXTINF:0 group-title="(US) United States",IFC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137359.m3u8
-#EXTINF:0 group-title="(US) United States",IN ZEE TV | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/94438.m3u8
-#EXTINF:0 group-title="(US) United States",INDIEWAVE | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112294.m3u8
-#EXTINF:0 group-title="(US) United States",INFOWARS | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112293.m3u8
-#EXTINF:0 group-title="(US) United States",INVESTIGATION DISCOVERY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137358.m3u8
-#EXTINF:0 group-title="(US) United States",KBVR TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112292.m3u8
-#EXTINF:0 group-title="(US) United States",KEY TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112291.m3u8
-#EXTINF:0 group-title="(US) United States",KOOL TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112288.m3u8
-#EXTINF:0 group-title="(US) United States",KRGV 5 WESLACO | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112287.m3u8
-#EXTINF:0 group-title="(US) United States",LIFETIME | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137431.m3u8
-#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD
-http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",MELLO TV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130922.m3u8
-#EXTINF:0 group-title="(US) United States",MIAMI TV | SD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",MSNBC | HD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112285.m3u8
-#EXTINF:0 group-title="(US) United States",MSNBC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137355.m3u8
-#EXTINF:0 group-title="(US) United States",MSNBC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137428.m3u8
-#EXTINF:0 group-title="(US) United States",NAT GEO WILD | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137353.m3u8
-#EXTINF:0 group-title="(US) United States",NAT GEOGRAPHIC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137351.m3u8
-#EXTINF:0 group-title="(US) United States",NAT GEOGRAPHIC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137352.m3u8
-#EXTINF:0 group-title="(US) United States",NATIONAL GEOGRAPHIC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130900.m3u8
-#EXTINF:0 group-title="(US) United States",NBC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130935.m3u8
-#EXTINF:0 group-title="(US) United States",NBC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130936.m3u8
-#EXTINF:0 group-title="(US) United States",NBC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137348.m3u8
-#EXTINF:0 group-title="(US) United States",NBC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137349.m3u8
-#EXTINF:0 group-title="(US) United States",NBC SN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137343.m3u8
-#EXTINF:0 group-title="(US) United States",NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137246.m3u8
-#EXTINF:0 group-title="(US) United States",NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137247.m3u8
-#EXTINF:0 group-title="(US) United States",NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137249.m3u8
-#EXTINF:0 group-title="(US) United States",NETWORK | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130928.m3u8
-#EXTINF:0 group-title="(US) United States",NEW ORLEANS TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112279.m3u8
-#EXTINF:0 group-title="(US) United States",OPRAH WINFREY NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137280.m3u8
-#EXTINF:0 group-title="(US) United States",ORANGE TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112272.m3u8
-#EXTINF:0 group-title="(US) United States",OUTDOOR CHANNEL | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137279.m3u8
-#EXTINF:0 group-title="(US) United States",OWN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137277.m3u8
-#EXTINF:0 group-title="(US) United States",OWN | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137278.m3u8
-#EXTINF:0 group-title="(US) United States",PBS | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137272.m3u8
-#EXTINF:0 group-title="(US) United States",PBS | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137273.m3u8
-#EXTINF:0 group-title="(US) United States",PE PE TM | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/138339.m3u8
-#EXTINF:0 group-title="(US) United States",PICK TV | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137271.m3u8
-#EXTINF:0 group-title="(US) United States",QVC | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112271.m3u8
-#EXTINF:0 group-title="(US) United States",QVC 2 | SD
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
-#EXTINF:0 group-title="(US) United States",REELZ | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137270.m3u8
-#EXTINF:0 group-title="(US) United States",RT DOCUMENTARY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130898.m3u8
-#EXTINF:0 group-title="(US) United States",SCIENCE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137269.m3u8
-#EXTINF:0 group-title="(US) United States",SEC NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137268.m3u8
-#EXTINF:0 group-title="(US) United States",SEMINOLE TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112267.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137300.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME 2 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137302.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME 2 | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137322.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME EAST | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137301.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME SHOWCASE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137299.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME WEST | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130911.m3u8
-#EXTINF:0 group-title="(US) United States",SINOVISION | SD
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:0 group-title="(US) United States",SMILE OF A CHILD | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137298.m3u8
-#EXTINF:0 group-title="(US) United States",SOUTHEASTERN CHANNEL | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112266.m3u8
-#EXTINF:0 group-title="(US) United States",SPIKE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130910.m3u8
-#EXTINF:0 group-title="(US) United States",SPIKE TV | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137297.m3u8
-#EXTINF:0 group-title="(US) United States",SPIRIT TELEVISION | SD
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",STARZ COMEDY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137291.m3u8
-#EXTINF:0 group-title="(US) United States",STARZ EDGE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130908.m3u8
-#EXTINF:0 group-title="(US) United States",STARZ ENCORE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137288.m3u8
-#EXTINF:0 group-title="(US) United States",STARZ ENCORE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137289.m3u8
-#EXTINF:0 group-title="(US) United States",SUN TV | SD
-http://titiroq.xyz:25461/live/123412341234/123412341234/11848.m3u8
-#EXTINF:0 group-title="(US) United States",SUNDANCE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137267.m3u8
-#EXTINF:0 group-title="(US) United States",SUPER CHANNEL | SD
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",SYFY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130907.m3u8
-#EXTINF:0 group-title="(US) United States",SYFY | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137266.m3u8
-#EXTINF:0 group-title="(US) United States",TBS | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130932.m3u8
-#EXTINF:0 group-title="(US) United States",TBS | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130931.m3u8
-#EXTINF:0 group-title="(US) United States",TELETOON | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137285.m3u8
-#EXTINF:0 group-title="(US) United States",TEMPLE TV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112265.m3u8
-#EXTINF:0 group-title="(US) United States",THE BLAZE | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112264.m3u8
-#EXTINF:0 group-title="(US) United States",THE COUNTRY NETWORK | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112263.m3u8
-#EXTINF:0 group-title="(US) United States",TLC | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137284.m3u8
-#EXTINF:0 group-title="(US) United States",TLC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130897.m3u8
-#EXTINF:0 group-title="(US) United States",TNT | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130906.m3u8
-#EXTINF:0 group-title="(US) United States",TNT | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137321.m3u8
-#EXTINF:0 group-title="(US) United States",TRAVEL CHANNEL | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137283.m3u8
-#EXTINF:0 group-title="(US) United States",TREEHOUSE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137282.m3u8
-#EXTINF:0 group-title="(US) United States",TRUTV | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137281.m3u8
-#EXTINF:0 group-title="(US) United States",TSC | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130930.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 1 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130883.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 2 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130882.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 3 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130881.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 4 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130880.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 5 | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130879.m3u8
-#EXTINF:0 group-title="(US) United States",TSTV | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112261.m3u8
-#EXTINF:0 group-title="(US) United States",TVO | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137265.m3u8
-#EXTINF:0 group-title="(US) United States",TVW | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112259.m3u8
-#EXTINF:0 group-title="(US) United States",TVW-2 | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112258.m3u8
-#EXTINF:0 group-title="(US) United States",UK 5 | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/15031.m3u8
-#EXTINF:0 group-title="(US) United States",UNIVISION | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137263.m3u8
-#EXTINF:0 group-title="(US) United States",VELOCITY | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137245.m3u8
-#EXTINF:0 group-title="(US) United States",VOICE OF | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112257.m3u8
-#EXTINF:0 group-title="(US) United States",VTV CHANNEL 6 COLORADO | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112256.m3u8
-#EXTINF:0 group-title="(US) United States",WAPA | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137242.m3u8
-#EXTINF:0 group-title="(US) United States",WAPA | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137243.m3u8
-#EXTINF:0 group-title="(US) United States",WGGS-TV | SD
-https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",WHPR TV 33 DETROIT | SD
-http://5.135.137.41:8000/live/mohamed1/mohamed/112253.m3u8
-#EXTINF:0 group-title="(US) United States",WILLOW | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137424.m3u8
-#EXTINF:0 group-title="(US) United States",WWE | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137341.m3u8
-#EXTINF:0 group-title="(US) United States",WWE | SD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130877.m3u8
-#EXTINF:0 group-title="(US) United States",WWE NETWORK | HD
-http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137340.m3u8
+
+#EXTINF:0,EPL 1 [Man united vs Tottenham]
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/19032.ts
+
+#EXTINF:0,Astro Supersports 1 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23453.ts
+
+#EXTINF:0,Astro Supersports 2 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23452.ts
+
+#EXTINF:0,Astro Supersports 3 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23451.ts
+
+#EXTINF:0,Astro Supersports 4 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23450.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
+http://iptvtool.es:9977/live/roberto/iptv/27096.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
+http://iptvtool.es:9977/live/roberto/iptv/27095.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
+http://iptvtool.es:9977/live/roberto/iptv/27094.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="UK",UK: BT Sport Extra 1
+http://iptvtool.es:9977/live/roberto/iptv/27093.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Action HD" tvg-logo="" group-title="UK",UK: Sky Sport Action HD
+http://iptvtool.es:9977/live/roberto/iptv/27092.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="" group-title="UK",UK: Sky Sport Arena HD
+http://iptvtool.es:9977/live/roberto/iptv/27088.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 FHD" tvg-logo="" group-title="UK",UK: Sky Sport F1 FHD
+http://iptvtool.es:9977/live/roberto/iptv/27087.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="" group-title="UK",UK: Sky Sport Football HD
+http://iptvtool.es:9977/live/roberto/iptv/27084.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT MIX" tvg-logo="" group-title="UK",UK: SKY SPORT MIX
+http://iptvtool.es:9977/live/roberto/iptv/27086.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="" group-title="UK",UK: SKY SPORTS CRICKET HD
+http://iptvtool.es:9977/live/roberto/iptv/27091.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD
+http://iptvtool.es:9977/live/roberto/iptv/27097.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="" group-title="UK",UK: SKY SPORTS GOLF HD
+http://iptvtool.es:9977/live/roberto/iptv/27090.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="UK",UK: SKY SPORTS MAIN EVENT HD
+http://iptvtool.es:9977/live/roberto/iptv/27089.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="UK",UK: SKY SPORTS PREMIER LEAGUE FHD
+http://iptvtool.es:9977/live/roberto/iptv/27085.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Atlantic HD" tvg-logo="" group-title="UK",UK: SKY Atlantic HD
+http://iptvtool.es:9977/live/roberto/iptv/27115.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Box Nation (PPV Events Only)" tvg-logo="" group-title="UK",UK: Sky Box Nation (PPV Events Only)
+http://iptvtool.es:9977/live/roberto/iptv/27118.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action HD" tvg-logo="" group-title="UK",UK: Sky Cinema Action HD
+http://iptvtool.es:9977/live/roberto/iptv/27135.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="UK",UK: Sky Cinema Comedy HD
+http://iptvtool.es:9977/live/roberto/iptv/27134.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="UK",UK: Sky Cinema Crime & Thriller HD
+http://iptvtool.es:9977/live/roberto/iptv/27133.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="" group-title="UK",UK: Sky Cinema Disney HD
+http://iptvtool.es:9977/live/roberto/iptv/27132.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama & Romance HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama & Romance HD
+http://iptvtool.es:9977/live/roberto/iptv/27131.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK",UK: Sky Cinema Family HD
+http://iptvtool.es:9977/live/roberto/iptv/27130.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="UK",UK: Sky Cinema Premier HD
+http://iptvtool.es:9977/live/roberto/iptv/27129.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-Fi & Horror HD" tvg-logo="" group-title="UK",UK: Sky Cinema Sci-Fi & Horror HD
+http://iptvtool.es:9977/live/roberto/iptv/27128.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Select HD" tvg-logo="" group-title="UK",UK: Sky Movies Select HD
+http://iptvtool.es:9977/live/roberto/iptv/27123.ts
+#EXTINF:-1,DAZN 2 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23358.ts
+#EXTINF:-1,DAZN 3 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23359.ts
+#EXTINF:-1,DAZN 4 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23360.ts
+#EXTINF:-1,DAZN 5 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23361.ts
+#EXTINF:-1,DAZN 6 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23362.ts
+#EXTINF:-1,DAZN 7 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23363.ts
+#EXTINF:-1,DAZN 9 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23365.ts
+#EXTINF:-1,DAZN 10 HD IT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23366.ts
+#EXTINF:-1,Eleven Sports 1 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23325.ts
+#EXTINF:-1,Eleven Sports 2 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23320.ts
+#EXTINF:-1,Eleven Sports 3 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23321.ts
+#EXTINF:-1,Eleven Sports 4 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23322.ts
+#EXTINF:-1,Eleven Sports 5 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23323.ts
+#EXTINF:-1,Eleven Sports 6 HD PT
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23324.ts
+#EXTINF:-1,NBC SPORTS BOSTON HD US
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/18853.ts
+#EXTINF:-1,Sky Sports Action HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3598.ts
+#EXTINF:-1,Sky Sports Action UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14747.ts
+#EXTINF:-1,Sky Sports Arena FHD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/16969.ts
+#EXTINF:-1,Sky Sports Arena HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/16968.ts
+#EXTINF:-1,Sky Sports Main Event HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/5600.ts
+#EXTINF:-1,Sky Sports Main Event UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14753.ts
+#EXTINF:-1,Sky Sports Cricket HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/5601.ts
+#EXTINF:-1,Sky Sports Football HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/20024.ts
+#EXTINF:-1,Sky Sports Golf HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3600.ts
+#EXTINF:-1,Sky Sports Golf UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14744.ts
+#EXTINF:-1,Sky Sports Premier League HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/4458.ts
+#EXTINF:-1,Sky Sports Premier League UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14742.ts
+#EXTINF:-1,Sky Sports F1 HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3603.ts
+#EXTINF:-1,Sky Sports F1 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14739.ts
+#EXTINF:-1,Sky Sports Mix UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14926.ts
+#EXTINF:-1,Sky Sports News HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1954.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14657.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1991.ts
+#EXTINF:-1,BT Sport 1 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3586.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14658.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/2673.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1980.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14778.ts
+#EXTINF:-1,BT Sport Extra 4 UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14807.ts
+#EXTINF:-1,BT Sport 3 HD UK
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14903.ts
+#EXTINF:-1,RMC Sport 1 HD FR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13182.ts
+#EXTINF:-1,RMC Sport 3 FHD FR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/21522.ts
+#EXTINF:-1,RMC Sport 4 FHD FR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13148.ts
+#EXTINF:-1,Arena Sport 4 FHD HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/17915.ts
+#EXTINF:-1,Arena Sport 2 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1437.ts
+#EXTINF:-1,Arena Sport 3 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1438.ts
+#EXTINF:-1,Arena Sport 4 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1439.ts
+#EXTINF:-1,Arena Sport 5 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13827.ts
+#EXTINF:-1,Arena Sport 6 HD HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13828.ts
+#EXTINF:-1,Arena Sport 2 HD RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3183.ts
+#EXTINF:-1,Arena Sport 3 RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3184.ts
+#EXTINF:-1,Arena Sport 4 RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3185.ts
+#EXTINF:-1,Arena Sport 5 RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3186.ts
+#EXTINF:-1,Sport Klub 2 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13833.ts
+#EXTINF:-1,Sport Klub 3 HR
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13834.ts
+#EXTINF:-1,Sport Klub 4 RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13829.ts
+#EXTINF:-1,Sport Klub 2 RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1441.ts
+#EXTINF:-1,Sport Klub 3 HD RS
+http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1442.ts
