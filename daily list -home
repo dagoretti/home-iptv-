@@ -1,205 +1,1109 @@
 #EXTM3U
 #EXTINF:-1  UPDATE 
 30/08/2018 22:48 PM
-#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN1" tvg-logo="" group-title="USA",USA CA-TSN1
-http://iptvtool.es:9977/live/roberto/iptv/35217.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN2" tvg-logo="" group-title="USA",USA CA-TSN2
-http://iptvtool.es:9977/live/roberto/iptv/35216.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN3" tvg-logo="" group-title="USA",USA CA-TSN3
-http://iptvtool.es:9977/live/roberto/iptv/35215.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN4" tvg-logo="" group-title="USA",USA CA-TSN4
-http://iptvtool.es:9977/live/roberto/iptv/35214.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA CA-TSN5" tvg-logo="" group-title="USA",USA CA-TSN5
-http://iptvtool.es:9977/live/roberto/iptv/35213.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet 360" tvg-logo="" group-title="USA",CA-Sportsnet 360
-http://iptvtool.es:9977/live/roberto/iptv/35203.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet One" tvg-logo="" group-title="USA",CA-Sportsnet One
-http://iptvtool.es:9977/live/roberto/iptv/35204.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet Ontario" tvg-logo="" group-title="USA",CA-Sportsnet Ontario
-http://iptvtool.es:9977/live/roberto/iptv/35201.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA-Sportsnet World" tvg-logo="" group-title="USA",CA-Sportsnet World
-http://iptvtool.es:9977/live/roberto/iptv/35202.ts
+
 #EXTINF:-1,US: ABC   east
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
 
 #EXTINF:0,EPL 1 [Man united vs Tottenham]
 http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/19032.ts
 
-#EXTINF:0,Astro Supersports 1 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23453.ts
+#EXTM3U
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,US: C SPAIN 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16688.ts
+#EXTINF:-1,US: C SPAIN 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16689.ts
+#EXTINF:-1,US: C SPAIN 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16690.ts
+#EXTINF:-1,US: TSN SPORT 1
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,US: TSN SPORT 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1,US: TSN SPORT 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20599.ts
+#EXTINF:-1,US: FOX 25 BOSTON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
+#EXTINF:-1,US: Eternal Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9460.ts
+#EXTINF:-1,US: SCC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
+#EXTINF:-1,US: 5 USA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19358.ts
+#EXTINF:-1,US: 3ABN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9465.ts
+#EXTINF:-1,US: CBS 47 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
+#EXTINF:-1,US: LTV EDU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
+#EXTINF:-1,US: Cerritos TV3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9467.ts
+#EXTINF:-1,US: CBN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
+#EXTINF:-1,US: Bloomington TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
+#EXTINF:-1,US: Discovery World
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22088.ts
+#EXTINF:-1,US: CBN NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
+#EXTINF:-1,US: CBSN News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,US: CMC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,US: PAC-12 Arizona
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9470.ts
+#EXTINF:-1,US: PAC-12 Bay Area
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9472.ts
+#EXTINF:-1,US: PAC-12 Mountain
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9473.ts
+#EXTINF:-1,US: PAC-12 Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9476.ts
+#EXTINF:-1,US:  PAC-12 Los Angeles
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9471.ts
+#EXTINF:-1,US: PAC-12 Oregon
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9474.ts
+#EXTINF:-1,US: PAC-12 Washington
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9475.ts
+#EXTINF:-1,US: FOX 23 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,US: HOPE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
+#EXTINF:-1,US: INFOWARS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
+#EXTINF:-1,US: DAYSTAR TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
+#EXTINF:-1,US: CALIFORNIA MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
+#EXTINF:-1,US: DAYTONA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
+#EXTINF:-1,US: DCN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
+#EXTINF:-1,US: DKN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
+#EXTINF:-1,US: WHPR TV 33 Detroit
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
+#EXTINF:-1,US: NFL NETWORK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
+#EXTINF:-1,US: SBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
+#EXTINF:-1,US: NBC 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
+#EXTINF:-1,US: RT NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
+#EXTINF:-1,US: SG TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
+#EXTINF:-1,US: Southeastern Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
+#EXTINF:-1,US: KIRO-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
+#EXTINF:-1,US: TUFF  TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
+#EXTINF:-1,US: TVV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
+#EXTINF:-1,US: Denver 8 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
+#EXTINF:-1,US: GC Church TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
+#EXTINF:-1,US: WGN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,US: PIX 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
+#EXTINF:-1,US: MNN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9459.ts
+#EXTINF:-1,US: The Florida Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
+#EXTINF:-1,US: NEWSMAX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,US: KTNV 13 News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7770.ts
+#EXTINF:-1,US: AMGA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
+#EXTINF:-1,US:  RADIO MONTE CARLO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
+#EXTINF:-1,US:  Zarin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
+#EXTINF:-1,US:  RETRO MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,US:  AKC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
+#EXTINF:-1,US: GOD TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
+#EXTINF:-1,US: ABC HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.ts
+#EXTINF:-1,US:  Virgin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,US: ITVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11602.ts
+#EXTINF:-1,US: CTN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
+#EXTINF:-1,US: BLOOMBERG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,US: NLF
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
+#EXTINF:-1,US: MSNBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
+#EXTINF:-1,US: Ditty TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
+#EXTINF:-1,US: WGN NEWS CHICAGO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
+#EXTINF:-1,US: ABC   east
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,US: IMPAC FRESLING
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
+#EXTINF:-1,US: KEY TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
+#EXTINF:-1,US: ARTS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,US: HOUSE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
+#EXTINF:-1,US: Catholic TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
+#EXTINF:-1,US: San Francisco Gov TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
+#EXTINF:-1,US: Cascade Hills Church
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
+#EXTINF:-1,US: LTV GOV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
+#EXTINF:-1,US: NBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20451.ts
+#EXTINF:-1,US: ABNSAT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
+#EXTINF:-1,US: CNN int
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,US: Columbia Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
+#EXTINF:-1,US: LTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
+#EXTINF:-1,US: Knowledge Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
+#EXTINF:-1,US: Kool TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20456.ts
+#EXTINF:-1,US: NBC 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
+#EXTINF:-1,US: IBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
+#EXTINF:-1,US: SBN Domestic
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
+#EXTINF:-1,US: SBN Global
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
+#EXTINF:-1,US: SBN International
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
+#EXTINF:-1,US: NWCT 12
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
+#EXTINF:-1,US: TCT KIDS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
+#EXTINF:-1,US: The Blaze
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
+#EXTINF:-1,US: The Country Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,US: The NOW Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
+#EXTINF:-1,US: TBN armenial
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
+#EXTINF:-1,US: EWTN espanol
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
+#EXTINF:-1,US: JCTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
+#EXTINF:-1,US: DHTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
+#EXTINF:-1,US: PCTV 26
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
+#EXTINF:-1,US: Little Saigon TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18907.ts
+#EXTINF:-1,US: SFGovTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
+#EXTINF:-1,US: SBN Internacional TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
+#EXTINF:-1,US: ACRE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
+#EXTINF:-1,US: The Beach Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18930.ts
+#EXTINF:-1,US: CYC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
+#EXTINF:-1,US: TVW 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
+#EXTINF:-1,US: WWE Network HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,US: Central Valley Talk
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
+#EXTINF:-1,US: WPCH TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
+#EXTINF:-1,US: City of Charlotte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
+#EXTINF:-1,US: RADUT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
+#EXTINF:-1,US: CT-N
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
+#EXTINF:-1,US: REVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
+#EXTINF:-1,US: Jewelry TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
+#EXTINF:-1,US: LA 36
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
+#EXTINF:-1,US: LFUCG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
+#EXTINF:-1,US: Cable Central TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
+#EXTINF:-1,US: Oscar Aguero Ministry
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
+#EXTINF:-1,US: RadioU TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
+#EXTINF:-1,US: RTN Channel 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
+#EXTINF:-1,US: SFGovTV 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
+#EXTINF:-1,US: SPRIT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
+#EXTINF:-1,US: TCT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
+#EXTINF:-1,US: WCCA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
+#EXTINF:-1,US: Better Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
+#EXTINF:-1,US: TVW Cable Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18919.ts
+#EXTINF:-1,US: WACX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
+#EXTINF:-1,US: InfoWars TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
+#EXTINF:-1,US: BYU.TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
+#EXTINF:-1,US: Free Speech TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
+#EXTINF:-1,US: WRXY-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
+#EXTINF:-1,US: OWN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
+#EXTINF:-1,US: United Nations TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
+#EXTINF:-1,US: FOX 5 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,US: WGGS-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
+#EXTINF:-1,US: NFL Now TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,US: 10 Health TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
+#EXTINF:-1,US: NEWS 25
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
+#EXTINF:-1,US: CHANNEL 11 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,US: KOB 4 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20468.ts
+#EXTINF:-1,US: LifeChurch TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
+#EXTINF:-1,US: ABC 7 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
+#EXTINF:-1,US: Midpeninsula TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
+#EXTINF:-1,US: Collier TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
+#EXTINF:-1,US: Red Bull tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
+#EXTINF:-1,US: TVW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
+#EXTINF:-1,US: Voice of America
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,US: VTV Channel 6 Colorado
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
+#EXTINF:-1,US: WEATHER CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
+#EXTINF:-1,US: WGN 9 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
+#EXTINF:-1,US: KVLA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
+#EXTINF:-1,US: ORANGE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
+#EXTINF:-1,US: FOX 25 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
+#EXTINF:-1,US: Comedy TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20455.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
+#EXTINF:-1,US: NewsChannel 21
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
+#EXTINF:-1,US: Capital TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
+#EXTINF:-1,US: WBRZ-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
+#EXTINF:-1,US: ESPN  NBA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19749.ts
+#EXTINF:-1,US: SBN Global TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
+#EXTINF:-1,US: Most Video TV HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
+#EXTINF:-1,US: WVLR-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
+#EXTINF:-1,US: Jewish Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
+#EXTINF:-1,US: CARTOON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
+#EXTINF:-1,US: New Orleans TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
+#EXTINF:-1,US: FOX 25 BOSTON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
+#EXTINF:-1,US: LNKTV City
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9460.ts
+#EXTINF:-1,US: LNK TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
+#EXTINF:-1,US: 5 USA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19358.ts
+#EXTINF:-1,US: WATC Too TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9465.ts
+#EXTINF:-1,US: CBS 47 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
+#EXTINF:-1,US: LTV EDU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
+#EXTINF:-1,US: Cerritos TV3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9467.ts
+#EXTINF:-1,US: CBN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
+#EXTINF:-1,US: Bloomington TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
+#EXTINF:-1,US: Discovery World
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22088.ts
+#EXTINF:-1,US: CBN NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
+#EXTINF:-1,US: CBSN News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,US: CMC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,US: FOX 23 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,US: HOPE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
+#EXTINF:-1,US: INFOWARS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
+#EXTINF:-1,US: DAYSTAR TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
+#EXTINF:-1,US: CALIFORNIA MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
+#EXTINF:-1,US: DAYTONA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
+#EXTINF:-1,US: DCN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
+#EXTINF:-1,US: DKN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
+#EXTINF:-1,US: WHPR TV 33 Detroit
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
+#EXTINF:-1,US: NFL NETWORK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
+#EXTINF:-1,US: SBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
+#EXTINF:-1,US: NBC 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
+#EXTINF:-1,US: RT NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
+#EXTINF:-1,US: SG TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
+#EXTINF:-1,US: Southeastern Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
+#EXTINF:-1,US: KIRO-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
+#EXTINF:-1,US: TUFF  TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
+#EXTINF:-1,US: TVV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
+#EXTINF:-1,US: Denver 8 TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
+#EXTINF:-1,US: GC Church TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
+#EXTINF:-1,US: WGN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,US: PIX 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
+#EXTINF:-1,US: MNN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9459.ts
+#EXTINF:-1,US: The Florida Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
+#EXTINF:-1,US: NEWSMAX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,US: KTNV 13 News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7770.ts
+#EXTINF:-1,US: Tele Anacaona
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
+#EXTINF:-1,US:  RADIO MONTE CARLO TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
+#EXTINF:-1,US:  WHIO 7 News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
+#EXTINF:-1,US:  RETRO MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,US:  AKC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
+#EXTINF:-1,US: GOD TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
+#EXTINF:-1,US: KHOU-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.ts
+#EXTINF:-1,US:  Virgin TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,US: ITVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11602.ts
+#EXTINF:-1,US: CTN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
+#EXTINF:-1,US: BLOOMBERG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,US: NLF
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
+#EXTINF:-1,US: MSNBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
+#EXTINF:-1,US: Ditty TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
+#EXTINF:-1,US: WGN NEWS CHICAGO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
+#EXTINF:-1,US: ABC   east
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,US: IMPAC FRESLING
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
+#EXTINF:-1,US: KEY TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
+#EXTINF:-1,US: ARTS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,US: HOUSE CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
+#EXTINF:-1,US: Catholic TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
+#EXTINF:-1,US: San Francisco Gov TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
+#EXTINF:-1,US: Cascade Hills Church
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
+#EXTINF:-1,US: LTV GOV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
+#EXTINF:-1,US: NBC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20451.ts
+#EXTINF:-1,US: ABNSAT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
+#EXTINF:-1,US: CNN int
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,US: Columbia Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
+#EXTINF:-1,US: LTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
+#EXTINF:-1,US: Knowledge Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
+#EXTINF:-1,US: Kool TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20456.ts
+#EXTINF:-1,US: NBC 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
+#EXTINF:-1,US: IBN TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
+#EXTINF:-1,US: SBN Domestic
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
+#EXTINF:-1,US: SBN Global
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
+#EXTINF:-1,US: SBN International
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
+#EXTINF:-1,US: NWCT 12
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
+#EXTINF:-1,US: TCT KIDS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
+#EXTINF:-1,US: The Blaze
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
+#EXTINF:-1,US: The Country Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,US: The NOW Network
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
+#EXTINF:-1,US: TBN armenial
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
+#EXTINF:-1,US: EWTN espanol
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
+#EXTINF:-1,US: JCTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
+#EXTINF:-1,US: DHTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
+#EXTINF:-1,US: PCTV 26
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
+#EXTINF:-1,US: Little Saigon TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18907.ts
+#EXTINF:-1,US: SFGovTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
+#EXTINF:-1,US: SBN Internacional TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
+#EXTINF:-1,US: ACRE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
+#EXTINF:-1,US: The Beach Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18930.ts
+#EXTINF:-1,US: CYC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
+#EXTINF:-1,US: TVW 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
+#EXTINF:-1,US: WWE Network HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,US: Central Valley Talk
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
+#EXTINF:-1,US: WPCH TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
+#EXTINF:-1,US: City of Charlotte
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
+#EXTINF:-1,US: RADUT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
+#EXTINF:-1,US: CT-N
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
+#EXTINF:-1,US: REVN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
+#EXTINF:-1,US: Jewelry TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
+#EXTINF:-1,US: LA 36
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
+#EXTINF:-1,US: LFUCG
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
+#EXTINF:-1,US: Cable Central TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
+#EXTINF:-1,US: Oscar Aguero Ministry
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
+#EXTINF:-1,US: RadioU TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
+#EXTINF:-1,US: RTN Channel 11
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
+#EXTINF:-1,US: SFGovTV 2
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
+#EXTINF:-1,US: SPRIT TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
+#EXTINF:-1,US: TCT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
+#EXTINF:-1,US: WCCA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
+#EXTINF:-1,US: Better Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
+#EXTINF:-1,US: TVW Cable Channel
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18919.ts
+#EXTINF:-1,US: WACX TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
+#EXTINF:-1,US: InfoWars TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
+#EXTINF:-1,US: BYU.TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
+#EXTINF:-1,US: Free Speech TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
+#EXTINF:-1,US: WRXY-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
+#EXTINF:-1,US: OWN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
+#EXTINF:-1,US: United Nations TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
+#EXTINF:-1,US: FOX 5 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,US: WGGS-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
+#EXTINF:-1,US: NFL Now TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,US: 10 Health TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
+#EXTINF:-1,US: NEWS 25
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
+#EXTINF:-1,US: CHANNEL 11 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,US: KOB 4 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20468.ts
+#EXTINF:-1,US: LifeChurch TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
+#EXTINF:-1,US: ABC 7 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
+#EXTINF:-1,US: Midpeninsula TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
+#EXTINF:-1,US: Collier TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
+#EXTINF:-1,US: Red Bull tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
+#EXTINF:-1,US: TVW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
+#EXTINF:-1,US: Voice of America
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,US: VTV Channel 6 Colorado
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
+#EXTINF:-1,US: WEATHER CHANNEL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
+#EXTINF:-1,US: WGN 9 HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
+#EXTINF:-1,US: KVLA TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
+#EXTINF:-1,US: ORANGE TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
+#EXTINF:-1,US: FOX 25 NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
+#EXTINF:-1,US: Comedy TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20455.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
+#EXTINF:-1,US: NewsChannel 21
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
+#EXTINF:-1,US: Capital TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
+#EXTINF:-1,US: WBRZ-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
+#EXTINF:-1,US: ESPN  NBA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19749.ts
+#EXTINF:-1,US: SBN Global TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
+#EXTINF:-1,US: Most Video TV HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
+#EXTINF:-1,US: WVLR-TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
+#EXTINF:-1,US: Jewish Life TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
+#EXTINF:-1,US: CARTOON
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
+#EXTINF:-1,US: New Orleans TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
+#EXTINF:-1,UK: 4Music
+http://54.37.255.204:9977/live/Rivera/Rivera/27047.ts
+#EXTINF:-1,UK: DMAX
+http://54.37.255.204:9977/live/Rivera/Rivera/27104.ts
+#EXTINF:-1,UK: FOX
+http://54.37.255.204:9977/live/Rivera/Rivera/27109.ts
+#EXTINF:-1,UK: Gold
+http://54.37.255.204:9977/live/Rivera/Rivera/27058.ts
+#EXTINF:-1,UK: HBO 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27113.ts
+#EXTINF:-1,UK: HBO HD
+http://54.37.255.204:9977/live/Rivera/Rivera/27114.ts
+#EXTINF:-1,UK: History
+http://54.37.255.204:9977/live/Rivera/Rivera/27054.ts
+#EXTINF:-1,UK: History  1
+http://54.37.255.204:9977/live/Rivera/Rivera/27053.ts
+#EXTINF:-1,UK: Home&Health   1
+http://54.37.255.204:9977/live/Rivera/Rivera/27052.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://54.37.255.204:9977/live/Rivera/Rivera/27059.ts
+#EXTINF:-1,UK: ITV 2 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27103.ts
+#EXTINF:-1,UK: ITV 3 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27102.ts
+#EXTINF:-1,UK: ITV 4 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27101.ts
+#EXTINF:-1,UK: Life time
+http://54.37.255.204:9977/live/Rivera/Rivera/27110.ts
+#EXTINF:-1,UK: Manchester United TV
+http://54.37.255.204:9977/live/Rivera/Rivera/27083.ts
+#EXTINF:-1,UK: Mototrs TV
+http://54.37.255.204:9977/live/Rivera/Rivera/27081.ts
+#EXTINF:-1,UK: MTV
+http://54.37.255.204:9977/live/Rivera/Rivera/27049.ts
+#EXTINF:-1,UK: MTV Base HD
+http://54.37.255.204:9977/live/Rivera/Rivera/27048.ts
+#EXTINF:-1,UK: Nat Geo Graphic
+http://54.37.255.204:9977/live/Rivera/Rivera/27066.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://54.37.255.204:9977/live/Rivera/Rivera/27056.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://54.37.255.204:9977/live/Rivera/Rivera/27055.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://54.37.255.204:9977/live/Rivera/Rivera/27075.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://54.37.255.204:9977/live/Rivera/Rivera/27074.ts
+#EXTINF:-1,UK: Nickelodeon
+http://54.37.255.204:9977/live/Rivera/Rivera/27073.ts
+#EXTINF:-1,UK: Nickelodeon   1
+http://54.37.255.204:9977/live/Rivera/Rivera/27072.ts
+#EXTINF:-1,UK: Sony Channel  1
+http://54.37.255.204:9977/live/Rivera/Rivera/27117.ts
+#EXTINF:-1,UK: Syfy
+http://54.37.255.204:9977/live/Rivera/Rivera/27108.ts
+#EXTINF:-1,UK: TCM
+http://54.37.255.204:9977/live/Rivera/Rivera/27107.ts
+#EXTINF:-1,UK: VH1
+http://54.37.255.204:9977/live/Rivera/Rivera/27051.ts
+#EXTINF:-1,UK: VIVA
+http://54.37.255.204:9977/live/Rivera/Rivera/27050.ts
+#EXTINF:-1,UK: Baby tv
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2203.ts
+#EXTINF:-1,UK: BBC Four
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2216.ts
+#EXTINF:-1,UK: BBC Three
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2217.ts
+#EXTINF:-1,UK: Boxnation_HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2147.ts
+#EXTINF:-1,UK: CBS Action
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2205.ts
+#EXTINF:-1,UK: CBS Reality
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2204.ts
+#EXTINF:-1,UK: channel 4
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2210.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2149.ts
+#EXTINF:-1,UK: Comedy Central
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2196.ts
+#EXTINF:-1,UK: DAVE HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2173.ts
+#EXTINF:-1,UK: DISCOVERY-HISTORY
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2198.ts
+#EXTINF:-1,UK: E4
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2209.ts
+#EXTINF:-1,UK: FOOD_NETWORK
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2162.ts
+#EXTINF:-1,UK: islam tv
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2178.ts
+#EXTINF:-1,UK: islamchannel
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2177.ts
+#EXTINF:-1,UK: ITV 3
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2213.ts
+#EXTINF:-1,UK: ITV BE
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2211.ts
+#EXTINF:-1,UK: Liverpool FC
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2148.ts
+#EXTINF:-1,UK: Racing UK
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.ts
+#EXTINF:-1,UK: MORE4
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2194.ts
+#EXTINF:-1,UK: MTA1
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2176.ts
+#EXTINF:-1,UK: MTA2
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2175.ts
+#EXTINF:-1,UK: MTA3
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2174.ts
+#EXTINF:-1,UK: MUTV
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2150.ts
+#EXTINF:-1,UK: NAT GEO HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2172.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2195.ts
+#EXTINF:-1,UK: NatGeo Wild HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2171.ts
+#EXTINF:-1,UK: Peace TV
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2179.ts
+#EXTINF:-1,UK: RTE 1
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2208.ts
+#EXTINF:-1,UK: RTE 2
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2207.ts
+#EXTINF:-1,UK: RTE NEWS
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2206.ts
+#EXTINF:-1,UK: Sky 3D
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2180.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2181.ts
+#EXTINF:-1,UK: Sky Disney channel
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2161.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2187.ts
+#EXTINF:-1,UK: Sky News
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2159.ts
+#EXTINF:-1,UK: SKY1
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2170.ts
+#EXTINF:-1,UK: SKY 2
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2169.ts
+#EXTINF:-1,UK: SONY CHANNEL
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2168.ts
+#EXTINF:-1,UK: Spike
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2201.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2215.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2214.ts
+#EXTINF:-1,UK: Sky Thriller
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2192.ts
+#EXTINF:-1,UK: Animal Planet
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2164.ts
+#EXTINF:-1,UK: Discovery
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2163.ts
+#EXTINF:-1,UK: Disney Channel
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2166.ts
+#EXTINF:-1,UK: Disney Junior
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2165.ts
+#EXTINF:-1,UK: CATHOLIC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7781.ts
+#EXTINF:-1,UK: FRANCE 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13599.ts
+#EXTINF:-1,UK: HEART TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13600.ts
+#EXTINF:-1,UK: DW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14231.ts
+#EXTINF:-1,UK: M. HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13605.ts
+#EXTINF:-1,UK: SKYNEWS UK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18420.ts
+#EXTINF:-1,UK: HD Fashion
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18118.ts
+#EXTINF:-1,UK: alazeera  qatar
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18841.ts
+#EXTINF:-1,UK: BLOOMBERGH
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18855.ts
+#EXTINF:-1,UK: CAPILATL TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18848.ts
+#EXTINF:-1,UK: CBSN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18903.ts
+#EXTINF:-1,UK: LONDEN LIVE
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18849.ts
+#EXTINF:-1,UK: HIT MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16934.ts
+#EXTINF:-1,UK: Sky News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16976.ts
+#EXTINF:-1,UK: Sky One
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19293.ts
+#EXTINF:-1,UK: DiscScience
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19290.ts
+#EXTINF:-1,UK: MOVIE 4 MEN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19333.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19270.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19291.ts
+#EXTINF:-1,UK: ComedyXtra
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19247.ts
+#EXTINF:-1,UK: CRIME & INVERSTIGATION
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19238.ts
+#EXTINF:-1,UK: MOVIES ACTION HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19327.ts
+#EXTINF:-1,UK: TG4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19325.ts
+#EXTINF:-1,UK: TLC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19324.ts
+#EXTINF:-1,UK: DISCCOVERY TURBO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19235.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19262.ts
+#EXTINF:-1,UK: 5 Star
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19357.ts
+#EXTINF:-1,UK: Alibi
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19359.ts
+#EXTINF:-1,UK: BBC 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19356.ts
+#EXTINF:-1,UK: BBC News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19354.ts
+#EXTINF:-1,UK: MOVIES DISNEY HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19301.ts
+#EXTINF:-1,UK: Animal Planet
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19283.ts
+#EXTINF:-1,UK: Propeller TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22079.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19350.ts
+#EXTINF:-1,UK: Revelation TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22077.ts
+#EXTINF:-1,UK: RUSSIA DOCUMENT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21070.ts
+#EXTINF:-1,UK: RUSSIA TODAY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21071.ts
+#EXTINF:-1,UK: HISTORY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22090.ts
+#EXTINF:-1,UK: British Muslim TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22078.ts
+#EXTINF:-1,UK: E !
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19345.ts
+#EXTINF:-1,UK: ITV4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19338.ts
+#EXTINF:-1,UK: More 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19332.ts
+#EXTINF:-1,UK: Sky Two HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19294.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19330.ts
+#EXTINF:-1,UK: DAVE
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19236.ts
+#EXTINF:-1,UK: Comedy Central
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19251.ts
+#EXTINF:-1,UK: CBS NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7786.ts
+#EXTINF:-1,UK: ABC NEWS 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20374.ts
+#EXTINF:-1,UK: Arise News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20371.ts
+#EXTINF:-1,UK: RT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20372.ts
+#EXTINF:-1,UK: RT DOCU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8434.ts
+#EXTINF:-1,UK: RTE NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20373.ts
+#EXTINF:-1,UK: CTV 8
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20375.ts
+#EXTINF:-1,UK: Wairarapa TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20376.ts
+#EXTINF:-1,UK: DISCOVERY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9206.ts
 
-#EXTINF:0,Astro Supersports 2 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23452.ts
-
-#EXTINF:0,Astro Supersports 3 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23451.ts
-
-#EXTINF:0,Astro Supersports 4 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23450.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
-http://iptvtool.es:9977/live/roberto/iptv/27096.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
-http://iptvtool.es:9977/live/roberto/iptv/27095.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
-http://iptvtool.es:9977/live/roberto/iptv/27094.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="UK",UK: BT Sport Extra 1
-http://iptvtool.es:9977/live/roberto/iptv/27093.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Action HD" tvg-logo="" group-title="UK",UK: Sky Sport Action HD
-http://iptvtool.es:9977/live/roberto/iptv/27092.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="" group-title="UK",UK: Sky Sport Arena HD
-http://iptvtool.es:9977/live/roberto/iptv/27088.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport F1 FHD" tvg-logo="" group-title="UK",UK: Sky Sport F1 FHD
-http://iptvtool.es:9977/live/roberto/iptv/27087.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="" group-title="UK",UK: Sky Sport Football HD
-http://iptvtool.es:9977/live/roberto/iptv/27084.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT MIX" tvg-logo="" group-title="UK",UK: SKY SPORT MIX
-http://iptvtool.es:9977/live/roberto/iptv/27086.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="" group-title="UK",UK: SKY SPORTS CRICKET HD
-http://iptvtool.es:9977/live/roberto/iptv/27091.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD
-http://iptvtool.es:9977/live/roberto/iptv/27097.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="" group-title="UK",UK: SKY SPORTS GOLF HD
-http://iptvtool.es:9977/live/roberto/iptv/27090.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="UK",UK: SKY SPORTS MAIN EVENT HD
-http://iptvtool.es:9977/live/roberto/iptv/27089.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="UK",UK: SKY SPORTS PREMIER LEAGUE FHD
-http://iptvtool.es:9977/live/roberto/iptv/27085.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Atlantic HD" tvg-logo="" group-title="UK",UK: SKY Atlantic HD
-http://iptvtool.es:9977/live/roberto/iptv/27115.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Box Nation (PPV Events Only)" tvg-logo="" group-title="UK",UK: Sky Box Nation (PPV Events Only)
-http://iptvtool.es:9977/live/roberto/iptv/27118.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action HD" tvg-logo="" group-title="UK",UK: Sky Cinema Action HD
-http://iptvtool.es:9977/live/roberto/iptv/27135.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="UK",UK: Sky Cinema Comedy HD
-http://iptvtool.es:9977/live/roberto/iptv/27134.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="UK",UK: Sky Cinema Crime & Thriller HD
-http://iptvtool.es:9977/live/roberto/iptv/27133.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="" group-title="UK",UK: Sky Cinema Disney HD
-http://iptvtool.es:9977/live/roberto/iptv/27132.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama & Romance HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama & Romance HD
-http://iptvtool.es:9977/live/roberto/iptv/27131.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK",UK: Sky Cinema Family HD
-http://iptvtool.es:9977/live/roberto/iptv/27130.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="" group-title="UK",UK: Sky Cinema Premier HD
-http://iptvtool.es:9977/live/roberto/iptv/27129.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-Fi & Horror HD" tvg-logo="" group-title="UK",UK: Sky Cinema Sci-Fi & Horror HD
-http://iptvtool.es:9977/live/roberto/iptv/27128.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Select HD" tvg-logo="" group-title="UK",UK: Sky Movies Select HD
-http://iptvtool.es:9977/live/roberto/iptv/27123.ts
-#EXTINF:-1,DAZN 2 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23358.ts
-#EXTINF:-1,DAZN 3 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23359.ts
-#EXTINF:-1,DAZN 4 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23360.ts
-#EXTINF:-1,DAZN 5 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23361.ts
-#EXTINF:-1,DAZN 6 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23362.ts
-#EXTINF:-1,DAZN 7 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23363.ts
-#EXTINF:-1,DAZN 9 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23365.ts
-#EXTINF:-1,DAZN 10 HD IT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23366.ts
-#EXTINF:-1,Eleven Sports 1 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23325.ts
-#EXTINF:-1,Eleven Sports 2 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23320.ts
-#EXTINF:-1,Eleven Sports 3 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23321.ts
-#EXTINF:-1,Eleven Sports 4 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23322.ts
-#EXTINF:-1,Eleven Sports 5 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23323.ts
-#EXTINF:-1,Eleven Sports 6 HD PT
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/23324.ts
-#EXTINF:-1,NBC SPORTS BOSTON HD US
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/18853.ts
-#EXTINF:-1,Sky Sports Action HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3598.ts
-#EXTINF:-1,Sky Sports Action UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14747.ts
-#EXTINF:-1,Sky Sports Arena FHD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/16969.ts
-#EXTINF:-1,Sky Sports Arena HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/16968.ts
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/5600.ts
-#EXTINF:-1,Sky Sports Main Event UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14753.ts
-#EXTINF:-1,Sky Sports Cricket HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/5601.ts
-#EXTINF:-1,Sky Sports Football HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/20024.ts
-#EXTINF:-1,Sky Sports Golf HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3600.ts
-#EXTINF:-1,Sky Sports Golf UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14744.ts
-#EXTINF:-1,Sky Sports Premier League HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/4458.ts
-#EXTINF:-1,Sky Sports Premier League UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14742.ts
-#EXTINF:-1,Sky Sports F1 HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3603.ts
-#EXTINF:-1,Sky Sports F1 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14739.ts
-#EXTINF:-1,Sky Sports Mix UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14926.ts
-#EXTINF:-1,Sky Sports News HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1954.ts
-#EXTINF:-1,BT Sport 1 FHD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14657.ts
-#EXTINF:-1,BT Sport 1 HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1991.ts
-#EXTINF:-1,BT Sport 1 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3586.ts
-#EXTINF:-1,BT Sport 2 FHD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14658.ts
-#EXTINF:-1,BT Sport ESPN UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/2673.ts
-#EXTINF:-1,BT Sport ESPN HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1980.ts
-#EXTINF:-1,BT Sport Extra 1 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14778.ts
-#EXTINF:-1,BT Sport Extra 4 UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14807.ts
-#EXTINF:-1,BT Sport 3 HD UK
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/14903.ts
-#EXTINF:-1,RMC Sport 1 HD FR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13182.ts
-#EXTINF:-1,RMC Sport 3 FHD FR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/21522.ts
-#EXTINF:-1,RMC Sport 4 FHD FR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13148.ts
-#EXTINF:-1,Arena Sport 4 FHD HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/17915.ts
-#EXTINF:-1,Arena Sport 2 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1437.ts
-#EXTINF:-1,Arena Sport 3 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1438.ts
-#EXTINF:-1,Arena Sport 4 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1439.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13827.ts
-#EXTINF:-1,Arena Sport 6 HD HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13828.ts
-#EXTINF:-1,Arena Sport 2 HD RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3183.ts
-#EXTINF:-1,Arena Sport 3 RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3184.ts
-#EXTINF:-1,Arena Sport 4 RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3185.ts
-#EXTINF:-1,Arena Sport 5 RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/3186.ts
-#EXTINF:-1,Sport Klub 2 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13833.ts
-#EXTINF:-1,Sport Klub 3 HR
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13834.ts
-#EXTINF:-1,Sport Klub 4 RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/13829.ts
-#EXTINF:-1,Sport Klub 2 RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1441.ts
-#EXTINF:-1,Sport Klub 3 HD RS
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/1442.ts
