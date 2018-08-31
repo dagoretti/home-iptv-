@@ -1,1109 +1,2375 @@
 #EXTM3U
-#EXTINF:-1  UPDATE 
-30/08/2018 22:48 PM
-
 #EXTINF:-1,US: ABC   east
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
-
-#EXTINF:0,EPL 1 [Man united vs Tottenham]
-http://cdntraffice.com:80/live/pbXLqPPPqO/UjWqghV6UK/19032.ts
-
-#EXTM3U
-#EXTINF:-1,~ USA TV ~
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,==~~USA.Channels~~==
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/1727.ts
+#EXTINF:-1,USA: A and E HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4323.ts
+#EXTINF:-1,USA: ABC
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4322.ts
+#EXTINF:-1,USA: ABC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4333.ts
+#EXTINF:-1,USA: ABC News HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4321.ts
+#EXTINF:-1,USA: Action Max
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4320.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4319.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4318.ts
+#EXTINF:-1,USA: AFN Sports
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4317.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4316.ts
+#EXTINF:-1,USA: AMC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4334.ts
+#EXTINF:-1,USA: Animal Planet HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4315.ts
+#EXTINF:-1,USA: BBC America HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4314.ts
+#EXTINF:-1,USA: BEIN Sports HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4330.ts
+#EXTINF:-1,USA: BET HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4313.ts
+#EXTINF:-1,USA: Big Ten Network
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4312.ts
+#EXTINF:-1,USA: Bloomberg HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4311.ts
+#EXTINF:-1,USA: Boomerang HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4310.ts
+#EXTINF:-1,USA: Bravo
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4309.ts
+#EXTINF:-1,USA: Bravo HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4331.ts
+#EXTINF:-1,USA: BTN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4308.ts
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4307.ts
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4306.ts
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4305.ts
+#EXTINF:-1,USA: Cartoon Network
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4304.ts
+#EXTINF:-1,USA: CBN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4303.ts
+#EXTINF:-1,USA: CBS
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4302.ts
+#EXTINF:-1,USA: CBS Sports Network
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4301.ts
+#EXTINF:-1,USA: Cinemax 5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4300.ts
+#EXTINF:-1,USA: Cinemax HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4343.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4299.ts
+#EXTINF:-1,USA: Cinemax MoreMax HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4298.ts
+#EXTINF:-1,USA: Cinemax Thriller Max HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4297.ts
+#EXTINF:-1,USA: CMT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4296.ts
+#EXTINF:-1,USA: CNBC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4295.ts
+#EXTINF:-1,USA: CNN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4329.ts
+#EXTINF:-1,USA: Comedy Central
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4294.ts
+#EXTINF:-1,USA: Cooking Channel HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4293.ts
+#EXTINF:-1,USA: Crime & Investigation HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4292.ts
+#EXTINF:-1,USA: CW HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4291.ts
+#EXTINF:-1,USA: Destination America
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4290.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4289.ts
+#EXTINF:-1,USA: Discovery Family HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4288.ts
+#EXTINF:-1,USA: Discovery HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4332.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4287.ts
+#EXTINF:-1,USA: Discovery Velocity HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4286.ts
+#EXTINF:-1,USA: Disney Channel HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4285.ts
+#EXTINF:-1,USA: Disney Jr. HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4284.ts
+#EXTINF:-1,USA: DIY Network HD**
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4283.ts
+#EXTINF:-1,USA: DTX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4282.ts
+#EXTINF:-1,USA: E! HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4281.ts
+#EXTINF:-1,USA: ESPN
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4280.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4279.ts
+#EXTINF:-1,USA: ESPN 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4278.ts
+#EXTINF:-1,USA: ESPN Deportes HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4277.ts
+#EXTINF:-1,USA: ESPN U HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4276.ts
+#EXTINF:-1,USA: Food Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4274.ts
+#EXTINF:-1,USA: FOX 29 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4328.ts
+#EXTINF:-1,USA: FOX Business Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4273.ts
+#EXTINF:-1,USA: FOX HD**
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4272.ts
+#EXTINF:-1,USA: FOX News
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4271.ts
+#EXTINF:-1,USA: Fox Soccer
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4275.ts
+#EXTINF:-1,USA: FOX Sports 1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4335.ts
+#EXTINF:-1,USA: FOX Sports 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4336.ts
+#EXTINF:-1,USA: Freeform HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4270.ts
+#EXTINF:-1,USA: FX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4269.ts
+#EXTINF:-1,USA: FXX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4268.ts
+#EXTINF:-1,USA: Golf HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4267.ts
+#EXTINF:-1,USA: GSN HD*
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4266.ts
+#EXTINF:-1,USA: H&I
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4265.ts
+#EXTINF:-1,USA: H2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4264.ts
+#EXTINF:-1,USA: Hall Mark HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4263.ts
+#EXTINF:-1,USA: HallMark
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4262.ts
+#EXTINF:-1,USA: HBO 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4259.ts
+#EXTINF:-1,USA: HBO Comedy HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4261.ts
+#EXTINF:-1,USA: HBO Family HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4327.ts
+#EXTINF:-1,USA: HBO HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4260.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4258.ts
+#EXTINF:-1,USA: HBO Zone
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4257.ts
+#EXTINF:-1,USA: HGTV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4326.ts
+#EXTINF:-1,USA: History
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4256.ts
+#EXTINF:-1,USA: IFC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4255.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4254.ts
+#EXTINF:-1,USA: Life Time
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4253.ts
+#EXTINF:-1,USA: LMN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4252.ts
+#EXTINF:-1,USA: MLB Network
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4251.ts
+#EXTINF:-1,USA: More Max HD*
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4250.ts
+#EXTINF:-1,USA: MSNBC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4249.ts
+#EXTINF:-1,USA: MTV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4248.ts
+#EXTINF:-1,USA: Nat Geo hd
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4247.ts
+#EXTINF:-1,USA: Nat Geo Wild HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4246.ts
+#EXTINF:-1,USA: NBA TV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4245.ts
+#EXTINF:-1,USA: NBC Golf
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4244.ts
+#EXTINF:-1,USA: NBC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4337.ts
+#EXTINF:-1,USA: NBCSN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4243.ts
+#EXTINF:-1,USA: NHL Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4242.ts
+#EXTINF:-1,USA: Nick Jr. HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4241.ts
+#EXTINF:-1,USA: Nickolodean HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4240.ts
+#EXTINF:-1,USA: Nicktoons HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4239.ts
+#EXTINF:-1,USA: OWN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4238.ts
+#EXTINF:-1,USA: Oxygen HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4237.ts
+#EXTINF:-1,USA: PBS HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4236.ts
+#EXTINF:-1,USA: Reelz HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4235.ts
+#EXTINF:-1,USA: SEC Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4234.ts
+#EXTINF:-1,USA: ShowTime
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4233.ts
+#EXTINF:-1,USA: ShowTime 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4232.ts
+#EXTINF:-1,USA: Showtime Family Zone HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4231.ts
+#EXTINF:-1,USA: Spike HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4230.ts
+#EXTINF:-1,USA: Starz Edge
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4229.ts
+#EXTINF:-1,USA: Sundance HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4228.ts
+#EXTINF:-1,USA: SYFY HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4227.ts
+#EXTINF:-1,USA: TBS HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4325.ts
+#EXTINF:-1,USA: Tennis HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4226.ts
+#EXTINF:-1,USA: The Weather Channel HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4225.ts
+#EXTINF:-1,USA: TLC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4224.ts
+#EXTINF:-1,USA: TNT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4223.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4222.ts
+#EXTINF:-1,USA: TRU TV HD *
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4221.ts
+#EXTINF:-1,USA: TSN HD 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4342.ts
+#EXTINF:-1,USA: TSN HD 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4341.ts
+#EXTINF:-1,USA: TSN HD 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4340.ts
+#EXTINF:-1,USA: TSN HD 4
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4339.ts
+#EXTINF:-1,USA: TSN HD 5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4338.ts
+#EXTINF:-1,USA: TV Land HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4220.ts
+#EXTINF:-1,USA: UK Channel_5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4324.ts
+#EXTINF:-1,USA: Universal HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4219.ts
+#EXTINF:-1,USA: USA Network
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4218.ts
+#EXTINF:-1,USA: USA: NFL Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4217.ts
+#EXTINF:-1,USA: USA: NFL NOW HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4216.ts
+#EXTINF:-1,USA: USA: NFL Redzone HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4215.ts
+#EXTINF:-1,USA: Velocity HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4214.ts
+#EXTINF:-1,USA: VH1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4213.ts
+#EXTINF:-1,USA: WGN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4212.ts
+#EXTINF:-1,USA: Willow Cricket HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4211.ts
+#EXTINF:-1,USA: WWE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4210.ts
+#EXTINF:-1,USA: WWE Network HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4209.ts
+---------------
+#EXTINF:-1,Tabela Jogos Premiere
+http://142.44.139.236:25461/live/Indianara/Indianara/5977.ts
+#EXTINF:-1,Arte 1
+http://142.44.139.236:25461/live/Indianara/Indianara/7904.ts
+#EXTINF:-1,ARTE 1 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11308.ts
+#EXTINF:-1,Arte 1 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10235.ts
+#EXTINF:-1,A&E
+http://142.44.139.236:25461/live/Indianara/Indianara/4404.ts
+#EXTINF:-1,A&E SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11316.ts
+#EXTINF:-1,A&E HD
+http://142.44.139.236:25461/live/Indianara/Indianara/8139.ts
+#EXTINF:-1,A&E HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11314.ts
+#EXTINF:-1,A&E FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9344.ts
+#EXTINF:-1,Arirang TV
+http://142.44.139.236:25461/live/Indianara/Indianara/4407.ts
+#EXTINF:-1,AMC
+http://142.44.139.236:25461/live/Indianara/Indianara/7448.ts
+#EXTINF:-1,AMC SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11312.ts
+#EXTINF:-1,AMC HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7691.ts
+#EXTINF:-1,AMC FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9343.ts
+#EXTINF:-1,AMC HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11080.ts
+#EXTINF:-1,AlJazeera HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7550.ts
+#EXTINF:-1,All Sport
+http://142.44.139.236:25461/live/Indianara/Indianara/6812.ts
+#EXTINF:-1,Agro Canal
+http://142.44.139.236:25461/live/Indianara/Indianara/5983.ts
 #EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,White Plains TV
-http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,US: C SPAIN 1
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16688.ts
-#EXTINF:-1,US: C SPAIN 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16689.ts
-#EXTINF:-1,US: C SPAIN 3
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16690.ts
-#EXTINF:-1,US: TSN SPORT 1
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20254.ts
-#EXTINF:-1,US: TSN SPORT 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20255.ts
-#EXTINF:-1,US: TSN SPORT 3
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20256.ts
-#EXTINF:-1,US: TSN SPORT 4
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20600.ts
-#EXTINF:-1,US: TSN SPORT 5
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20599.ts
-#EXTINF:-1,US: FOX 25 BOSTON
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
-#EXTINF:-1,US: Eternal Life TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9460.ts
-#EXTINF:-1,US: SCC TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
-#EXTINF:-1,US: 5 USA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19358.ts
-#EXTINF:-1,US: 3ABN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9465.ts
-#EXTINF:-1,US: CBS 47 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
-#EXTINF:-1,US: LTV EDU
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
-#EXTINF:-1,US: Cerritos TV3
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9467.ts
-#EXTINF:-1,US: CBN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
-#EXTINF:-1,US: Bloomington TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
-#EXTINF:-1,US: Discovery World
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22088.ts
-#EXTINF:-1,US: CBN NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
-#EXTINF:-1,US: CBSN News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
-#EXTINF:-1,US: CMC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
-#EXTINF:-1,US: PAC-12 Arizona
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9470.ts
-#EXTINF:-1,US: PAC-12 Bay Area
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9472.ts
-#EXTINF:-1,US: PAC-12 Mountain
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9473.ts
-#EXTINF:-1,US: PAC-12 Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9476.ts
-#EXTINF:-1,US:  PAC-12 Los Angeles
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9471.ts
-#EXTINF:-1,US: PAC-12 Oregon
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9474.ts
-#EXTINF:-1,US: PAC-12 Washington
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9475.ts
-#EXTINF:-1,US: FOX 23 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
-#EXTINF:-1,US: HOPE CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
-#EXTINF:-1,US: INFOWARS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
-#EXTINF:-1,US: DAYSTAR TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
-#EXTINF:-1,US: CALIFORNIA MUSIC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
-#EXTINF:-1,US: DAYTONA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
-#EXTINF:-1,US: DCN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
-#EXTINF:-1,US: DKN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
-#EXTINF:-1,US: WHPR TV 33 Detroit
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
-#EXTINF:-1,US: NFL NETWORK
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
-#EXTINF:-1,US: SBN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
-#EXTINF:-1,US: NBC 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
-#EXTINF:-1,US: RT NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
-#EXTINF:-1,US: SG TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
-#EXTINF:-1,US: Southeastern Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
-#EXTINF:-1,US: KIRO-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
-#EXTINF:-1,US: TUFF  TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
-#EXTINF:-1,US: TVV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
-#EXTINF:-1,US: Denver 8 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
-#EXTINF:-1,US: GC Church TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
-#EXTINF:-1,US: WGN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
-#EXTINF:-1,US: PIX 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
-#EXTINF:-1,US: MNN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9459.ts
+http://142.44.139.236:25461/live/Indianara/Indianara/4403.ts
+#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11310.ts
+#EXTINF:-1,Animal Planet HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6142.ts
+#EXTINF:-1,Animal Planet HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11079.ts
+#EXTINF:-1,Aparecida
+http://142.44.139.236:25461/live/Indianara/Indianara/4438.ts
+#EXTINF:-1,APARECIDA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11172.ts
+#EXTINF:-1,AXN
+http://142.44.139.236:25461/live/Indianara/Indianara/4402.ts
+#EXTINF:-1,AXN SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11306.ts
+#EXTINF:-1,AXN HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6140.ts
+#EXTINF:-1,AXN HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11078.ts
+#EXTINF:-1,Baby TV
+http://142.44.139.236:25461/live/Indianara/Indianara/4401.ts
+#EXTINF:-1,BABY TV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11305.ts
+#EXTINF:-1,Band
+http://142.44.139.236:25461/live/Indianara/Indianara/4400.ts
+#EXTINF:-1,BAND SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11302.ts
+#EXTINF:-1,Band HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6882.ts
+#EXTINF:-1,Band HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11077.ts
+#EXTINF:-1,Band Sports
+http://142.44.139.236:25461/live/Indianara/Indianara/4398.ts
+#EXTINF:-1,BAND SPORTS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11297.ts
+#EXTINF:-1,Band Sports HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6138.ts
+#EXTINF:-1,BAND SPORTS HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11294.ts
+#EXTINF:-1,Band News
+http://142.44.139.236:25461/live/Indianara/Indianara/4399.ts
+#EXTINF:-1,BAND NEWS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11301.ts
+#EXTINF:-1,Band News HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10296.ts
+#EXTINF:-1,BAND NEWS HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11299.ts
+#EXTINF:-1,BBC NEWS
+http://142.44.139.236:25461/live/Indianara/Indianara/6167.ts
+#EXTINF:-1,Boa Vontade
+http://142.44.139.236:25461/live/Indianara/Indianara/10295.ts
+#EXTINF:-1,BIS
+http://142.44.139.236:25461/live/Indianara/Indianara/6964.ts
+#EXTINF:-1,BIS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11293.ts
+#EXTINF:-1,BIS HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6881.ts
+#EXTINF:-1,BIS HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11291.ts
+#EXTINF:-1,Bloomberg TV
+http://142.44.139.236:25461/live/Indianara/Indianara/7424.ts
+#EXTINF:-1,Boomerang
+http://142.44.139.236:25461/live/Indianara/Indianara/4396.ts
+#EXTINF:-1,BOOMERANG SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11289.ts
+#EXTINF:-1,Boomerang HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10294.ts
+#EXTINF:-1,Boomerang HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11076.ts
+#EXTINF:-1,Curta!
+http://142.44.139.236:25461/live/Indianara/Indianara/10291.ts
+#EXTINF:-1,Curta! HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10290.ts
+#EXTINF:-1,Canal Brasil
+http://142.44.139.236:25461/live/Indianara/Indianara/6963.ts
+#EXTINF:-1,CANAL BRASIL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11286.ts
+#EXTINF:-1,Canal Brasil HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10293.ts
+#EXTINF:-1,CANAL DO BOI SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11287.ts
+#EXTINF:-1,Canal Rural
+http://142.44.139.236:25461/live/Indianara/Indianara/7449.ts
+#EXTINF:-1,Canal Sony
+http://142.44.139.236:25461/live/Indianara/Indianara/4395.ts
+#EXTINF:-1,CANAL SONY SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11283.ts
+#EXTINF:-1,Canal Sony HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6961.ts
+#EXTINF:-1,Canal Sony HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11075.ts
+#EXTINF:-1,Cancao Nova
+http://142.44.139.236:25461/live/Indianara/Indianara/6173.ts
+#EXTINF:-1,Cartoon Network
+http://142.44.139.236:25461/live/Indianara/Indianara/4394.ts
+#EXTINF:-1,CARTON NETWORK SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11281.ts
+#EXTINF:-1,Cartoon Network HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7817.ts
+#EXTINF:-1,Cartoon Network HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11074.ts
+#EXTINF:-1,Cinemax
+http://142.44.139.236:25461/live/Indianara/Indianara/4393.ts
+#EXTINF:-1,CINEMAX SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11280.ts
+#EXTINF:-1,Cinemax HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7802.ts
+#EXTINF:-1,Cinemax HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11073.ts
+#EXTINF:-1,Combate
+http://142.44.139.236:25461/live/Indianara/Indianara/4392.ts
+#EXTINF:-1,COMBATE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11277.ts
+#EXTINF:-1,Combate HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6172.ts
+#EXTINF:-1,Combate HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11072.ts
+#EXTINF:-1,Combate FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8152.ts
+#EXTINF:-1,Comedy Central
+http://142.44.139.236:25461/live/Indianara/Indianara/4391.ts
+#EXTINF:-1,COMEDY CENTRAL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11275.ts
+#EXTINF:-1,Comedy Central HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10292.ts
+#EXTINF:-1,Comedy Central HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11071.ts
+#EXTINF:-1,Discovery Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/4390.ts
+#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11273.ts
+#EXTINF:-1,Discovery Channel HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6132.ts
+#EXTINF:-1,Discovery Channel HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11070.ts
+#EXTINF:-1,Discovery Home & Health
+http://142.44.139.236:25461/live/Indianara/Indianara/4389.ts
+#EXTINF:-1,Discovery Home & Health SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11270.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6131.ts
+#EXTINF:-1,Discovery Home & Health HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11068.ts
+#EXTINF:-1,Discovery Kids
+http://142.44.139.236:25461/live/Indianara/Indianara/4388.ts
+#EXTINF:-1,DISCOVERY KIDS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11269.ts
+#EXTINF:-1,Discovery Kids HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7538.ts
+#EXTINF:-1,Discovery Kids HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11067.ts
+#EXTINF:-1,Discovery Theater
+http://142.44.139.236:25461/live/Indianara/Indianara/10289.ts
+#EXTINF:-1,DISCOVERY THEATER SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11268.ts
+#EXTINF:-1,Discovery Theater HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6130.ts
+#EXTINF:-1,Discovery Theater HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11065.ts
+#EXTINF:-1,Discovery Turbo
+http://142.44.139.236:25461/live/Indianara/Indianara/4386.ts
+#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11267.ts
+#EXTINF:-1,Discovery Turbo HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6877.ts
+#EXTINF:-1,Discovery Turbo HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11064.ts
+#EXTINF:-1,Discovery World
+http://142.44.139.236:25461/live/Indianara/Indianara/10288.ts
+#EXTINF:-1,DISCOVERY WORLD SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11266.ts
+#EXTINF:-1,Discovery World HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6128.ts
+#EXTINF:-1,Discovery World HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11063.ts
+#EXTINF:-1,Discovery Civilization
+http://142.44.139.236:25461/live/Indianara/Indianara/10236.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11271.ts
+#EXTINF:-1,Discovery Civilization HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7862.ts
+#EXTINF:-1,Discovert Civilization HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11069.ts
+#EXTINF:-1,Discovery Science
+http://142.44.139.236:25461/live/Indianara/Indianara/10237.ts
+#EXTINF:-1,DISCOVERY SCIENCE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11272.ts
+#EXTINF:-1,Discovery Science HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7861.ts
+#EXTINF:-1,Discovery Science HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11066.ts
+#EXTINF:-1,Disney Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/4385.ts
+#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11265.ts
+#EXTINF:-1,Disney Channel HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7902.ts
+#EXTINF:-1,Disney Channel HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11062.ts
+#EXTINF:-1,Disney Junior
+http://142.44.139.236:25461/live/Indianara/Indianara/4384.ts
+#EXTINF:-1,DISNEY JUNIOR SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11264.ts
+#EXTINF:-1,Disney Junior HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11061.ts
+#EXTINF:-1,Disney XD
+http://142.44.139.236:25461/live/Indianara/Indianara/4383.ts
+#EXTINF:-1,Disney XD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11060.ts
+#EXTINF:-1,DW
+http://142.44.139.236:25461/live/Indianara/Indianara/4425.ts
+#EXTINF:-1,DoGTV
+http://142.44.139.236:25461/live/Indianara/Indianara/10287.ts
+#EXTINF:-1,Disney Junior HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10286.ts
+#EXTINF:-1,E! Entertainment Television
+http://142.44.139.236:25461/live/Indianara/Indianara/4382.ts
+#EXTINF:-1,E! Entertainment Television SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11262.ts
+#EXTINF:-1,E! Entertainment Television HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10285.ts
+#EXTINF:-1,ESPN
+http://142.44.139.236:25461/live/Indianara/Indianara/4381.ts
+#EXTINF:-1,ESPN SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11259.ts
+#EXTINF:-1,ESPN  HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6127.ts
+#EXTINF:-1,ESPN HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11056.ts
+#EXTINF:-1,ESPN +
+http://142.44.139.236:25461/live/Indianara/Indianara/7988.ts
+#EXTINF:-1,ESPN + HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6143.ts
+#EXTINF:-1,ESPN Brasil
+http://142.44.139.236:25461/live/Indianara/Indianara/4380.ts
+#EXTINF:-1,ESPN BRASIL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11258.ts
+#EXTINF:-1,ESPN  Brasil HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6124.ts
+#EXTINF:-1,ESPN  Brasil HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11057.ts
+#EXTINF:-1,ESPN Extra
+http://142.44.139.236:25461/live/Indianara/Indianara/10284.ts
+#EXTINF:-1,ESPN Extra HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10283.ts
+#EXTINF:-1,Esporte Interativo
+http://142.44.139.236:25461/live/Indianara/Indianara/6960.ts
+#EXTINF:-1,ESPORTE INTERATIVO SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11257.ts
+#EXTINF:-1,Esporte Interativo HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6123.ts
+#EXTINF:-1,Esporte Interativo HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11055.ts
+#EXTINF:-1,Esporte Interativo FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9145.ts
+#EXTINF:-1,Ei Maxx HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11058.ts
+#EXTINF:-1,Esporte Interativo 2
+http://142.44.139.236:25461/live/Indianara/Indianara/4378.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11256.ts
+#EXTINF:-1,Esporte Interativo 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6125.ts
+#EXTINF:-1,Esporte Interativo 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11054.ts
+#EXTINF:-1,Esporte Interativo 2 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9146.ts
+#EXTINF:-1,EI MAXX 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11260.ts
+#EXTINF:-1,Ei Maxx 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11059.ts
+#EXTINF:-1,Esporte Interativo BR
+http://142.44.139.236:25461/live/Indianara/Indianara/10282.ts
+#EXTINF:-1,Esporte Interativo BR HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10281.ts
+#EXTINF:-1,Globo EPTV Campinas
+http://142.44.139.236:25461/live/Indianara/Indianara/7932.ts
+#EXTINF:-1,Globo EPTV Campinas SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11245.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10234.ts
+#EXTINF:-1,Globo EPTV Campinas HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11045.ts
+#EXTINF:-1,Globo EPTV Campinas HD H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11372.ts
+#EXTINF:-1,Futura
+http://142.44.139.236:25461/live/Indianara/Indianara/10277.ts
+#EXTINF:-1,Fish TV
+http://142.44.139.236:25461/live/Indianara/Indianara/4377.ts
+#EXTINF:-1,FISH TV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11255.ts
+#EXTINF:-1,Fish TV HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10280.ts
+#EXTINF:-1,Food Network
+http://142.44.139.236:25461/live/Indianara/Indianara/6959.ts
+#EXTINF:-1,FOOD NETWORK SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11254.ts
+#EXTINF:-1,Food Network HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7534.ts
+#EXTINF:-1,FOX
+http://142.44.139.236:25461/live/Indianara/Indianara/4375.ts
+#EXTINF:-1,FOX SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11253.ts
+#EXTINF:-1,FOX HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6122.ts
+#EXTINF:-1,FOX HD*
+http://142.44.139.236:25461/live/Indianara/Indianara/8193.ts
+#EXTINF:-1,FOX HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11053.ts
+#EXTINF:-1,FOX FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9141.ts
+#EXTINF:-1,Fox Life
+http://142.44.139.236:25461/live/Indianara/Indianara/4374.ts
+#EXTINF:-1,FOX LIFE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11252.ts
+#EXTINF:-1,FOX Life HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6876.ts
+#EXTINF:-1,FOX Life HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11052.ts
+#EXTINF:-1,FOX Premium 1
+http://142.44.139.236:25461/live/Indianara/Indianara/6120.ts
+#EXTINF:-1,FOX PREMIUM 1 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11251.ts
+#EXTINF:-1,FOX Premium 1 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10279.ts
+#EXTINF:-1,FOX Premium 1 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11050.ts
+#EXTINF:-1,FOX Premium 2
+http://142.44.139.236:25461/live/Indianara/Indianara/6119.ts
+#EXTINF:-1,FOX PREMIUM 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11250.ts
+#EXTINF:-1,FOX Premium 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10278.ts
+#EXTINF:-1,FOX Premium 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11051.ts
+#EXTINF:-1,Fox Sports
+http://142.44.139.236:25461/live/Indianara/Indianara/4373.ts
+#EXTINF:-1,FOX SPORTS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11249.ts
+#EXTINF:-1,Fox Sports HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6118.ts
+#EXTINF:-1,Fox Sports HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11048.ts
+#EXTINF:-1,Fox Sport FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8150.ts
+#EXTINF:-1,Fox Sports 2
+http://142.44.139.236:25461/live/Indianara/Indianara/4372.ts
+#EXTINF:-1,FOX SPORTS 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11248.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6117.ts
+#EXTINF:-1,FOX Sports 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11049.ts
+#EXTINF:-1,FOX Sports 2 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8151.ts
+#EXTINF:-1,Fox News
+http://142.44.139.236:25461/live/Indianara/Indianara/6835.ts
+#EXTINF:-1,FUTURA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11247.ts
+#EXTINF:-1,Futura HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6182.ts
+#EXTINF:-1,FX
+http://142.44.139.236:25461/live/Indianara/Indianara/4371.ts
+#EXTINF:-1,FX SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11246.ts
+#EXTINF:-1,FX HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6116.ts
+#EXTINF:-1,FX HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11047.ts
+#EXTINF:-1,GLOBO AMAZONAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11377.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto
+http://142.44.139.236:25461/live/Indianara/Indianara/9471.ts
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11370.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10231.ts
+#EXTINF:-1,Globo Porto Alegre
+http://142.44.139.236:25461/live/Indianara/Indianara/9469.ts
+#EXTINF:-1,GLOBO  PORTO ALEGRE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11241.ts
+#EXTINF:-1,Globo Porto Alegre HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10232.ts
+#EXTINF:-1,Globo Rio Preto
+http://142.44.139.236:25461/live/Indianara/Indianara/9468.ts
+#EXTINF:-1,Globo Rio Preto HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10233.ts
+#EXTINF:-1,Globo TV Tem Bauru
+http://142.44.139.236:25461/live/Indianara/Indianara/9465.ts
+#EXTINF:-1,GLOBO TV TEM BAURU SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11235.ts
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://142.44.139.236:25461/live/Indianara/Indianara/11355.ts
+#EXTINF:-1,GLOBO TV VANGUARDA S.J DOS CAMPOS SD
+http://142.44.139.236:25461/live/Indianara/Indianara/11353.ts
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+http://142.44.139.236:25461/live/Indianara/Indianara/11352.ts
+#EXTINF:-1,Globo Nordeste
+http://142.44.139.236:25461/live/Indianara/Indianara/7527.ts
+#EXTINF:-1,GLOBO NORDESTE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11242.ts
+#EXTINF:-1,Globo Nordeste HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10240.ts
+#EXTINF:-1,Globo Nordeste HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11042.ts
+#EXTINF:-1,Globo Minas
+http://142.44.139.236:25461/live/Indianara/Indianara/10276.ts
+#EXTINF:-1,Globo Minas SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11244.ts
+#EXTINF:-1,Globo Minas HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7528.ts
+#EXTINF:-1,Globo Minas HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11044.ts
+#EXTINF:-1,Globo Brasilia
+http://142.44.139.236:25461/live/Indianara/Indianara/7530.ts
+#EXTINF:-1,Globo Brasilia HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10239.ts
+#EXTINF:-1,Globo Brasilia HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11046.ts
+#EXTINF:-1,GLOBO BRASILIA HD H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11374.ts
+#EXTINF:-1,Globo RPC Curitiba
+http://142.44.139.236:25461/live/Indianara/Indianara/7866.ts
+#EXTINF:-1,GLOBO RPC CURITIBA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11238.ts
+#EXTINF:-1,Globo RPC Curitiba HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10273.ts
+#EXTINF:-1,Globo RPC Curitiba HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11040.ts
+#EXTINF:-1,Globo SP
+http://142.44.139.236:25461/live/Indianara/Indianara/4431.ts
+#EXTINF:-1,GLOBO SP SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11237.ts
+#EXTINF:-1,Globo SP HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7529.ts
+#EXTINF:-1,Globo SP HD*
+http://142.44.139.236:25461/live/Indianara/Indianara/8190.ts
+#EXTINF:-1,Globo SP HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11039.ts
+#EXTINF:-1,GLOBO SP HD H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11360.ts
+#EXTINF:-1,GLOBO TV  CABUGI HD H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11358.ts
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11234.ts
+#EXTINF:-1,Globo RJ
+http://142.44.139.236:25461/live/Indianara/Indianara/7547.ts
+#EXTINF:-1,GLOBO RJ SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11239.ts
+#EXTINF:-1,Globo RJ HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6113.ts
+#EXTINF:-1,Globo RJ HD*
+http://142.44.139.236:25461/live/Indianara/Indianara/8189.ts
+#EXTINF:-1,Globo RJ HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11041.ts
+#EXTINF:-1,GLOBO RJ HD H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11363.ts
+#EXTINF:-1,Globo RJ FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9318.ts
+#EXTINF:-1,Globo Sorocaba
+http://142.44.139.236:25461/live/Indianara/Indianara/7684.ts
+#EXTINF:-1,Globo TV Bahia
+http://142.44.139.236:25461/live/Indianara/Indianara/7539.ts
+#EXTINF:-1,Globo TV Bahia HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10238.ts
+#EXTINF:-1,Globo TV Bahia HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11376.ts
+#EXTINF:-1,Globo TV Bahia HD  H265
+http://142.44.139.236:25461/live/Indianara/Indianara/11375.ts
+#EXTINF:-1,GLOBO RN SD
+http://142.44.139.236:25461/live/Indianara/Indianara/11361.ts
+#EXTINF:-1,Globo TV Anhanguera
+http://142.44.139.236:25461/live/Indianara/Indianara/10272.ts
+#EXTINF:-1,Globo TV Anhanguera SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11357.ts
+#EXTINF:-1,Globo Tv Anhaguera HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7521.ts
+#EXTINF:-1,Globo EPTV SÃ£o Carlos
+http://142.44.139.236:25461/live/Indianara/Indianara/11369.ts
+#EXTINF:-1,GLOBO INTERNACIONAL SD
+http://142.44.139.236:25461/live/Indianara/Indianara/11368.ts
+#EXTINF:-1,Globo News
+http://142.44.139.236:25461/live/Indianara/Indianara/4432.ts
+#EXTINF:-1,GLOBO NEWS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11243.ts
+#EXTINF:-1,Globo News HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7442.ts
+#EXTINF:-1,Globo News FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9152.ts
+#EXTINF:-1,Globo News HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11043.ts
+#EXTINF:-1,Gloob
+http://142.44.139.236:25461/live/Indianara/Indianara/4369.ts
+#EXTINF:-1,GLOOB SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11232.ts
+#EXTINF:-1,Gloob HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7526.ts
+#EXTINF:-1,Gloob HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11037.ts
+#EXTINF:-1,Gloobinho
+http://142.44.139.236:25461/live/Indianara/Indianara/10270.ts
+#EXTINF:-1,Gloobinho HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10271.ts
+#EXTINF:-1,Gazeta SP HD
+http://142.44.139.236:25461/live/Indianara/Indianara/8975.ts
+#EXTINF:-1,GNT
+http://142.44.139.236:25461/live/Indianara/Indianara/4368.ts
+#EXTINF:-1,GNT HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6956.ts
+#EXTINF:-1,Gospel Movies Television
+http://142.44.139.236:25461/live/Indianara/Indianara/7656.ts
+#EXTINF:-1,H2
+http://142.44.139.236:25461/live/Indianara/Indianara/4367.ts
+#EXTINF:-1,H2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11231.ts
+#EXTINF:-1,H2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6111.ts
+#EXTINF:-1,H2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11036.ts
+#EXTINF:-1,HBO
+http://142.44.139.236:25461/live/Indianara/Indianara/4366.ts
+#EXTINF:-1,HBO SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11230.ts
+#EXTINF:-1,HBO HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6108.ts
+#EXTINF:-1,HBO HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11033.ts
+#EXTINF:-1,HBO 2
+http://142.44.139.236:25461/live/Indianara/Indianara/4365.ts
+#EXTINF:-1,HBO 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11229.ts
+#EXTINF:-1,HBO 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6110.ts
+#EXTINF:-1,HBO 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11035.ts
+#EXTINF:-1,HBO Family
+http://142.44.139.236:25461/live/Indianara/Indianara/4364.ts
+#EXTINF:-1,HBO FAMILY SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11228.ts
+#EXTINF:-1,HBO Family HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6109.ts
+#EXTINF:-1,HBO Family HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11034.ts
+#EXTINF:-1,HBO Plus
+http://142.44.139.236:25461/live/Indianara/Indianara/4363.ts
+#EXTINF:-1,HBO PLUS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11227.ts
+#EXTINF:-1,HBO Plus HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6106.ts
+#EXTINF:-1,HBO Plus HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11032.ts
+#EXTINF:-1,HBO Signature
+http://142.44.139.236:25461/live/Indianara/Indianara/4361.ts
+#EXTINF:-1,HBO SIGNATURE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11226.ts
+#EXTINF:-1,HBO Signature HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6105.ts
+#EXTINF:-1,HBO Signature HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11031.ts
+#EXTINF:-1,Heart TV
+http://142.44.139.236:25461/live/Indianara/Indianara/6179.ts
+#EXTINF:-1,History Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/4314.ts
+#EXTINF:-1,HISTORY CHANNEL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11225.ts
+#EXTINF:-1,History Channel HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6104.ts
+#EXTINF:-1,History Channel HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11030.ts
+#EXTINF:-1,History Channel FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9142.ts
+#EXTINF:-1,Horse Brasil Channel HD
+http://142.44.139.236:25461/live/Indianara/Indianara/5976.ts
+#EXTINF:-1,ID - Investigacao Discovery
+http://142.44.139.236:25461/live/Indianara/Indianara/4360.ts
+#EXTINF:-1,ID - INVESTIGAÃ‡ÃƒO DISCOVERY SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11224.ts
+#EXTINF:-1,ID - Investigacao Discovery HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6869.ts
+#EXTINF:-1,ID - Investigacao Discovery HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11029.ts
+#EXTINF:-1,ID - Investigacao Discovery FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9143.ts
+#EXTINF:-1,IURD TV
+http://142.44.139.236:25461/live/Indianara/Indianara/6210.ts
+#EXTINF:-1,Lifetime
+http://142.44.139.236:25461/live/Indianara/Indianara/7876.ts
+#EXTINF:-1,Lifetime HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7525.ts
+#EXTINF:-1,Mais Globosat
+http://142.44.139.236:25461/live/Indianara/Indianara/6953.ts
+#EXTINF:-1,Mais Globosat SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11233.ts
+#EXTINF:-1,Mais Globosat HD
+http://142.44.139.236:25461/live/Indianara/Indianara/9262.ts
+#EXTINF:-1,Mais Globosat HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11038.ts
+#EXTINF:-1,MAX
+http://142.44.139.236:25461/live/Indianara/Indianara/4358.ts
+#EXTINF:-1,MAX SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11223.ts
+#EXTINF:-1,MAX HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10266.ts
+#EXTINF:-1,MAX HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11028.ts
+#EXTINF:-1,MAX Prime
+http://142.44.139.236:25461/live/Indianara/Indianara/4357.ts
+#EXTINF:-1,MAX PRIME SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11222.ts
+#EXTINF:-1,MAX Prime HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7850.ts
+#EXTINF:-1,MAX Prime HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11027.ts
+#EXTINF:-1,MAX UP
+http://142.44.139.236:25461/live/Indianara/Indianara/4355.ts
+#EXTINF:-1,MAX UP SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11220.ts
+#EXTINF:-1,MAX UP HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10265.ts
+#EXTINF:-1,MAX UP HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11026.ts
+#EXTINF:-1,Music Box Brasil
+http://142.44.139.236:25461/live/Indianara/Indianara/7848.ts
+#EXTINF:-1,MUSIC BOX BRASIL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11216.ts
+#EXTINF:-1,Music Box Brasil HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10264.ts
+#EXTINF:-1,Mc Music Choice 2
+http://142.44.139.236:25461/live/Indianara/Indianara/6216.ts
+#EXTINF:-1,MegaPix
+http://142.44.139.236:25461/live/Indianara/Indianara/4354.ts
+#EXTINF:-1,MEGAPIX SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11219.ts
+#EXTINF:-1,Megapix HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6101.ts
+#EXTINF:-1,Megapix HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11025.ts
+#EXTINF:-1,Megapix FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8146.ts
+#EXTINF:-1,MTV
+http://142.44.139.236:25461/live/Indianara/Indianara/4353.ts
+#EXTINF:-1,MTV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11218.ts
+#EXTINF:-1,MTV HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7524.ts
+#EXTINF:-1,Multishow
+http://142.44.139.236:25461/live/Indianara/Indianara/4352.ts
+#EXTINF:-1,MULTISHOW SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11217.ts
+#EXTINF:-1,Multishow HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6867.ts
+#EXTINF:-1,Multishow HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11024.ts
+#EXTINF:-1,NatGeo Wild
+http://142.44.139.236:25461/live/Indianara/Indianara/4349.ts
+#EXTINF:-1,NATGEO WILD SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11214.ts
+#EXTINF:-1,NatGeo Wild HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6099.ts
+#EXTINF:-1,NatGeo Wild HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11022.ts
+#EXTINF:-1,National Geography
+http://142.44.139.236:25461/live/Indianara/Indianara/4348.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11213.ts
+#EXTINF:-1,National Geography HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6098.ts
+#EXTINF:-1,National Geography HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11021.ts
+#EXTINF:-1,NatGeo Kids
+http://142.44.139.236:25461/live/Indianara/Indianara/4350.ts
+#EXTINF:-1,NATGEO KIDS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11215.ts
+#EXTINF:-1,NatGeo Kids HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10261.ts
+#EXTINF:-1,NatGeo Kids HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11023.ts
+#EXTINF:-1,NBR
+http://142.44.139.236:25461/live/Indianara/Indianara/6950.ts
+#EXTINF:-1,NHK
+http://142.44.139.236:25461/live/Indianara/Indianara/6949.ts
+#EXTINF:-1,NHK HD
+http://142.44.139.236:25461/live/Indianara/Indianara/4347.ts
+#EXTINF:-1,NSC TV Florianopolis
+http://142.44.139.236:25461/live/Indianara/Indianara/10275.ts
+#EXTINF:-1,NSC TV Florianopolis HD
+http://142.44.139.236:25461/live/Indianara/Indianara/5973.ts
+#EXTINF:-1,NFL Now
+http://142.44.139.236:25461/live/Indianara/Indianara/5971.ts
+#EXTINF:-1,Nick Jr
+http://142.44.139.236:25461/live/Indianara/Indianara/4346.ts
+#EXTINF:-1,NICK JR SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11212.ts
+#EXTINF:-1,Nick Jr HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10260.ts
+#EXTINF:-1,Nick Jr HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11020.ts
+#EXTINF:-1,Nickeloden
+http://142.44.139.236:25461/live/Indianara/Indianara/4345.ts
+#EXTINF:-1,NICKELODEON SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11211.ts
+#EXTINF:-1,Nickelodeon HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7537.ts
+#EXTINF:-1,Nickeloden HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11019.ts
+#EXTINF:-1,Novo Tempo
+http://142.44.139.236:25461/live/Indianara/Indianara/6948.ts
+#EXTINF:-1,OFF
+http://142.44.139.236:25461/live/Indianara/Indianara/4344.ts
+#EXTINF:-1,OFF SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11210.ts
+#EXTINF:-1,OFF HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6947.ts
+#EXTINF:-1,3ABN KIDS HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7660.ts
+#EXTINF:-1,Paramount
+http://142.44.139.236:25461/live/Indianara/Indianara/6946.ts
+#EXTINF:-1,PARAMOUNT SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11208.ts
+#EXTINF:-1,Paramount HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6945.ts
+#EXTINF:-1,Paramount HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11018.ts
+#EXTINF:-1,Play TV
+http://142.44.139.236:25461/live/Indianara/Indianara/6944.ts
+#EXTINF:-1,PLAY TV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11207.ts
+#EXTINF:-1,Premiere Clubes
+http://142.44.139.236:25461/live/Indianara/Indianara/4333.ts
+#EXTINF:-1,PREMIERE CLUBES SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11206.ts
+#EXTINF:-1,Premiere Clubes HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6089.ts
+#EXTINF:-1,Premiere Clubes HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11017.ts
+#EXTINF:-1,Premiere Clubes FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9144.ts
+#EXTINF:-1,Premiere 2
+http://142.44.139.236:25461/live/Indianara/Indianara/4341.ts
+#EXTINF:-1,PREMIERE 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11205.ts
+#EXTINF:-1,Premiere 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6093.ts
+#EXTINF:-1,Premiere 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11016.ts
+#EXTINF:-1,Premiere 2 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8149.ts
+#EXTINF:-1,Premiere 3
+http://142.44.139.236:25461/live/Indianara/Indianara/4340.ts
+#EXTINF:-1,PREMIERE 3 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11204.ts
+#EXTINF:-1,Premiere 3 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6092.ts
+#EXTINF:-1,Premiere 3 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11015.ts
+#EXTINF:-1,Premiere 3 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9230.ts
+#EXTINF:-1,Premiere 4
+http://142.44.139.236:25461/live/Indianara/Indianara/4339.ts
+#EXTINF:-1,PREMIERE 4 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11203.ts
+#EXTINF:-1,Premiere 4 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6091.ts
+#EXTINF:-1,Premiere 4 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11014.ts
+#EXTINF:-1,Premiere 5
+http://142.44.139.236:25461/live/Indianara/Indianara/4338.ts
+#EXTINF:-1,PREMIERE 5 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11202.ts
+#EXTINF:-1,Premiere 5 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6090.ts
+#EXTINF:-1,Premiere 5 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11013.ts
+#EXTINF:-1,Premiere 5 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/9231.ts
+#EXTINF:-1,Premiere 6
+http://142.44.139.236:25461/live/Indianara/Indianara/4337.ts
+#EXTINF:-1,PREMIERE 6 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11201.ts
+#EXTINF:-1,Premiere 6 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10259.ts
+#EXTINF:-1,Premiere 7
+http://142.44.139.236:25461/live/Indianara/Indianara/4336.ts
+#EXTINF:-1,PREMIERE 7 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11200.ts
+#EXTINF:-1,Premiere 7 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10258.ts
+#EXTINF:-1,Premiere 7 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11012.ts
+#EXTINF:-1,Premiere 8
+http://142.44.139.236:25461/live/Indianara/Indianara/4335.ts
+#EXTINF:-1,PREMIERE 8 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11199.ts
+#EXTINF:-1,Premiere 9
+http://142.44.139.236:25461/live/Indianara/Indianara/4334.ts
+#EXTINF:-1,PREMIERE 9 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11198.ts
+#EXTINF:-1,Prime Box Brazil
+http://142.44.139.236:25461/live/Indianara/Indianara/4332.ts
+#EXTINF:-1,Prime Box Brazil HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10256.ts
+#EXTINF:-1,Portal Gospel TV
+http://142.44.139.236:25461/live/Indianara/Indianara/6207.ts
+#EXTINF:-1,PORTAL GOSPEL HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11209.ts
+#EXTINF:-1,RT Documentary Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/7444.ts
+#EXTINF:-1,RBS TV Porto Alegre
+http://142.44.139.236:25461/live/Indianara/Indianara/6942.ts
+#EXTINF:-1,Real Madrid TV
+http://142.44.139.236:25461/live/Indianara/Indianara/6183.ts
+#EXTINF:-1,Rede TV ! Rondonia
+http://142.44.139.236:25461/live/Indianara/Indianara/6809.ts
+#EXTINF:-1,Rede TV
+http://142.44.139.236:25461/live/Indianara/Indianara/4420.ts
+#EXTINF:-1,REDE TV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11195.ts
+#EXTINF:-1,Rede TV HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6940.ts
+#EXTINF:-1,RIT TV
+http://142.44.139.236:25461/live/Indianara/Indianara/9458.ts
+#EXTINF:-1,Rai Movie
+http://142.44.139.236:25461/live/Indianara/Indianara/7665.ts
+#EXTINF:-1,Record
+http://142.44.139.236:25461/live/Indianara/Indianara/4423.ts
+#EXTINF:-1,RECORD SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11197.ts
+#EXTINF:-1,Record HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7836.ts
+#EXTINF:-1,Record HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11011.ts
+#EXTINF:-1,Record FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/6938.ts
+#EXTINF:-1,Record SP
+http://142.44.139.236:25461/live/Indianara/Indianara/10254.ts
+#EXTINF:-1,Record News
+http://142.44.139.236:25461/live/Indianara/Indianara/6941.ts
+#EXTINF:-1,RECORD NEWS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11196.ts
+#EXTINF:-1,Record News HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10255.ts
+#EXTINF:-1,Rede Brasil
+http://142.44.139.236:25461/live/Indianara/Indianara/4421.ts
+#EXTINF:-1,Rede Super
+http://142.44.139.236:25461/live/Indianara/Indianara/6154.ts
+#EXTINF:-1,Rede Vida
+http://142.44.139.236:25461/live/Indianara/Indianara/6939.ts
+#EXTINF:-1,REDE VIDA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11194.ts
+#EXTINF:-1,Rede Vida HD
+http://142.44.139.236:25461/live/Indianara/Indianara/4419.ts
+#EXTINF:-1,SBT
+http://142.44.139.236:25461/live/Indianara/Indianara/4331.ts
+#EXTINF:-1,SBT SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11192.ts
+#EXTINF:-1,SBT HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6889.ts
+#EXTINF:-1,SBT HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11010.ts
+#EXTINF:-1,SBT SP INTERIOR
+http://142.44.139.236:25461/live/Indianara/Indianara/10253.ts
+#EXTINF:-1,Space
+http://142.44.139.236:25461/live/Indianara/Indianara/4328.ts
+#EXTINF:-1,SPACE SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11191.ts
+#EXTINF:-1,Space HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6085.ts
+#EXTINF:-1,Space HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11009.ts
+#EXTINF:-1,SporTV
+http://142.44.139.236:25461/live/Indianara/Indianara/4327.ts
+#EXTINF:-1,SPORTV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11190.ts
+#EXTINF:-1,SporTV  HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6082.ts
+#EXTINF:-1,SporTV  HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11006.ts
+#EXTINF:-1,Sport TV FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8147.ts
+#EXTINF:-1,SporTV 2
+http://142.44.139.236:25461/live/Indianara/Indianara/4326.ts
+#EXTINF:-1,SPORTV 2 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11189.ts
+#EXTINF:-1,SporTV 2 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6084.ts
+#EXTINF:-1,SporTV 2 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11008.ts
+#EXTINF:-1,Sport TV 2 FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8148.ts
+#EXTINF:-1,SporTV 3
+http://142.44.139.236:25461/live/Indianara/Indianara/4325.ts
+#EXTINF:-1,SPORTV 3 SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11188.ts
+#EXTINF:-1,SporTV 3 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6083.ts
+#EXTINF:-1,SporTV 3 HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11007.ts
+#EXTINF:-1,Studio Universal
+http://142.44.139.236:25461/live/Indianara/Indianara/4324.ts
+#EXTINF:-1,STUDIO UNIVERSAL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11187.ts
+#EXTINF:-1,Studio Universal HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7874.ts
+#EXTINF:-1,Studio Universal HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11005.ts
+#EXTINF:-1,Syfy
+http://142.44.139.236:25461/live/Indianara/Indianara/4323.ts
+#EXTINF:-1,SYFY SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11186.ts
+#EXTINF:-1,Syfy HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7795.ts
+#EXTINF:-1,MTV LIVE
+http://142.44.139.236:25461/live/Indianara/Indianara/10249.ts
+#EXTINF:-1,MTV LIVE HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10248.ts
+#EXTINF:-1,TBS
+http://142.44.139.236:25461/live/Indianara/Indianara/4322.ts
+#EXTINF:-1,TBS SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11185.ts
+#EXTINF:-1,TBS HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7873.ts
+#EXTINF:-1,TBS HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11004.ts
+#EXTINF:-1,TCM
+http://142.44.139.236:25461/live/Indianara/Indianara/4321.ts
+#EXTINF:-1,TCM SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11184.ts
+#EXTINF:-1,TCM HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11003.ts
+#EXTINF:-1,Telecine Action
+http://142.44.139.236:25461/live/Indianara/Indianara/4320.ts
+#EXTINF:-1,TELECINE ACTION SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11183.ts
+#EXTINF:-1,Telecine Action HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6080.ts
+#EXTINF:-1,Telecine Action HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11002.ts
+#EXTINF:-1,Telecine Action FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8141.ts
+#EXTINF:-1,Telecine Cult
+http://142.44.139.236:25461/live/Indianara/Indianara/4319.ts
+#EXTINF:-1,TELECINE CULT SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11182.ts
+#EXTINF:-1,Telecine Cult HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10247.ts
+#EXTINF:-1,Telecine Cult HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11001.ts
+#EXTINF:-1,Telecine Cult FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8143.ts
+#EXTINF:-1,Telecine Fun
+http://142.44.139.236:25461/live/Indianara/Indianara/4318.ts
+#EXTINF:-1,TELECINE FUN SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11181.ts
+#EXTINF:-1,Telecine Fun HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6079.ts
+#EXTINF:-1,Telecine Fun HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11000.ts
+#EXTINF:-1,Telecine Pipoca
+http://142.44.139.236:25461/live/Indianara/Indianara/4317.ts
+#EXTINF:-1,TELECINE PIPOCA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11180.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6078.ts
+#EXTINF:-1,Telecine Pipoca HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10999.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8144.ts
+#EXTINF:-1,Telecine Premium
+http://142.44.139.236:25461/live/Indianara/Indianara/4316.ts
+#EXTINF:-1,TELECINE PREMIUM SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11179.ts
+#EXTINF:-1,Telecine Premium HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6077.ts
+#EXTINF:-1,Telecine Premium HD*
+http://142.44.139.236:25461/live/Indianara/Indianara/8192.ts
+#EXTINF:-1,Telecine Premium HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10998.ts
+#EXTINF:-1,Telecine Premium FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8140.ts
+#EXTINF:-1,Telecine Touch
+http://142.44.139.236:25461/live/Indianara/Indianara/4315.ts
+#EXTINF:-1,TELECINE TOUCH SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11178.ts
+#EXTINF:-1,Telecine Touch HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6076.ts
+#EXTINF:-1,Telecine Touch HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10997.ts
+#EXTINF:-1,Telecine Touch FHD
+http://142.44.139.236:25461/live/Indianara/Indianara/8145.ts
+#EXTINF:-1,Terra Viva
+http://142.44.139.236:25461/live/Indianara/Indianara/6936.ts
+#EXTINF:-1,TLC
+http://142.44.139.236:25461/live/Indianara/Indianara/4313.ts
+#EXTINF:-1,TLC SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11177.ts
+#EXTINF:-1,TLC HD
+http://142.44.139.236:25461/live/Indianara/Indianara/7872.ts
+#EXTINF:-1,TLC HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10996.ts
+#EXTINF:-1,TNT
+http://142.44.139.236:25461/live/Indianara/Indianara/4312.ts
+#EXTINF:-1,TNT SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11176.ts
+#EXTINF:-1,TNT HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6074.ts
+#EXTINF:-1,TNT HD*
+http://142.44.139.236:25461/live/Indianara/Indianara/8188.ts
+#EXTINF:-1,TNT HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10995.ts
+#EXTINF:-1,TNT Series
+http://142.44.139.236:25461/live/Indianara/Indianara/4311.ts
+#EXTINF:-1,TNT SÃ‰RIES SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11175.ts
+#EXTINF:-1,TNT Series HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6073.ts
+#EXTINF:-1,TNT Series [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10994.ts
+#EXTINF:-1,Tooncast
+http://142.44.139.236:25461/live/Indianara/Indianara/4310.ts
+#EXTINF:-1,TOONCAST SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11174.ts
+#EXTINF:-1,Tooncast HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10993.ts
+#EXTINF:-1,TruTV
+http://142.44.139.236:25461/live/Indianara/Indianara/6935.ts
+#EXTINF:-1,TRUTV SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11173.ts
+#EXTINF:-1,TruTV HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10244.ts
+#EXTINF:-1,TV Liberal Belem
+http://142.44.139.236:25461/live/Indianara/Indianara/7871.ts
+#EXTINF:-1,TV Liberal Belem [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11356.ts
+#EXTINF:-1,TV Brasil
+http://142.44.139.236:25461/live/Indianara/Indianara/4442.ts
+#EXTINF:-1,TV Justica
+http://142.44.139.236:25461/live/Indianara/Indianara/5970.ts
+#EXTINF:-1,TV Cultura
+http://142.44.139.236:25461/live/Indianara/Indianara/4412.ts
+#EXTINF:-1,TV CULTURA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11171.ts
+#EXTINF:-1,TV Diario
+http://142.44.139.236:25461/live/Indianara/Indianara/4411.ts
+#EXTINF:-1,TV Escola
+http://142.44.139.236:25461/live/Indianara/Indianara/5975.ts
+#EXTINF:-1,TV ESCOLA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11170.ts
+#EXTINF:-1,TV Evangelizar
+http://142.44.139.236:25461/live/Indianara/Indianara/6206.ts
+#EXTINF:-1,TV Ra tim bum
+http://142.44.139.236:25461/live/Indianara/Indianara/6933.ts
+#EXTINF:-1,TV Miramar
+http://142.44.139.236:25461/live/Indianara/Indianara/8108.ts
+#EXTINF:-1,TV Serra Dourada
+http://142.44.139.236:25461/live/Indianara/Indianara/6931.ts
+#EXTINF:-1,TV Vitoria
+http://142.44.139.236:25461/live/Indianara/Indianara/6817.ts
+#EXTINF:-1,TV Camara
+http://142.44.139.236:25461/live/Indianara/Indianara/10245.ts
+#EXTINF:-1,TV Senado
+http://142.44.139.236:25461/live/Indianara/Indianara/10246.ts
+#EXTINF:-1,TV5 Monde
+http://142.44.139.236:25461/live/Indianara/Indianara/6178.ts
+#EXTINF:-1,TVE Bahia
+http://142.44.139.236:25461/live/Indianara/Indianara/6966.ts
+#EXTINF:-1,TVE HD
+http://142.44.139.236:25461/live/Indianara/Indianara/4440.ts
+#EXTINF:-1,Universal Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/4308.ts
+#EXTINF:-1,UNIVERSAL CHANNEL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11169.ts
+#EXTINF:-1,Universal Channels HD
+http://142.44.139.236:25461/live/Indianara/Indianara/5987.ts
+#EXTINF:-1,Universal Channels HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10992.ts
+#EXTINF:-1,VH1 Megahits
+http://142.44.139.236:25461/live/Indianara/Indianara/10243.ts
+#EXTINF:-1,VH1 HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10361.ts
+#EXTINF:-1,VH1 Megahits HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6929.ts
+#EXTINF:-1,Virgin Radio TV
+http://142.44.139.236:25461/live/Indianara/Indianara/4441.ts
+#EXTINF:-1,Viva
+http://142.44.139.236:25461/live/Indianara/Indianara/6928.ts
+#EXTINF:-1,VIVA SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11168.ts
+#EXTINF:-1,Viva HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6848.ts
+#EXTINF:-1,Viva HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10991.ts
+#EXTINF:-1,Warner Channel
+http://142.44.139.236:25461/live/Indianara/Indianara/4307.ts
+#EXTINF:-1,WARNER CHANNEL SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11167.ts
+#EXTINF:-1,Warner Channel HD
+http://142.44.139.236:25461/live/Indianara/Indianara/6072.ts
+#EXTINF:-1,Warner Channel HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10990.ts
+#EXTINF:-1,Woohoo
+http://142.44.139.236:25461/live/Indianara/Indianara/4306.ts
+#EXTINF:-1,WOOHOO SD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/11166.ts
+#EXTINF:-1,Woohoo HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10242.ts
+#EXTINF:-1,Woohoo HD [Alternativo]
+http://142.44.139.236:25461/live/Indianara/Indianara/10989.ts
+#EXTINF:-1,Zoomoo
+http://142.44.139.236:25461/live/Indianara/Indianara/11165.ts
+#EXTINF:-1,Zoomoo HD
+http://142.44.139.236:25461/live/Indianara/Indianara/10988.ts
+#EXTINF:-1,Band FM
+http://142.44.139.236:25461/live/Indianara/Indianara/6840.ts
+#EXTINF:-1,BH FM
+http://142.44.139.236:25461/live/Indianara/Indianara/5836.ts
+#EXTINF:-1,Radio Globo SP
+http://142.44.139.236:25461/live/Indianara/Indianara/5828.ts
+#EXTINF:-1,Radio Energia 97 FM 97.7 SP
+http://142.44.139.236:25461/live/Indianara/Indianara/10936.ts
+#EXTINF:-1,Radio Metropolitana
+http://142.44.139.236:25461/live/Indianara/Indianara/10933.ts
+#EXTINF:-1,Radio Rock 89 FM Sao Paulo
+http://142.44.139.236:25461/live/Indianara/Indianara/10934.ts
+#EXTINF:-1,Radio Saudade FM
+http://142.44.139.236:25461/live/Indianara/Indianara/10935.ts
+#EXTINF:-1,Radio TransamÃ©rica Pop 100.1 FM SP
+http://142.44.139.236:25461/live/Indianara/Indianara/10937.ts
+#EXTINF:-1,Radio Mix FM
+http://142.44.139.236:25461/live/Indianara/Indianara/5826.ts
+#EXTINF:-1,Radio Bahia
+http://142.44.139.236:25461/live/Indianara/Indianara/6188.ts
+#EXTINF:-1,Radio Jovem Pan
+http://142.44.139.236:25461/live/Indianara/Indianara/6187.ts
+#EXTINF:-1,Radio Mega Hits
+http://142.44.139.236:25461/live/Indianara/Indianara/6846.ts
+#EXTINF:-1,Radio Disney
+http://142.44.139.236:25461/live/Indianara/Indianara/6838.ts
+#EXTINF:-1,Barbie 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11333.ts
+#EXTINF:-1,Ben 10 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11134.ts
+#EXTINF:-1,Bob Esponja 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11131.ts
+#EXTINF:-1,Chapolin Colarado 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11348.ts
+#EXTINF:-1,Chaves 24 Horas
+http://142.44.139.236:25461/live/Indianara/Indianara/11123.ts
+#EXTINF:-1,Dragon Ball Super 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10408.ts
+#EXTINF:-1,Dragon Ball Z 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10410.ts
+#EXTINF:-1,Dragon Ball GT
+http://142.44.139.236:25461/live/Indianara/Indianara/11450.ts
+#EXTINF:-1,Digimon 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10414.ts
+#EXTINF:-1,Eu a Patroa e as Criancas 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10586.ts
+#EXTINF:-1,Galinha Pintadinha 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11133.ts
+#EXTINF:-1,Larva 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11379.ts
+#EXTINF:-1,Naruto 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10412.ts
+#EXTINF:-1,Oddbods 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11382.ts
+#EXTINF:-1,Oggy e as baratas tontas 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11135.ts
+#EXTINF:-1,Os simpons 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11138.ts
+#EXTINF:-1,Patati PatatÃ¡ 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11319.ts
+#EXTINF:-1,Pica Pau 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11340.ts
+#EXTINF:-1,Pocoyo 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11378.ts
+#EXTINF:-1,Pokemon 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/10413.ts
+#EXTINF:-1,South Park 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11318.ts
+#EXTINF:-1,Super Choque 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11132.ts
+#EXTINF:-1,Super Onze 24 HORAS
+http://142.44.139.236:25461/live/Indianara/Indianara/11137.ts
+#EXTINF:-1,Todo Mundo Odeia o Chris 24Hrs
+http://142.44.139.236:25461/live/Indianara/Indianara/10589.ts
+--------
+#EXTINF:-1,======= USA ======
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5152.ts
+#EXTINF:-1,US HD: ABC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5848.ts
+#EXTINF:-1,US HD: CBS HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8975.ts
+#EXTINF:-1,US HD: NBC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8976.ts
+#EXTINF:-1,US HD: Fox HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15092.ts
+#EXTINF:-1,US HD: Fox 5 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8974.ts
+#EXTINF:-1,US HD: MSNBC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15097.ts
+#EXTINF:-1,US HD: MSNBC FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7846.ts
+#EXTINF:-1,US HD: CW HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16781.ts
+#EXTINF:-1,US HD: PBS HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16787.ts
+#EXTINF:-1,US HD: Sundance HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16788.ts
+#EXTINF:-1,US HD: National Geographic HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16785.ts
+#EXTINF:-1,US HD: Discovery Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15296.ts
+#EXTINF:-1,US HD: Discovery Velocity HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15289.ts
+#EXTINF:-1,US HD: Discovery Science HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3750.ts
+#EXTINF:-1,US HD: Discovery Family HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15267.ts
+#EXTINF:-1,US HD: Investigation Discovery HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3748.ts
+#EXTINF:-1,US HD: Crime & Investigation HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15213.ts
+#EXTINF:-1,US HD: Food Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15135.ts
+#EXTINF:-1,US HD: Cooking Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11081.ts
+#EXTINF:-1,US HD: Animal Planet HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15298.ts
+#EXTINF:-1,US HD: A&E HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15282.ts
+#EXTINF:-1,US HD: History Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5317.ts
+#EXTINF:-1,US HD: Destination America HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15307.ts
+#EXTINF:-1,US HD: Travel Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2625.ts
+#EXTINF:-1,US HD: Comedy Central HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16782.ts
+#EXTINF:-1,US HD: Freeform HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15303.ts
+#EXTINF:-1,US HD: Hallmark Movies & Mysteries HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/19693.ts
+#EXTINF:-1,US HD: MTV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15309.ts
+#EXTINF:-1,US HD: VH1 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15315.ts
+#EXTINF:-1,US HD: E! HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15301.ts
+#EXTINF:-1,US HD: FX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15291.ts
+#EXTINF:-1,US HD: FXX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3646.ts
+#EXTINF:-1,US HD: DIY Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15403.ts
+#EXTINF:-1,US HD: CBN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15271.ts
+#EXTINF:-1,US HD: AMC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15299.ts
+#EXTINF:-1,US HD: USA Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15272.ts
+#EXTINF:-1,US HD: HGTV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15287.ts
+#EXTINF:-1,US HD: Bet HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15284.ts
+#EXTINF:-1,US HD: Outdoor HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15268.ts
+#EXTINF:-1,US HD: Bravo HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15460.ts
+#EXTINF:-1,US HD: OWN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15294.ts
+#EXTINF:-1,US HD: Spike/Paramount HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15310.ts
+#EXTINF:-1,US HD: TLC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15311.ts
+#EXTINF:-1,US HD: TRU TV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15305.ts
+#EXTINF:-1,US HD: TV Land HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15312.ts
+#EXTINF:-1,US HD: Lifetime HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15295.ts
+#EXTINF:-1,US HD: Reelz HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15270.ts
+#EXTINF:-1,US HD: TBS HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15292.ts
+#EXTINF:-1,US HD: Disney HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15288.ts
+#EXTINF:-1,US HD: Nick HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16786.ts
+#EXTINF:-1,US HD: Nick Jr HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15317.ts
+#EXTINF:-1,US HD: Cartoon Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15300.ts
+#EXTINF:-1,US HD: BBC America HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15406.ts
+#EXTINF:-1,US HD: Big Ten Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15290.ts
+#EXTINF:-1,US HD: Starz HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89229.ts
+#EXTINF:-1,US HD: Starz East HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15314.ts
+#EXTINF:-1,US HD: Starz Edge HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89231.ts
+#EXTINF:-1,US HD: Starz Encore HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89230.ts
+#EXTINF:-1,US HD: Starz Kids & Family HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89232.ts
+#EXTINF:-1,US HD: Epix HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15280.ts
+#EXTINF:-1,US HD: Epix 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15281.ts
+#EXTINF:-1,US HD: SYFY HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15293.ts
+#EXTINF:-1,US HD: TNT HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15304.ts
+#EXTINF:-1,US HD: HBO HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15086.ts
+#EXTINF:-1,US HD: HBO 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15091.ts
+#EXTINF:-1,US HD: HBO Signature HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15087.ts
+#EXTINF:-1,US HD: HBO Zone HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15089.ts
+#EXTINF:-1,US HD: HBO Comedy HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15088.ts
+#EXTINF:-1,US HD: HBO Family HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15090.ts
+#EXTINF:-1,US HD: CineMax HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15302.ts
+#EXTINF:-1,US HD: MoreMax HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15297.ts
+#EXTINF:-1,US HD: ThrillerMax HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15306.ts
+#EXTINF:-1,US HD: Showtime HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15404.ts
+#EXTINF:-1,US HD: Showtime 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15405.ts
+#EXTINF:-1,US HD: AFN Pulse
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11499.ts
+#EXTINF:-1,US HD: AFN Spectrum
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11498.ts
+#EXTINF:-1,US HD: AFN Prime Pacific
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11497.ts
+#EXTINF:-1,US HD: AFN Prime Atlantic
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11496.ts
+#EXTINF:-1,US HD: AFN Movie
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11495.ts
+#EXTINF:-1,US HD: Fox News HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10954.ts
+#EXTINF:-1,US HD: Fox 50
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/17995.ts
+#EXTINF:-1,US HD: Fox Business Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15308.ts
+#EXTINF:-1,US HD: CNN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15407.ts
+#EXTINF:-1,US HD: CNBC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16780.ts
+#EXTINF:-1,US HD: Disney Junior HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/18432.ts
+#EXTINF:-1,US HD: ABC7 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/18431.ts
+#EXTINF:-1,US HD: The Weather Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15285.ts
+#EXTINF:-1,US HD: AFN News
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16361.ts
+#EXTINF:-1,US HD: California Music Channel
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/28255.ts
+#EXTINF:-1,US HD: ABC NY HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/28483.ts
+#EXTINF:-1,US: AFN MOVIE
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4144.ts
+#EXTINF:-1,US: Fox HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5879.ts
+#EXTINF:-1,US: USA Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5309.ts
+#EXTINF:-1,US: CBS NY HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8595.ts
+#EXTINF:-1,US: CBS FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5351.ts
+#EXTINF:-1,US: FX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3662.ts
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5330.ts
+#EXTINF:-1,US: Hallmark
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5324.ts
+#EXTINF:-1,US: HGTV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5318.ts
+#EXTINF:-1,US: TBS HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5333.ts
+#EXTINF:-1,US: AMC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7645.ts
+#EXTINF:-1,US: Freeform HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3747.ts
+#EXTINF:-1,US: TLC
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4530.ts
+#EXTINF:-1,US: Diy Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3649.ts
+#EXTINF:-1,US: Bravo HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3664.ts
+#EXTINF:-1,US HD: The Blaze
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11045.ts
+#EXTINF:-1,US: Fuel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3945.ts
+#EXTINF:-1,US: HBO HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5323.ts
+#EXTINF:-1,US: HBO Siignature
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5320.ts
+#EXTINF:-1,US: HBO ZONE
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5319.ts
+#EXTINF:-1,US: HBO Comedy
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5321.ts
+#EXTINF:-1,US: HBO Family
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5322.ts
+#EXTINF:-1,US: Showtime HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3533.ts
+#EXTINF:-1,US: Showtime 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10733.ts
+#EXTINF:-1,US: Showtime West
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5337.ts
+#EXTINF:-1,US: Starz Edge
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5338.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5335.ts
+#EXTINF:-1,US: Starz Comedy
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10738.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3629.ts
+#EXTINF:-1,US: Cinemax Action Max
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3658.ts
+#EXTINF:-1,US: Cinemax HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5336.ts
+#EXTINF:-1,US: Spike HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5332.ts
+#EXTINF:-1,US: LIFETIME HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5316.ts
+#EXTINF:-1,US: TV Land
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9585.ts
+#EXTINF:-1,US: HIFI
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4564.ts
+#EXTINF:-1,US: TNT HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5352.ts
+#EXTINF:-1,US: SyFy HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5334.ts
+#EXTINF:-1,US: Comedy Central HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3660.ts
+#EXTINF:-1,US: Nicketoons HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5331.ts
+#EXTINF:-1,US: Discovery Velocity
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11075.ts
+#EXTINF:-1,US: H2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5325.ts
+#EXTINF:-1,US: National Geographic HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3634.ts
+#EXTINF:-1,US: Food Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5312.ts
+#EXTINF:-1,US: A & E
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5310.ts
+#EXTINF:-1,US: Animal Planet
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4529.ts
+#EXTINF:-1,US: E!
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3663.ts
+#EXTINF:-1,US: VH1 Classic
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/17340.ts
+#EXTINF:-1,US: Cinemax East
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3628.ts
+#EXTINF:-1,US: World Fashion HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3592.ts
+#EXTINF:-1,US: Amazing Facts TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3647.ts
+#EXTINF:-1,US: Big Ten Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3652.ts
+#EXTINF:-1,US: TSC
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3528.ts
+#EXTINF:-1,US: Disney XD HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3661.ts
 #EXTINF:-1,US: The Florida Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
-#EXTINF:-1,US: NEWSMAX TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
-#EXTINF:-1,US: KTNV 13 News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7770.ts
-#EXTINF:-1,US: AMGA TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
-#EXTINF:-1,US:  RADIO MONTE CARLO TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
-#EXTINF:-1,US:  Zarin TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
-#EXTINF:-1,US:  RETRO MUSIC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
-#EXTINF:-1,US:  AKC TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
-#EXTINF:-1,US: GOD TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
-#EXTINF:-1,US: ABC HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.ts
-#EXTINF:-1,US:  Virgin TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
-#EXTINF:-1,US: ITVN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11602.ts
-#EXTINF:-1,US: CTN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
-#EXTINF:-1,US: BLOOMBERG
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
-#EXTINF:-1,US: NLF
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
-#EXTINF:-1,US: MSNBC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
-#EXTINF:-1,US: Ditty TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
-#EXTINF:-1,US: WGN NEWS CHICAGO
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
-#EXTINF:-1,US: ABC   east
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:-1,US: IMPAC FRESLING
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
-#EXTINF:-1,US: KEY TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
-#EXTINF:-1,US: ARTS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
-#EXTINF:-1,US: HOUSE CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
-#EXTINF:-1,US: Catholic TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
-#EXTINF:-1,US: San Francisco Gov TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
-#EXTINF:-1,US: Cascade Hills Church
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
-#EXTINF:-1,US: LTV GOV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
-#EXTINF:-1,US: NBC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20451.ts
-#EXTINF:-1,US: ABNSAT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
-#EXTINF:-1,US: CNN int
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21186.ts
-#EXTINF:-1,US: Columbia Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
-#EXTINF:-1,US: LTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
-#EXTINF:-1,US: Knowledge Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
-#EXTINF:-1,US: Kool TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20456.ts
-#EXTINF:-1,US: NBC 5
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
-#EXTINF:-1,US: IBN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
-#EXTINF:-1,US: SBN Domestic
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
-#EXTINF:-1,US: SBN Global
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
-#EXTINF:-1,US: SBN International
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
-#EXTINF:-1,US: NWCT 12
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
-#EXTINF:-1,US: TCT KIDS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
-#EXTINF:-1,US: The Blaze
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
-#EXTINF:-1,US: The Country Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
-#EXTINF:-1,US: The NOW Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
-#EXTINF:-1,US: TBN armenial
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
-#EXTINF:-1,US: EWTN espanol
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
-#EXTINF:-1,US: JCTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
-#EXTINF:-1,US: DHTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
-#EXTINF:-1,US: PCTV 26
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
-#EXTINF:-1,US: Little Saigon TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18907.ts
-#EXTINF:-1,US: SFGovTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
-#EXTINF:-1,US: SBN Internacional TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
-#EXTINF:-1,US: ACRE TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
-#EXTINF:-1,US: The Beach Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18930.ts
-#EXTINF:-1,US: CYC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
-#EXTINF:-1,US: TVW 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
-#EXTINF:-1,US: WWE Network HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,US: Central Valley Talk
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
-#EXTINF:-1,US: WPCH TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
-#EXTINF:-1,US: City of Charlotte
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
-#EXTINF:-1,US: RADUT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
-#EXTINF:-1,US: CT-N
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
-#EXTINF:-1,US: REVN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
-#EXTINF:-1,US: Jewelry TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
-#EXTINF:-1,US: LA 36
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
-#EXTINF:-1,US: LFUCG
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
-#EXTINF:-1,US: Cable Central TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
-#EXTINF:-1,US: Oscar Aguero Ministry
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
-#EXTINF:-1,US: RadioU TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
-#EXTINF:-1,US: RTN Channel 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
-#EXTINF:-1,US: SFGovTV 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
-#EXTINF:-1,US: SPRIT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
-#EXTINF:-1,US: TCT
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
-#EXTINF:-1,US: WCCA TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
-#EXTINF:-1,US: Better Life TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
-#EXTINF:-1,US: TVW Cable Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18919.ts
-#EXTINF:-1,US: WACX TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
-#EXTINF:-1,US: InfoWars TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
-#EXTINF:-1,US: BYU.TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
-#EXTINF:-1,US: Free Speech TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
-#EXTINF:-1,US: WRXY-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
-#EXTINF:-1,US: OWN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
-#EXTINF:-1,US: United Nations TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
-#EXTINF:-1,US: FOX 5 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
-#EXTINF:-1,US: WGGS-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
-#EXTINF:-1,US: NFL Now TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
-#EXTINF:-1,US: 10 Health TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
-#EXTINF:-1,US: NEWS 25
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
-#EXTINF:-1,US: CHANNEL 11 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
-#EXTINF:-1,US: KOB 4 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20468.ts
-#EXTINF:-1,US: LifeChurch TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
-#EXTINF:-1,US: ABC 7 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
-#EXTINF:-1,US: Midpeninsula TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
-#EXTINF:-1,US: Collier TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
-#EXTINF:-1,US: Red Bull tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
-#EXTINF:-1,US: TVW
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
-#EXTINF:-1,US: Voice of America
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
-#EXTINF:-1,US: VTV Channel 6 Colorado
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
-#EXTINF:-1,US: WEATHER CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
-#EXTINF:-1,US: WGN 9 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
-#EXTINF:-1,US: KVLA TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
-#EXTINF:-1,US: ORANGE TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
-#EXTINF:-1,US: FOX 25 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
-#EXTINF:-1,US: Comedy TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20455.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
-#EXTINF:-1,US: NewsChannel 21
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
-#EXTINF:-1,US: Capital TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
-#EXTINF:-1,US: WBRZ-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
-#EXTINF:-1,US: ESPN  NBA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19749.ts
-#EXTINF:-1,US: SBN Global TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
-#EXTINF:-1,US: Most Video TV HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
-#EXTINF:-1,US: WVLR-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
-#EXTINF:-1,US: Jewish Life TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
-#EXTINF:-1,US: CARTOON
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
-#EXTINF:-1,US: New Orleans TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
-#EXTINF:-1,US: FOX 25 BOSTON
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15598.ts
-#EXTINF:-1,US: LNKTV City
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9460.ts
-#EXTINF:-1,US: LNK TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9463.ts
-#EXTINF:-1,US: 5 USA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19358.ts
-#EXTINF:-1,US: WATC Too TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9465.ts
-#EXTINF:-1,US: CBS 47 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7785.ts
-#EXTINF:-1,US: LTV EDU
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20964.ts
-#EXTINF:-1,US: Cerritos TV3
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9467.ts
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3530.ts
+#EXTINF:-1,US HD: Nasa TV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2830.ts
+#EXTINF:-1,US: Miami TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3529.ts
+#EXTINF:-1,US: Bet
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3659.ts
+#EXTINF:-1,US: PBS America
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3603.ts
 #EXTINF:-1,US: CBN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9469.ts
-#EXTINF:-1,US: Bloomington TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22089.ts
-#EXTINF:-1,US: Discovery World
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22088.ts
-#EXTINF:-1,US: CBN NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9468.ts
-#EXTINF:-1,US: CBSN News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9477.ts
-#EXTINF:-1,US: CMC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9458.ts
-#EXTINF:-1,US: FOX 23 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7789.ts
-#EXTINF:-1,US: HOPE CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.ts
-#EXTINF:-1,US: INFOWARS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18853.ts
-#EXTINF:-1,US: DAYSTAR TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18854.ts
-#EXTINF:-1,US: CALIFORNIA MUSIC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.ts
-#EXTINF:-1,US: DAYTONA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18856.ts
-#EXTINF:-1,US: DCN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18857.ts
-#EXTINF:-1,US: DKN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18858.ts
-#EXTINF:-1,US: WHPR TV 33 Detroit
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18860.ts
-#EXTINF:-1,US: NFL NETWORK
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18861.ts
-#EXTINF:-1,US: SBN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18862.ts
-#EXTINF:-1,US: NBC 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18863.ts
-#EXTINF:-1,US: RT NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18864.ts
-#EXTINF:-1,US: SG TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18865.ts
-#EXTINF:-1,US: Southeastern Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18866.ts
-#EXTINF:-1,US: KIRO-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18867.ts
-#EXTINF:-1,US: TUFF  TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.ts
-#EXTINF:-1,US: TVV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18869.ts
-#EXTINF:-1,US: Denver 8 TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18870.ts
-#EXTINF:-1,US: GC Church TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.ts
-#EXTINF:-1,US: WGN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18872.ts
-#EXTINF:-1,US: PIX 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7802.ts
-#EXTINF:-1,US: MNN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9459.ts
-#EXTINF:-1,US: The Florida Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9455.ts
-#EXTINF:-1,US: NEWSMAX TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7797.ts
-#EXTINF:-1,US: KTNV 13 News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7770.ts
-#EXTINF:-1,US: Tele Anacaona
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.ts
-#EXTINF:-1,US:  RADIO MONTE CARLO TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11561.ts
-#EXTINF:-1,US:  WHIO 7 News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11562.ts
-#EXTINF:-1,US:  RETRO MUSIC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11567.ts
-#EXTINF:-1,US:  AKC TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11604.ts
-#EXTINF:-1,US: GOD TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.ts
-#EXTINF:-1,US: KHOU-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11568.ts
-#EXTINF:-1,US:  Virgin TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11596.ts
-#EXTINF:-1,US: ITVN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11602.ts
-#EXTINF:-1,US: CTN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11236.ts
-#EXTINF:-1,US: BLOOMBERG
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11234.ts
-#EXTINF:-1,US: NLF
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18421.ts
-#EXTINF:-1,US: MSNBC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18688.ts
-#EXTINF:-1,US: Ditty TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18689.ts
-#EXTINF:-1,US: WGN NEWS CHICAGO
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13612.ts
-#EXTINF:-1,US: ABC   east
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:-1,US: IMPAC FRESLING
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18852.ts
-#EXTINF:-1,US: KEY TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11235.ts
-#EXTINF:-1,US: ARTS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18906.ts
-#EXTINF:-1,US: HOUSE CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18920.ts
-#EXTINF:-1,US: Catholic TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18918.ts
-#EXTINF:-1,US: San Francisco Gov TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18910.ts
-#EXTINF:-1,US: Cascade Hills Church
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18908.ts
-#EXTINF:-1,US: LTV GOV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20461.ts
-#EXTINF:-1,US: NBC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20451.ts
-#EXTINF:-1,US: ABNSAT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21584.ts
-#EXTINF:-1,US: CNN int
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21186.ts
-#EXTINF:-1,US: Columbia Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20452.ts
-#EXTINF:-1,US: LTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20515.ts
-#EXTINF:-1,US: Knowledge Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20453.ts
-#EXTINF:-1,US: Kool TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20456.ts
-#EXTINF:-1,US: NBC 5
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20258.ts
-#EXTINF:-1,US: IBN TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20259.ts
-#EXTINF:-1,US: SBN Domestic
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21577.ts
-#EXTINF:-1,US: SBN Global
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21578.ts
-#EXTINF:-1,US: SBN International
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21579.ts
-#EXTINF:-1,US: NWCT 12
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20262.ts
-#EXTINF:-1,US: TCT KIDS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.ts
-#EXTINF:-1,US: The Blaze
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20462.ts
-#EXTINF:-1,US: The Country Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20463.ts
-#EXTINF:-1,US: The NOW Network
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21583.ts
-#EXTINF:-1,US: TBN armenial
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20265.ts
-#EXTINF:-1,US: EWTN espanol
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18909.ts
-#EXTINF:-1,US: JCTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18915.ts
-#EXTINF:-1,US: DHTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18905.ts
-#EXTINF:-1,US: PCTV 26
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18914.ts
-#EXTINF:-1,US: Little Saigon TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18907.ts
-#EXTINF:-1,US: SFGovTV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18917.ts
-#EXTINF:-1,US: SBN Internacional TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18911.ts
-#EXTINF:-1,US: ACRE TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18940.ts
-#EXTINF:-1,US: The Beach Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18930.ts
-#EXTINF:-1,US: CYC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18929.ts
-#EXTINF:-1,US: TVW 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21582.ts
-#EXTINF:-1,US: WWE Network HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,US: Central Valley Talk
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18938.ts
-#EXTINF:-1,US: WPCH TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18936.ts
-#EXTINF:-1,US: City of Charlotte
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18934.ts
-#EXTINF:-1,US: RADUT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18941.ts
-#EXTINF:-1,US: CT-N
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18939.ts
-#EXTINF:-1,US: REVN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18927.ts
-#EXTINF:-1,US: Jewelry TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18924.ts
-#EXTINF:-1,US: LA 36
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18925.ts
-#EXTINF:-1,US: LFUCG
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18928.ts
-#EXTINF:-1,US: Cable Central TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18922.ts
-#EXTINF:-1,US: Oscar Aguero Ministry
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18932.ts
-#EXTINF:-1,US: RadioU TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18931.ts
-#EXTINF:-1,US: RTN Channel 11
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18937.ts
-#EXTINF:-1,US: SFGovTV 2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18933.ts
-#EXTINF:-1,US: SPRIT TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18923.ts
-#EXTINF:-1,US: TCT
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18926.ts
-#EXTINF:-1,US: WCCA TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18935.ts
-#EXTINF:-1,US: Better Life TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18912.ts
-#EXTINF:-1,US: TVW Cable Channel
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18919.ts
-#EXTINF:-1,US: WACX TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18921.ts
-#EXTINF:-1,US: InfoWars TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18913.ts
-#EXTINF:-1,US: BYU.TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18816.ts
-#EXTINF:-1,US: Free Speech TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18880.ts
-#EXTINF:-1,US: WRXY-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7805.ts
-#EXTINF:-1,US: OWN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18881.ts
-#EXTINF:-1,US: United Nations TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18878.ts
-#EXTINF:-1,US: FOX 5 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18882.ts
-#EXTINF:-1,US: WGGS-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18904.ts
-#EXTINF:-1,US: NFL Now TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.ts
-#EXTINF:-1,US: 10 Health TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18883.ts
-#EXTINF:-1,US: NEWS 25
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18877.ts
-#EXTINF:-1,US: CHANNEL 11 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20469.ts
-#EXTINF:-1,US: KOB 4 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20468.ts
-#EXTINF:-1,US: LifeChurch TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.ts
-#EXTINF:-1,US: ABC 7 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20457.ts
-#EXTINF:-1,US: Midpeninsula TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20458.ts
-#EXTINF:-1,US: Collier TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20460.ts
-#EXTINF:-1,US: Red Bull tv
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.ts
-#EXTINF:-1,US: TVW
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20464.ts
-#EXTINF:-1,US: Voice of America
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20465.ts
-#EXTINF:-1,US: VTV Channel 6 Colorado
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20466.ts
-#EXTINF:-1,US: WEATHER CHANNEL
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20247.ts
-#EXTINF:-1,US: WGN 9 HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19381.ts
-#EXTINF:-1,US: KVLA TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20467.ts
-#EXTINF:-1,US: ORANGE TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20459.ts
-#EXTINF:-1,US: FOX 25 NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20454.ts
-#EXTINF:-1,US: Comedy TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20455.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19387.ts
-#EXTINF:-1,US: NewsChannel 21
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18879.ts
-#EXTINF:-1,US: Capital TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18459.ts
-#EXTINF:-1,US: WBRZ-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18875.ts
-#EXTINF:-1,US: ESPN  NBA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19749.ts
-#EXTINF:-1,US: SBN Global TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18815.ts
-#EXTINF:-1,US: Most Video TV HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18447.ts
-#EXTINF:-1,US: WVLR-TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11597.ts
-#EXTINF:-1,US: Jewish Life TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.ts
-#EXTINF:-1,US: CARTOON
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.ts
-#EXTINF:-1,US: New Orleans TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7807.ts
-#EXTINF:-1,UK: 4Music
-http://54.37.255.204:9977/live/Rivera/Rivera/27047.ts
-#EXTINF:-1,UK: DMAX
-http://54.37.255.204:9977/live/Rivera/Rivera/27104.ts
-#EXTINF:-1,UK: FOX
-http://54.37.255.204:9977/live/Rivera/Rivera/27109.ts
-#EXTINF:-1,UK: Gold
-http://54.37.255.204:9977/live/Rivera/Rivera/27058.ts
-#EXTINF:-1,UK: HBO 1
-http://54.37.255.204:9977/live/Rivera/Rivera/27113.ts
-#EXTINF:-1,UK: HBO HD
-http://54.37.255.204:9977/live/Rivera/Rivera/27114.ts
-#EXTINF:-1,UK: History
-http://54.37.255.204:9977/live/Rivera/Rivera/27054.ts
-#EXTINF:-1,UK: History  1
-http://54.37.255.204:9977/live/Rivera/Rivera/27053.ts
-#EXTINF:-1,UK: Home&Health   1
-http://54.37.255.204:9977/live/Rivera/Rivera/27052.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://54.37.255.204:9977/live/Rivera/Rivera/27059.ts
-#EXTINF:-1,UK: ITV 2 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/27103.ts
-#EXTINF:-1,UK: ITV 3 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/27102.ts
-#EXTINF:-1,UK: ITV 4 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/27101.ts
-#EXTINF:-1,UK: Life time
-http://54.37.255.204:9977/live/Rivera/Rivera/27110.ts
-#EXTINF:-1,UK: Manchester United TV
-http://54.37.255.204:9977/live/Rivera/Rivera/27083.ts
-#EXTINF:-1,UK: Mototrs TV
-http://54.37.255.204:9977/live/Rivera/Rivera/27081.ts
-#EXTINF:-1,UK: MTV
-http://54.37.255.204:9977/live/Rivera/Rivera/27049.ts
-#EXTINF:-1,UK: MTV Base HD
-http://54.37.255.204:9977/live/Rivera/Rivera/27048.ts
-#EXTINF:-1,UK: Nat Geo Graphic
-http://54.37.255.204:9977/live/Rivera/Rivera/27066.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://54.37.255.204:9977/live/Rivera/Rivera/27056.ts
-#EXTINF:-1,UK: NATGEO WILD
-http://54.37.255.204:9977/live/Rivera/Rivera/27055.ts
-#EXTINF:-1,UK: Nick Jr  1
-http://54.37.255.204:9977/live/Rivera/Rivera/27075.ts
-#EXTINF:-1,UK: Nick Jr Too
-http://54.37.255.204:9977/live/Rivera/Rivera/27074.ts
-#EXTINF:-1,UK: Nickelodeon
-http://54.37.255.204:9977/live/Rivera/Rivera/27073.ts
-#EXTINF:-1,UK: Nickelodeon   1
-http://54.37.255.204:9977/live/Rivera/Rivera/27072.ts
-#EXTINF:-1,UK: Sony Channel  1
-http://54.37.255.204:9977/live/Rivera/Rivera/27117.ts
-#EXTINF:-1,UK: Syfy
-http://54.37.255.204:9977/live/Rivera/Rivera/27108.ts
-#EXTINF:-1,UK: TCM
-http://54.37.255.204:9977/live/Rivera/Rivera/27107.ts
-#EXTINF:-1,UK: VH1
-http://54.37.255.204:9977/live/Rivera/Rivera/27051.ts
-#EXTINF:-1,UK: VIVA
-http://54.37.255.204:9977/live/Rivera/Rivera/27050.ts
-#EXTINF:-1,UK: Baby tv
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2203.ts
-#EXTINF:-1,UK: BBC Four
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2216.ts
-#EXTINF:-1,UK: BBC Three
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2217.ts
-#EXTINF:-1,UK: Boxnation_HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2147.ts
-#EXTINF:-1,UK: CBS Action
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2205.ts
-#EXTINF:-1,UK: CBS Reality
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2204.ts
-#EXTINF:-1,UK: channel 4
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2210.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2149.ts
-#EXTINF:-1,UK: Comedy Central
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2196.ts
-#EXTINF:-1,UK: DAVE HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2173.ts
-#EXTINF:-1,UK: DISCOVERY-HISTORY
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2198.ts
-#EXTINF:-1,UK: E4
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2209.ts
-#EXTINF:-1,UK: FOOD_NETWORK
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2162.ts
-#EXTINF:-1,UK: islam tv
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2178.ts
-#EXTINF:-1,UK: islamchannel
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2177.ts
-#EXTINF:-1,UK: ITV 3
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2213.ts
-#EXTINF:-1,UK: ITV BE
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2211.ts
-#EXTINF:-1,UK: Liverpool FC
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2148.ts
-#EXTINF:-1,UK: Racing UK
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.ts
-#EXTINF:-1,UK: MORE4
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2194.ts
-#EXTINF:-1,UK: MTA1
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2176.ts
-#EXTINF:-1,UK: MTA2
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2175.ts
-#EXTINF:-1,UK: MTA3
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2174.ts
-#EXTINF:-1,UK: MUTV
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2150.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2172.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2195.ts
-#EXTINF:-1,UK: NatGeo Wild HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2171.ts
-#EXTINF:-1,UK: Peace TV
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2179.ts
-#EXTINF:-1,UK: RTE 1
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2208.ts
-#EXTINF:-1,UK: RTE 2
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2207.ts
-#EXTINF:-1,UK: RTE NEWS
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2206.ts
-#EXTINF:-1,UK: Sky 3D
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2180.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2181.ts
-#EXTINF:-1,UK: Sky Disney channel
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2161.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2187.ts
-#EXTINF:-1,UK: Sky News
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2159.ts
-#EXTINF:-1,UK: SKY1
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2170.ts
-#EXTINF:-1,UK: SKY 2
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2169.ts
-#EXTINF:-1,UK: SONY CHANNEL
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2168.ts
-#EXTINF:-1,UK: Spike
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2201.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2215.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2214.ts
-#EXTINF:-1,UK: Sky Thriller
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2192.ts
-#EXTINF:-1,UK: Animal Planet
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2164.ts
-#EXTINF:-1,UK: Discovery
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2163.ts
-#EXTINF:-1,UK: Disney Channel
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2166.ts
-#EXTINF:-1,UK: Disney Junior
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2165.ts
-#EXTINF:-1,UK: CATHOLIC TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7781.ts
-#EXTINF:-1,UK: FRANCE 24
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13599.ts
-#EXTINF:-1,UK: HEART TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13600.ts
-#EXTINF:-1,UK: DW
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14231.ts
-#EXTINF:-1,UK: M. HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13605.ts
-#EXTINF:-1,UK: SKYNEWS UK
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18420.ts
-#EXTINF:-1,UK: HD Fashion
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18118.ts
-#EXTINF:-1,UK: alazeera  qatar
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18841.ts
-#EXTINF:-1,UK: BLOOMBERGH
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18855.ts
-#EXTINF:-1,UK: CAPILATL TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18848.ts
-#EXTINF:-1,UK: CBSN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18903.ts
-#EXTINF:-1,UK: LONDEN LIVE
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18849.ts
-#EXTINF:-1,UK: HIT MUSIC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16934.ts
-#EXTINF:-1,UK: Sky News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16976.ts
-#EXTINF:-1,UK: Sky One
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19293.ts
-#EXTINF:-1,UK: DiscScience
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19290.ts
-#EXTINF:-1,UK: MOVIE 4 MEN
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19333.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19270.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19291.ts
-#EXTINF:-1,UK: ComedyXtra
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19247.ts
-#EXTINF:-1,UK: CRIME & INVERSTIGATION
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19238.ts
-#EXTINF:-1,UK: MOVIES ACTION HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19327.ts
-#EXTINF:-1,UK: TG4
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19325.ts
-#EXTINF:-1,UK: TLC
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19324.ts
-#EXTINF:-1,UK: DISCCOVERY TURBO
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19235.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19262.ts
-#EXTINF:-1,UK: 5 Star
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19357.ts
-#EXTINF:-1,UK: Alibi
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19359.ts
-#EXTINF:-1,UK: BBC 3
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19356.ts
-#EXTINF:-1,UK: BBC News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19354.ts
-#EXTINF:-1,UK: MOVIES DISNEY HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19301.ts
-#EXTINF:-1,UK: Animal Planet
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19283.ts
-#EXTINF:-1,UK: Propeller TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22079.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19350.ts
-#EXTINF:-1,UK: Revelation TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22077.ts
-#EXTINF:-1,UK: RUSSIA DOCUMENT
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21070.ts
-#EXTINF:-1,UK: RUSSIA TODAY
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21071.ts
-#EXTINF:-1,UK: HISTORY
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22090.ts
-#EXTINF:-1,UK: British Muslim TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22078.ts
-#EXTINF:-1,UK: E !
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19345.ts
-#EXTINF:-1,UK: ITV4
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19338.ts
-#EXTINF:-1,UK: More 4
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19332.ts
-#EXTINF:-1,UK: Sky Two HD
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19294.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19330.ts
-#EXTINF:-1,UK: DAVE
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19236.ts
-#EXTINF:-1,UK: Comedy Central
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19251.ts
-#EXTINF:-1,UK: CBS NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7786.ts
-#EXTINF:-1,UK: ABC NEWS 24
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20374.ts
-#EXTINF:-1,UK: Arise News
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20371.ts
-#EXTINF:-1,UK: RT
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20372.ts
-#EXTINF:-1,UK: RT DOCU
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8434.ts
-#EXTINF:-1,UK: RTE NEWS
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20373.ts
-#EXTINF:-1,UK: CTV 8
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20375.ts
-#EXTINF:-1,UK: Wairarapa TV
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20376.ts
-#EXTINF:-1,UK: DISCOVERY
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9206.ts
-
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/12832.ts
+#EXTINF:-1,US: C-Span1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3602.ts
+#EXTINF:-1,US: AMG TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3601.ts
+#EXTINF:-1,US: Smile Of A Child
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3745.ts
+#EXTINF:-1,US: Oxygen
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3654.ts
+#EXTINF:-1,US: Cpac
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3632.ts
+#EXTINF:-1,US: HSN 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3526.ts
+#EXTINF:-1,US: HSN 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3527.ts
+#EXTINF:-1,US: NBC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3174.ts
+#EXTINF:-1,US: CNN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3159.ts
+#EXTINF:-1,US HD: ABC News HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3473.ts
+#EXTINF:-1,US: CBSN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5349.ts
+#EXTINF:-1,US: Cozi TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5339.ts
+#EXTINF:-1,US: Fox 59 News
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3651.ts
+#EXTINF:-1,US: CNBC
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2624.ts
+#EXTINF:-1,US HD: CBN News
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/12831.ts
+#EXTINF:-1,US: Bloomberg HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2833.ts
+#EXTINF:-1,US: RT Documentary
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2836.ts
+#EXTINF:-1,US: RT America HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3644.ts
+#EXTINF:-1,US: News 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5348.ts
+#EXTINF:-1,US: KTVZ News Channel 21
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3631.ts
+#EXTINF:-1,US HD: WGN News Chicago HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3600.ts
+#EXTINF:-1,US: Weather Nation
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2883.ts
+#EXTINF:-1,US: Pop & Country
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/13977.ts
+#EXTINF:-1,------- Canada --------
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10712.ts
+#EXTINF:-1,CA HD: CHCH
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/28247.ts
+#EXTINF:-1,CA HD: CBC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15412.ts
+#EXTINF:-1,CA HD: CBS East
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15413.ts
+#EXTINF:-1,CA HD: CITY HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15414.ts
+#EXTINF:-1,CA HD: CP 24 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15421.ts
+#EXTINF:-1,CA HD: CTV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15415.ts
+#EXTINF:-1,CA HD: CW HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15416.ts
+#EXTINF:-1,CA HD: GLOBAL HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15417.ts
+#EXTINF:-1,CA HD: HBO HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15425.ts
+#EXTINF:-1,CA HD: HBO 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15424.ts
+#EXTINF:-1,CA HD: HLN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15426.ts
+#EXTINF:-1,CA HD: ME TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15418.ts
+#EXTINF:-1,CA HD: Peach Tree HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15419.ts
+#EXTINF:-1,CA HD: FOX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15423.ts
+#EXTINF:-1,CA HD: NBC FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15420.ts
+#EXTINF:-1,CA HD: OWN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15427.ts
+#EXTINF:-1,CA HD: PBS HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15428.ts
+#EXTINF:-1,CA HD: SLICE HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15429.ts
+#EXTINF:-1,CA HD: E! HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15422.ts
+#EXTINF:-1,CA HD: TLC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15430.ts
+#EXTINF:-1,CA HD: Comedy Gold
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15431.ts
+#EXTINF:-1,CA HD: GSN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15273.ts
+#EXTINF:-1,CA HD: ABC Spark HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15269.ts
+#EXTINF:-1,CA HD: RDS (FR)
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11040.ts
+#EXTINF:-1,CA HD: Lifetime HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5326.ts
+#EXTINF:-1,CA HD: CBC News HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5327.ts
+#EXTINF:-1,CA HD: CNN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5328.ts
+#EXTINF:-1,CA HD: Space
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9582.ts
+#EXTINF:-1,CA HD: BNN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9584.ts
+#EXTINF:-1,CA HD: AMC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/9583.ts
+#EXTINF:-1,CA HD: CPAC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10711.ts
+#EXTINF:-1,CA HD: National Geo Wild HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10713.ts
+#EXTINF:-1,CA: ABC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10714.ts
+#EXTINF:-1,CA: Cartoon Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10715.ts
+#EXTINF:-1,CA HD: National Geo HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10716.ts
+#EXTINF:-1,CA HD: RDS 2 (FR)
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10717.ts
+#EXTINF:-1,CA HD: FXX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10718.ts
+#EXTINF:-1,CA HD: FX HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10719.ts
+#EXTINF:-1,CA HD: Casa
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10720.ts
+#EXTINF:-1,CA HD: HGTV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10721.ts
+#EXTINF:-1,CA HD: Create HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10722.ts
+#EXTINF:-1,CA HD: Bravo HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10723.ts
+#EXTINF:-1,CA HD: World HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10724.ts
+#EXTINF:-1,CA HD: Food Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10725.ts
+#EXTINF:-1,CA HD: History HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10726.ts
+#EXTINF:-1,CA HD: Disney Junior
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10728.ts
+#EXTINF:-1,VIP CA: TVA Sports HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10727.ts
+#EXTINF:-1,CA HD: OLN
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10729.ts
+#EXTINF:-1,CA HD: Family Chrgd
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10730.ts
+#EXTINF:-1,CA HD: CTV News
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11074.ts
+#EXTINF:-1,CA HD: Disney Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11073.ts
+#EXTINF:-1,CA HD: City TV Toronto
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3653.ts
+#EXTINF:-1,CA HD: Disney XD HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10731.ts
+#EXTINF:-1,CA HD: Discovery Channel
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10732.ts
+#EXTINF:-1,CA: CMT Country Music Television
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11076.ts
+#EXTINF:-1,CA FR: CFJP FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44167.ts
+#EXTINF:-1,CA FR: CIVM HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44166.ts
+#EXTINF:-1,CA FR: ICI ARTV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44160.ts
+#EXTINF:-1,CA FR: Ici Radio Canada Tele Acadie HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44162.ts
+#EXTINF:-1,CA FR: Ici Radio Canada Tele Montreal HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44163.ts
+#EXTINF:-1,CA FR: ICI TELE FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44165.ts
+#EXTINF:-1,CA FR: TVA FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44164.ts
+#EXTINF:-1,CA FR: V MONTREAL HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44157.ts
+#EXTINF:-1,CA FR: Z HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44161.ts
+#EXTINF:-1,--------- US Sports ---------
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4132.ts
+#EXTINF:-1,VIP US: NBC Sports Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8068.ts
+#EXTINF:-1,VIP US: NBC Sports Chicago HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89224.ts
+#EXTINF:-1,VIP US: NBC Sports Plus Chicago HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89226.ts
+#EXTINF:-1,VIP US: CBS Sports Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10709.ts
+#EXTINF:-1,VIP US: ESPN News HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10710.ts
+#EXTINF:-1,VIP US: ESPN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/16783.ts
+#EXTINF:-1,US: ESPN HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3532.ts
+#EXTINF:-1,VIP US: ESPN 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/6319.ts
+#EXTINF:-1,VIP US: ESPN U HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/13938.ts
+#EXTINF:-1,VIP US: ESPN Sec Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15286.ts
+#EXTINF:-1,VIP US: ESPN Deportes
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/28243.ts
+#EXTINF:-1,VIP US: Fox Sports 1 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15459.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3918.ts
+#EXTINF:-1,VIP US: Fox Sports 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15458.ts
+#EXTINF:-1,US: Fox Sport 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3609.ts
+#EXTINF:-1,VIP US: Fox Sports Soccer Plus HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11180.ts
+#EXTINF:-1,VIP US: Fox Deportes
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10953.ts
+#EXTINF:-1,VIP US: beIN Sports USA FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/28249.ts
+#EXTINF:-1,VIP US: Bein Sports USA HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3671.ts
+#EXTINF:-1,VIP US: FNTSY Sports Network FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89225.ts
+#EXTINF:-1,VIP US: Sports Man HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89227.ts
+#EXTINF:-1,VIP US: Stadium HD Original
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/89228.ts
+#EXTINF:-1,VIP US: Wow Sport HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/56571.ts
+#EXTINF:-1,VIP US: BTN Sports HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5315.ts
+#EXTINF:-1,VIP US: NHL Network HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8662.ts
+#EXTINF:-1,VIP US: NFL Network FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7842.ts
+#EXTINF:-1,VIP US: NFL Redzone HD [Live Events Only]
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7847.ts
+#EXTINF:-1,VIP US: NFL Now HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11179.ts
+#EXTINF:-1,VIP US: AFN Sports HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4141.ts
+#EXTINF:-1,US: AFN Sports
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4143.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4142.ts
+#EXTINF:-1,VIP US: World Fight Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8007.ts
+#EXTINF:-1,VIP US: Fight Sport
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7920.ts
+#EXTINF:-1,VIP: Fightbox HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3626.ts
+#EXTINF:-1,VIP US: Fight Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/17338.ts
+#EXTINF:-1,US: Fight
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5313.ts
+#EXTINF:-1,VIP US: WWE HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/4693.ts
+#EXTINF:-1,VIP US: NBA FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11790.ts
+#EXTINF:-1,US: NBA HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5855.ts
+#EXTINF:-1,VIP US: Offical Olympic Channel HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7836.ts
+#EXTINF:-1,VIP US: MLB HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/19695.ts
+#EXTINF:-1,VIP US: MLB Network
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/11038.ts
+#EXTINF:-1,VIP US: Tennis Channel
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/10941.ts
+#EXTINF:-1,VIP US: NBC Golf FHD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/21045.ts
+#EXTINF:-1,US: NBC Golf HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3542.ts
+#EXTINF:-1,US: BYU TV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3630.ts
+#EXTINF:-1,US: LMN
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5329.ts
+#EXTINF:-1,VIP US: Fox Soccer Sun HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8663.ts
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5314.ts
+#EXTINF:-1,VIP IN: Ten Cricket
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/5353.ts
+#EXTINF:-1,US: Redbull TV
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3605.ts
+#EXTINF:-1,US: NBA TV HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/2834.ts
+#EXTINF:-1,US: Motor Sports 7 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3153.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3152.ts
+#EXTINF:-1,VIP CA: TSN 1 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7785.ts
+#EXTINF:-1,CA: TSN 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3175.ts
+#EXTINF:-1,VIP CA: TSN 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7786.ts
+#EXTINF:-1,CA: TSN 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3469.ts
+#EXTINF:-1,VIP CA: TSN 3 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7787.ts
+#EXTINF:-1,CA: TSN 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3470.ts
+#EXTINF:-1,VIP CA: TSN 4 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7788.ts
+#EXTINF:-1,CA: TSN 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3471.ts
+#EXTINF:-1,VIP CA: TSN 5 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7971.ts
+#EXTINF:-1,CA: TSN 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/3472.ts
+#EXTINF:-1,VIP: Pac12 Area HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8000.ts
+#EXTINF:-1,VIP: Pac12 Arizona HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7999.ts
+#EXTINF:-1,VIP: Pac12 Los Angeles HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8001.ts
+#EXTINF:-1,VIP: Pac12 Mountain HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8002.ts
+#EXTINF:-1,VIP: Pac12 Network HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7998.ts
+#EXTINF:-1,VIP: Pac12 Oregon HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8003.ts
+#EXTINF:-1,VIP: Pac12 Washington HD US
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/8004.ts
+#EXTINF:-1,VIP CA: SN ONE
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15432.ts
+#EXTINF:-1,VIP CA: SPORTS NET 360 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15446.ts
+#EXTINF:-1,VIP CA: SPORTS NET EAST HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15433.ts
+#EXTINF:-1,VIP CA: SPORTS NET ONE HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15434.ts
+#EXTINF:-1,VIP CA: SPORTS NET ONTARIO HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15435.ts
+#EXTINF:-1,VIP CA: SPORTS NET PACIFIC HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15436.ts
+#EXTINF:-1,VIP CA: SPORTS NET WEST HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15437.ts
+#EXTINF:-1,VIP CA: SPORTS NET WORLD HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15438.ts
+#EXTINF:-1,VIP CA: SPORTSNET 360
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15439.ts
+#EXTINF:-1,VIP CA: SPORTSNET EAST
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15440.ts
+#EXTINF:-1,VIP CA: SPORTSNET ONE
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15441.ts
+#EXTINF:-1,VIP CA: SPORTSNET ONTARIO
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15442.ts
+#EXTINF:-1,VIP CA: SPORTSNET PACIFIC
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15443.ts
+#EXTINF:-1,VIP CA: SPORTSNET WEST
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15444.ts
+#EXTINF:-1,VIP CA: SPORTSNET WORLD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/15445.ts
+#EXTINF:-1,VIP CA: Sportsnet One HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7851.ts
+#EXTINF:-1,VIP CA: Sportnet Pacific HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7849.ts
+#EXTINF:-1,VIP CA: Sportsnet 360 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7852.ts
+#EXTINF:-1,VIP CA: Sportsnet Ontario
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7853.ts
+#EXTINF:-1,VIP CA: Sportsnet West HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/7850.ts
+#EXTINF:-1,VIP CA: TVA SPORTS HD 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44159.ts
+#EXTINF:-1,VIP CA: TVA SPORTS HD 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/44158.ts
+#EXTINF:-1,VIP US: MLB PASS HD 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42795.ts
+#EXTINF:-1,VIP US: MLB PASS HD 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42803.ts
+#EXTINF:-1,VIP US: MLB PASS HD 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42802.ts
+#EXTINF:-1,VIP US: MLB PASS HD 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42801.ts
+#EXTINF:-1,VIP US: MLB PASS HD 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42800.ts
+#EXTINF:-1,VIP US: MLB PASS HD 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42799.ts
+#EXTINF:-1,VIP US: MLB PASS HD 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42798.ts
+#EXTINF:-1,VIP US: MLB PASS HD 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42797.ts
+#EXTINF:-1,VIP US: MLB PASS HD 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42796.ts
+#EXTINF:-1,VIP US: MLB PASS HD 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42810.ts
+#EXTINF:-1,VIP US: MLB PASS HD 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42809.ts
+#EXTINF:-1,VIP US: MLB PASS HD 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42808.ts
+#EXTINF:-1,VIP US: MLB PASS HD 13
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42807.ts
+#EXTINF:-1,VIP US: MLB PASS HD 14
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42806.ts
+#EXTINF:-1,VIP US: MLB PASS HD 15
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42805.ts
+#EXTINF:-1,VIP US: MLB PASS HD 16
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/42804.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30178.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30174.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30173.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30172.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30171.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30170.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30169.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30168.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30167.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30177.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30176.ts
+#EXTINF:-1,VIP US: NBA LEAGUE PASS LIVE 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30175.ts
+#EXTINF:-1,VIP US: NBA PASS 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30141.ts
+#EXTINF:-1,VIP US: NBA PASS 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30137.ts
+#EXTINF:-1,VIP US: NBA PASS 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30136.ts
+#EXTINF:-1,VIP US: NBA PASS 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30135.ts
+#EXTINF:-1,VIP US: NBA PASS 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30134.ts
+#EXTINF:-1,VIP US: NBA PASS 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30133.ts
+#EXTINF:-1,VIP US: NBA PASS 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30132.ts
+#EXTINF:-1,VIP US: NBA PASS 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30131.ts
+#EXTINF:-1,VIP US: NBA PASS 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30130.ts
+#EXTINF:-1,VIP US: NBA PASS 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30140.ts
+#EXTINF:-1,VIP US: NBA PASS 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30139.ts
+#EXTINF:-1,VIP US: NBA PASS 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30138.ts
+#EXTINF:-1,VIP US: NFL Arena 1 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30156.ts
+#EXTINF:-1,VIP US: NFL Arena 2 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30149.ts
+#EXTINF:-1,VIP US: NFL Arena 3 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30148.ts
+#EXTINF:-1,VIP US: NFL Arena 4 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30147.ts
+#EXTINF:-1,VIP US: NFL Arena 5 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30146.ts
+#EXTINF:-1,VIP US: NFL Arena 6 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30145.ts
+#EXTINF:-1,VIP US: NFL Arena 7 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30144.ts
+#EXTINF:-1,VIP US: NFL Arena 8 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30143.ts
+#EXTINF:-1,VIP US: NFL Arena 9 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30142.ts
+#EXTINF:-1,VIP US: NFL Arena 10 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30155.ts
+#EXTINF:-1,VIP US: NFL Arena 11 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30154.ts
+#EXTINF:-1,VIP US: NFL Arena 12 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30153.ts
+#EXTINF:-1,VIP US: NFL Arena 13 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30152.ts
+#EXTINF:-1,VIP US: NFL Arena 14 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30151.ts
+#EXTINF:-1,VIP US: NFL Arena 15 HD
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30150.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30088.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30081.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30080.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30079.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30078.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30077.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30076.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30075.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30074.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30087.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30086.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30085.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 13
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30084.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 14
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30083.ts
+#EXTINF:-1,VIP US: NFL SUNDAY TICKET 15
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30082.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30166.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30164.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30163.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30162.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30161.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30160.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30159.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30158.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30157.ts
+#EXTINF:-1,VIP US: NHL GAMECENTRE LIVE 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30165.ts
+#EXTINF:-1,VIP US: NHL HD 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30101.ts
+#EXTINF:-1,VIP US: NHL HD 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30096.ts
+#EXTINF:-1,VIP US: NHL HD 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30095.ts
+#EXTINF:-1,VIP US: NHL HD 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30094.ts
+#EXTINF:-1,VIP US: NHL HD 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30093.ts
+#EXTINF:-1,VIP US: NHL HD 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30092.ts
+#EXTINF:-1,VIP US: NHL HD 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30091.ts
+#EXTINF:-1,VIP US: NHL HD 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30090.ts
+#EXTINF:-1,VIP US: NHL HD 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30089.ts
+#EXTINF:-1,VIP US: NHL HD 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30100.ts
+#EXTINF:-1,VIP US: NHL HD 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30099.ts
+#EXTINF:-1,VIP US: NHL HD 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30098.ts
+#EXTINF:-1,VIP US: NHL HD 13
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30097.ts
+#EXTINF:-1,VIP US: NHL PASS HD 1
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30129.ts
+#EXTINF:-1,VIP US: NHL PASS HD 2
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30124.ts
+#EXTINF:-1,VIP US: NHL PASS HD 3
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30123.ts
+#EXTINF:-1,VIP US: NHL PASS HD 4
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30122.ts
+#EXTINF:-1,VIP US: NHL PASS HD 5
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30121.ts
+#EXTINF:-1,VIP US: NHL PASS HD 6
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30120.ts
+#EXTINF:-1,VIP US: NHL PASS HD 7
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30119.ts
+#EXTINF:-1,VIP US: NHL PASS HD 8
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30118.ts
+#EXTINF:-1,VIP US: NHL PASS HD 9
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30117.ts
+#EXTINF:-1,VIP US: NHL PASS HD 10
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30128.ts
+#EXTINF:-1,VIP US: NHL PASS HD 11
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30127.ts
+#EXTINF:-1,VIP US: NHL PASS HD 12
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30126.ts
+#EXTINF:-1,VIP US: NHL PASS HD 13
+http://king-box.club:80/live/WHMCSMAG:WHMCS:8642/27qcWHu83k/30125.ts
