@@ -1,83 +1,12 @@
 #EXTM3U
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/483.ts
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/483.ts
-#EXTINF:-1,FR: beIN SPORTS 2HD
-http://54.36.61.6:8000/live/Bein1810/Busjsu_j/446.ts
-#EXTINF:-1,FR: SFR SPORT 1
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11461.ts
-#EXTINF:-1,AL: SPORT KLUB 2
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3442.ts
-#EXTINF:-1,AR: beIN SPORTS 11 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10782.ts
-#EXTINF:-1,(AR) BeIN Sports 11 (EN)
-http://163.172.211.229:8000/live/beintst/beintesrt/782.ts
-#EXTINF:-1,TSN SPORT 1
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6993.ts
-#EXTINF:-1,TSN SPORT 2
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6991.ts
-#EXTINF:-1,TSN SPORT 3
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6990.ts
-#EXTINF:-1,TSN SPORT 4
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/7000.ts
-#EXTINF:-1,TSN SPORT 5
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/7001.ts
-#EXTINF:-1,SKY SPORTS PREMIER LIGA HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5191.ts
-#EXTINF:-1,SKY SPORTS FOODBAL HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/4828.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/12486.ts
-#EXTINF:-1,BT SPORT 1 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5197.ts
-#EXTINF:-1,BT SPORT 2 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6393.ts
-#EXTINF:-1,BT SPORT 3 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6574.ts
-#EXTINF:-1,BT SPORT ESPN HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5891.ts
-#EXTINF:-1,SKY SPORTS NEWS HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/4807.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/887.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/883.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/939.ts
-#EXTINF:-1,US: TSN 1 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14078.ts
-#EXTINF:-1,US: TSN 2 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14077.ts
-#EXTINF:-1,US: TSN 3 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14076.ts
-#EXTINF:-1,US: TSN 4 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14075.ts
-#EXTINF:-1,US: TSN 5 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14074.ts
-#EXTINF:-1,US: NBCSN
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14093.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Main Event FHD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15703.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/skysportsmainevet.png" group-title="United Kingdom",Sky Sports Main Event HD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7932.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/uk/SkySportsMainEvent.uk.png" group-title="United Kingdom",Sky Sports Main Event UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/skysport1.png" group-title="United Kingdom",Sky Sports Premier League HD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7931.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Premier%20League%20UK.png" group-title="United Kingdom",Sky Sports Premier League UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15700.ts
-#EXTINF:-1,Us- TSN 1 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10636.ts
-#EXTINF:-1,Us- TSN 2 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10635.ts
-#EXTINF:-1,Us- TSN 3 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10634.ts
-#EXTINF:-1,Us- TSN 4 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10633.ts
-#EXTINF:-1,Us- TSN 5 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10632.ts
-#EXTINF:-1,Us- NBCSN HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10398.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/940.ts
+
+#EXTINF:-1,ARENA SPORT 1 low
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3345.ts
+#EXTINF:-1,ARENA SPORT 1 HD SRB
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1033.ts
+#EXTINF:-1,ARENA SPORT 1 HD RS
+http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/1038.ts
+#EXTINF:-1,(AR) BeIN Sports 11 HD  (EN)
+http://163.172.211.229:8000/live/beintst/beintesrt/783.ts
