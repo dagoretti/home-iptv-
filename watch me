@@ -1,57 +1,11 @@
 #EXTM3U
+#EXTINF:-1,UK: Sky_Sports_Premier_League
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32036
 #EXTINF:-1,UK: BT Sport 1 HD
 http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9421
 #EXTINF:-1,UK | BT Sport 2 HD
 http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9420
-#EXTINF:-1,BT_Sport_1_EN
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/183.ts
-#EXTINF:-1,BT_Sport_2_EN
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/184.ts
-#EXTINF:-1,UK_BT_Sport_3_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19533.ts
-#EXTINF:-1,UK_SKY_SPORT_NEWS_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19541.ts
-#EXTINF:-1,UK_SKY_SPORTS_MAIN__MIX
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19538.ts
-#EXTINF:-1,UK_Sky_Sports_Main_Event_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19537.ts
-#EXTINF:-1,UK_Sky_Sports_Premier_League_HD
-http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19535.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/240.ts
-#EXTINF:-1,UK: Sky Sports Main Event HD 1
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/234.ts
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/235.ts
-#EXTINF:-1,UK: Sky Sports Football HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/236.ts
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/237.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/238.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/1395.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/631.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/632.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/927.ts
-#EXTINF:-1,UK: Boxnation HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/932.ts
-#EXTINF:-1,UK: ITV 2 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/928.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/926.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/929.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/930.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/937.ts
-#EXTINF:-1,UK: BBC News HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/1433.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/1412.ts
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://iphdtv.ddns.net:8330/live/gwG9ZI5xci/iYoSnLHSdp/1615.ts
+#EXTINF:-1,UK: SKY_SPORTS_NEWS
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32035
+#EXTINF:-1,UK: Sky_Sports_Premier_League
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32036
