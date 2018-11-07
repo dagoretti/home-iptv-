@@ -1,63 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Us- NBCSN HD
 http://194.88.107.101:6204/live/rahman/rahman/10398.ts
-#EXTINF:-1,UK- Sky News HD
-http://194.88.107.101:6204/live/rahman/rahman/8533.ts
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://194.88.107.101:6204/live/rahman/rahman/8517.ts
-#EXTINF:-1,Uk- Sky Sports Cricket HD
-http://194.88.107.101:6204/live/rahman/rahman/8516.ts
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://194.88.107.101:6204/live/rahman/rahman/8515.ts
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://194.88.107.101:6204/live/rahman/rahman/8514.ts
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://194.88.107.101:6204/live/rahman/rahman/8513.ts
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://194.88.107.101:6204/live/rahman/rahman/9059.ts
-#EXTINF:-1,Uk- Sky Sport Football
-http://194.88.107.101:6204/live/rahman/rahman/8523.ts
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://194.88.107.101:6204/live/rahman/rahman/8511.ts
-#EXTINF:-1,Uk- Sky BoxNation
-http://194.88.107.101:6204/live/rahman/rahman/8583.ts
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://194.88.107.101:6204/live/rahman/rahman/8512.ts
-#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
-http://194.88.107.101:6204/live/rahman/rahman/11099.ts
 #EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://194.88.107.101:6204/live/rahman/rahman/8582.ts
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://194.88.107.101:6204/live/rahman/rahman/8580.ts
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://194.88.107.101:6204/live/rahman/rahman/10166.ts
+http://194.88.107.101:6204/live/ali03/ali03/8582.ts
 #EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://194.88.107.101:6204/live/rahman/rahman/8581.ts
+http://194.88.107.101:6204/live/ali03/ali03/8581.ts
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/8580.ts
 #EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://194.88.107.101:6204/live/rahman/rahman/8579.ts
+http://194.88.107.101:6204/live/ali03/ali03/8579.ts
 #EXTINF:-1,Uk- Sky BT Sports Extra 3
-http://194.88.107.101:6204/live/rahman/rahman/8578.ts
+http://194.88.107.101:6204/live/ali03/ali03/8578.ts
 #EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://194.88.107.101:6204/live/rahman/rahman/8577.ts
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://194.88.107.101:6204/live/rahman/rahman/8560.ts
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://194.88.107.101:6204/live/rahman/rahman/8559.ts
-#EXTINF:-1,Uk- Sky Eir Sport 1
-http://194.88.107.101:6204/live/rahman/rahman/11118.ts
-#EXTINF:-1,Uk- Sky Eir Sport 2
-http://194.88.107.101:6204/live/rahman/rahman/11117.ts
-#EXTINF:-1,Uk- Sky YourTV HD
-http://194.88.107.101:6204/live/rahman/rahman/11114.ts
-#EXTINF:-1,Uk- Sky MUTV
-http://194.88.107.101:6204/live/rahman/rahman/8536.ts
-#EXTINF:-1,Uk- Sky Chelsea TV HD
-http://194.88.107.101:6204/live/rahman/rahman/8572.ts
-#EXTINF:-1,Uk- Sky Liverpool FC TV HD
-http://194.88.107.101:6204/live/rahman/rahman/8548.ts
-#EXTINF:-1,UK- Sky BBC News
-http://194.88.107.101:6204/live/rahman/rahman/8589.ts
-#EXTINF:-1,Uk- Sky BBC One HD
-http://194.88.107.101:6204/live/rahman/rahman/8587.ts
-#EXTINF:-1,Uk- Sky BBC Two HD
-http://194.88.107.101:6204/live/rahman/rahman/8585.ts
+http://194.88.107.101:6204/live/ali03/ali03/8577.ts
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://194.88.107.101:6204/live/ali03/ali03/10166.ts
