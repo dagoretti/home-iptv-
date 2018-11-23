@@ -1,11 +1,285 @@
 #EXTM3U
-#EXTINF:-1,Us- TSN 1 HD
-http://m-iptv.net:6204/lawa2/erde/10636
-#EXTINF:-1,Us- TSN 2 HD
-http://m-iptv.net:6204/lawa2/erde/10635
-#EXTINF:-1,Us- TSN 3 HD
-http://m-iptv.net:6204/lawa2/erde/10634
-#EXTINF:-1,Us- TSN 4 HD
-http://m-iptv.net:6204/lawa2/erde/10633
-#EXTINF:-1,Us- TSN 5 HD
-http://m-iptv.net:6204/lawa2/erde/10632
+#EXTINF:-1,USA: A&E US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3319.ts
+#EXTINF:-1,USA: ABC HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3140.ts
+#EXTINF:-1,USA: ABC News
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4356.ts
+#EXTINF:-1,USA: AMC US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3141.ts
+#EXTINF:-1,USA: American Heroes Channel
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4378.ts
+#EXTINF:-1,USA: Animal Planet
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3142.ts
+#EXTINF:-1,USA: Bein Sports USA HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3143.ts
+#EXTINF:-1,USA: Bravo HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4377.ts
+#EXTINF:-1,USA: CBS HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3144.ts
+#EXTINF:-1,USA: CBS News
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4380.ts
+#EXTINF:-1,USA: CBS Sports Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4379.ts
+#EXTINF:-1,USA: CNN US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4382.ts
+#EXTINF:-1,USA: CW HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3146.ts
+#EXTINF:-1,USA: Cinemax
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4381.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3145.ts
+#EXTINF:-1,USA: DIY Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4384.ts
+#EXTINF:-1,USA: Destination America
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4383.ts
+#EXTINF:-1,USA: Discovery Channel US HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3147.ts
+#EXTINF:-1,USA: E! US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3320.ts
+#EXTINF:-1,USA: ESPN HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3148.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3149.ts
+#EXTINF:-1,USA: ESPN News
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4385.ts
+#EXTINF:-1,USA: FOX US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3150.ts
+#EXTINF:-1,USA: FOX News US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4387.ts
+#EXTINF:-1,USA: FOX Sports 1 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3151.ts
+#EXTINF:-1,USA: FOX Sports 2 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3152.ts
+#EXTINF:-1,USA: FX US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3321.ts
+#EXTINF:-1,USA: FXX
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4388.ts
+#EXTINF:-1,USA: Food Network US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4386.ts
+#EXTINF:-1,USA: HBO Comedy US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3154.ts
+#EXTINF:-1,USA: HBO US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3153.ts
+#EXTINF:-1,USA: HGTV
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4390.ts
+#EXTINF:-1,USA: Hallmark HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3155.ts
+#EXTINF:-1,USA: History Channel
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4389.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4391.ts
+#EXTINF:-1,USA: Lifetime HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3156.ts
+#EXTINF:-1,USA: MLB Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4393.ts
+#EXTINF:-1,USA: MSNBC
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4394.ts
+#EXTINF:-1,USA: MTV US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4395.ts
+#EXTINF:-1,USA: NBA TV
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3157.ts
+#EXTINF:-1,USA: NBC HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4397.ts
+#EXTINF:-1,USA: NBC Golf HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3159.ts
+#EXTINF:-1,USA: NBC Sports Network HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3158.ts
+#EXTINF:-1,USA: NFL Network HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3160.ts
+#EXTINF:-1,USA: NHL Network US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4398.ts
+#EXTINF:-1,USA: National Geographic US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4396.ts
+#EXTINF:-1,USA: OWN (Oprah Winfrey Network)
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4399.ts
+#EXTINF:-1,USA: Paramount Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3162.ts
+#EXTINF:-1,USA: SEC Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4400.ts
+#EXTINF:-1,USA: Showtime US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3161.ts
+#EXTINF:-1,USA: Sports Net World
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3163.ts
+#EXTINF:-1,USA: Syfy US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4401.ts
+#EXTINF:-1,USA: TBS HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3164.ts
+#EXTINF:-1,USA: TLC US
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4402.ts
+#EXTINF:-1,USA: TNT HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3166.ts
+#EXTINF:-1,USA: TSN Sports 1 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3167.ts
+#EXTINF:-1,USA: TSN Sports 2 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3168.ts
+#EXTINF:-1,USA: TSN Sports 3 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3169.ts
+#EXTINF:-1,USA: TSN Sports 4 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3170.ts
+#EXTINF:-1,USA: TSN Sports 5 HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3171.ts
+#EXTINF:-1,USA: Tennis Channel
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3165.ts
+#EXTINF:-1,USA: UFC Fight Pass
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4403.ts
+#EXTINF:-1,USA: USA Network
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3172.ts
+#EXTINF:-1,USA: Viceland HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3173.ts
+#EXTINF:-1,USA: WGN America
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/4404.ts
+#EXTINF:-1,USA: WWE HD
+http://best.dnsfor.me:25461/live/gW3ijlsDmj/rOmcocCA5z/3174.ts
+#EXTINF:-1,USA:  A Network
+http://painel.soeu.kim:8080/marcelo/12345/7684
+#EXTINF:-1,USA: ABC
+http://painel.soeu.kim:8080/marcelo/12345/7758
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://painel.soeu.kim:8080/marcelo/12345/7757
+#EXTINF:-1,USA: AFN Prime Pacific
+http://painel.soeu.kim:8080/marcelo/12345/7756
+#EXTINF:-1,USA: AFN Sports
+http://painel.soeu.kim:8080/marcelo/12345/7755
+#EXTINF:-1,USA: AFN Sports 2
+http://painel.soeu.kim:8080/marcelo/12345/7754
+#EXTINF:-1,USA: Animal Planet
+http://painel.soeu.kim:8080/marcelo/12345/7753
+#EXTINF:-1,USA: BEIN Sports
+http://painel.soeu.kim:8080/marcelo/12345/7752
+#EXTINF:-1,USA: C-SPAN 1
+http://painel.soeu.kim:8080/marcelo/12345/7751
+#EXTINF:-1,USA: C-SPAN 2
+http://painel.soeu.kim:8080/marcelo/12345/7750
+#EXTINF:-1,USA: C-SPAN 3
+http://painel.soeu.kim:8080/marcelo/12345/7749
+#EXTINF:-1,USA: Cartoon Network
+http://painel.soeu.kim:8080/marcelo/12345/7748
+#EXTINF:-1,USA: CBS
+http://painel.soeu.kim:8080/marcelo/12345/7747
+#EXTINF:-1,USA: CBS Sports Network HD
+http://painel.soeu.kim:8080/marcelo/12345/7746
+#EXTINF:-1,USA: Cinemax
+http://painel.soeu.kim:8080/marcelo/12345/7745
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://painel.soeu.kim:8080/marcelo/12345/7744
+#EXTINF:-1,USA: Cinemax East
+http://painel.soeu.kim:8080/marcelo/12345/7743
+#EXTINF:-1,USA: Cinemax Moremax
+http://painel.soeu.kim:8080/marcelo/12345/7742
+#EXTINF:-1,USA: CNBC
+http://painel.soeu.kim:8080/marcelo/12345/7741
+#EXTINF:-1,USA: CNN
+http://painel.soeu.kim:8080/marcelo/12345/7740
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://painel.soeu.kim:8080/marcelo/12345/7739
+#EXTINF:-1,USA: Cooking Channel
+http://painel.soeu.kim:8080/marcelo/12345/7738
+#EXTINF:-1,USA: Destination America
+http://painel.soeu.kim:8080/marcelo/12345/7737
+#EXTINF:-1,USA: Discovery Channel
+http://painel.soeu.kim:8080/marcelo/12345/7736
+#EXTINF:-1,USA: Discovery Science
+http://painel.soeu.kim:8080/marcelo/12345/7735
+#EXTINF:-1,USA: Discovery Velocity
+http://painel.soeu.kim:8080/marcelo/12345/7734
+#EXTINF:-1,USA: Disney Channel
+http://painel.soeu.kim:8080/marcelo/12345/7733
+#EXTINF:-1,USA: ESPN 2
+http://painel.soeu.kim:8080/marcelo/12345/7732
+#EXTINF:-1,USA: ESPN 3
+http://painel.soeu.kim:8080/marcelo/12345/7731
+#EXTINF:-1,USA: ESPN Deportes
+http://painel.soeu.kim:8080/marcelo/12345/7730
+#EXTINF:-1,USA: ESPN News
+http://painel.soeu.kim:8080/marcelo/12345/7729
+#EXTINF:-1,USA: ESPN U HD
+http://painel.soeu.kim:8080/marcelo/12345/7728
+#EXTINF:-1,USA: ESPN USA
+http://painel.soeu.kim:8080/marcelo/12345/7727
+#EXTINF:-1,USA: Food Network
+http://painel.soeu.kim:8080/marcelo/12345/7726
+#EXTINF:-1,USA: FOX 29
+http://painel.soeu.kim:8080/marcelo/12345/7725
+#EXTINF:-1,USA: Fox Soccer
+http://painel.soeu.kim:8080/marcelo/12345/7724
+#EXTINF:-1,USA: FOX Sports 1
+http://painel.soeu.kim:8080/marcelo/12345/7723
+#EXTINF:-1,USA: FOX Sports 2
+http://painel.soeu.kim:8080/marcelo/12345/7722
+#EXTINF:-1,USA: Freeform
+http://painel.soeu.kim:8080/marcelo/12345/7721
+#EXTINF:-1,USA: FX
+http://painel.soeu.kim:8080/marcelo/12345/7720
+#EXTINF:-1,USA: Hall Mark
+http://painel.soeu.kim:8080/marcelo/12345/7719
+#EXTINF:-1,USA: HBO
+http://painel.soeu.kim:8080/marcelo/12345/7718
+#EXTINF:-1,USA: HBO Family
+http://painel.soeu.kim:8080/marcelo/12345/7717
+#EXTINF:-1,USA: HBO Signature
+http://painel.soeu.kim:8080/marcelo/12345/7716
+#EXTINF:-1,USA: HISTORY
+http://painel.soeu.kim:8080/marcelo/12345/7715
+#EXTINF:-1,USA: IFC
+http://painel.soeu.kim:8080/marcelo/12345/7714
+#EXTINF:-1,USA: Investigation Discovery
+http://painel.soeu.kim:8080/marcelo/12345/7713
+#EXTINF:-1,USA: LIFE TIME
+http://painel.soeu.kim:8080/marcelo/12345/7712
+#EXTINF:-1,USA: LMN
+http://painel.soeu.kim:8080/marcelo/12345/7711
+#EXTINF:-1,USA: MSNBC
+http://painel.soeu.kim:8080/marcelo/12345/7710
+#EXTINF:-1,USA: National Geographic
+http://painel.soeu.kim:8080/marcelo/12345/7709
+#EXTINF:-1,USA: NBC
+http://painel.soeu.kim:8080/marcelo/12345/7708
+#EXTINF:-1,USA: NFL Network
+http://painel.soeu.kim:8080/marcelo/12345/7707
+#EXTINF:-1,USA: NHL Network HD
+http://painel.soeu.kim:8080/marcelo/12345/7706
+#EXTINF:-1,USA: NICKTOONS
+http://painel.soeu.kim:8080/marcelo/12345/7705
+#EXTINF:-1,USA: OWN
+http://painel.soeu.kim:8080/marcelo/12345/7704
+#EXTINF:-1,USA: Oxygen
+http://painel.soeu.kim:8080/marcelo/12345/7703
+#EXTINF:-1,USA: PBS
+http://painel.soeu.kim:8080/marcelo/12345/7702
+#EXTINF:-1,USA: ShowTime
+http://painel.soeu.kim:8080/marcelo/12345/7701
+#EXTINF:-1,USA: Showtime Extreme
+http://painel.soeu.kim:8080/marcelo/12345/7700
+#EXTINF:-1,USA: Showtime Showcase
+http://painel.soeu.kim:8080/marcelo/12345/7699
+#EXTINF:-1,USA: SPIKE
+http://painel.soeu.kim:8080/marcelo/12345/7698
+#EXTINF:-1,USA: Starz Cinema
+http://painel.soeu.kim:8080/marcelo/12345/7697
+#EXTINF:-1,USA: Starz Comedy
+http://painel.soeu.kim:8080/marcelo/12345/7696
+#EXTINF:-1,USA: SYFY
+http://painel.soeu.kim:8080/marcelo/12345/7695
+#EXTINF:-1,USA: TBS
+http://painel.soeu.kim:8080/marcelo/12345/7694
+#EXTINF:-1,USA: TLC HD
+http://painel.soeu.kim:8080/marcelo/12345/7693
+#EXTINF:-1,USA: TNT
+http://painel.soeu.kim:8080/marcelo/12345/7692
+#EXTINF:-1,USA: Travel Channel
+http://painel.soeu.kim:8080/marcelo/12345/7691
+#EXTINF:-1,USA: TSN 1
+http://painel.soeu.kim:8080/marcelo/12345/7690
+#EXTINF:-1,USA: TSN 2
+http://painel.soeu.kim:8080/marcelo/12345/7689
+#EXTINF:-1,USA: TSN 3
+http://painel.soeu.kim:8080/marcelo/12345/7688
+#EXTINF:-1,USA: TSN 4
+http://painel.soeu.kim:8080/marcelo/12345/7687
+#EXTINF:-1,USA: TSN 5
+http://painel.soeu.kim:8080/marcelo/12345/7686
+#EXTINF:-1,USA: TV Land
+http://painel.soeu.kim:8080/marcelo/12345/7685
+#EXTINF:-1,USA: WWE HD
+http://painel.soeu.kim:8080/marcelo/12345/7683
