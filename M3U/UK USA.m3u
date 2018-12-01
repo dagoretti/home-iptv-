@@ -1,1804 +1,1546 @@
-#EXTM3U
-#EXTM3U
-#EXTINF:-1,Champions League 1
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/753
-#EXTINF:-1,Champions League 2
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/754
-#EXTINF:-1,Champions League 3
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/755
-#EXTINF:-1,Champions League 4
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/756
-#EXTINF:-1,Tring Sport News HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/206
-#EXTINF:-1,Tring Sport 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/205
-#EXTINF:-1,Tring Sport 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/204
-#EXTINF:-1,Tring Sport 3 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/203
-#EXTINF:-1,Tring Sport 4 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/202
-#EXTINF:-1,K SPORT 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/810
-#EXTINF:-1,K SPORT 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1427
-#EXTINF:-1,K SPORT 5 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/2019
-#EXTINF:-1,ARENA SPORT 1 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1562
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1563
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1564
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1565
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1566
-#EXTINF:-1,SPORT KLUB 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/194
-#EXTINF:-1,SPORT KLUB 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/193
-#EXTINF:-1,SPORT KLUB 3 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/192
-#EXTINF:-1,SPORT KLUB 4 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1503
-#EXTINF:-1,SPORT KLUB 5 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1504
-#EXTINF:-1,SPORT KLUB 6 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1505
-#EXTINF:-1,SPORT KLUB GOLF
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1567
+#EXTINF:-1,KolYoom.com SFR SPORT 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/729.ts
+#EXTINF:-1,KolYoom.com SFR SPORT 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/730.ts
+#EXTINF:-1,KolYoom.com SFR SPORT 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/731.ts
+#EXTINF:-1,KolYoom.com beINSport 1 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/161.ts
+#EXTINF:-1,KolYoom.com beINSport 2 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/162.ts
+#EXTINF:-1,KolYoom.com beINSport 3 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/163.ts
+#EXTINF:-1,KolYoom.com beINSport 4 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/164.ts
+#EXTINF:-1,KolYoom.com beINSport 5 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/165.ts
+#EXTINF:-1,KolYoom.com beINSport 6 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/166.ts
+#EXTINF:-1,KolYoom.com beINSport 7 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/167.ts
+#EXTINF:-1,KolYoom.com beINSport 8 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/168.ts
+#EXTINF:-1,KolYoom.com beINSport 9 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/169.ts
+#EXTINF:-1,KolYoom.com beINSport 10 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/170.ts
+#EXTINF:-1,KolYoom.com beINSport 11 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/171.ts
+#EXTINF:-1,KolYoom.com beINSport 12 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/172.ts
+#EXTINF:-1,KolYoom.com Ziggo Sport Golf
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/269.ts
+#EXTINF:-1,KolYoom.com Ziggo Sport eXtra 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/368.ts
+#EXTINF:-1,KolYoom.com Ziggo Sport eXtra 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/369.ts
+#EXTINF:-1,KolYoom.com Ziggo Sport Voetbal
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/370.ts
+#EXTINF:-1,KolYoom.com Canal  Sport
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/859.ts
+#EXTINF:-1,KolYoom.com BEin Sports EPL 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/893.ts
+#EXTINF:-1,KolYoom.com BEin Sports EPL 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/894.ts
+#EXTINF:-1,KolYoom.com BEin Sports EPL 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/895.ts
+#EXTINF:-1,KolYoom.com BEin Sports EPL 4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/896.ts
+#EXTINF:-1,KolYoom.com USA FOX SPORTS 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
+#EXTINF:-1,KolYoom.com USA FOX SPORTS 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
+#EXTINF:-1,KolYoom.com SPORTS NET EAST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
+#EXTINF:-1,KolYoom.com SPORTS NET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1827.ts
+#EXTINF:-1,KolYoom.com SPORTS NET ONTARIO HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1826.ts
+#EXTINF:-1,KolYoom.com SPORTS NET PACIFIC HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1825.ts
+#EXTINF:-1,KolYoom.com SPORTS NET WEST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1824.ts
+#EXTINF:-1,KolYoom.com SPORTS NET WORLD HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
+#EXTINF:-1,KolYoom.com SPORTSNET 360
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
+#EXTINF:-1,KolYoom.com SPORTSNET EAST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
+#EXTINF:-1,KolYoom.com SPORTSNET ONE
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
+#EXTINF:-1,KolYoom.com SPORTSNET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1829.ts
+#EXTINF:-1,KolYoom.com SPORTSNET ONTARIO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
+#EXTINF:-1,KolYoom.com SPORTSNET PACIFIC
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1818.ts
+#EXTINF:-1,KolYoom.com SPORTSNET WEST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1817.ts
+#EXTINF:-1,KolYoom.com SPORTSNET WORLD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1816.ts
+#EXTINF:-1,KolYoom.com SPORTS NET 360 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1815.ts
+#EXTINF:-1,KolYoom.com eir Sport 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1912.ts
+#EXTINF:-1,KolYoom.com eir Sport 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1911.ts
+#EXTINF:-1,KolYoom.com Eurosport 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1915.ts
+#EXTINF:-1,KolYoom.com Eurosport 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1914.ts
+#EXTINF:-1,KolYoom.com FreeSports
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1913.ts
+#EXTINF:-1,KolYoom.com Motorsport TV
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1902.ts
+#EXTINF:-1,KolYoom.com Premier Sports
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1906.ts
+#EXTINF:-1,KolYoom.com Premier Sports HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1907.ts
+#EXTINF:-1,KolYoom.com BT Sport 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1932.ts
+#EXTINF:-1,KolYoom.com BT Sport 1 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1933.ts
+#EXTINF:-1,KolYoom.com BT Sport 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1930.ts
+#EXTINF:-1,KolYoom.com BT Sport 2 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1931.ts
+#EXTINF:-1,KolYoom.com BT Sport 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1928.ts
+#EXTINF:-1,KolYoom.com BT Sport 3 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1929.ts
+#EXTINF:-1,KolYoom.com BT Sport ESPN
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1926.ts
+#EXTINF:-1,KolYoom.com BT Sport ESPN HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1927.ts
+#EXTINF:-1,KolYoom.com Sly Sports Action
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1951.ts
+#EXTINF:-1,KolYoom.com Sly Sports Action HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1952.ts
+#EXTINF:-1,KolYoom.com Sly Sports Arena
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1949.ts
+#EXTINF:-1,KolYoom.com Sly Sports Arena HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1950.ts
+#EXTINF:-1,KolYoom.com Sly Sports Box Office
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1934.ts
+#EXTINF:-1,KolYoom.com Sly Sports Cricket
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1947.ts
+#EXTINF:-1,KolYoom.com Sly Sports Cricket HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1948.ts
+#EXTINF:-1,KolYoom.com Sly Sports F1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1945.ts
+#EXTINF:-1,KolYoom.com Sly Sports Football
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1943.ts
+#EXTINF:-1,KolYoom.com Sly Sports Football HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1944.ts
+#EXTINF:-1,KolYoom.com Sly Sports Golf
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1941.ts
+#EXTINF:-1,KolYoom.com Sly Sports Golf HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1942.ts
+#EXTINF:-1,KolYoom.com Sly Sports Main
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1939.ts
+#EXTINF:-1,KolYoom.com Sly Sports Main HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1940.ts
+#EXTINF:-1,KolYoom.com Sly Sports Mix
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1937.ts
+#EXTINF:-1,KolYoom.com Sly Sports Mix HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1938.ts
+#EXTINF:-1,KolYoom.com Sly Sports News
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1953.ts
+#EXTINF:-1,KolYoom.com Sly Sports News HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1954.ts
+#EXTINF:-1,KolYoom.com Sly Sports PL
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1935.ts
+#EXTINF:-1,KolYoom.com Sly Sports PL HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1936.ts
+#EXTINF:-1,KolYoom.com Sport TV 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/2295.ts
+#EXTINF:-1,KolYoom.com Sport TV 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/2296.ts
+#EXTINF:-1,KolYoom.com Sport TV 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/2297.ts
+#EXTINF:-1,KolYoom.com Sport TV 4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/2298.ts
+#EXTINF:-1,KolYoom.com Sport TV 5
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/2299.ts
 
+#EXTINF:0,Brasil - E! HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1526
+#EXTINF:0,Brasil - E! SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1525
+#EXTINF:0,Brasil - EPTV Campinas HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1524
+#EXTINF:0,Brasil - EPTV Campinas SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1523
+#EXTINF:0,Brasil - Espn  HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1522
+#EXTINF:0,Brasil - Espn  SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1521
+#EXTINF:0,Brasil - Espn Brasil HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1520
+#EXTINF:0,Brasil - Espn Brasil SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1519
+#EXTINF:0,Brasil - Esporte Interativo 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1517
+#EXTINF:0,Brasil - Esporte Interativo HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1515
+#EXTINF:0,Brasil - Esporte Interativo SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1514
+#EXTINF:0,Brasil - Fish TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1513
+#EXTINF:0,Brasil - Fish TV HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1512
+#EXTINF:0,Brasil - Food Network HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1511
+#EXTINF:0,Brasil - Food Network SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1510
+#EXTINF:0,Brasil - FOX HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1509
+#EXTINF:0,Brasil - FOX Life HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1508
+#EXTINF:0,Brasil - FOX Life SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1507
+#EXTINF:0,Brasil - FOX SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1506
+#EXTINF:0,Brasil - Fox Sports 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1505
+#EXTINF:0,Brasil - Fox Sports 2 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1504
+#EXTINF:0,Brasil - Fox Sports HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1503
+#EXTINF:0,Brasil - Fox Sports SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1502
+#EXTINF:0,Brasil - FX HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1501
+#EXTINF:0,Brasil - FX SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1500
+#EXTINF:0,Brasil - GloboNews HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1499
+#EXTINF:0,Brasil - GloboNews SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1498
+#EXTINF:0,Brasil - Gloob HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1497
+#EXTINF:0,Brasil - Gloob SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1496
+#EXTINF:0,Brasil - GNT HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1495
+#EXTINF:0,Brasil - GNT SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1494
+#EXTINF:0,Brasil - H2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1493
+#EXTINF:0,Brasil - H2 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1492
+#EXTINF:0,Brasil - HBO 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1491
+#EXTINF:0,Brasil - HBO 2 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1490
+#EXTINF:0,Brasil - HBO Family HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1489
+#EXTINF:0,Brasil - HBO Family SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1488
+#EXTINF:0,Brasil - HBO HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1487
+#EXTINF:0,Brasil - HBO Plus *e HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1486
+#EXTINF:0,Brasil - HBO Plus *e SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1485
+#EXTINF:0,Brasil - HBO Plus HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1484
+#EXTINF:0,Brasil - HBO Plus SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1483
+#EXTINF:0,Brasil - HBO SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1482
+#EXTINF:0,Brasil - HBO Signature HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1481
+#EXTINF:0,Brasil - HBO Signature SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1480
+#EXTINF:0,Brasil - History Channel HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1479
+#EXTINF:0,Brasil - History Channel SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1478
+#EXTINF:0,Brasil - ID HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1477
+#EXTINF:0,Brasil - ID SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1476
+#EXTINF:0,Brasil - Lifetime HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1475
+#EXTINF:0,Brasil - Lifetime SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1474
+#EXTINF:0,Brasil - Mais Globosat HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1473
+#EXTINF:0,Brasil - Mais Globosat SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1472
+#EXTINF:0,Brasil - Max HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1471
+#EXTINF:0,Brasil - MAX Prime HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1470
+#EXTINF:0,Brasil - MAX Prime SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1469
+#EXTINF:0,Brasil - Max SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1468
+#EXTINF:0,Brasil - Max UP HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1467
+#EXTINF:0,Brasil - Max UP SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1466
+#EXTINF:0,Brasil - Megapix HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1465
+#EXTINF:0,Brasil - Megapix SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1464
+#EXTINF:0,Brasil - MTV HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1463
+#EXTINF:0,Brasil - MTV SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1462
+#EXTINF:0,Brasil - MULTISHOW HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1461
+#EXTINF:0,Brasil - MULTISHOW SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1460
+#EXTINF:0,Brasil - Nat Geo Kids HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1459
+#EXTINF:0,Brasil - Nat Geo Kids SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1458
+#EXTINF:0,Brasil - NatGeo Wild HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1457
+#EXTINF:0,Brasil - NatGeo Wild SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1456
+#EXTINF:0,Brasil - National Geographic HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1455
+#EXTINF:0,Brasil - National Geographic SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1454
+#EXTINF:0,Brasil - NHK HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1453
+#EXTINF:0,Brasil - NHK SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1452
+#EXTINF:0,Brasil - Nick Jr HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1451
+#EXTINF:0,Brasil - Nick Jr SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1450
+#EXTINF:0,Brasil - Nickelodeon HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1449
+#EXTINF:0,Brasil - Nickelodeon SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1448
+#EXTINF:0,Brasil - Paramount Channel HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1447
+#EXTINF:0,Brasil - Paramount Channel SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1446
+#EXTINF:0,Brasil - Playboy HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1445
+#EXTINF:0,Brasil - Playboy SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1444
+#EXTINF:0,Brasil - Premiere 1 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1443
+#EXTINF:0,Brasil - Premiere 1 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1442
+#EXTINF:0,Brasil - Premiere 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1441
+#EXTINF:0,Brasil - Premiere 3 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1439
+#EXTINF:0,Brasil - Premiere 4 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1437
+#EXTINF:0,Brasil - Premiere 4 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1436
+#EXTINF:0,Brasil - Premiere 5 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1435
+#EXTINF:0,Brasil - Premiere 5 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1434
+#EXTINF:0,Brasil - Premiere 6 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1433
+#EXTINF:0,Brasil - Premiere 6 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1432
+#EXTINF:0,Brasil - Premiere 7 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1431
+#EXTINF:0,Brasil - Premiere 7 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1430
+#EXTINF:0,Brasil - Prime Box Brazil HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1429
+#EXTINF:0,Brasil - Prime Box Brazil SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1428
+#EXTINF:0,Brasil - Rá-Tim-Bum HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1427
+#EXTINF:0,Brasil - Rá-Tim-Bum SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1426
+#EXTINF:0,Brasil - Record HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1425
+#EXTINF:0,Brasil - Record SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1424
+#EXTINF:0,Brasil - Rede Vida HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1423
+#EXTINF:0,Brasil - Rede Vida SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1422
+#EXTINF:0,Brasil - RedeTV HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1421
+#EXTINF:0,Brasil - RedeTV SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1420
+#EXTINF:0,Brasil - SBT HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1419
+#EXTINF:0,Brasil - SBT SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1418
+#EXTINF:0,Brasil - Sony HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1413
+#EXTINF:0,Brasil - Sony SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1412
+#EXTINF:0,Brasil - Space HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1411
+#EXTINF:0,Brasil - Space SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1410
+#EXTINF:0,Brasil - SporTV HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1409
+#EXTINF:0,Brasil - SporTV SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1408
+#EXTINF:0,Brasil - SporTV2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1407
+#EXTINF:0,Brasil - SporTV2 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1406
+#EXTINF:0,Brasil - SporTV3 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1405
+#EXTINF:0,Brasil - SporTV3 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1404
+#EXTINF:0,Brasil - Studio Universal HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1403
+#EXTINF:0,Brasil - Studio Universal SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1402
+#EXTINF:0,Brasil - Syfy HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1401
+#EXTINF:0,Brasil - Syfy SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1400
+#EXTINF:0,Brasil - TBS HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1399
+#EXTINF:0,Brasil - TCM HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1398
+#EXTINF:0,Brasil - TCM SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1397
+#EXTINF:0,Brasil - Telecine Action HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1396
+#EXTINF:0,Brasil - Telecine Action SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1395
+#EXTINF:0,Brasil - Telecine Cult SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1394
+#EXTINF:0,Brasil - Telecine Cultura  HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1393
+#EXTINF:0,Brasil - Telecine Fun HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1392
+#EXTINF:0,Brasil - Telecine Fun SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1391
+#EXTINF:0,Brasil - Telecine Pipoca HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1390
+#EXTINF:0,Brasil - Telecine Pipoca SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1389
+#EXTINF:0,Brasil - Telecine Premium HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1388
+#EXTINF:0,Brasil - Telecine Premium SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1387
+#EXTINF:0,Brasil - Telecine Touch HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1386
+#EXTINF:0,Brasil - Telecine Touch SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1385
+#EXTINF:0,Brasil - TLC HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1384
+#EXTINF:0,Brasil - TLC SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1383
+#EXTINF:0,Brasil - TNT HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1382
+#EXTINF:0,Brasil - TNT SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1381
+#EXTINF:0,Brasil - TNT Series HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1380
+#EXTINF:0,Brasil - TNT Series SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1379
+#EXTINF:0,Brasil - Tooncast HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1378
+#EXTINF:0,Brasil - Tooncast SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1377
+#EXTINF:0,Brasil - TV Aparecida HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1376
+#EXTINF:0,Brasil - TV Aparecida SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1375
+#EXTINF:0,Brasil - Universal Channel HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1374
+#EXTINF:0,Brasil - Universal Channel SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1373
+#EXTINF:0,Brasil - Venus HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1372
+#EXTINF:0,Brasil - Venus SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1371
+#EXTINF:0,Brasil - VH1 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1370
+#EXTINF:0,Brasil - VH1 SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1369
+#EXTINF:0,Brasil - Viva HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1368
+#EXTINF:0,Brasil - Viva SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1367
+#EXTINF:0,Brasil - Warner Bros HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1366
+#EXTINF:0,Brasil - Warner Bros SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1365
+#EXTINF:0,Brasil - Zoomoo HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1364
+#EXTINF:0,Brasil - Zoomoo SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1363
+#EXTINF:0,Musicales - Power HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1352
+#EXTINF:0,Argentina - América Sports
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1617
+#EXTINF:0,Entretenimiento - Ultra Cine
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1620
+#EXTINF:0,Entretenimiento - Ultra Clasico
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1622
+#EXTINF:0,Entretenimiento - Ultra Docu
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1624
+#EXTINF:0,Entretenimiento - Ultra Fiesta
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1626
+#EXTINF:0,Entretenimiento - Ultra Film
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1623
+#EXTINF:0,Entretenimiento - Ultra Kidz
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1619
+#EXTINF:0,Entretenimiento - Ultra Luna
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1627
+#EXTINF:0,Entretenimiento - Ultra Macho
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1621
+#EXTINF:0,Entretenimiento - Ultra Mex
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1625
+#EXTINF:0,Deportes - Bein Sports Ñ 720
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1628
+#EXTINF:0,Bolivia - Ebo TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1638
+#EXTINF:0,Bolivia - Mega TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1636
+#EXTINF:0,Bolivia - Rec Online
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1635
+#EXTINF:0,Bolivia - Red CCTV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1637
+#EXTINF:0,Bolivia - Rtve
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1631
+#EXTINF:0,Bolivia - Tele Estrella
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1634
+#EXTINF:0,Bolivia - TV Latina Canal 42
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1633
+#EXTINF:0,Bolivia - Vos Tv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1632
+#EXTINF:0,Deportes - Fox Soccer Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1641
+#EXTINF:0,Chile - CDF Estadio
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1646
+#EXTINF:0,Italia - Rai Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1648
+#EXTINF:0,Italia - Rai Sports 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1647
+#EXTINF:0,Italia - Sky Calcio 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1654
+#EXTINF:0,Italia - Sky Calcio 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1655
+#EXTINF:0,Italia - Sky Calcio 5
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1657
+#EXTINF:0,Italia - Sky Calcio 6
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1658
+#EXTINF:0,Italia - Sky Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1650
+#EXTINF:0,Italia - Sky Sports 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1651
+#EXTINF:0,Italia - Sky Sports 24
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1649
+#EXTINF:0,Italia - Sky Sports 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1652
+#EXTINF:0,Italia - Supercalcio HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1659
+#EXTINF:0,Argentina - Espn 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2054
+#EXTINF:0,Argentina - Fox Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2055
+#EXTINF:0,Argentina - Fox Sports 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2056
+#EXTINF:0,Argentina - Fox Sports 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2057
+#EXTINF:0,Paraguay - C9N
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2066
+#EXTINF:0,Paraguay - Red Guarani
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2071
+#EXTINF:0,Paraguay - RPC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2065
+#EXTINF:0,Paraguay - Snt
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2064
+#EXTINF:0,Paraguay - Telefuturo HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2068
+#EXTINF:0,Paraguay - Unicanal
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2067
+#EXTINF:0,Brasil - Canal Brasil
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2091
+#EXTINF:0,Brasil - Cancao Nova
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2079
+#EXTINF:0,Brasil - Combate
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2090
+#EXTINF:0,Brasil - GLOBO RBS SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2083
+#EXTINF:0,Brasil - GLOBO SP SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2084
+#EXTINF:0,Brasil - PFC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2089
+#EXTINF:0,Brasil - REDE BRASIL SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2081
+#EXTINF:0,Brasil - REDE TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2093
+#EXTINF:0,Brasil - REDETV RJ SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2080
+#EXTINF:0,Brasil - TV BRASIL CENTRAL
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2077
+#EXTINF:0,Brasil - Tv Escola
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2076
+#EXTINF:0,Brasil - TV GAZETA HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2075
+#EXTINF:0,Brasil - TV Globo Premium
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2095
+#EXTINF:0,Brasil - TV Record
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2096
+#EXTINF:0,Brasil - TVI
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2074
+#EXTINF:0,Brasil - Viva
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2088
+#EXTINF:0,Paraguay - La Tele
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2099
+#EXTINF:0,Paraguay - Paravision
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2097
+#EXTINF:0,Paraguay - Lobo Station
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2102
+#EXTINF:0,Paraguay - Radio Venus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2103
+#EXTINF:0,Chile - FM Hot
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2101
+#EXTINF:0,Entretenimiento - Panico HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2098
+#EXTINF:0,Entretenimiento - Televisa Tijuana 12
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2106
+#EXTINF:0,Uruguay - Vtv HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2108
+#EXTINF:0,Uruguay - Vtv SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2107
+#EXTINF:0,Brasil - Globo Amazonas
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2174
+#EXTINF:0,Brasil - Globo Anhanguera Goiania
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2173
+#EXTINF:0,Brasil - Globo Bahia HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2172
+#EXTINF:0,Brasil - Globo Brasilia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2171
+#EXTINF:0,Brasil - Globo Eptv Campinas HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2169
+#EXTINF:0,Brasil - Globo Internacional
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2165
+#EXTINF:0,Brasil - Globo News HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2161
+#EXTINF:0,Brasil - Globo Nordeste
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2160
+#EXTINF:0,Brasil - Globo RJ
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2158
+#EXTINF:0,Brasil - Globo RJ HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2157
+#EXTINF:0,Brasil - Globo RJ SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2155
+#EXTINF:0,Brasil - Globo RJ*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2154
+#EXTINF:0,Brasil - Globo RN*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2153
+#EXTINF:0,Brasil - Globo SP
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2152
+#EXTINF:0,Brasil - Globo SP FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2151
+#EXTINF:0,Brasil - Globo SP HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2150
+#EXTINF:0,Brasil - Globo SP HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2149
+#EXTINF:0,Brasil - Globo SP*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2147
+#EXTINF:0,Brasil - Globosat HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2144
+#EXTINF:0,Brasil - Globosat*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2143
+#EXTINF:0,pruebatele12
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2176
+#EXTINF:0,Arabe - 2M TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2237
+#EXTINF:0,Arabe - Abu Dhabi Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2249
+#EXTINF:0,Arabe - Abu Dhabi Sports 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2248
+#EXTINF:0,Arabe - Abu Dhabi Sports 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2240
+#EXTINF:0,Arabe - Abu Dhabi Sports 5
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2238
+#EXTINF:0,Arabe - Afak
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2218
+#EXTINF:0,Arabe - Al Kass Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2215
+#EXTINF:0,Arabe - Al Kass Sports 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2214
+#EXTINF:0,Arabe - Al Kass Sports 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2213
+#EXTINF:0,Arabe - Al Kass Sports 4
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2212
+#EXTINF:0,Arabe - Al Kass Sports 5
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2211
+#EXTINF:0,Arabe - Al Kofiya Tv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2217
+#EXTINF:0,Arabe - Al-Alam
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2201
+#EXTINF:0,Arabe - Almagharibia 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2204
+#EXTINF:0,Arabe - Almagharibia 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2205
+#EXTINF:0,Arabe - BeIn Movies 1 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2241
+#EXTINF:0,Arabe - BeIn Movies 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2247
+#EXTINF:0,Arabe - beIN Sports
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2223
+#EXTINF:0,Arabe - beIN Sports 11 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2226
+#EXTINF:0,Arabe - beIN Sports 12 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2225
+#EXTINF:0,Arabe - CNN News
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2220
+#EXTINF:0,Arabe - Lbc HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2206
+#EXTINF:0,Arabe - Mbc
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2207
+#EXTINF:0,Arabe - MBC 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2246
+#EXTINF:0,Arabe - MBC 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2245
+#EXTINF:0,Arabe - MBC 4
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2244
+#EXTINF:0,Arabe - MBC 4 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2243
+#EXTINF:0,Arabe - MBC Action
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2242
+#EXTINF:0,Arabe - MBC Bollywood
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2196
+#EXTINF:0,Arabe - MBC Drama HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2200
+#EXTINF:0,Arabe - MBC Dramar Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2195
+#EXTINF:0,Arabe - MBC Masr
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2197
+#EXTINF:0,Arabe - MBC Max HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2198
+#EXTINF:0,Arabe - MBC Variety HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2199
+#EXTINF:0,Arabe - Moga Comedy TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2208
+#EXTINF:0,Arabe - MTV Lebanon
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2203
+#EXTINF:0,Arabe - Nat Geo Wild
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2219
+#EXTINF:0,Arabe - NBN Lebanon
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2209
+#EXTINF:0,Arabe - Nickelodeon HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2221
+#EXTINF:0,Arabe - Nile Cinema
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2210
+#EXTINF:0,Arabe - Nile Comedy
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2194
+#EXTINF:0,Arabe - Nile Culture
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2193
+#EXTINF:0,Arabe - Nile Drama
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2192
+#EXTINF:0,Arabe - Nile Family
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2187
+#EXTINF:0,Arabe - Nile Life
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2191
+#EXTINF:0,Arabe - Nile News
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2190
+#EXTINF:0,Arabe - Nile Sports
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2189
+#EXTINF:0,Arabe - Nile TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2188
+#EXTINF:0,Arabe - Otv Lebanon
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2202
+#EXTINF:0,Arabe - Quest
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2216
+#EXTINF:0,Arabe - WWE
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2222
+#EXTINF:0,Deportes - ESPN 1 MX
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2266
+#EXTINF:0,Argentina - A24 FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2256
+#EXTINF:0,Argentina - A24 HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2257
+#EXTINF:0,Argentina - America FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2258
+#EXTINF:0,Argentina - America HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2259
+#EXTINF:0,Argentina - C5N HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2253
+#EXTINF:0,Argentina - Canal 26 HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2272
+#EXTINF:0,Argentina - Canal Encuentro HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2276
+#EXTINF:0,Argentina - Canal Trece 13 FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1355
+#EXTINF:0,Argentina - Cine AR HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2282
+#EXTINF:0,Argentina - CN23 HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2274
+#EXTINF:0,Argentina - Cronica HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2284
+#EXTINF:0,Argentina - DeporTV FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2267
+#EXTINF:0,Argentina - DeporTV HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2268
+#EXTINF:0,Argentina - El Nueve 9 FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2262
+#EXTINF:0,Argentina - El Nueve 9 HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2263
+#EXTINF:0,Argentina - El Trece 13 FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2264
+#EXTINF:0,Argentina - El Trece 13 HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2265
+#EXTINF:0,Argentina - LN+ HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2270
+#EXTINF:0,Argentina - Paka Paka HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2278
+#EXTINF:0,Argentina - TEC TV HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2280
+#EXTINF:0,Argentina - Telefe FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2254
+#EXTINF:0,Argentina - Telefe HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2255
+#EXTINF:0,Argentina - Televisión Pública Argentina FHD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2260
+#EXTINF:0,Argentina - Televisión Pública Argentina HD*
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2261
+#EXTINF:0,Argentina - TNT Sports FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1353
+#EXTINF:0,Paraguay - Noticias PY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2357
+#EXTINF:0,A&E FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1124
+#EXTINF:0,AMC FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1125
+#EXTINF:0,Animal Planet FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1126
+#EXTINF:0,AXN FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1127
+#EXTINF:0,Az Corazon FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1128
+#EXTINF:0,Az Mundo FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1129
+#EXTINF:0,Cablenoticias FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1130
+#EXTINF:0,Caracol FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1131
+#EXTINF:0,Cartoon Network FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1132
+#EXTINF:0,Chile - Fox Sports 2 FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2105
+#EXTINF:0,Cinecanal FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1133
+#EXTINF:0,Claro Sports Colombia FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1134
+#EXTINF:0,Claro Sports Latinoamérica FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1135
+#EXTINF:0,Comedy Central. FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1136
+#EXTINF:0,Concert Channel FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1137
+#EXTINF:0,Deportes - SkySports 1 MX
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2177
+#EXTINF:0,Deportes - SkySports 24 MX
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2178
+#EXTINF:0,DHE FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1138
+#EXTINF:0,Discovery Channel FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1140
+#EXTINF:0,Discovery Home & Health FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1141
+#EXTINF:0,Discovery Kids FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1142
+#EXTINF:0,Discovery Theater FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1143
+#EXTINF:0,Discovery World FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1144
+#EXTINF:0,Disney FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1145
+#EXTINF:0,El Gourmet FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1146
+#EXTINF:0,Entretenimiento - El Canal De Las Estrellas MX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1270
+#EXTINF:0,Entretenimiento - Unimas Dallas
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2366
+#EXTINF:0,Entretenimiento - Unimas Georgia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2365
+#EXTINF:0,Entretenimiento - Unimas Hawaii
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2364
+#EXTINF:0,Entretenimiento - Unimas Miami
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2363
+#EXTINF:0,Entretenimiento - Unimas New York
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2362
+#EXTINF:0,Entretenimiento - Unimas Washington
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2361
+#EXTINF:0,Entretenimiento - Univision Arizona
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2374
+#EXTINF:0,Entretenimiento - Univision Dallas
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2373
+#EXTINF:0,Entretenimiento - Univision Georgia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2372
+#EXTINF:0,Entretenimiento - Univision Hawaii
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2371
+#EXTINF:0,Entretenimiento - Univision Miami
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2370
+#EXTINF:0,Entretenimiento - Univision New York
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2369
+#EXTINF:0,Entretenimiento - Univision Puerto Rico
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2368
+#EXTINF:0,Entretenimiento - Univision Washington
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2367
+#EXTINF:0,ESPN PLUS SUR FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1149
+#EXTINF:0,Fox FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1151
+#EXTINF:0,Fox Life FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1159
+#EXTINF:0,Fox Premium Action FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1152
+#EXTINF:0,Fox Premium Cinema FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1154
+#EXTINF:0,Fox Premium Comedy FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1155
+#EXTINF:0,Fox Premium Family FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1156
+#EXTINF:0,Fox Premium Movies FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1157
+#EXTINF:0,Fox Premium Series FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1158
+#EXTINF:0,Fox Sports 1 MX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1160
+#EXTINF:0,Fox Sports 1 Sur FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1161
+#EXTINF:0,Fox Sports 2 MX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1162
+#EXTINF:0,Fox Sports 2 Sur FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1163
+#EXTINF:0,Fox Sports 3 MX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1164
+#EXTINF:0,Fox Sports 3 Sur FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1165
+#EXTINF:0,FX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1166
+#EXTINF:0,FX Movies FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1168
+#EXTINF:0,FX MX FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1167
+#EXTINF:0,Globo SP SD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2148
+#EXTINF:0,Golden FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1169
+#EXTINF:0,Golden Premier FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1170
+#EXTINF:0,Golf Channel FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1171
+#EXTINF:0,HBO 2 FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1173
+#EXTINF:0,HBO FAMILY FHD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1174
 
-#EXTINF:-1,ARENA SPORT 1 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/199
-#EXTINF:-1,ARENA SPORT 2 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/198
-#EXTINF:-1,ARENA SPORT 3 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/197
-#EXTINF:-1,ARENA SPORT 4 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/196
-#EXTINF:-1,ARENA SPORT 5 HR
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/195
-#EXTINF:-1,FIGHT BOX
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1405
-#EXTINF:-1,Fight Network
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/191
-#EXTINF:-1,Sky Sport News
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/1764
-#EXTINF:-1,Sky Sport 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/189
-#EXTINF:-1,Sky Sport 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/188
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/187
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/186
-#EXTINF:-1,Sky BundesLiga 3
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/184
-#EXTINF:-1,Sky BundesLiga 4
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/183
-#EXTINF:-1,Sky BundesLiga 5
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/182
-#EXTINF:-1,LIG TV HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/176
-#EXTINF:-1,LIG TV 2 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/174
-#EXTINF:-1,LIG TV 3 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/173
-#EXTINF:-1,LIG TV 4 HD
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/172
-#EXTINF:-1,USA | A&E
-http://144.217.69.93:25461/Carolina/Carolina/58408
-#EXTINF:-1,USA | ABC
-http://144.217.69.93:25461/Carolina/Carolina/58407
-#EXTINF:-1,USA | ABC News
-http://144.217.69.93:25461/Carolina/Carolina/58406
-#EXTINF:-1,USA | AMC
-http://144.217.69.93:25461/Carolina/Carolina/58405
-#EXTINF:-1,USA | American Heroes Channel
-http://144.217.69.93:25461/Carolina/Carolina/58404
-#EXTINF:-1,USA | Animal Planet
-http://144.217.69.93:25461/Carolina/Carolina/58403
-#EXTINF:-1,USA | BBC America
-http://144.217.69.93:25461/Carolina/Carolina/58402
-#EXTINF:-1,USA | BET
-http://144.217.69.93:25461/Carolina/Carolina/58400
-#EXTINF:-1,USA | BET Her
-http://144.217.69.93:25461/Carolina/Carolina/58399
-#EXTINF:-1,USA | Big Ten Network
-http://144.217.69.93:25461/Carolina/Carolina/58398
-#EXTINF:-1,USA | Boomerang
-http://144.217.69.93:25461/Carolina/Carolina/58397
-#EXTINF:-1,USA | Bounce TV
-http://144.217.69.93:25461/Carolina/Carolina/58396
-#EXTINF:-1,USA | Bravo
-http://144.217.69.93:25461/Carolina/Carolina/58395
-#EXTINF:-1,USA | Cartoon Network
-http://144.217.69.93:25461/Carolina/Carolina/58394
-#EXTINF:-1,USA | CBS
-http://144.217.69.93:25461/Carolina/Carolina/58393
-#EXTINF:-1,USA | CBSN
-http://144.217.69.93:25461/Carolina/Carolina/58392
-#EXTINF:-1,USA | Cinemax
-http://144.217.69.93:25461/Carolina/Carolina/58391
-#EXTINF:-1,USA | Cinemax Moremax
-http://144.217.69.93:25461/Carolina/Carolina/58390
-#EXTINF:-1,USA | Cinemax Thrillermax
-http://144.217.69.93:25461/Carolina/Carolina/58389
-#EXTINF:-1,USA | CMT
-http://144.217.69.93:25461/Carolina/Carolina/58388
-#EXTINF:-1,USA | CNBC
-http://144.217.69.93:25461/Carolina/Carolina/58387
-#EXTINF:-1,USA | CNN
-http://144.217.69.93:25461/Carolina/Carolina/58386
-#EXTINF:-1,USA | Comedy Central
-http://144.217.69.93:25461/Carolina/Carolina/58385
-#EXTINF:-1,USA | Cooking Channel
-http://144.217.69.93:25461/Carolina/Carolina/58384
-#EXTINF:-1,USA | Cozi TV
-http://144.217.69.93:25461/Carolina/Carolina/58383
-#EXTINF:-1,USA | Crime and Investigation
-http://144.217.69.93:25461/Carolina/Carolina/58382
-#EXTINF:-1,USA | CW
-http://144.217.69.93:25461/Carolina/Carolina/58381
-#EXTINF:-1,USA | Destination America
-http://144.217.69.93:25461/Carolina/Carolina/58380
-#EXTINF:-1,USA | Discovery Channel
-http://144.217.69.93:25461/Carolina/Carolina/58379
-#EXTINF:-1,USA | Discovery Family
-http://144.217.69.93:25461/Carolina/Carolina/58378
-#EXTINF:-1,USA | Discovery Life
-http://144.217.69.93:25461/Carolina/Carolina/58377
-#EXTINF:-1,USA | Discovery Science
-http://144.217.69.93:25461/Carolina/Carolina/58376
-#EXTINF:-1,USA | Disney Channel
-http://144.217.69.93:25461/Carolina/Carolina/58375
-#EXTINF:-1,USA | Disney Jr
-http://144.217.69.93:25461/Carolina/Carolina/58374
-#EXTINF:-1,USA | Disney XD
-http://144.217.69.93:25461/Carolina/Carolina/58373
-#EXTINF:-1,USA | DIY
-http://144.217.69.93:25461/Carolina/Carolina/58372
-#EXTINF:-1,USA | E!
-http://144.217.69.93:25461/Carolina/Carolina/58371
-#EXTINF:-1,USA | El Rey Network
-http://144.217.69.93:25461/Carolina/Carolina/58370
-#EXTINF:-1,USA | EPIX
-http://144.217.69.93:25461/Carolina/Carolina/58368
-#EXTINF:-1,USA | ESPN
-http://144.217.69.93:25461/Carolina/Carolina/58367
-#EXTINF:-1,USA | ESPN 2
-http://144.217.69.93:25461/Carolina/Carolina/58366
-#EXTINF:-1,USA | ESPN NEWS
-http://144.217.69.93:25461/Carolina/Carolina/58364
-#EXTINF:-1,USA | ESPN U
-http://144.217.69.93:25461/Carolina/Carolina/58365
-#EXTINF:-1,USA | Fight Channel
-http://144.217.69.93:25461/Carolina/Carolina/58363
-#EXTINF:-1,USA | Food Network
-http://144.217.69.93:25461/Carolina/Carolina/58362
-#EXTINF:-1,USA | Fox
-http://144.217.69.93:25461/Carolina/Carolina/58361
-#EXTINF:-1,USA | Fox Business Network
-http://144.217.69.93:25461/Carolina/Carolina/58360
-#EXTINF:-1,USA | Fox Deportes
-http://144.217.69.93:25461/Carolina/Carolina/58359
-#EXTINF:-1,USA | Fox News
-http://144.217.69.93:25461/Carolina/Carolina/58358
-#EXTINF:-1,USA | Fox Soccer Plus
-http://144.217.69.93:25461/Carolina/Carolina/58357
-#EXTINF:-1,USA | Fox Sports 1
-http://144.217.69.93:25461/Carolina/Carolina/58356
-#EXTINF:-1,USA | Fox Sports 2
-http://144.217.69.93:25461/Carolina/Carolina/58355
-#EXTINF:-1,USA | FreeForm
-http://144.217.69.93:25461/Carolina/Carolina/58354
-#EXTINF:-1,USA | Fuse
-http://144.217.69.93:25461/Carolina/Carolina/58353
-#EXTINF:-1,USA | Fusion
-http://144.217.69.93:25461/Carolina/Carolina/58352
-#EXTINF:-1,USA | FX
-http://144.217.69.93:25461/Carolina/Carolina/58351
-#EXTINF:-1,USA | FXM
-http://144.217.69.93:25461/Carolina/Carolina/58350
-#EXTINF:-1,USA | FXX
-http://144.217.69.93:25461/Carolina/Carolina/58349
-#EXTINF:-1,USA | FYI
-http://144.217.69.93:25461/Carolina/Carolina/58348
-#EXTINF:-1,USA | Grit
-http://144.217.69.93:25461/Carolina/Carolina/58347
-#EXTINF:-1,USA | GSN
-http://144.217.69.93:25461/Carolina/Carolina/58346
-#EXTINF:-1,USA | Hallmark
-http://144.217.69.93:25461/Carolina/Carolina/58345
-#EXTINF:-1,USA | Hallmark Movies & Mysteries
-http://144.217.69.93:25461/Carolina/Carolina/58344
-#EXTINF:-1,USA | HBO
-http://144.217.69.93:25461/Carolina/Carolina/58343
-#EXTINF:-1,USA | HBO 2
-http://144.217.69.93:25461/Carolina/Carolina/58342
-#EXTINF:-1,USA | HBO Comedy
-http://144.217.69.93:25461/Carolina/Carolina/58341
-#EXTINF:-1,USA | HBO Signature
-http://144.217.69.93:25461/Carolina/Carolina/58340
-#EXTINF:-1,USA | HBO Zone
-http://144.217.69.93:25461/Carolina/Carolina/58339
-#EXTINF:-1,USA | HGTV
-http://144.217.69.93:25461/Carolina/Carolina/58338
-#EXTINF:-1,USA | History Channel
-http://144.217.69.93:25461/Carolina/Carolina/58337
-#EXTINF:-1,USA | HLN
-http://144.217.69.93:25461/Carolina/Carolina/58336
-#EXTINF:-1,USA | IFC
-http://144.217.69.93:25461/Carolina/Carolina/58335
-#EXTINF:-1,USA | Investigation Discovery
-http://144.217.69.93:25461/Carolina/Carolina/58334
-#EXTINF:-1,USA | ION
-http://144.217.69.93:25461/Carolina/Carolina/58333
-#EXTINF:-1,USA | Lifetime
-http://144.217.69.93:25461/Carolina/Carolina/58332
-#EXTINF:-1,USA | LMN
-http://144.217.69.93:25461/Carolina/Carolina/58331
-#EXTINF:-1,USA | LongHorn Network
-http://144.217.69.93:25461/Carolina/Carolina/58330
-#EXTINF:-1,USA | MLB Network
-http://144.217.69.93:25461/Carolina/Carolina/58328
-#EXTINF:-1,USA | MSNBC
-http://144.217.69.93:25461/Carolina/Carolina/58326
-#EXTINF:-1,USA | MTV
-http://144.217.69.93:25461/Carolina/Carolina/58325
-#EXTINF:-1,USA | Nat Geo
-http://144.217.69.93:25461/Carolina/Carolina/58324
-#EXTINF:-1,USA | Nat Geo Wild
-http://144.217.69.93:25461/Carolina/Carolina/58323
-#EXTINF:-1,USA | NBA TV
-http://144.217.69.93:25461/Carolina/Carolina/58322
-#EXTINF:-1,USA | NBC
-http://144.217.69.93:25461/Carolina/Carolina/58321
-#EXTINF:-1,USA | NBC Golf
-http://144.217.69.93:25461/Carolina/Carolina/58320
-#EXTINF:-1,USA | NBC Universo
-http://144.217.69.93:25461/Carolina/Carolina/58319
-#EXTINF:-1,USA | NBCSN
-http://144.217.69.93:25461/Carolina/Carolina/58318
-#EXTINF:-1,USA | NFL Network
-http://144.217.69.93:25461/Carolina/Carolina/58317
-#EXTINF:-1,USA | NFL Red Zone
-http://144.217.69.93:25461/Carolina/Carolina/58316
-#EXTINF:-1,USA | NHL Network
-http://144.217.69.93:25461/Carolina/Carolina/58315
-#EXTINF:-1,USA | Nick
-http://144.217.69.93:25461/Carolina/Carolina/58314
-#EXTINF:-1,USA | Nick Jr
-http://144.217.69.93:25461/Carolina/Carolina/58313
-#EXTINF:-1,USA | Nicktoons
-http://144.217.69.93:25461/Carolina/Carolina/58312
-#EXTINF:-1,USA | Outdoor Channel
-http://144.217.69.93:25461/Carolina/Carolina/58311
-#EXTINF:-1,USA | OWN
-http://144.217.69.93:25461/Carolina/Carolina/58310
-#EXTINF:-1,USA | Oxygen
-http://144.217.69.93:25461/Carolina/Carolina/58309
-#EXTINF:-1,USA | PAC-12 Network
-http://144.217.69.93:25461/Carolina/Carolina/58306
-#EXTINF:-1,USA | Paramount Network
-http://144.217.69.93:25461/Carolina/Carolina/58297
-#EXTINF:-1,USA | Pop
-http://144.217.69.93:25461/Carolina/Carolina/58304
-#EXTINF:-1,USA | Sec Network
-http://144.217.69.93:25461/Carolina/Carolina/58301
-#EXTINF:-1,USA | Showtime
-http://144.217.69.93:25461/Carolina/Carolina/58300
-#EXTINF:-1,USA | Showtime 2
-http://144.217.69.93:25461/Carolina/Carolina/58299
-#EXTINF:-1,USA | Showtime Showcase
-http://144.217.69.93:25461/Carolina/Carolina/58298
-#EXTINF:-1,USA  | Starz Black
-http://144.217.69.93:25461/Carolina/Carolina/58294
-#EXTINF:-1,USA | Starz Cinema
-http://144.217.69.93:25461/Carolina/Carolina/58296
-#EXTINF:-1,USA | Starz East
-http://144.217.69.93:25461/Carolina/Carolina/58295
-#EXTINF:-1,USA | Starz Encore Western
-http://144.217.69.93:25461/Carolina/Carolina/58293
-#EXTINF:-1,USA | Starz Kids & Family
-http://144.217.69.93:25461/Carolina/Carolina/58292
-#EXTINF:-1,USA | Sundance
-http://144.217.69.93:25461/Carolina/Carolina/58291
-#EXTINF:-1,USA | SyFy
-http://144.217.69.93:25461/Carolina/Carolina/58290
-#EXTINF:-1,USA | TBS
-http://144.217.69.93:25461/Carolina/Carolina/58289
-#EXTINF:-1,USA | Telemundo Miami
-http://144.217.69.93:25461/Carolina/Carolina/58288
-#EXTINF:-1,USA | Tennis Channel
-http://144.217.69.93:25461/Carolina/Carolina/58287
-#EXTINF:-1,USA | The Blaze
-http://144.217.69.93:25461/Carolina/Carolina/58286
-#EXTINF:-1,USA | TLC
-http://144.217.69.93:25461/Carolina/Carolina/58284
-#EXTINF:-1,USA | Travel Channel
-http://144.217.69.93:25461/Carolina/Carolina/58282
-#EXTINF:-1,USA | TruTV
-http://144.217.69.93:25461/Carolina/Carolina/58281
-#EXTINF:-1,USA | Velocity
-http://144.217.69.93:25461/Carolina/Carolina/58275
-#EXTINF:-1,USA | Viceland
-http://144.217.69.93:25461/Carolina/Carolina/58273
-#EXTINF:-1,USA | WE TV
-http://144.217.69.93:25461/Carolina/Carolina/58272
-#EXTINF:-1,USA | ABC News
-http://144.217.69.93:25461/Carolina/Carolina/58406
-#EXTINF:-1,USA | AMC
-http://144.217.69.93:25461/Carolina/Carolina/58405
-#EXTINF:-1,USA | American Heroes Channel
-http://144.217.69.93:25461/Carolina/Carolina/58404
-#EXTINF:-1,USA | Animal Planet
-http://144.217.69.93:25461/Carolina/Carolina/58403
-#EXTINF:-1,USA | BBC America
-http://144.217.69.93:25461/Carolina/Carolina/58402
-#EXTINF:-1,USA | BET
-http://144.217.69.93:25461/Carolina/Carolina/58400
-#EXTINF:-1,USA | BET Her
-http://144.217.69.93:25461/Carolina/Carolina/58399
-#EXTINF:-1,USA | Big Ten Network
-http://144.217.69.93:25461/Carolina/Carolina/58398
-#EXTINF:-1,USA | Boomerang
-http://144.217.69.93:25461/Carolina/Carolina/58397
-#EXTINF:-1,USA | Bounce TV
-http://144.217.69.93:25461/Carolina/Carolina/58396
-#EXTINF:-1,USA | Bravo
-http://144.217.69.93:25461/Carolina/Carolina/58395
-#EXTINF:-1,USA | Cartoon Network
-http://144.217.69.93:25461/Carolina/Carolina/58394
-#EXTINF:-1,USA | CBS
-http://144.217.69.93:25461/Carolina/Carolina/58393
-#EXTINF:-1,USA | CBSN
-http://144.217.69.93:25461/Carolina/Carolina/58392
-#EXTINF:-1,USA | Cinemax
-http://144.217.69.93:25461/Carolina/Carolina/58391
-#EXTINF:-1,USA | Cinemax Moremax
-http://144.217.69.93:25461/Carolina/Carolina/58390
-#EXTINF:-1,USA | Cinemax Thrillermax
-http://144.217.69.93:25461/Carolina/Carolina/58389
-#EXTINF:-1,USA | CMT
-http://144.217.69.93:25461/Carolina/Carolina/58388
-#EXTINF:-1,USA | CNBC
-http://144.217.69.93:25461/Carolina/Carolina/58387
-#EXTINF:-1,USA | CNN
-http://144.217.69.93:25461/Carolina/Carolina/58386
-#EXTINF:-1,USA | Comedy Central
-http://144.217.69.93:25461/Carolina/Carolina/58385
-#EXTINF:-1,USA | Cooking Channel
-http://144.217.69.93:25461/Carolina/Carolina/58384
-#EXTINF:-1,USA | Cozi TV
-http://144.217.69.93:25461/Carolina/Carolina/58383
-#EXTINF:-1,USA | Crime and Investigation
-http://144.217.69.93:25461/Carolina/Carolina/58382
-#EXTINF:-1,USA | CW
-http://144.217.69.93:25461/Carolina/Carolina/58381
-#EXTINF:-1,USA | Destination America
-http://144.217.69.93:25461/Carolina/Carolina/58380
-#EXTINF:-1,USA | Discovery Channel
-http://144.217.69.93:25461/Carolina/Carolina/58379
-#EXTINF:-1,USA | Discovery Family
-http://144.217.69.93:25461/Carolina/Carolina/58378
-#EXTINF:-1,USA | Discovery Life
-http://144.217.69.93:25461/Carolina/Carolina/58377
-#EXTINF:-1,USA | Discovery Science
-http://144.217.69.93:25461/Carolina/Carolina/58376
-#EXTINF:-1,USA | Disney Channel
-http://144.217.69.93:25461/Carolina/Carolina/58375
-#EXTINF:-1,USA | Disney Jr
-http://144.217.69.93:25461/Carolina/Carolina/58374
-#EXTINF:-1,USA | Disney XD
-http://144.217.69.93:25461/Carolina/Carolina/58373
-#EXTINF:-1,USA | DIY
-http://144.217.69.93:25461/Carolina/Carolina/58372
-#EXTINF:-1,USA | E!
-http://144.217.69.93:25461/Carolina/Carolina/58371
-#EXTINF:-1,USA | El Rey Network
-http://144.217.69.93:25461/Carolina/Carolina/58370
-#EXTINF:-1,USA | EPIX
-http://144.217.69.93:25461/Carolina/Carolina/58368
-#EXTINF:-1,USA | ESPN
-http://144.217.69.93:25461/Carolina/Carolina/58367
-#EXTINF:-1,USA | ESPN 2
-http://144.217.69.93:25461/Carolina/Carolina/58366
-#EXTINF:-1,USA | ESPN NEWS
-http://144.217.69.93:25461/Carolina/Carolina/58364
-#EXTINF:-1,USA | ESPN U
-http://144.217.69.93:25461/Carolina/Carolina/58365
-#EXTINF:-1,USA | Fight Channel
-http://144.217.69.93:25461/Carolina/Carolina/58363
-#EXTINF:-1,USA | Food Network
-http://144.217.69.93:25461/Carolina/Carolina/58362
-#EXTINF:-1,USA | Fox
-http://144.217.69.93:25461/Carolina/Carolina/58361
-#EXTINF:-1,USA | Fox Business Network
-http://144.217.69.93:25461/Carolina/Carolina/58360
-#EXTINF:-1,USA | Fox Deportes
-http://144.217.69.93:25461/Carolina/Carolina/58359
-#EXTINF:-1,USA | Fox News
-http://144.217.69.93:25461/Carolina/Carolina/58358
-#EXTINF:-1,USA | Fox Soccer Plus
-http://144.217.69.93:25461/Carolina/Carolina/58357
-#EXTINF:-1,USA | Fox Sports 1
-http://144.217.69.93:25461/Carolina/Carolina/58356
-#EXTINF:-1,USA | Fox Sports 2
-http://144.217.69.93:25461/Carolina/Carolina/58355
-#EXTINF:-1,USA | FreeForm
-http://144.217.69.93:25461/Carolina/Carolina/58354
-#EXTINF:-1,USA | Fuse
-http://144.217.69.93:25461/Carolina/Carolina/58353
-#EXTINF:-1,USA | Fusion
-http://144.217.69.93:25461/Carolina/Carolina/58352
-#EXTINF:-1,USA | FX
-http://144.217.69.93:25461/Carolina/Carolina/58351
-#EXTINF:-1,USA | FXM
-http://144.217.69.93:25461/Carolina/Carolina/58350
-#EXTINF:-1,USA | FXX
-http://144.217.69.93:25461/Carolina/Carolina/58349
-#EXTINF:-1,USA | FYI
-http://144.217.69.93:25461/Carolina/Carolina/58348
-#EXTINF:-1,USA | Grit
-http://144.217.69.93:25461/Carolina/Carolina/58347
-#EXTINF:-1,USA | GSN
-http://144.217.69.93:25461/Carolina/Carolina/58346
-#EXTINF:-1,USA | Hallmark
-http://144.217.69.93:25461/Carolina/Carolina/58345
-#EXTINF:-1,USA | Hallmark Movies & Mysteries
-http://144.217.69.93:25461/Carolina/Carolina/58344
-#EXTINF:-1,USA | HBO
-http://144.217.69.93:25461/Carolina/Carolina/58343
-#EXTINF:-1,USA | HBO 2
-http://144.217.69.93:25461/Carolina/Carolina/58342
-#EXTINF:-1,USA | HBO Comedy
-http://144.217.69.93:25461/Carolina/Carolina/58341
-#EXTINF:-1,USA | HBO Signature
-http://144.217.69.93:25461/Carolina/Carolina/58340
-#EXTINF:-1,USA | HBO Zone
-http://144.217.69.93:25461/Carolina/Carolina/58339
-#EXTINF:-1,USA | HGTV
-http://144.217.69.93:25461/Carolina/Carolina/58338
-#EXTINF:-1,USA | History Channel
-http://144.217.69.93:25461/Carolina/Carolina/58337
-#EXTINF:-1,USA | HLN
-http://144.217.69.93:25461/Carolina/Carolina/58336
-#EXTINF:-1,USA | IFC
-http://144.217.69.93:25461/Carolina/Carolina/58335
-#EXTINF:-1,USA | Investigation Discovery
-http://144.217.69.93:25461/Carolina/Carolina/58334
-#EXTINF:-1,USA | ION
-http://144.217.69.93:25461/Carolina/Carolina/58333
-#EXTINF:-1,USA | Lifetime
-http://144.217.69.93:25461/Carolina/Carolina/58332
-#EXTINF:-1,USA | LMN
-http://144.217.69.93:25461/Carolina/Carolina/58331
-#EXTINF:-1,USA | LongHorn Network
-http://144.217.69.93:25461/Carolina/Carolina/58330
-#EXTINF:-1,USA | MLB Network
-http://144.217.69.93:25461/Carolina/Carolina/58328
-#EXTINF:-1,USA | MSNBC
-http://144.217.69.93:25461/Carolina/Carolina/58326
-#EXTINF:-1,USA | MTV
-http://144.217.69.93:25461/Carolina/Carolina/58325
-#EXTINF:-1,USA | Nat Geo
-http://144.217.69.93:25461/Carolina/Carolina/58324
-#EXTINF:-1,USA | Nat Geo Wild
-http://144.217.69.93:25461/Carolina/Carolina/58323
-#EXTINF:-1,USA | NBA TV
-http://144.217.69.93:25461/Carolina/Carolina/58322
-#EXTINF:-1,USA | NBC
-http://144.217.69.93:25461/Carolina/Carolina/58321
-#EXTINF:-1,USA | NBC Golf
-http://144.217.69.93:25461/Carolina/Carolina/58320
-#EXTINF:-1,USA | NBC Universo
-http://144.217.69.93:25461/Carolina/Carolina/58319
-#EXTINF:-1,USA | NBCSN
-http://144.217.69.93:25461/Carolina/Carolina/58318
-#EXTINF:-1,USA | NFL Network
-http://144.217.69.93:25461/Carolina/Carolina/58317
-#EXTINF:-1,USA | NFL Red Zone
-http://144.217.69.93:25461/Carolina/Carolina/58316
-#EXTINF:-1,USA | NHL Network
-http://144.217.69.93:25461/Carolina/Carolina/58315
-#EXTINF:-1,USA | Nick
-http://144.217.69.93:25461/Carolina/Carolina/58314
-#EXTINF:-1,USA | Nick Jr
-http://144.217.69.93:25461/Carolina/Carolina/58313
-#EXTINF:-1,USA | Nicktoons
-http://144.217.69.93:25461/Carolina/Carolina/58312
-#EXTINF:-1,USA | Outdoor Channel
-http://144.217.69.93:25461/Carolina/Carolina/58311
-#EXTINF:-1,USA | OWN
-http://144.217.69.93:25461/Carolina/Carolina/58310
-#EXTINF:-1,USA | Oxygen
-http://144.217.69.93:25461/Carolina/Carolina/58309
-#EXTINF:-1,USA | PAC-12 Network
-http://144.217.69.93:25461/Carolina/Carolina/58306
-#EXTINF:-1,USA | Pop
-http://144.217.69.93:25461/Carolina/Carolina/58304
-#EXTINF:-1,USA | Revolt
-http://144.217.69.93:25461/Carolina/Carolina/58302
-#EXTINF:-1,USA | Sec Network
-http://144.217.69.93:25461/Carolina/Carolina/58301
-#EXTINF:-1,USA | Showtime
-http://144.217.69.93:25461/Carolina/Carolina/58300
-#EXTINF:-1,USA | Showtime 2
-http://144.217.69.93:25461/Carolina/Carolina/58299
-#EXTINF:-1,USA | Showtime Showcase
-http://144.217.69.93:25461/Carolina/Carolina/58298
-#EXTINF:-1,USA  | Starz Black
-http://144.217.69.93:25461/Carolina/Carolina/58294
-#EXTINF:-1,USA | Starz Cinema
-http://144.217.69.93:25461/Carolina/Carolina/58296
-#EXTINF:-1,USA | Starz East
-http://144.217.69.93:25461/Carolina/Carolina/58295
-#EXTINF:-1,USA | Starz Encore Western
-http://144.217.69.93:25461/Carolina/Carolina/58293
-#EXTINF:-1,USA | Starz Kids & Family
-http://144.217.69.93:25461/Carolina/Carolina/58292
-#EXTINF:-1,USA | Sundance
-http://144.217.69.93:25461/Carolina/Carolina/58291
-#EXTINF:-1,USA | SyFy
-http://144.217.69.93:25461/Carolina/Carolina/58290
-#EXTINF:-1,USA | TBS
-http://144.217.69.93:25461/Carolina/Carolina/58289
-#EXTINF:-1,USA | Telemundo Miami
-http://144.217.69.93:25461/Carolina/Carolina/58288
-#EXTINF:-1,USA | Tennis Channel
-http://144.217.69.93:25461/Carolina/Carolina/58287
-#EXTINF:-1,USA | The Blaze
-http://144.217.69.93:25461/Carolina/Carolina/58286
-#EXTINF:-1,USA | The Weather Channel
-http://144.217.69.93:25461/Carolina/Carolina/58285
-#EXTINF:-1,USA | TLC
-http://144.217.69.93:25461/Carolina/Carolina/58284
-#EXTINF:-1,USA | TNT
-http://144.217.69.93:25461/Carolina/Carolina/58283
-#EXTINF:-1,USA | Travel Channel
-http://144.217.69.93:25461/Carolina/Carolina/58282
-#EXTINF:-1,USA | TruTV
-http://144.217.69.93:25461/Carolina/Carolina/58281
-#EXTINF:-1,USA | TV Land
-http://144.217.69.93:25461/Carolina/Carolina/58280
-#EXTINF:-1,USA | TV One
-http://144.217.69.93:25461/Carolina/Carolina/58279
-#EXTINF:-1,USA | UNIMAS
-http://144.217.69.93:25461/Carolina/Carolina/58278
-#EXTINF:-1,USA | Universal Kids
-http://144.217.69.93:25461/Carolina/Carolina/58277
-#EXTINF:-1,USA | USA Network
-http://144.217.69.93:25461/Carolina/Carolina/58276
-#EXTINF:-1,USA | Velocity
-http://144.217.69.93:25461/Carolina/Carolina/58275
-#EXTINF:-1,USA | VH1
-http://144.217.69.93:25461/Carolina/Carolina/58274
-#EXTINF:-1,USA | Viceland
-http://144.217.69.93:25461/Carolina/Carolina/58273
-#EXTINF:-1,USA | WE TV
-http://144.217.69.93:25461/Carolina/Carolina/58272
-#EXTINF:-1,USA | WWE
-http://144.217.69.93:25461/Carolina/Carolina/58270
-#EXTINF:-1,Bein Sport HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10233
-#EXTINF:-1,BEIN NEWS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/3148
-#EXTINF:-1,BEIN SPORT 1HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9140
-#EXTINF:-1,BEIN SPORT 2HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9139
-#EXTINF:-1,BEIN SPORT 3HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9138
-#EXTINF:-1,BEIN SPORT 4HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9137
-#EXTINF:-1,BEIN SPORT 5HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9136
-#EXTINF:-1,BEIN SPORT 6HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9135
-#EXTINF:-1,BEIN SPORT 7HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9134
-#EXTINF:-1,BEIN SPORT 8HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9133
-#EXTINF:-1,BEIN SPORT 9HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9132
-#EXTINF:-1,BEIN SPORT 10HD L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9131
-#EXTINF:-1,beIN Sport 1 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12020
-#EXTINF:-1,beIN Sport 2 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12019
-#EXTINF:-1,beIN Sport 3 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12018
-#EXTINF:-1,beIN Sport 4 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12017
-#EXTINF:-1,beIN Sport 5 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12016
-#EXTINF:-1,beIN Sport 6 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12015
-#EXTINF:-1,beIN Sport 7 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12014
-#EXTINF:-1,beIN Sport 8 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12013
-#EXTINF:-1,beIN Sport 9 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12012
-#EXTINF:-1,beIN Sport 10 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12011
-#EXTINF:-1,Bein Sports HD1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12010
-#EXTINF:-1,Bein Sports HD2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12009
-#EXTINF:-1,Bein Sports HD3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12008
-#EXTINF:-1,Bein Sports HD4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12007
-#EXTINF:-1,Bein Sports HD5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12006
-#EXTINF:-1,Bein Sports HD6
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12005
-#EXTINF:-1,Bein Sports HD7
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12004
-#EXTINF:-1,Bein Sports HD8
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12003
-#EXTINF:-1,BEINSPORTS 1HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/20
-#EXTINF:-1,BEINSPORTS 2HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/19
-#EXTINF:-1,BEINSPORTS 3HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/18
-#EXTINF:-1,BEINSPORTS 4HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/17
-#EXTINF:-1,BEINSPORTS 5HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/16
-#EXTINF:-1,BEINSPORTS 6HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/15
-#EXTINF:-1,BEINSPORTS 7HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/14
-#EXTINF:-1,BEINSPORTS 8HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13
-#EXTINF:-1,BEINSPORTS 9HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12
-#EXTINF:-1,BEINSPORTS 10HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2800
-#EXTINF:-1,BEIN SPORTS 13HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2801
-#EXTINF:-1,BEIN SPORTS 14HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2802
-#EXTINF:-1,BEIN SPORTS 15HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2803
-#EXTINF:-1,BEIN SPORTS 16 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2804
-#EXTINF:-1,BEIN SPORTS HD1 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13282
-#EXTINF:-1,BEIN SPORTS HD2 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13281
-#EXTINF:-1,BEIN SPORTS HD3 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13280
-#EXTINF:-1,BEIN SPORTS HD4 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13279
-#EXTINF:-1,BEIN SPORTS HD5 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13278
-#EXTINF:-1,BEIN SPORTS HD6 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13277
-#EXTINF:-1,BEIN SPORTS HD7 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13276
-#EXTINF:-1,BEIN SPORTS HD8 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13275
-#EXTINF:-1,BEIN SPORTS HD9 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13274
-#EXTINF:-1,BEIN SPORTS HD10 HEVC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13273
-#EXTINF:-1,beout Q 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11966
-#EXTINF:-1,beout Q 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11965
-#EXTINF:-1,beout Q 3 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11964
-#EXTINF:-1,beout Q 4 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11963
-#EXTINF:-1,beout Q 5 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11962
-#EXTINF:-1,beout Q 6 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11961
-#EXTINF:-1,beout Q 7 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11960
-#EXTINF:-1,BOUTQ  7 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11959
-#EXTINF:-1,|FR|RMC SPORT 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12360
-#EXTINF:-1,|FR|RMC SPORT 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12359
-#EXTINF:-1,|FR|RMC SPORT 3 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12358
-#EXTINF:-1,|FR|RMC SPORT 4 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12357
-#EXTINF:-1,|FR|RMC-SPORT-1 L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12363
-#EXTINF:-1,|FR|RMC-SPORT-2 L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12362
-#EXTINF:-1,|FR|RMC-SPORT-3 L
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12361
-#EXTINF:-1,UK | 3e
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7523
-#EXTINF:-1,UK |TLC - IRELAND
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7607
-#EXTINF:-1,UK |Sky Movies Modern
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7606
-#EXTINF:-1,UK |CBBC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7385
-#EXTINF:-1,UK |BBC ONE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7383
-#EXTINF:-1,UK |4Seven
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7602
-#EXTINF:-1,UK | Watch
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7491
-#EXTINF:-1,UK | TCM
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7457
-#EXTINF:-1,UK | Syfy   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7592
-#EXTINF:-1,UK | Syfy
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7430
-#EXTINF:-1,UK | Sony Movie
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7494
-#EXTINF:-1,UK | Sony Chnl   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7591
-#EXTINF:-1,UK | Sony Channel
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7493
-#EXTINF:-1,UK | Sky Two
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7589
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7427
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7588
-#EXTINF:-1,UK | Sky Sports Mix
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7519
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7429
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7584
-#EXTINF:-1,UK | SKY SPORTS GOLF HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7426
-#EXTINF:-1,UK | SKY SPORTS ACTION
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7586
-#EXTINF:-1,UK | SKY NEWS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7490
-#EXTINF:-1,UK | SKY NEWS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7496
-#EXTINF:-1,UK | Sky Movies Thriller
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7423
-#EXTINF:-1,UK | Sky Movies Premiere
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7421
-#EXTINF:-1,UK | Sky Movies Greats
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7420
-#EXTINF:-1,UK | Sky Movies Comedy
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7417
-#EXTINF:-1,UK | Sky Cinema Disney HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7468
-#EXTINF:-1,UK | Sky Cinema Comedy HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7470
-#EXTINF:-1,UK | Sky Cinema Action HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7471
-#EXTINF:-1,UK | Sky Atlantic  1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7580
-#EXTINF:-1,UK | Setanta Sports 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7579
-#EXTINF:-1,UK | Scuzz
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7458
-#EXTINF:-1,UK | RTE Two
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7577
-#EXTINF:-1,UK | RTE One
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7576
-#EXTINF:-1,UK | Real Lives
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7497
-#EXTINF:-1,UK | Racing UK
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7575
-#EXTINF:-1,UK | QUEST
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7498
-#EXTINF:-1,UK | PREMIERE SPORT HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7574
-#EXTINF:-1,UK | Premier Sports HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7518
-#EXTINF:-1,UK | Nicktoons
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7414
-#EXTINF:-1,UK | Nickelodeon   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7573
-#EXTINF:-1,UK | Nickelodeon
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7572
-#EXTINF:-1,UK | Nick Jr Too
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7570
-#EXTINF:-1,UK | Nick Jr  1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7571
-#EXTINF:-1,UK | Nick Jr
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7413
-#EXTINF:-1,UK | National Geographic
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7456
-#EXTINF:-1,UK | NATGEO WILD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7454
-#EXTINF:-1,UK | Nat Geo Wild
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7569
-#EXTINF:-1,UK | MUTV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7568
-#EXTINF:-1,UK | MTV   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7567
-#EXTINF:-1,UK | MTV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7459
-#EXTINF:-1,UK | Movies 4 Men
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7499
-#EXTINF:-1,UK | Magic
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7460
-#EXTINF:-1,UK | London Live
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7412
-#EXTINF:-1,UK | LFC TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7566
-#EXTINF:-1,UK | KISS UK
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7500
-#EXTINF:-1,UK | Alibi
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7525
-#EXTINF:-1,UK |True Movies 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7608
-#EXTINF:-1,UK | ITV3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7564
-#EXTINF:-1,UK | ITV2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7563
-#EXTINF:-1,UK | ITV1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7562
-#EXTINF:-1,UK | ITV ENCORE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7502
-#EXTINF:-1,UK | ITV be
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7411
-#EXTINF:-1,UK | Irish Tv
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7410
-#EXTINF:-1,UK | Investigation Discovery
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7503
-#EXTINF:-1,UK | ID
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7522
-#EXTINF:-1,UK | Horror Channel   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7560
-#EXTINF:-1,UK | Home&Health   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7559
-#EXTINF:-1,UK | Home & Health
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7409
-#EXTINF:-1,UK | History  1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7558
-#EXTINF:-1,UK | History
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7461
-#EXTINF:-1,UK | HBO 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7604
-#EXTINF:-1,UK | H2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7455
-#EXTINF:-1,UK | Good Food
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7557
-#EXTINF:-1,UK | FOX News
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7505
-#EXTINF:-1,UK | CHANNEL 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7508
-#EXTINF:-1,UK | CBS Action
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7393
-#EXTINF:-1,UK | Cartoon Network
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7539
-#EXTINF:-1,UK | BT Sports 2 SD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7538
-#EXTINF:-1,UK | BT Sport Mosaic 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7537
-#EXTINF:-1,UK | BT Sport Extra 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7535
-#EXTINF:-1,UK | BT Sport Extra 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7534
-#EXTINF:-1,UK | BT Sport Extra 3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7533
-#EXTINF:-1,UK | BT Sport Extra 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7531
-#EXTINF:-1,UK | BT Sport Europe HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7392
-#EXTINF:-1,UK | BT Sport 3 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7521
-#EXTINF:-1,UK | BT Sport 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7390
-#EXTINF:-1,UK | BT Sport 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7389
-#EXTINF:-1,UK | BBC4 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7529
-#EXTINF:-1,UK | BBC World News
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7603
-#EXTINF:-1,UK | BBC TWO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7528
-#EXTINF:-1,UK | BBC Three HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7384
-#EXTINF:-1,UK | BBC Parliament
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7513
-#EXTINF:-1,UK | BBC ALBA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7514
-#EXTINF:-1,UK | Baby TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7382
-#EXTINF:-1,UK | At The Races
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7527
-#EXTINF:-1,UK | Animal Planet   1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7526
-#EXTINF:-1,UK | AMC FROM BT
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7515
-#EXTINF:-1,UK | 5USA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7517
-#EXTINF:-1,UK | KERRANG
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7501
-#EXTINF:-1,UK |VIP Cartoon network HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7516
-#EXTINF:-1,UK | ITV4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7565
-#EXTINF:-1,UK Vip | BBC 1 HD ( 1080P )
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7478
-#EXTINF:-1,UK Vip | BT Sport 2 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7487
-#EXTINF:-1,UK Vip | BT Sport 3 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7486
-#EXTINF:-1,UK Vip | HBO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7489
-#EXTINF:-1,UK Vip | ITV1 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7477
-#EXTINF:-1,UK Vip | MTV LIVE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7488
-#EXTINF:-1,UK Vip | Premier Sports FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7475
-#EXTINF:-1,UK Vip | SKY NEWS 1080P HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7474
-#EXTINF:-1,UK Vip | Sky Sports 1 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7485
-#EXTINF:-1,UK Vip | Sky Sports 2 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7484
-#EXTINF:-1,UK Vip | Sky Sports 3 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7483
-#EXTINF:-1,UK Vip | Sky Sports 5 HD 1080p
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7481
-#EXTINF:-1,UK | Nat Geo Graphic
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7445
-#EXTINF:-1,UK | Sky Arts
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7446
-#EXTINF:-1,UK | Sky Movies Drama
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/7448
-#EXTINF:-1,US: 360 North FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13191
-#EXTINF:-1,US: 5 Star Max FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13194
-#EXTINF:-1,US: ABC 10 (Sacramento) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13166
-#EXTINF:-1,US: ABC 10 (San Diego) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13165
-#EXTINF:-1,US: ABC 10 MIAMI
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13164
-#EXTINF:-1,US: ABC 11 (Raleigh) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13163
-#EXTINF:-1,US: ABC 2 (Baltimore) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13189
-#EXTINF:-1,US: ABC 2 (Nashville) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13188
-#EXTINF:-1,US: ABC 28 KAMC TX Lubbock
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13157
-#EXTINF:-1,US: ABC 5 (Minnesota) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13184
-#EXTINF:-1,US: ABC 6 (Indiana) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13183
-#EXTINF:-1,US: ABC 6 (NJ/PA) FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13182
-#EXTINF:-1,US: ABC 7 (Denver) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13178
-#EXTINF:-1,US: ABC 7 (Detroit) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13177
-#EXTINF:-1,US: ABC 7 (New York)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13175
-#EXTINF:-1,US: ABC 7 LOS ANGELES HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13174
-#EXTINF:-1,US: ABC 7 WWSB FL Sarasota HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13173
-#EXTINF:-1,US: ABC 8 (Dallas) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13172
-#EXTINF:-1,US: ABC 8 (Pittsburgh) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13171
-#EXTINF:-1,US: ABC 9 (Charlotte) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13169
-#EXTINF:-1,US: ABC 9 KANSAS CITY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13167
-#EXTINF:-1,US: ABC ATLANTA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13155
-#EXTINF:-1,US: ABC FAMILY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13154
-#EXTINF:-1,US: ABC Los Angeles FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13153
-#EXTINF:-1,US: ABC Spark
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13152
-#EXTINF:-1,US: ADULT SWIM
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13151
-#EXTINF:-1,US: AFN Family Movie
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13150
-#EXTINF:-1,US: AFN PRIME ATLANTIC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13148
-#EXTINF:-1,US: AFN Spectrum
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13147
-#EXTINF:-1,US: AFN Sports 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13146
-#EXTINF:-1,US: AFN Sports 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13145
-#EXTINF:-1,US: AFN Sports HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13144
-#EXTINF:-1,US: ANAHEIM DUCKS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13142
-#EXTINF:-1,US: Astro Super Sport 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13141
-#EXTINF:-1,US: BBC ONE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13138
-#EXTINF:-1,US: BBC WORLD NEWS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13137
-#EXTINF:-1,US: beIN Sports HD 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13126
-#EXTINF:-1,US: beIN Sports HD 7
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13125
-#EXTINF:-1,US: BET (East) FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13124
-#EXTINF:-1,US: BET Entertainment
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13123
-#EXTINF:-1,US: BTN Sport HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13117
-#EXTINF:-1,US: CATHOLIC TV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13108
-#EXTINF:-1,US: CBS 2 (Los Angeles)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13103
-#EXTINF:-1,US: CBS 2 (New York)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13102
-#EXTINF:-1,US: CBS 4 (Miami) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13101
-#EXTINF:-1,US: CBS 4 ST. LOUIS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13100
-#EXTINF:-1,US: CBS 46 (Atlanta) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13093
-#EXTINF:-1,US: CBS 47 JACKSONVILLE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13092
-#EXTINF:-1,US: CBS 5 SAN FRANSISCO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13099
-#EXTINF:-1,US: CBS 62 DETROIT HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13091
-#EXTINF:-1,US: CBS 8 (San Diego)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13097
-#EXTINF:-1,US: CBS ACTION
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13090
-#EXTINF:-1,US: CBS DRAMA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13089
-#EXTINF:-1,US: CBS Los Angeles FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13088
-#EXTINF:-1,US: CBS REALITY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13087
-#EXTINF:-1,US: CBS Sports
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13086
-#EXTINF:-1,US: CBS Sports Network (CBSSN) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13085
-#EXTINF:-1,US: CBSN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13084
-#EXTINF:-1,US: CC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13083
-#EXTINF:-1,US: CHRISTIAN TV NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13081
-#EXTINF:-1,US: Cinema 01 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13080
-#EXTINF:-1,US: Cinema 02 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13079
-#EXTINF:-1,US: Cinema 03 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13078
-#EXTINF:-1,US: Cinema 04 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13077
-#EXTINF:-1,US: Cinema 05 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13076
-#EXTINF:-1,US: Cinema 06 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13075
-#EXTINF:-1,US: Cinema 07 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13074
-#EXTINF:-1,US: Cinema 08 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13073
-#EXTINF:-1,US: Cinema 09 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13072
-#EXTINF:-1,US: Cinema 10 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13071
-#EXTINF:-1,US: Cinema 12 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13069
-#EXTINF:-1,US: Cinema 13 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13068
-#EXTINF:-1,US: Cinema 14 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13067
-#EXTINF:-1,US: Cinema 15 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13066
-#EXTINF:-1,US: Cinema 16 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13065
-#EXTINF:-1,US: Cinema 18 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13063
-#EXTINF:-1,US: Cinema 19 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13062
-#EXTINF:-1,US: Cinema 20 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13061
-#EXTINF:-1,US: Cinema 21 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13060
-#EXTINF:-1,US: Cinema 22 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13059
-#EXTINF:-1,US: Cinema 24 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13057
-#EXTINF:-1,US: Cinema 25 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13056
-#EXTINF:-1,US: Cinema 26 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13055
-#EXTINF:-1,US: Cinema 27 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13054
-#EXTINF:-1,US: Cinema 30 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13051
-#EXTINF:-1,US: Cinema 36 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13045
-#EXTINF:-1,US: Cinema 37 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13044
-#EXTINF:-1,US: Cinema 40 PPV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13041
-#EXTINF:-1,US: CW Network
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13020
-#EXTINF:-1,US: DETROIT REDWINGS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13017
-#EXTINF:-1,US: Discovery ID Fashion FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13016
-#EXTINF:-1,US: Discovery Showcase HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13015
-#EXTINF:-1,US: District Knowledge Network
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13014
-#EXTINF:-1,US: District of Columbia Network
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13013
-#EXTINF:-1,US: DTX HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13012
-#EXTINF:-1,US: EPIX DRIVE IN FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13010
-#EXTINF:-1,US: EPL 4 3pm
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13006
-#EXTINF:-1,US: EPL: NBC SPORTS GOLD 1 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13004
-#EXTINF:-1,US: Escape
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12996
-#EXTINF:-1,US: ESPN 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12995
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 5 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12989
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 6 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12988
-#EXTINF:-1,US: ESPN PLUS 06 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12979
-#EXTINF:-1,US: ESPN PLUS 07 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12978
-#EXTINF:-1,US: ESPN PLUS 08 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12977
-#EXTINF:-1,US: ESPN PLUS 09 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12976
-#EXTINF:-1,US: ESPN PLUS 10 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12975
-#EXTINF:-1,US: ESPN PLUS 11 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12974
-#EXTINF:-1,US: FAMILY GUY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12935
-#EXTINF:-1,US: Fashion Television
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12932
-#EXTINF:-1,US: FIGHT BOX HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12931
-#EXTINF:-1,US: FIGHT Channel HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12930
-#EXTINF:-1,US: FIGHT NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12929
-#EXTINF:-1,US: Fight Sport 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12928
-#EXTINF:-1,US: Fight Sport 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12927
-#EXTINF:-1,US: FINE LIVING HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12926
-#EXTINF:-1,US: FLORIDA PANTHERS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12925
-#EXTINF:-1,US: FOOD NETWORK (East) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12924
-#EXTINF:-1,US: FOOD NETWORK (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12923
-#EXTINF:-1,US: FOX 4 DALLAS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12921
-#EXTINF:-1,US: FOX 5 SAN DIEGO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12919
-#EXTINF:-1,US: FOX 8 NEW ORLEANS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12918
-#EXTINF:-1,US: FOX ATLANTA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12907
-#EXTINF:-1,US: FOX BUSINESS NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12906
-#EXTINF:-1,US: FOX COLLEGE SPORTS ATLANTIC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12905
-#EXTINF:-1,US: FOX COLLEGE SPORTS CENTRAL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12904
-#EXTINF:-1,US: FOX COLLEGE SPORTS PACIFIC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12903
-#EXTINF:-1,US: FOX KABB SAA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12901
-#EXTINF:-1,US: FOX KCPQ SEA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12900
-#EXTINF:-1,US: FOX KTXH HOU HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12896
-#EXTINF:-1,US: Fox Sports (Ohio) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12883
-#EXTINF:-1,US: Fox Sports (South) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12879
-#EXTINF:-1,US: Fox Sports 3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12876
-#EXTINF:-1,US: Fox Sports 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12875
-#EXTINF:-1,US: Fox Sports 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12874
-#EXTINF:-1,US: Fox SPORTS 506 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12872
-#EXTINF:-1,US: FOX SPORTS ATLANTA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12871
-#EXTINF:-1,US: FOX SPORTS CAROLINAS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12870
-#EXTINF:-1,US: FOX SPORTS CLEVELAND HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12869
-#EXTINF:-1,US: FOX SPORTS DEPORTES HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12868
-#EXTINF:-1,US: FOX SPORTS HD ASIA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12867
-#EXTINF:-1,US: FOX SPORTS INDIANA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12866
-#EXTINF:-1,US: FOX SPORTS NET HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12865
-#EXTINF:-1,US: FOX SPORTS NEW ORLEANS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12864
-#EXTINF:-1,US: FOX SPORTS NORTH ALT HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12863
-#EXTINF:-1,US: FOX SPORTS OKLAHOMA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12862
-#EXTINF:-1,US: FOX SPORTS PRIME TICKET HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12861
-#EXTINF:-1,US: FOX SPORTS SAN DIEGO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12860
-#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12859
-#EXTINF:-1,US: FOX SPORTS TENNESSEE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12858
-#EXTINF:-1,US: FOX SPORTS WISCONSIN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12857
-#EXTINF:-1,US: FOX SPORTS YES HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12856
-#EXTINF:-1,US: FOX WAGA ATL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12855
-#EXTINF:-1,US: FOX WBFF BAL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12854
-#EXTINF:-1,US: FOX WDCA WDC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12853
-#EXTINF:-1,US: FOX WFTC MIN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12852
-#EXTINF:-1,US: FOX WFXT BOS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12851
-#EXTINF:-1,US: FOX WJBK DET HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12850
-#EXTINF:-1,US: FOX WJW CLA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12849
-#EXTINF:-1,US: FOX WJZY CHA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12848
-#EXTINF:-1,US: FOX WLUK GBA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12847
-#EXTINF:-1,US: FOX WOGX GAI HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12846
-#EXTINF:-1,US: FOX WPGH PIT HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12845
-#EXTINF:-1,US: FOX WRBW ORL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12844
-#EXTINF:-1,US: FOX WTTG WDC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12842
-#EXTINF:-1,US: FOX WTVT TAM HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12841
-#EXTINF:-1,US: FOX WTXF PHI HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12840
-#EXTINF:-1,US: FOX WUTV BUF HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12839
-#EXTINF:-1,US: FOX WVUE NEO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12838
-#EXTINF:-1,US: FOX WXIX CIN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12837
-#EXTINF:-1,US: FUEL TV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12835
-#EXTINF:-1,US: GRIT TV Movies HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12826
-#EXTINF:-1,US: HALLMARK DRAMA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12823
-#EXTINF:-1,US: HBO (East) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12822
-#EXTINF:-1,US: HBO (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12821
-#EXTINF:-1,US: HBO 2 COMEDY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12820
-#EXTINF:-1,US: HBO 2 West FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12819
-#EXTINF:-1,US: HBO Plus West HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12818
-#EXTINF:-1,US: HBO SIGNATURE (West) FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12817
-#EXTINF:-1,US: Heart TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12816
-#EXTINF:-1,US: HIFI HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12815
-#EXTINF:-1,US: Hollywood HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12814
-#EXTINF:-1,US: Key TV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12807
-#EXTINF:-1,US: Max West
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12795
-#EXTINF:-1,US: MBL Network
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12794
-#EXTINF:-1,US: MINNESOTA WILDS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12793
-#EXTINF:-1,US: MIRACLE CHANNEL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12792
-#EXTINF:-1,US: MISSION TV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12791
-#EXTINF:-1,US: MLB Live HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12790
-#EXTINF:-1,US: MovieMax FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12787
-#EXTINF:-1,US: MoviePlex FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12786
-#EXTINF:-1,US: MY 13 (Los Angeles)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12784
-#EXTINF:-1,US: Nashville News Channel 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12782
-#EXTINF:-1,US: NASHVILLE PREDATORS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12781
-#EXTINF:-1,US: NBC 4 (Los Angeles) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12774
-#EXTINF:-1,US: NBC 4 (New York) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12773
-#EXTINF:-1,US: NBC 4 D.C. HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12772
-#EXTINF:-1,US: NBC 4 LOS ANGELES HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12771
-#EXTINF:-1,US: NBC 4 News (KNBC-TV)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12770
-#EXTINF:-1,US: NBC 5 (CHICAGO) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12769
-#EXTINF:-1,US: NBC 5 (Dallas) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12768
-#EXTINF:-1,US: NBC 6 (Miami) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12767
-#EXTINF:-1,US: NBC 7 (San Diego) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12766
-#EXTINF:-1,US: NBC ATLANTA HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12760
-#EXTINF:-1,US: NBC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12759
-#EXTINF:-1,US: NBC Los Angeles FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12758
-#EXTINF:-1,US: NBC SPORTS CALIFORNIA  HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12756
-#EXTINF:-1,US: NBC SPORTS NEW ENGLAND FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12754
-#EXTINF:-1,US: NBC SPORTS PHILLY HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12753
-#EXTINF:-1,US: NBC4 New York News (WNBC-TV)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12752
-#EXTINF:-1,US: NBC5 News (WMAQ-TV)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12751
-#EXTINF:-1,US: NBCSN (Philly) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12750
-#EXTINF:-1,US: NBCSN FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12749
-#EXTINF:-1,US: NBCSN WASHINGTON  HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12746
-#EXTINF:-1,US: NBCSN WASHINGTON HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12747
-#EXTINF:-1,US: NETWORK
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12744
-#EXTINF:-1,US: NEW YORK RANGERS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12742
-#EXTINF:-1,US: NEWS 12 (BROOKLYN) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12741
-#EXTINF:-1,US: NFL Channel HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12730
-#EXTINF:-1,US: NFL NETWORK (24/7 Coverage)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12700
-#EXTINF:-1,US: NFL NOW FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12695
-#EXTINF:-1,US: NFL RED ZONE (WATCH MULTIPLE GAMES)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12691
-#EXTINF:-1,US: NHL NETWORK HD (24/7 Coverage)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12670
-#EXTINF:-1,US: NRL 24/7
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12669
-#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12668
-#EXTINF:-1,US: NURSERY RYHMES (KIDS SONGS)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12667
-#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12666
-#EXTINF:-1,US: OLYMPIC CHANNEL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12665
-#EXTINF:-1,US: OuterMax FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12664
-#EXTINF:-1,US: OWN FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12662
-#EXTINF:-1,US: PAC-12 ARIZONA FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12660
-#EXTINF:-1,US: PAC-12 BAY AREA FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12659
-#EXTINF:-1,US: PAC-12 OREGON FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12656
-#EXTINF:-1,US: PAC-12 WASHINGTON FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12655
-#EXTINF:-1,US: PAG HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12654
-#EXTINF:-1,US: PARAMOUNT NETWORK FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12652
-#EXTINF:-1,US: PBS KIDS 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12651
-#EXTINF:-1,US: PBS KIDS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12650
-#EXTINF:-1,US: PEOPLE TV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12649
-#EXTINF:-1,US: Prime Pacific
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12647
-#EXTINF:-1,US: PURSUIT CHANNEL
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12645
-#EXTINF:-1,US: RED BULL TV FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12644
-#EXTINF:-1,US: Reelz Channel HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12643
-#EXTINF:-1,US: RetroPlex HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12642
-#EXTINF:-1,US: Showtime Next HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12628
-#EXTINF:-1,US: SPIKE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12622
-#EXTINF:-1,US: Sportnet Ontario
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12621
-#EXTINF:-1,US: Sports Net One HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12620
-#EXTINF:-1,US: Sportsnet 360 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12617
-#EXTINF:-1,US: SPORTSNET LA (Los Angeles) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12616
-#EXTINF:-1,US: SportsNet ONE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12615
-#EXTINF:-1,US: Sportsnet Wold
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12614
-#EXTINF:-1,US: ST LOUIS BLUES
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12613
-#EXTINF:-1,US: Starz Black HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12611
-#EXTINF:-1,US: Starz Cinema East HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12610
-#EXTINF:-1,US: STARZ EDGE FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12606
-#EXTINF:-1,US: Starz Encore 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12604
-#EXTINF:-1,US: STARZ IN BLACK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12595
-#EXTINF:-1,US: SYFY (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12590
-#EXTINF:-1,US: TBS (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12589
-#EXTINF:-1,US: TELEMUNDO (Las Vegas) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12587
-#EXTINF:-1,US: TELEMUNDO (Miami)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12586
-#EXTINF:-1,US: THE BLAZE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12583
-#EXTINF:-1,US: The CW
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12582
-#EXTINF:-1,US: THE PUNISHER
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12580
-#EXTINF:-1,US: THE WORD NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12579
-#EXTINF:-1,US: TLC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12578
-#EXTINF:-1,US: TNT (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12574
-#EXTINF:-1,US: TSN 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12566
-#EXTINF:-1,US: TSN 3 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12565
-#EXTINF:-1,US: TSN 4 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12564
-#EXTINF:-1,US: TSN 5 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12563
-#EXTINF:-1,US: TV Land West
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12561
-#EXTINF:-1,US: TYC SPORTS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12560
-#EXTINF:-1,US: UC TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12559
-#EXTINF:-1,US: UFC 24/7
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12557
-#EXTINF:-1,US: UNIVERSO HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12555
-#EXTINF:-1,US: USA NETWORK (West) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12552
-#EXTINF:-1,US: VH1 (West)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12547
-#EXTINF:-1,US: WEATHER CHANNEL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12541
-#EXTINF:-1,US: WEATHER NATION
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12540
-#EXTINF:-1,US: WESTERNS 4 U HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12539
-#EXTINF:-1,US: WGCUO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12538
-#EXTINF:-1,US: WGN (Chicago) HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12537
-#EXTINF:-1,US: Wild HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12536
-#EXTINF:-1,US: WUSA9 Breaking News
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12533
-#EXTINF:-1,US: WWE Network HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12532
-#EXTINF:-1,US: WXXV 25 GULFPORT (MS)
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12531
-#EXTINF:-1,US: XITE HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12530
-#EXTINF:-1,US: XITE ROCK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12529
-#EXTINF:-1,CA: ABC EAST
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10751
-#EXTINF:-1,CA: ABC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10750
-#EXTINF:-1,CA: ABC WEST
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10749
-#EXTINF:-1,CA: CANAL D
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10740
-#EXTINF:-1,CA: CASA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10737
-#EXTINF:-1,CA: CBC MONTREAL
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10734
-#EXTINF:-1,CA: CBC NEWS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10733
-#EXTINF:-1,CA: CBC OTTAWA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10732
-#EXTINF:-1,CA: CBC Toronto HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10836
-#EXTINF:-1,CA: CBS EAST
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10730
-#EXTINF:-1,CA: COMEDY HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10832
-#EXTINF:-1,CA: COOKING CHANNEL
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10719
-#EXTINF:-1,CA: COTTAGE LIFE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10717
-#EXTINF:-1,CA: CPAC FRENCH
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10716
-#EXTINF:-1,CA: CPAC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10715
-#EXTINF:-1,CA: CTV 2 VANCOUVER
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10713
-#EXTINF:-1,CA: CTV TORONTO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10709
-#EXTINF:-1,CA: CTV VANCOUVER
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10708
-#EXTINF:-1,CA: CTV2 OTTAWA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10707
-#EXTINF:-1,CA: CW HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10705
-#EXTINF:-1,CA: Discovery Channel
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10702
-#EXTINF:-1,CA: Disney Channel HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10818
-#EXTINF:-1,CA: Disney Junior HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10817
-#EXTINF:-1,CA: DISNEY XD HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10816
-#EXTINF:-1,CA: E! Entertainment HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10699
-#EXTINF:-1,CA: GAMESHOW NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10686
-#EXTINF:-1,CA: GLOBAL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10683
-#EXTINF:-1,CA: GLOBAL MONTREAL HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10804
-#EXTINF:-1,CA: GLOBAL VANCOUVER
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10681
-#EXTINF:-1,CA: GOLF HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10680
-#EXTINF:-1,CA: GSN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10679
-#EXTINF:-1,CA: H2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10803
-#EXTINF:-1,CA: HBO 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10802
-#EXTINF:-1,CA: HBO 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10801
-#EXTINF:-1,CA: HGTV HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10799
-#EXTINF:-1,CA: HISTORY HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10797
-#EXTINF:-1,CA: HLN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10796
-#EXTINF:-1,CA: ICI MONTREAL
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10675
-#EXTINF:-1,CA: ICI VANCOUVER
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10674
-#EXTINF:-1,CA: Investigation Discovery
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10672
-#EXTINF:-1,CA: LCN
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10669
-#EXTINF:-1,CA: Lifetime HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10794
-#EXTINF:-1,CA: METEO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10666
-#EXTINF:-1,CA: MIRACLE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10665
-#EXTINF:-1,CA: MOI CIE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10664
-#EXTINF:-1,CA: Movietime TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10791
-#EXTINF:-1,CA: MSNBC HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10663
-#EXTINF:-1,CA: MUSIQUE PLUS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10659
-#EXTINF:-1,CA: NAT GEO Wild HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10658
-#EXTINF:-1,CA: NBA TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10657
-#EXTINF:-1,CA: NBC FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10655
-#EXTINF:-1,CA: OLN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10651
-#EXTINF:-1,CA: OMNI 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10650
-#EXTINF:-1,CA: OMNI 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10649
-#EXTINF:-1,CA: OUTDOOR LIFE NETWORK HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10647
-#EXTINF:-1,CA: OWN HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10787
-#EXTINF:-1,CA: PBS EAST
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10645
-#EXTINF:-1,CA: PBS HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10786
-#EXTINF:-1,CA: SportsNet WEST HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10772
-#EXTINF:-1,CA: SUPER ECRAN 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10769
-#EXTINF:-1,CA: SUPER ECRAN 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10768
-#EXTINF:-1,CA: SUPER ECRAN 3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10767
-#EXTINF:-1,CA: SUPER ECRAN 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10766
-#EXTINF:-1,CA: TELEMAGINO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10630
-#EXTINF:-1,CA: THE WEATHER NETWORK
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10627
-#EXTINF:-1,CA: TSN 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10761
-#EXTINF:-1,CA: TSN 2 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10760
-#EXTINF:-1,CA: TSN 5 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10757
-#EXTINF:-1,CA: TV5 QUEBEC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10620
-#EXTINF:-1,CA: TVA GATINEAU
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10619
-#EXTINF:-1,CA: TVA SPORTS
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10616
-#EXTINF:-1,CA: VIE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10613
-#EXTINF:-1,CA: VRAK TV
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10611
-#EXTINF:-1,CA: YOOPA
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10605
-#EXTINF:-1,NL | Film1 Spotlight
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8494
-#EXTINF:-1,NL | Film1 SUNDANCE
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8495
-#EXTINF:-1,NL | FOX Channel
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8496
-#EXTINF:-1,NL | Fox Sports 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8537
-#EXTINF:-1,NL | FOX Sports 1 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8533
-#EXTINF:-1,NL | FOX Sports 3 HD ( 1080P )
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8525
-#EXTINF:-1,NL | Fox Sports 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8540
-#EXTINF:-1,NL | Fox Sports 4 HD ( 1080P )
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8527
-#EXTINF:-1,NL | Fox Sports 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8541
-#EXTINF:-1,NL | Fox Sports 5 HD ( 1080P )
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8526
-#EXTINF:-1,NL | Fox Sports 6
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8542
-#EXTINF:-1,NL | HBO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8497
-#EXTINF:-1,NL | HBO 3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8498
-#EXTINF:-1,NL | HBO2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8499
-#EXTINF:-1,NL | History
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8500
-#EXTINF:-1,NL | Investigation Discovery
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8501
-#EXTINF:-1,NL | JimJam
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8502
-#EXTINF:-1,NL | Nat Geo Wild FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8531
-#EXTINF:-1,NL | National Geographic
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8504
-#EXTINF:-1,NL | National Geographic FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8530
-#EXTINF:-1,NL | NET 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8503
-#EXTINF:-1,NL | Net 5 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8529
-#EXTINF:-1,NL | Nick Jr
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8505
-#EXTINF:-1,NL | Nickelodeon
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8506
-#EXTINF:-1,NL | NPO 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8507
-#EXTINF:-1,NL | NPO 1 HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8543
-#EXTINF:-1,NL | NPO 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8508
-#EXTINF:-1,NL | NPO 2 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8544
-#EXTINF:-1,NL | NPO 3
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8509
-#EXTINF:-1,NL | NPO 3 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8545
-#EXTINF:-1,NL | RTL 4
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8510
-#EXTINF:-1,NL | RTL 4 FHD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8546
-#EXTINF:-1,NL | RTL 5
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8511
-#EXTINF:-1,NL | RTL 5 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8547
-#EXTINF:-1,NL | RTL 7
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8512
-#EXTINF:-1,NL | RTL 7 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8548
-#EXTINF:-1,NL | RTL 8
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8513
-#EXTINF:-1,NL | RTL 8 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8549
-#EXTINF:-1,NL | RTL lounge
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8514
-#EXTINF:-1,NL | SBS 6
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8515
-#EXTINF:-1,NL | SBS 9
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8550
-#EXTINF:-1,NL | SBS6 FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8528
-#EXTINF:-1,NL | Sport 1 Voetbal
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8551
-#EXTINF:-1,NL | SYFY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8516
-#EXTINF:-1,NL | TLC
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8517
-#EXTINF:-1,NL | Veronica / Disney XD FHD 1080
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8552
-#EXTINF:-1,NL | Veronica Disney XD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8518
-#EXTINF:-1,NL | Ziggo Sport Extra1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8519
-#EXTINF:-1,NL | Ziggo Sport Golf
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8521
-#EXTINF:-1,NL | Ziggo Sport Racing
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8522
-#EXTINF:-1,GR | BLUE SKY
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8731
-#EXTINF:-1,GR | DIKTYO
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8735
-#EXTINF:-1,GR | E
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8736
-#EXTINF:-1,GR | Ept 1
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8738
-#EXTINF:-1,GR | Ept 2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8739
-#EXTINF:-1,GR | Ert HD
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8741
-#EXTINF:-1,GR | ERT2
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8742
-#EXTINF:-1,GR | Extra Channel
-http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/8747
+#EXTINF:0,Deportes - Gol Tv Spain
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/21
+#EXTINF:0,Deportes - Golf Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/18
+#EXTINF:0,Deportes - Monterrico TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/17
+#EXTINF:0,Deportes - Movistar Formula 1 HD Spain
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/15
+#EXTINF:0,Deportes - Movistar Futbol Spain
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/14
+#EXTINF:0,Deportes - Movistar Golf Spain
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/12
+#EXTINF:0,Deportes - Movistar MotoGT Spain
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/13
+#EXTINF:0,Deportes - Nba TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/11
+#EXTINF:0,Deportes - Teletrak TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/9
+#EXTINF:0,Deportes - TNT Sports Argentina
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/7
+#EXTINF:0,Deportes - Todo Deportes TV (TDTV)
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/6
+#EXTINF:0,Deportes - TVC Deportes
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/5
+#EXTINF:0,Deportes - TyC Sports
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/4
+#EXTINF:0,Deportes - Univision UDN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/8
+#EXTINF:0,Deportes - VTV (Uruguay)
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/3
+#EXTINF:0,Deportes - Win Sports
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/2
+#EXTINF:0,Deportes - Win Sports HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1
+#EXTINF:0,Entretenimiento - A&E
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/132
+#EXTINF:0,Entretenimiento - AMC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/133
+#EXTINF:0,Entretenimiento - AXN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/130
+#EXTINF:0,Entretenimiento - Az Corazon
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/111
+#EXTINF:0,Entretenimiento - Azteca 7
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/75
+#EXTINF:0,Entretenimiento - Azteca Cinema
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/62
+#EXTINF:0,Entretenimiento - Azteca Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/67
+#EXTINF:0,Entretenimiento - Azteca Uno
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/83
+#EXTINF:0,Entretenimiento - Canal 5 Mexico
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/68
+#EXTINF:0,Entretenimiento - Caracol HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/137
+#EXTINF:0,Entretenimiento - Cine Dinamita
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/73
+#EXTINF:0,Entretenimiento - Cine Latino
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/72
+#EXTINF:0,Entretenimiento - Cinecanal
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/129
+#EXTINF:0,Entretenimiento - Cinemax
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/127
+#EXTINF:0,Entretenimiento - Comedy Central
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/106
+#EXTINF:0,Entretenimiento - De Pelicula
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/91
+#EXTINF:0,Entretenimiento - DHE
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/90
+#EXTINF:0,Entretenimiento - Distrito Comedia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/61
+#EXTINF:0,Entretenimiento - El financiero bloomberg
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/88
+#EXTINF:0,Entretenimiento - Entertainment E!
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/102
+#EXTINF:0,Entretenimiento - Fox
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/110
+#EXTINF:0,Entretenimiento - Fox Life
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/96
+#EXTINF:0,Entretenimiento - Fox Premium Action
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/117
+#EXTINF:0,Entretenimiento - Fox Premium Cinema
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/116
+#EXTINF:0,Entretenimiento - Fox Premium Classics
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/115
+#EXTINF:0,Entretenimiento - Fox Premium Comedy
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/114
+#EXTINF:0,Entretenimiento - Fox Premium Family
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/121
+#EXTINF:0,Entretenimiento - Fox Premium Movies
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/120
+#EXTINF:0,Entretenimiento - Fox Premium Series
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/122
+#EXTINF:0,Entretenimiento - France 24
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/86
+#EXTINF:0,Entretenimiento - Frecuencia Latina
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/60
+#EXTINF:0,Entretenimiento - FX
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/101
+#EXTINF:0,Entretenimiento - FX Movies (FXM)
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/134
+#EXTINF:0,Entretenimiento - GalaVision
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/64
+#EXTINF:0,Entretenimiento - Glitz
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/70
+#EXTINF:0,Entretenimiento - Golden
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/126
+#EXTINF:0,Entretenimiento - Golden Edge
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/74
+#EXTINF:0,Entretenimiento - Golden Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/94
+#EXTINF:0,Entretenimiento - HBO
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/125
+#EXTINF:0,Entretenimiento - HBO 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/124
+#EXTINF:0,Entretenimiento - HBO Family
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/123
+#EXTINF:0,Entretenimiento - HBO Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/119
+#EXTINF:0,Entretenimiento - HBO Signature
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/118
+#EXTINF:0,Entretenimiento - Hola TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/105
+#EXTINF:0,Entretenimiento - I.sat
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/87
+#EXTINF:0,Entretenimiento - Max Prime
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/113
+#EXTINF:0,Entretenimiento - Max Prime Este
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/84
+#EXTINF:0,Entretenimiento - Max Up
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/112
+#EXTINF:0,Entretenimiento - Multipremier
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/71
+#EXTINF:0,Entretenimiento - Paramount Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/93
+#EXTINF:0,Entretenimiento - Pasiones
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/92
+#EXTINF:0,Entretenimiento - RCN HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/131
+#EXTINF:0,Entretenimiento - RCN Novelas
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/69
+#EXTINF:0,Entretenimiento - Sony
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/109
+#EXTINF:0,Entretenimiento - Space
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/108
+#EXTINF:0,Entretenimiento - Studio Universal
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/78
+#EXTINF:0,Entretenimiento - Sundance Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/89
+#EXTINF:0,Entretenimiento - SYFY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/79
+#EXTINF:0,Entretenimiento - Tbs Veryfunny
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/80
+#EXTINF:0,Entretenimiento - TCM
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/81
+#EXTINF:0,Entretenimiento - Teleformula
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/63
+#EXTINF:0,Entretenimiento - Telemundo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/82
+#EXTINF:0,Entretenimiento - TLC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/77
+#EXTINF:0,Entretenimiento - TNT
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/99
+#EXTINF:0,Entretenimiento - TNT Series
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/98
+#EXTINF:0,Entretenimiento - TruTV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/104
+#EXTINF:0,Entretenimiento - Unicable
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/103
+#EXTINF:0,Entretenimiento - Universal Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/97
+#EXTINF:0,Entretenimiento - Warner Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/107
+#EXTINF:0,Infantiles - Baby TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/318
+#EXTINF:0,Infantiles - Boing
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/314
+#EXTINF:0,Infantiles - Boomerang
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/320
+#EXTINF:0,Infantiles - Cartoon Network
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/329
+#EXTINF:0,Infantiles - Discovery Kids
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/317
+#EXTINF:0,Infantiles - Disney Channelhttp://server16-proveedoriptv.xyz:25461/aldair/ten1234/328
+#EXTINF:0,Infantiles - Disney Juniorhttp://server16-proveedoriptv.xyz:25461/aldair/ten1234/327
+#EXTINF:0,Infantiles - Disney XDhttp://server16-proveedoriptv.xyz:25461/aldair/ten1234/326
+#EXTINF:0,Infantiles - Natgeo Kids
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/319
+#EXTINF:0,Infantiles - Nick 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/323
+#EXTINF:0,Infantiles - Nick Jr
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/324
+#EXTINF:0,Venezuela: Televen
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/146
+#EXTINF:0,Venezuela: TVes
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/145
+#EXTINF:0,Venezuela: Venevision
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/144
+#EXTINF:0,Venezuela: Venevision Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/143
+#EXTINF:0,Venezuela: VPI TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/141
+#EXTINF:0,Colombia -  Cali Tv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/365
+#EXTINF:0,Colombia -  Canal CNC Medellin
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/367
+#EXTINF:0,Colombia -  Canal Uno HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/380
+#EXTINF:0,Colombia -  City Tv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/383
+#EXTINF:0,Colombia -  CosmoVision
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/372
+#EXTINF:0,Colombia -  El Tiempo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/374
+#EXTINF:0,Colombia -  NTN24
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/376
+#EXTINF:0,Colombia -  Red  Tv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/373
+#EXTINF:0,Colombia -  Senal Colombia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/375
+#EXTINF:0,Colombia -  Teleamiga
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/366
+#EXTINF:0,Colombia -  TeleAntioquia
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/379
+#EXTINF:0,Colombia -  Telecafe
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/377
+#EXTINF:0,Colombia -  TeleCaribe
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/371
+#EXTINF:0,Colombia -  TeleCaribe Deportes
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/370
+#EXTINF:0,Colombia -  TeleMedellin
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/378
+#EXTINF:0,Colombia -  TeleVid
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/368
+#EXTINF:0,Colombia -  Trece HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/381
+#EXTINF:0,Colombia - Cablenoticias
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/384
+#EXTINF:0,Entretenimiento - Food Network
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/361
+#EXTINF:0,Culturales - Animal Planet
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/445
+#EXTINF:0,Culturales - Azteca Mundo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/444
+#EXTINF:0,Culturales - Discovery Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/443
+#EXTINF:0,Culturales - Discovery Civilization
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/441
+#EXTINF:0,Culturales - Discovery Home & Health
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/426
+#EXTINF:0,Culturales - Discovery Home and Health
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/440
+#EXTINF:0,Culturales - Discovery Science
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/437
+#EXTINF:0,Culturales - Discovery Theater
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/439
+#EXTINF:0,Culturales - Discovery Travel & Living (TLC)
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/442
+#EXTINF:0,Culturales - Discovery Turbo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/438
+#EXTINF:0,Culturales - Discovery World
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/436
+#EXTINF:0,Culturales - DW
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/432
+#EXTINF:0,Culturales - El Gourmet
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/427
+#EXTINF:0,Culturales - H2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/431
+#EXTINF:0,Culturales - History Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/430
+#EXTINF:0,Culturales - Investigation Discovery
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/435
+#EXTINF:0,Culturales - Mas Chic
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/428
+#EXTINF:0,Culturales - Natgeo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/434
+#EXTINF:0,Culturales - Natgeo Wild
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/433
+#EXTINF:0,Entretenimiento - TL Novela
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/387
+#EXTINF:0,Deportes - UFC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/560
+#EXTINF:0,Argentina - C5N
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/527
+#EXTINF:0,Argentina - Canal 4 Esquel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/553
+#EXTINF:0,Argentina - Canal 4 Jujuy
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/541
+#EXTINF:0,Argentina - Canal 7 Mendoza
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/556
+#EXTINF:0,Argentina - Canal 9 Salta
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/543
+#EXTINF:0,Argentina - Canal Rural
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/534
+#EXTINF:0,Argentina - Canal Rural 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/551
+#EXTINF:0,Argentina - Canal Trece 13
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/536
+#EXTINF:0,Argentina - CN3 Pinamar
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/554
+#EXTINF:0,Argentina - El Garage TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/540
+#EXTINF:0,Argentina - Kzo TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/530
+#EXTINF:0,Argentina - Telemax
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/539
+#EXTINF:0,Argentina - TN Buenos Aires
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/525
+#EXTINF:0,Argentina - TR Telered
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/552
+#EXTINF:0,Argentina - Trece Max
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/544
+#EXTINF:0,Argentina - TV Publica
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/524
+#EXTINF:0,ENCODER-AMC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/572
+#EXTINF:0,ENCODER-CARACOLHD2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/569
+#EXTINF:0,ENCODER-CARACOLINTERNACIONAL
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/573
+#EXTINF:0,ENCODER-DISCOVERYKIDS
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/571
+#EXTINF:0,Encoder - Discovery Theater
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/585
+#EXTINF:0,ENCODER-ESPNPLUS
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/567
+#EXTINF:0,Encoder - FOX Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/588
+#EXTINF:0,ENCODER-FOXACTION
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/564
+#EXTINF:0,ENCODER-FOXCOMEDY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/565
+#EXTINF:0,ENCODER-FOXLIFE
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/583
+#EXTINF:0,Encoder - FOX Series
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/584
+#EXTINF:0,Encoder- Directv Sport 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/570
+#EXTINF:0,ENCODER- FXM
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/563
+#EXTINF:0,Encoder - HBO
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/587
+#EXTINF:0,Encoder - HBO 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/578
+#EXTINF:0,ENCODER-HBOFAMILY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/566
+#EXTINF:0,ENCODER-HBOPLUS
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/568
+#EXTINF:0,Encoder - HBO Signature
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/586
+#EXTINF:0,ENCODER-MAX
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/582
+#EXTINF:0,ENCODE-MAXPRIME
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/577
+#EXTINF:0,ENCODER-MAXUP
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/561
+#EXTINF:0,ENCODER-NATGEOWILD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/581
+#EXTINF:0,Encoder - Nick Jr.
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/575
+#EXTINF:0,Encoder - RCN HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/576
+#EXTINF:0,Encoder - RCN HD2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/579
+#EXTINF:0,ENCODER-STUDIOUNIVERSAL
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/562
+#EXTINF:0,ENCODER-SYFY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/574
+#EXTINF:0,Musicales - Htv
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/615
+#EXTINF:0,Noticias - BBC World
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/604
+#EXTINF:0,Noticias - CNN en Espanol
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/608
+#EXTINF:0,Noticias - CNN Iinternacional
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/609
+#EXTINF:0,Noticias - Fox News
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/613
+#EXTINF:0,Noticias - HLN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/614
+#EXTINF:0,Spain - Antena 3 Internacional
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/603
+#EXTINF:0,Uruguay - Montecarlo TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/715
+#EXTINF:0,Colombia - Dia TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/610
+#EXTINF:0,Colombia - Euro Channel
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/612
+#EXTINF:0,Deportes - Espn Deportes
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/626
+#EXTINF:0,Deportes - Fox Deportes
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/627
+#EXTINF:0,Deportes - Televisa Deportes Network TDN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/625
+#EXTINF:0,Encoder - DIRECTV Sports + Plus
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/718
+#EXTINF:0,Encoder - DIRECTV Sports 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/719
+#EXTINF:0,Encoder - Espn +
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/720
+#EXTINF:0,ENCODER-ESPN3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/721
+#EXTINF:0,Entretenimiento - Telemundo NY
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/619
+#EXTINF:0,USA -  NBA TV HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/873
+#EXTINF:0,USA - A&E HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/895
+#EXTINF:0,USA - ABC HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/882
+#EXTINF:0,USA - ABC News HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/883
+#EXTINF:0,USA - AMC HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/862
+#EXTINF:0,USA - Animal Planet HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/924
+#EXTINF:0,USA - Baby Songs
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/910
+#EXTINF:0,USA - Bein Sports USA HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/950
+#EXTINF:0,USA - Bloomberg Europe
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/923
+#EXTINF:0,USA - BNN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/922
+#EXTINF:0,USA - Boomerang
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/921
+#EXTINF:0,USA - Bravo HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/884
+#EXTINF:0,USA - CBS
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/885
+#EXTINF:0,USA - CBSN HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/864
+#EXTINF:0,USA - Cinemax Action Max East
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/952
+#EXTINF:0,USA - Cinemax East
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/953
+#EXTINF:0,USA - Cinemax MoreMax
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/919
+#EXTINF:0,USA - CNBC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/865
+#EXTINF:0,USA - CNN USA HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/909
+#EXTINF:0,USA - Comedy Central HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/886
+#EXTINF:0,USA - Discovery Science HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/954
+#EXTINF:0,USA - DIY Network
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/955
+#EXTINF:0,USA - DW
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/867
+#EXTINF:0,USA - E!
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/946
+#EXTINF:0,USA - ESPN
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/896
+#EXTINF:0,USA - ESPN 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/929
+#EXTINF:0,USA - ESPN HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/888
+#EXTINF:0,USA - ESPN News USA HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/908
+#EXTINF:0,USA - ESPN U HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/907
+#EXTINF:0,USA - Fight HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/868
+#EXTINF:0,USA - Fine Living
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/916
+#EXTINF:0,USA - Food Network HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/956
+#EXTINF:0,USA - FOX News HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/889
+#EXTINF:0,USA - Fox Sports 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/897
+#EXTINF:0,USA - Fox Sports 506 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/930
+#EXTINF:0,USA - FX HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/957
+#EXTINF:0,USA - H2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/958
+#EXTINF:0,USA - Hallmark
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/959
+#EXTINF:0,USA - HBO Comedy
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/869
+#EXTINF:0,USA - HBO HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/870
+#EXTINF:0,USA - HBO Signature
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/871
+#EXTINF:0,USA - HBO Zone
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/872
+#EXTINF:0,USA - History HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/890
+#EXTINF:0,USA - Investigation Discovery
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/891
+#EXTINF:0,USA - MLB Network
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/931
+#EXTINF:0,USA - MSNBC HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/932
+#EXTINF:0,USA - MY9 TV
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/911
+#EXTINF:0,USA - National Geographic
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/960
+#EXTINF:0,USA - NBC
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/913
+#EXTINF:0,USA - NBC Golf
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/892
+#EXTINF:0,USA - NFL Network HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/899
+#EXTINF:0,USA - NHL Network(1)
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/933
+#EXTINF:0,USA - Pac12 Arizona
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/900
+#EXTINF:0,USA - Pac12 Bay Area
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/901
+#EXTINF:0,USA - Pac12 Los Angeles
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/902
+#EXTINF:0,USA - Pac12 Oregon
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/903
+#EXTINF:0,USA - Pac12 Washington
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/904
+#EXTINF:0,USA - SEC Network
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/934
+#EXTINF:0,USA - Showtime HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/875
+#EXTINF:0,USA - Showtime West
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/876
+#EXTINF:0,USA - Spike HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/961
+#EXTINF:0,USA - Sportsnet 360 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/936
+#EXTINF:0,USA - Starz Cinema
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/877
+#EXTINF:0,USA - Starz Comedy
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/878
+#EXTINF:0,USA - Starz East
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/879
+#EXTINF:0,USA - Starz Edge HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/962
+#EXTINF:0,USA - Starz Encore
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/880
+#EXTINF:0,USA - TBS HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/935
+#EXTINF:0,USA - Tennis Channel HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/881
+#EXTINF:0,USA - TLC HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/905
+#EXTINF:0,USA - TNT HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/894
+#EXTINF:0,USA - TSN 1
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/937
+#EXTINF:0,USA - TSN 2
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/938
+#EXTINF:0,USA - TSN 3
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/939
+#EXTINF:0,USA - TSN 4 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/940
+#EXTINF:0,USA - USA Network HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/963
+#EXTINF:0,USA - WWE HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/906
+#EXTINF:0,Deportes - Bein Sport 1 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1045
+#EXTINF:0,Deportes - Bein Sport 10 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1054
+#EXTINF:0,Deportes - Bein Sport 2 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1046
+#EXTINF:0,Deportes - Bein Sport 3 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1047
+#EXTINF:0,Deportes - Bein Sport 4 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1048
+#EXTINF:0,Deportes - Bein Sport 5 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1049
+#EXTINF:0,Deportes - Bein Sport 6 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1050
+#EXTINF:0,Deportes - Bein Sport 7 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1051
+#EXTINF:0,Deportes - Bein Sport 8 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1052
+#EXTINF:0,Deportes - Bein Sport 9 HD
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1053
+
+#EXTINF:0,USA - NBC Universo
+http://server16-proveedoriptv.xyz:25461/aldair/ten1234/1360
+#EXTINF:-1,|AR| BEIN SPORTS 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2826
+#EXTINF:-1,|AR| BEIN SPORTS 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2827
+#EXTINF:-1,|AR| BEIN SPORTS 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2828
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2829
+#EXTINF:-1,|AR| BEIN SPORTS 5
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2830
+#EXTINF:-1,|AR| BEIN SPORTS 6
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2831
+#EXTINF:-1,|AR| BEIN SPORTS 7
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2832
+#EXTINF:-1,|AR| BEIN SPORTS 8
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2833
+#EXTINF:-1,|AR| BEIN SPORTS 9
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2834
+#EXTINF:-1,|AR| BEIN SPORTS 10
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/2835
+#EXTINF:-1,|AR| BEIN SPORTS 11 UK
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9817
+#EXTINF:-1,|AR| BEIN SPORTS 12 UK
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9818
+#EXTINF:-1,|AR| BEIN SPORTS 13 UK
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9819
