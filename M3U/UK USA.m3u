@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:0,BT Sport 1  chelsea vs man city
-http://103.194.171.37/vvv/s100/index.m3u8
-#EXTINF:0,BEINSPORT 11 EN
-http://live.mypeercast.com/hls/VRiUgp9UdJa/index.m3u8?st=0RqBEvzQVxVEXA2y2aIMaw&e=1544309856
-#EXTINF:0,BT SPORT HD CHELSEA VS MAN CITY
-https://hls305304.r-cdn.com/trn_61806/385/720p/playlist.m3u8
-#EXTINF:0,
 
+#EXTINF:0,Skyscraper
+https://d1.viduplayer.com/movies/tt5758778.mp4
 #EXTINF:0,
