@@ -4,4 +4,12 @@
 http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=agKkRRLG0ofTj3G5L7O8lw&e=1544302129
 #EXTINF:0,Manchester United vs Fulham  stream 2
 https://cdn.hdcast.me/live/Th1Tl5P3Lm20181107/chunks.m3u8?nimblesessionid=7317416&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE4IDI6NTI6MjQgUE0maGFzaF92YWx1ZT13Y1hFUk1ZTjhBbUpQTWJRN2hyUGxRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0,Manchester United vs Fulham  stream 3
+#EXTINF:0,TSN  stream 3
+https://neostream001.azureedge.net/640b58ec-74f3-4422-94d6-d75ff3dbe7a8/dc9039bb-5110-4694-a3a1-dd5a177b8b27.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
+
+#EXTINF:0,
