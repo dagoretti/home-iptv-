@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1   LIVE Everton vs Watford
+#EXTINF:-1   LIVE Everton vs Watford   NBCSN
 http://173.249.45.4/hls/toxicpatatnbcsn.m3u8
+#EXTINF:-1   LIVE Everton vs Watford   SKY MAIN EVENT 
+http://live.mypeercast.com/hls/1UuQChKSGPUn/index.m3u8?st=EbvQYWiMmtNZvow7NiHmGQ&e=1544489897
+#EXTINF:-1 Everton FC vs Watford FC | English | SKYSPORTS
+https://live.cdn.asset.aparat.com/c3733cb45a16939364a9cb1782abd527/eventhls/ee3bd0b607f912d0e6a6ac9a3fbff2f09_720p/index.m3u8
