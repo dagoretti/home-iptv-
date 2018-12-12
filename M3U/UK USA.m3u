@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1   LIVE Everton vs Watford   NBCSN
-https://cdn.hdcast.me/live/KmMR5ygyqE20181129/chunks.m3u8?nimblesessionid=7715311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA4OjIwOjA3IFBNJmhhc2hfdmFsdWU9Q0hjT1R6d2lGK2dnQTZPRlJPY1BiZz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1   LIVE Everton vs Watford   SKY MAIN EVENT 
-http://live.mypeercast.com/hls/1UuQChKSGPUn/index.m3u8?st=EbvQYWiMmtNZvow7NiHmGQ&e=1544489897
-#EXTINF:-1 Everton FC vs Watford FC | English | SKYSPORTS
-https://live.cdn.asset.aparat.com/c3733cb45a16939364a9cb1782abd527/eventhls/ee3bd0b607f912d0e6a6ac9a3fbff2f09_720p/index.m3u8
+#EXTINF:-1   LIVE -Real Madrid vs CSKA Moscow UEFA Champions League 
+https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=YDlLpuMfJYrYx1wC3pjkPw&e=1544660370
+#EXTINF:-1   LIVE  Viktoria Plzeň vs Roma | ENGLISH | BT ESPN 
+https://hls305304.r-cdn.com/trn_61804/383/720p/playlist.m3u8
+#EXTINF:-1 
