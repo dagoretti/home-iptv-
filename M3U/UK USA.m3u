@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1   LIVE -Real Madrid vs CSKA Moscow UEFA Champions League 
 https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=YDlLpuMfJYrYx1wC3pjkPw&e=1544660370
-#EXTINF:-1   LIVE  Viktoria Plzeň vs Roma | ENGLISH | BT ESPN 
-http://ul.cdn584.net:8080/hls/p724u.m3u8?s=oHzHdjie5UmJGxKfXqne2w&e=1544661191
-#EXTINF:-1 
+#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League
+https://hls305304.r-cdn.com/trn_61805/387/720p/playlist.m3u8
+#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
+https://ul.cdn584.net:8443/hls/zfazbc217u3b.m3u8?s=tsCJ-_E5O2g36mV3WL-8JA&e=1544662780
+#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:3
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=-jZTjk2cUxxMB5ZZDH-f3w&e=1544662895
+#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:4
+https://p16.quest123.top:8088/live/fffsport/playlist.m3u8?id=103899&wowzasessionid=7877716866&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:-1   LIVE  [20:00 GMT] Manchester City vs 1899 Hoffenheim LINK:1
+https://p01.quest123.top:8088/live/fffsport/playlist.m3u8?id=103899&wowzasessionid=3882971350&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:-1   LIVE   [20:00 GMT] Manchester City vs 1899 Hoffenheim LINK:2
+https://e11.weplaylive.stream/stream/824988b12e0e9358-be0f66c06f037c16f3389569e0cc46b904fe4146c9372c19d071b53395a0a380b05dcd45154b707bbf1ed0ed224f95957ead8bb2516b4930ee02e8a1e474839f/master.m3u8
+#EXTINF:-1   LIVE   [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:5
+https://ssl2.cdn4.us/ingest011/31212.m3u8?sf=N1IyU1RvdFN1Ng==&token=PYsqdpd9fVRXXFlui3ej8g&expires=1544650011&rnd=31212
+#EXTINF:-1   LIVE   [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:6
+https://cdn2.hdstreams.xyz/live/ch3/index.m3u8
+#EXTINF:-1    LIVE   [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:7
+http://ul.cdn584.net:8080/hls/3uswa0e.m3u8?s=O8-77W5gCX0UAIa5n0th6Q&e=1544664960
