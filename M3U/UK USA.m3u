@@ -1,9 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:1
-https://neostream444.azureedge.net/efdef8ec-a27e-4367-b42f-6f8a31cc14b5/c5c94455-09c2-4de1-8811-4dba0ed359b0.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
-#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
-https://cdn.hdcast.me/live/wpbrEuejOf20180806/chunks.m3u8?nimblesessionid=8159605&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAxOCA5OjAwOjU3IFBNJmhhc2hfdmFsdWU9UmxlRXpNRmxXWlRoajhKOUltT0p2UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1   NBCSN SPORT USA 2
+https://hls.ustreamix.com/NBC-Sports-Network.m3u8?token=bbf-a56-900-bfc-e69-6ee-2db-b3f-afe-dd3-71f-f9c-109-8c5-72f-032-efc-ce8-5cb-94e-41b-0
+#EXTINF:-1   NBCSN SPORT USA
+https://cdn.hdcast.me/live/Oc3Qn1c0YE20180806/chunks.m3u8?nimblesessionid=8438339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjEwOjQxIFBNJmhhc2hfdmFsdWU9OWhkcU9zaEJDTnlwQVM4dDJiekJMdz09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
+#EXTINF:-1 sky-sports-news-live-stream
+https://cdn.hdcast.me/live/yYqaNvi8U220180806/chunks.m3u8?nimblesessionid=8438509&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjE0OjIyIFBNJmhhc2hfdmFsdWU9UGNYWHZCOGVGdXBnY0J0KzV0Y0lGUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 sky-sports-news-live-stream LINK - 2
+https://e3.livecamtv.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:-1 Sky Sports Premier League -live-stream LINK - 1
+https://hls.ustreamix.com/Sky-Sports-Premier-League.m3u8?token=1d9-1f4-b89-a0b-4d8-4ea-1ce-b61-ccf-c11-2dd-509-989-44a-fc4-cf4-49c-166-1b3-b79-cf1-0
 #EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:3
 http://31.220.0.86:8081/live/spstreambt3/chunks.m3u8?nimblesessionid=203601&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAxOCA2OjQyOjM5IFBNJmhhc2hfdmFsdWU9TzBUYm0wNkJlcVBjMit2L0svUHRDdz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1  server
