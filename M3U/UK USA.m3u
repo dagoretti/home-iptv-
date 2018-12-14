@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1   NBCSN SPORT USA 2
-https://hls.ustreamix.com/NBC-Sports-Network.m3u8?token=bbf-a56-900-bfc-e69-6ee-2db-b3f-afe-dd3-71f-f9c-109-8c5-72f-032-efc-ce8-5cb-94e-41b-0
+https://ul.cdn584.net:8443/hls/wam6q8.m3u8?s=5zym2SQDX4LHwWCPg-DMgA&e=1544836026
 #EXTINF:-1   NBCSN SPORT USA
 https://cdn.hdcast.me/live/Oc3Qn1c0YE20180806/chunks.m3u8?nimblesessionid=8438339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjEwOjQxIFBNJmhhc2hfdmFsdWU9OWhkcU9zaEJDTnlwQVM4dDJiekJMdz09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
 #EXTINF:-1 sky-sports-news-live-stream
