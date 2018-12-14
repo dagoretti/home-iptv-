@@ -7,4 +7,4 @@ https://cdn.hdcast.me/live/wpbrEuejOf20180806/chunks.m3u8?nimblesessionid=815960
 #EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:3
 http://31.220.0.86:8081/live/spstreambt3/chunks.m3u8?nimblesessionid=203601&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAxOCA2OjQyOjM5IFBNJmhhc2hfdmFsdWU9TzBUYm0wNkJlcVBjMit2L0svUHRDdz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1  server
-http://server.internext.tv:8080/get.php?username=gaurav&password=gaurav123&type=m3u
+
