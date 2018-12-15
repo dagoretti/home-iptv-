@@ -1,36 +1,10 @@
 #EXTM3U
-#EXTINF:-1   LIVE [15:00 GMT] Crystal Palace vs Leicester City LINK:1 us 
-http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
-#EXTINF:-1   LIVE [15:00 GMT] Crystal Palace vs Leicester City LINK:2 bein 
-http://206.72.199.138/live/cva3.m3u8
-
-
-#EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:1 us
-http://tumarc.azureedge.net/live/2/chunks.m3u8
-#EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:2 us
-https://p25.quest123.top:8088/live/sporcn00328/playlist.m3u8?id=104038&wowzasessionid=3945862157&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-
-
-#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:1 us
-http://tumarc.azureedge.net/live/3/chunks.m3u8
-#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:2 us
-http://tv.wlive.tv/tv/H5eGwOvzFT20180321/chunklist_w218940709_tkaGxzZW5kdGltZT0xNTQ0ODg5OTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Y3IxYzFyQy1WV2xLdktiQk1tdThEa05wcHh6TGRDUF9EdlNJMHB6X2hGaz0=.m3u8
-
 
 
 #EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:1 
-http://tumarc.azureedge.net/live/4/playlist.m3u8
+https://live.mypeercast.com/hls/ibrodtv5_8mfc0h60/index.m3u8?st=rfdYbbbff1jh9UGcTD4w9Q&e=1544909907
 #EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:2 
-https://p05.quest123.top:8088/live/streamrd835/playlist.m3u8?id=104032&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-
-
-#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:1 
-http://tumarc.azureedge.net/live/5/chunks.m3u8
-#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:2 
-http://ul.cdn584.net:8080/hls/2dbrbt50ibw21jq.m3u8?s=pEUCQcwyzxdHpVu0xfxORA&e=1544907482
-#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:3
-https://ssl5.cdn4.us/ingest09/30567.m3u8?sf=Vm5tOGY5TUFJVA==&token=uUE04gbrJisQvjJSq9xEqg&expires=1544893370&rnd=30567
-
+http://194.67.208.149/hls/107.m3u8
 
 #EXTINF:-1   LIVE Fulham vs West Ham United Live LINK:5 us
 http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
