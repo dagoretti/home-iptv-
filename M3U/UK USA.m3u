@@ -1,32 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1   BT SPORT 1 
-http://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w1084562434_tkaGxzZW5kdGltZT0xNTQ0ODE4NjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Tk80S092XzRXVnJuQUdSdkhnc0xzeHRodzVkbkZseENYUnZaWGhGMVczcz0=.m3u8
-#EXTINF:-1   NBCSN SPORT USA 2
-https://ul.cdn584.net:8443/hls/wam6q8.m3u8?s=5zym2SQDX4LHwWCPg-DMgA&e=1544836026
-#EXTINF:-1   NBCSN SPORT USA
-https://cdn.hdcast.me/live/Oc3Qn1c0YE20180806/chunks.m3u8?nimblesessionid=8438339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjEwOjQxIFBNJmhhc2hfdmFsdWU9OWhkcU9zaEJDTnlwQVM4dDJiekJMdz09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
-#EXTINF:-1 sky-sports-news-live-stream
-https://cdn.hdcast.me/live/yYqaNvi8U220180806/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA3OjExOjA2IFBNJmhhc2hfdmFsdWU9Q2tCUUlVMzZLRnJLd0R2MlNqT0Fwdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 sky-sports-news-live-stream LINK - 1
-http://103.252.220.42:8081/live/ssnews/chunks.m3u8?nimblesessionid=2516894&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA2OjU0OjQwIFBNJmhhc2hfdmFsdWU9WnFuNm9wb09iUGUvTkxNWWhGYmE2Zz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:-1 sky-sports-news-live-stream LINK - 2
-https://e3.livecamtv.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
-#EXTINF:-1 sky-sports-news-live-stream LINK - 3
-https://e23.livecamtv.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
-#EXTINF:-1 Sky Sports Premier League -live-stream LINK - 1 uk
-http://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w955527490_tkaGxzZW5kdGltZT0xNTQ0ODc3NzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9R0o5U3ZqVHdwcThKMDgwUV9zSGV0Yjh5SE5mYjNoQzRJV2czbjUxMXkxWT0=.m3u8#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:2
-https://e19.livecamtv.me/zmelive/E4vBNPXHWof3zQdr21xO/chunklist.m3u8
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:3
-http://d2vei140vevet2.cloudfront.net/live1_1080p30.m3u8
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1
-http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w548409798_tkaGxzZW5kdGltZT0xNTQ0ODc5MTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NXVPTkxPdlFyZzBwOUdZVzEzNHdXVlFfRUFRUVNRcDh5SkE4dDJYdi1Yaz0=.m3u8
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1
-https://e21.livecamtv.me/zmelive/E4vBNPXHWof3zQdr21xO/chunklist.m3u8
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1 uk
-http://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w1999250724_tkaGxzZW5kdGltZT0xNTQ0ODc5NDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Nnc4ZDhkaS1ZN1kwUFBoRFZ6NHY4SHFBSWpybkFjY1duY1NidmtYZnYtbz0=.m3u8
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:4 us
-http://103.252.220.42:8081/live/hdq1/chunks.m3u8?nimblesessionid=2810446&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxOCAxMDowOTozOCBBTSZoYXNoX3ZhbHVlPUhld2M2WHY4WkxDRmYwait6RDNId1E9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1 us
+https://hls.ustreamix.com/NBC-Sports-Network.m3u8?token=9fa-467-d45-04e-14b-9a0-d23-d43-f2c-d26-bcb-426-88e-2f3-ec3-abd-c4a-6d4-a39-aaa-45b-4
+#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:2 us
+http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w1744011827_tkaGxzZW5kdGltZT0xNTQ0ODgwOTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9MjkzNnhYNGFIYkFuOHJnQ2hfU2pwUWh3T2JsemZTRkNaOUJ2MENMaDUybz0=.m3u8
 #EXTINF:-1  server
 
