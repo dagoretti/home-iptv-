@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1 us
-https://hls.ustreamix.com/NBC-Sports-Network.m3u8?token=9fa-467-d45-04e-14b-9a0-d23-d43-f2c-d26-bcb-426-88e-2f3-ec3-abd-c4a-6d4-a39-aaa-45b-4
+#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1 uk
+https://ssl1.cdn4.us/ingest09/27345.m3u8?sf=U0IyMkViNzJqQw==&token=0BfadGtgGzzeRm5qMqFmpQ&expires=1544885674&rnd=27345
 #EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:2 us
 http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w1744011827_tkaGxzZW5kdGltZT0xNTQ0ODgwOTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9MjkzNnhYNGFIYkFuOHJnQ2hfU2pwUWh3T2JsemZTRkNaOUJ2MENMaDUybz0=.m3u8
 #EXTINF:-1  server
