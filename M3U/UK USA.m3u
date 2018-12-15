@@ -1,6 +1,33 @@
 #EXTM3U
-#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:1 uk
-http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=2912735&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxOCAxMTo0ODo0NCBBTSZoYXNoX3ZhbHVlPVJoTm9PU2RIMTNwb3ZOYktwZ09CR2c9PSZ2YWxpZG1pbnV0ZXM9MTIw#EXTINF:-1   LIVE  Manchester City vs Everton FC Live LINK:2 us
-http://play.cyclingentertainment.stream/hls/nbcsn.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Crystal Palace vs Leicester City LINK:1 us 
+http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Crystal Palace vs Leicester City LINK:2 bein 
+http://206.72.199.138/live/cva3.m3u8
+
+#EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:1 us
+http://tumarc.azureedge.net/live/2/chunks.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:2 us
+https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=S5z4vGei2V-bqXzIUnedqw&expires=1544892965&rnd=27358
+
+#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:1 us
+http://tumarc.azureedge.net/live/3/chunks.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:2 us
+
+#EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:1 
+http://tumarc.azureedge.net/live/4/playlist.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:2 
+https://ssl1.cdn4.us/ingest09/30569.m3u8?sf=alJvMEdlYzk0bA==&token=sTmaEGUIXYy4p6i5Ler7Rw&expires=1544893260&rnd=30569
+
+#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:1 
+http://tumarc.azureedge.net/live/5/chunks.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:2 
+http://ul.cdn584.net:8080/hls/2dbrbt50ibw21jq.m3u8?s=pEUCQcwyzxdHpVu0xfxORA&e=1544907482
+#EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:3
+https://ssl5.cdn4.us/ingest09/30567.m3u8?sf=Vm5tOGY5TUFJVA==&token=uUE04gbrJisQvjJSq9xEqg&expires=1544893370&rnd=30567
+
+
+#EXTINF:-1   LIVE Fulham vs West Ham United Live LINK:5 us
+http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
+#EXTINF:-1   LIVE Huddersfield Town vs Newcastle United Live LINK:2 us
 #EXTINF:-1  server
 
