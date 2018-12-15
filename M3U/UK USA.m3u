@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1   BT SPORT 1 
+http://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w1084562434_tkaGxzZW5kdGltZT0xNTQ0ODE4NjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Tk80S092XzRXVnJuQUdSdkhnc0xzeHRodzVkbkZseENYUnZaWGhGMVczcz0=.m3u8
 #EXTINF:-1   NBCSN SPORT USA 2
 https://ul.cdn584.net:8443/hls/wam6q8.m3u8?s=5zym2SQDX4LHwWCPg-DMgA&e=1544836026
 #EXTINF:-1   NBCSN SPORT USA
 https://cdn.hdcast.me/live/Oc3Qn1c0YE20180806/chunks.m3u8?nimblesessionid=8438339&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjEwOjQxIFBNJmhhc2hfdmFsdWU9OWhkcU9zaEJDTnlwQVM4dDJiekJMdz09JnZhbGlkbWludXRlcz0yMA==#EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:2
 #EXTINF:-1 sky-sports-news-live-stream
-https://cdn.hdcast.me/live/yYqaNvi8U220180806/chunks.m3u8?nimblesessionid=8438509&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA1OjE0OjIyIFBNJmhhc2hfdmFsdWU9UGNYWHZCOGVGdXBnY0J0KzV0Y0lGUT09JnZhbGlkbWludXRlcz0yMA==
+https://cdn.hdcast.me/live/yYqaNvi8U220180806/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA3OjExOjA2IFBNJmhhc2hfdmFsdWU9Q2tCUUlVMzZLRnJLd0R2MlNqT0Fwdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 sky-sports-news-live-stream LINK - 1
+http://103.252.220.42:8081/live/ssnews/chunks.m3u8?nimblesessionid=2516894&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOCA2OjU0OjQwIFBNJmhhc2hfdmFsdWU9WnFuNm9wb09iUGUvTkxNWWhGYmE2Zz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 sky-sports-news-live-stream LINK - 2
 https://e3.livecamtv.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:-1 sky-sports-news-live-stream LINK - 3
+https://e23.livecamtv.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
 #EXTINF:-1 Sky Sports Premier League -live-stream LINK - 1
 https://hls.ustreamix.com/Sky-Sports-Premier-League.m3u8?token=1d9-1f4-b89-a0b-4d8-4ea-1ce-b61-ccf-c11-2dd-509-989-44a-fc4-cf4-49c-166-1b3-b79-cf1-0
 #EXTINF:-1   LIVE  [20:00 GMT] Valencia vs Manchester United UEFA Champions League LINK:3
