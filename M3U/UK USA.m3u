@@ -4,19 +4,26 @@ http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
 #EXTINF:-1   LIVE [15:00 GMT] Crystal Palace vs Leicester City LINK:2 bein 
 http://206.72.199.138/live/cva3.m3u8
 
+
 #EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:1 us
 http://tumarc.azureedge.net/live/2/chunks.m3u8
 #EXTINF:-1   LIVE [15:00 GMT] Tottenham vs Burnley Live LINK:2 us
-https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=S5z4vGei2V-bqXzIUnedqw&expires=1544892965&rnd=27358
+https://p25.quest123.top:8088/live/sporcn00328/playlist.m3u8?id=104038&wowzasessionid=3945862157&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+
 
 #EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:1 us
 http://tumarc.azureedge.net/live/3/chunks.m3u8
 #EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Newcastle United Live LINK:2 us
+http://tv.wlive.tv/tv/H5eGwOvzFT20180321/chunklist_w218940709_tkaGxzZW5kdGltZT0xNTQ0ODg5OTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Y3IxYzFyQy1WV2xLdktiQk1tdThEa05wcHh6TGRDUF9EdlNJMHB6X2hGaz0=.m3u8
+
+
 
 #EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:1 
 http://tumarc.azureedge.net/live/4/playlist.m3u8
 #EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:2 
 https://ssl1.cdn4.us/ingest09/30569.m3u8?sf=alJvMEdlYzk0bA==&token=sTmaEGUIXYy4p6i5Ler7Rw&expires=1544893260&rnd=30569
+
+
 
 #EXTINF:-1   LIVE [15:00 GMT] Wolverhampton vs Bournemouth Live LINK:1 
 http://tumarc.azureedge.net/live/5/chunks.m3u8
