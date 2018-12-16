@@ -2,14 +2,7 @@
 
 #EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
 http://taum1.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
-
-#EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:1 us nbcsn
-http://ul.cdn584.net:8080/hls/a5p2x4p.m3u8?s=4p9D8IoWyw4blaJI_6xxCQ&e=1545002404
-#EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:2 uk
-https://ul.cdn584.net:8443/hls/tpeqiou.m3u8?s=SmXN2aO3dpQ29RV0zjQZYw&e=1545002502
-#EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:3 us tsn 4
-http://demo-use2.streaming.media.azure.net/e716e921-f37b-43c4-8ac0-6c1a2a47fba3/f69d0865-1e64-4f98-9594-a92528569c5d.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-
-
+#EXTINF:-1  sky sports main event 
+http://185.176.192.5:80/Johan_santana/v4ymonlek/7920?token=Q0ZdVBIME1tDVgQCUAoGAABRAQIBU1QDXl1YWlUEAlZdXFdUUwcJAlVGSRFCRkNVUl9nXFYQD1VfCglPRxRFUEo7XFFDXhNTVlBSBQQQHRJHW1VQEAgEV1IMAFpWVQYCFEZFXAVGC0NTU10ABBAdElZKTFBAXFQOOVxcFQwCUxcCCkBZDUgTDg87AVZcU19UEQgaBRAeFwsVSBtZRyJZWFURW1wVHREnCAYXVhF+WF1aRl1REB4XAA9MSwIRBBQPGlYHAlVGHUMCCxBdRUBIEgkQf3cQHhcHHkxcDRYIWVsaXhdBEkYdQwgXOkFUQUVCVlNVUEAQD0BWGhVBCABOalsLW1sEB0UIDgoWEQsQABIfEFVaXFtBDRRnSQoBQwwXCVIAAkMZ
 #EXTINF:-1  server
 
