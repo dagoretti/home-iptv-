@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
-https://e27.livecamtv.me/zmelive/APbgp8O2ixyLaklXzcVU/chunklist.m3u8
+http://94.156.175.157:8080/hls/streama78085/index.m3u8?st=0EVEwwWhjm5dPoRUSN0UaQ
 
 #EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:1 us nbcsn
 https://hls.ustreamix.com/TSN5.m3u8?token=e8d-e0f-086-e3d-f28-59c-576-152-efe-0fe-66a-9b7-b30-ecf-ebb-74a-673-ce0-e5f-8fc-485-3
