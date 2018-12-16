@@ -4,11 +4,11 @@
 http://taum1.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
 
 #EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:1 us nbcsn
-https://hls.ustreamix.com/TSN5.m3u8?token=e8d-e0f-086-e3d-f28-59c-576-152-efe-0fe-66a-9b7-b30-ecf-ebb-74a-673-ce0-e5f-8fc-485-3
+http://ul.cdn584.net:8080/hls/a5p2x4p.m3u8?s=4p9D8IoWyw4blaJI_6xxCQ&e=1545002404
 #EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:2 uk
-https://hls.ustreamix.com/Sky-Sports-Premier-League.m3u8?token=8c6-156-ebb-305-efc-fbb-ec1-37f-3df-525-57b-eff-fd8-e49-0f3-545-860-cd0-67d-e77-d09-b
+https://ul.cdn584.net:8443/hls/tpeqiou.m3u8?s=SmXN2aO3dpQ29RV0zjQZYw&e=1545002502
 #EXTINF:-1   LIVE [16:00 GMT] Liverpool vs Manchester United LINK:3 us tsn 4
-
+http://demo-use2.streaming.media.azure.net/e716e921-f37b-43c4-8ac0-6c1a2a47fba3/f69d0865-1e64-4f98-9594-a92528569c5d.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 
 
 #EXTINF:-1  server
