@@ -1,11 +1,32 @@
 #EXTM3U
-#EXTINF:-1   LIVE [15:00 GMT] Watford vs Cardiff City Live LINK:1 
-https://live.mypeercast.com/hls/ibrodtv5_8mfc0h60/index.m3u8?st=rfdYbbbff1jh9UGcTD4w9Q&e=1544909907
-#EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
-http://ul.cdn584.net:8080/hls/ahazipmhzbpdt7y.m3u8?s=Aii0CHoKZlFFfj6b5byIjw&e=1544910486
+#EXTINF:-1   LIVE [13:30 GMT] Southampton vs Arsenal Live LINK:1
+http://my.germany3dserver.com:8080/bein11/index.m3u8
+#EXTINF:-1   LIVE [13:30 GMT] Southampton vs Arsenal Live LINK:2
+https://e27.livecamtv.me/zmelive/APbgp8O2ixyLaklXzcVU/chunklist.m3u8
+#EXTINF:-1   LIVE [13:30 GMT] Southampton vs Arsenal Live LINK:3
+http://9e874ef493324e1784e20766a5e7ecd1.azureedge.net/de513699-c5a8-4707-b1e3-51b5a0e8555f/167b6cfd-e8a8-4b6e-823b-94ffe3bf7683.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:-1   LIVE [13:30 GMT] Southampton vs Arsenal Live LINK:4
+http://delikszo6wkfh.cloudfront.net/live1_1080p30.m3u8
+#EXTINF:-1   LIVE [13:30 GMT] Southampton vs Arsenal Live LINK:5 tsn 3
+http://37.48.83.12/abr_hls/abr_S-1/hls/S-1/chunks.m3u8?nimblesessionid=22482
 
-#EXTINF:-1   LIVE Fulham vs West Ham United Live LINK:5 us
-http://tumarcador0001.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
+#EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
+https://e27.livecamtv.me/zmelive/APbgp8O2ixyLaklXzcVU/chunklist.m3u8
+
+
+
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:1 us
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=LQDHJlomcsE8gYyB7qBRSg&e=1544987940
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:2 us
+http://ul.cdn584.net:8080/hls/ahazipmhzbpdt7y.m3u8?s=sN7R12mT_8ZsWNLQD4gEsQ&e=1544988038
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:3 us
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=gcJVklI_BYgzxRg8z3VNww&e=1544988177
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:4 us
+http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=818431&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAxOCAxMDo1OTo1NCBBTSZoYXNoX3ZhbHVlPTN6TmhoYW5NWHdrRGZ3Z0NvS09XZHc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:5 us
+http://delikszo6wkfh.cloudfront.net/live2_1080p30.m3u8
+#EXTINF:-1   LIVE Brighton & Hove Albion vs Chelsea Live LINK:1 us
+https://e7.livecamtv.me/zmelive/E4vBNPXHWof3zQdr21xO/chunklist.m3u8
 #EXTINF:-1   LIVE Huddersfield Town vs Newcastle United Live LINK:2 us
 #EXTINF:-1  server
 
