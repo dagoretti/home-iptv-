@@ -4,27 +4,22 @@ https://s6.stream365.live/m3u8/JD1JftV4w1erIhD2Wx3w76BSVx4wOmzjvXIvayGP9ir2/sMzq
 #EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
 http://taum1.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
 
-#EXTINF:-1   LIVE [15:00 GMT] Newcastle United vs Fulham Live LINK:1  TSN5
-https://cdn2.hdstreams.xyz/live/ch15/index.m3u8
-#EXTINF:-1   LIVE [15:00 GMT] West Ham vs Watford  Live LINK:2  spnwl
-https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=Itl4kqX6mBiR4zCsno9mkQ&expires=1545497110&rnd=27358
-#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Southampton Live LINK:3
-https://ssl3.cdn4.us/ingest09/30568.m3u8?sf=SFB3UENDbTRCNQ==&token=d3UH1xYYA3AuDankBbcJFg&expires=1545497252&rnd=30568
-#EXTINF:-1   LIVE [15:00 GMT] AFC Bournemouth vs Brighton Live LINK:4  
-http://live.mypeercast.com/hls/6V1s9Ct49hBc/index.m3u8?st=YMVerhoJWr8uZgIyeLIAAA&e=1545510813
-#EXTINF:-1   LIVE [15:00 GMT] Manchester City vs Crystal Palace Live LINK:5 nbcsn
-http://ul.cdn584.net:8080/hls/8u8acv17o.m3u8?s=oSKd8Oru4saqL072tIr1Pg&e=1545511925
-#EXTINF:-1   LIVE [15:00 GMT] Chelsea vs Leicester City  Live LINK:6  nbcsn 
-http://ul01.cdn584.net:8080/hls/5xc86.m3u8?s=UuFZrN56r32yzjkUI1gCVA&e=1545512060
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:7 nbcsn
-http://cdn1.playmystream.site:8081/live_abr/zee/live/zee_source/chunks.m3u8?nimblesessionid=31605
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:8  nbcsn 
-
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:9 nbcsn
-
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:10  nbcsn 
-
-
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:1 BT SPORT 1 UK
+http://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w2144165166_tkaGxzZW5kdGltZT0xNTQ1NTAxNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZWRxOG5MQmZNRlFwRUJsUUdEOTdjN2xIR2RCR09Pa2pRUzBaUHZIXy1MND0=.m3u8
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:1 BT SPORT 1 UK
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=5yL3eaUc7FYKPAIddYEnHQ&e=1545520054
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:1 BT SPORT 1 UK
+http://cdn2.playmystream.site:8081/live_abr/ch3/live/ch3_source/chunks.m3u8?nimblesessionid=44463
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United   Live LINK:9 NBC US
+http://26f4b121d2c14eaf83ab1c27ca466ea8.azureedge.net/efa7f15f-927e-4eb9-ac82-e0548fb8769b/2877e515-cfd6-402f-a9a5-9957399bf41b.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:10  SPNWL
+https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=8USXmkoIldiNoIy5IdVK6w&expires=1545505455&rnd=27358
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:10  SPNWL
+http://87.120.36.62:8080/hls/streama79007/index.m3u8?st=CImoDGpQSkiRjhkkdwoEbQ
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:10  SPNWL
+http://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w988322264_tkaGxzZW5kdGltZT0xNTQ1NTAxOTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bTVNTUgxd3VpcE8zckpNODdxY2FXTXpZOHNUX0tPa3BCekJXcjNLQ3laTT0=.m3u8
+#EXTINF:-1   LIVE [17:30 GMT] Cardiff City vs Manchester United  Live LINK:10  SPNWL
+http://31.220.2.149:8081/live/nJgdy22vm/chunks.m3u8?nimblesessionid=1756947&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOCAyOjUxOjM1IFBNJmhhc2hfdmFsdWU9b0ExbW14a29xWWpSUTlKVS9CdlowUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1  |UK| Sky Sports News HD 
 http://91.229.23.75:25461/Etronics_WGtHuDXP/yq8CXe9t/1661?token=QhtdVBBQEg4aVAdWVlQFAg9VCARVUgcLAgIAAVNXBwFYCgBUVlsGVwsUGBJGREFQWQxnWgcWWwgCAQdPEkEQBktmXFFBAhINAQUNEhkSR1xVBBoJUgFVDQ0OA1YCAE9BSVBRF1kaAgIOBQYSGRJWTUwESl0CWD5dUUFfAFUWWQ1MVVkZQVdea1xTWVFbVBEPGlEaH0FdEkkWDRQgX1kOFldQQUxDfllWSlMUfFxdWkFdBRofQVYITUZWQgYSDkFRCwwMF08aU1tNWEBCTBIJF38jGh9BURlNUVlFCl9aQVkbTUYXTxpZR2dEUUNBQlZUVQRKEVkWURsYFVsCSGsADFdXUFYXUV9aSxQOEgQSHxdVDlZaF1sTZkReUkEKFldVAQ8XSA==
 #EXTINF:-1  sky sports main event 
