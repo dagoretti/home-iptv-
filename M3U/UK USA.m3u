@@ -4,20 +4,20 @@ https://s6.stream365.live/m3u8/JD1JftV4w1erIhD2Wx3w76BSVx4wOmzjvXIvayGP9ir2/sMzq
 #EXTINF:-1   LIVE NBCSN  HALF TIME   Live LINK:2 
 http://taum1.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
 
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:1 nbcsn
-https://mediafusion-lh.akamaihd.net/i/Live_1@348989/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:2  spnwl
-https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=uW5dlUrZwvreGDm6vPIfgQ&expires=1545487561&rnd=27358
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:3 sky main event uk
-http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=Icahh93PoB0K1094ukXhTA&e=1545501140
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:4  sky main event uk
-https://cdn2.hdstreams.xyz/live/ch5/index.m3u8
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:5 nbcsn
-
-#EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:6  nbcsn 
-
+#EXTINF:-1   LIVE [15:00 GMT] Newcastle United vs Fulham Live LINK:1  TSN5
+https://cdn2.hdstreams.xyz/live/ch15/index.m3u8
+#EXTINF:-1   LIVE [15:00 GMT] West Ham vs Watford  Live LINK:2  spnwl
+https://ssl1.cdn4.us/ingest09/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=Itl4kqX6mBiR4zCsno9mkQ&expires=1545497110&rnd=27358
+#EXTINF:-1   LIVE [15:00 GMT] Huddersfield Town vs Southampton Live LINK:3
+https://ssl3.cdn4.us/ingest09/30568.m3u8?sf=SFB3UENDbTRCNQ==&token=d3UH1xYYA3AuDankBbcJFg&expires=1545497252&rnd=30568
+#EXTINF:-1   LIVE [15:00 GMT] AFC Bournemouth vs Brighton Live LINK:4  
+http://live.mypeercast.com/hls/6V1s9Ct49hBc/index.m3u8?st=YMVerhoJWr8uZgIyeLIAAA&e=1545510813
+#EXTINF:-1   LIVE [15:00 GMT] Manchester City vs Crystal Palace Live LINK:5 nbcsn
+http://ul.cdn584.net:8080/hls/8u8acv17o.m3u8?s=oSKd8Oru4saqL072tIr1Pg&e=1545511925
+#EXTINF:-1   LIVE [15:00 GMT] Chelsea vs Leicester City  Live LINK:6  nbcsn 
+http://ul01.cdn584.net:8080/hls/5xc86.m3u8?s=UuFZrN56r32yzjkUI1gCVA&e=1545512060
 #EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:7 nbcsn
-
+http://cdn1.playmystream.site:8081/live_abr/zee/live/zee_source/chunks.m3u8?nimblesessionid=31605
 #EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:8  nbcsn 
 
 #EXTINF:-1   LIVE [12:30 GMT] Arsenal vs Burnley   Live LINK:9 nbcsn
