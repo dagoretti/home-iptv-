@@ -1,4 +1,24 @@
 #EXTM3U
+
+#EXTINF:0,HALFTIME  / Premier League NBCSN 
+http://78.142.19.8:8080/hls/streama79344/index.m3u8?st=51q90xCYwmsXhc7tGZ2nQw
+
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  1
+https://neostreamd.azureedge.net/a28d7c3c-edfb-4be7-9746-be9aafa7eae1/4fb45b3f-a7e4-4218-9b1b-dc970c330914.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  2
+https://ul.cdn584.net:8443/hls/o0ulgwq2whv.m3u8?s=VXi4qqW8rvfSwYMEW4UfeA&e=1545852427
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  3
+https://554ccc2ad3b143db840572c343554024.azureedge.net/46ed4802-a99a-49aa-a11e-a8678de2e695/dfe65d0b-a68c-49e2-87cb-82e9814c0391.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  4
+http://1c64ce37ef3b41cbad0d2208ef7a3c5b.azureedge.net/f85fd058-85ab-4944-8a25-070a02802b6f/31895c08-4d76-4272-9e14-f4f3dd13b40e.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  5
+http://tv.wlive.tv/tv/39DJkpGlJ520180321/chunklist_w1771074546_tkaGxzZW5kdGltZT0xNTQ1ODM0MzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OFB3bGRLRldFN2JGXzY2blBHR1NoR1lLYWd3M2hzRVBCLU1JRmdWSExLcz0=.m3u8
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  6
+http://103.252.220.42:8081/live/ch15/chunks.m3u8?nimblesessionid=5831506&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOCAxMToxNzozOCBBTSZoYXNoX3ZhbHVlPWJCQW1CTzRSajVQNGJrSld1WnZ6aFE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,[15:00 GMT] Manchester United vs Huddersfield  7
+http://tv.wlive.tv/tv/39DJkpGlJ520180321/chunklist_w2032714087_tkaGxzZW5kdGltZT0xNTQ1ODM0ODQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SUliZU1odWpCNmx1dE5oTVlXak95T2xpaWxZaER2dTFKWWsxeE9fbl9qcz0=.m3u8
+
+
 #EXTINF:-1 Hope At Christmas  (Miracles of Christmas)	movie
 https://s6.stream365.live/m3u8/JD1JftV4w1erIhD2Wx3w76BSVx4wOmzjvXIvayGP9ir2/sMzqdMLb/xGJUnSD5KCiOlAYWSx4GqP31FitGbcUgi8BYkrPnG/M15/1KsC6hmqjPloTKYRwEX0cTKmrUkHglxeD22AU8OTD5zvicctG7C/b0h7pFrKGIOmrcdxwHdx9/xMfKksF7x+VlhKR8CcbSni7IqPs1xnsmPDyjaDCXy678w5fTl04pHZEooJhoxYxN0BDRmEywklHo7tNVeSjJIAvdDVDmWOUz56J9WuWUzJzh+F2ZimsuYbEygI50Am4e7rELacqzAB+GMmm+r+t5fYUYeLYfvRHTxBQZ4cz0IKhNvPg7FjJLw09vHZ52uu5ORg/gvcDS3npA+/MFJD8rARXA9GkNbb7lOAuFCOjR8G1aKrq/124wTFLlcvhLsAwa8ucKiNgA3Bcu1lw7hGS+3+7TBV57GtE0rzfi6QWWD9l2mYTpmt8OsAeFCtpe3F1I36jXCzULMScSG/1b6oYRaKrIa5RGyNfWSUmtIC1I1ESBF/C2VAHd9x/ZzGwUxRsA526A3H38FpJXH5ap2RjeQZRc4ahw01HToZOJETxw==/playlist.m3u8
 #EXTINF:-1    USA | NBCSN ʜᴅ
@@ -42,6 +62,12 @@ http://50.7.89.242:2052/memo/memo123/30396?token=QhpRURJRFFhEAwYHAgcFA19WUwUCUwp
 
 #EXTINF:0,USA (SD) | NBCSN
 http://190.2.141.125:2086/XcYTapnwtu/esuYHLvGxo/29565?token=GERQAkVZFgwUBQ1dUABQCg0NUQFdBQcBAw0ABlcBAFZUX1oHBVRSUA8TGBoWQRRcVFRrXV1EDAQIDVVRTxQQEAYUZwpSEw4UAgkGCUcZRE1cVFEWA1cDAgQOUFRWBFVPQRZRBxQLFgcFBQQKRxlEXE1NUUZXB1ppVV0VDQBTR1kNE1QPGhNbWGlVUVUEWwIbDxsEFhVEX0VBGllGIFoKFgcgVAJEVBR/WFIaGkkXBFBBS1VAXEQMFAUNV1ZBGkcADBNWF0RIFgwUZGcaSRcDQUFcWkdQCVgUCxoXF0EaRwoQOUoGRUVGU1dcUUpHD0QIFxUWWVgeaVVeVg0BAEIMDA0VGlkUAAQGFB0WVQpbD01aS2tEUAIUDBMJUF1aAEce
+#EXTINF:0,|US| NBC SPORTS NETWORK HD
+http://185.246.211.78:443/live/boualem27/boualem27/2502.ts?token=SxJcVRdQRlhAXwYABlBRAAcLVlIBVgELUldWCgNQXVAIBQMAUVsBW1MbTxdGR0JVBV9tDFMXCwsDAgcUFhBKBkJvXVBGAkZQWwlXBRcfEkQNX1dHDQQEDQMFAAAEXA5PEkBdUEYCRlFRAVUHAxEcEgFKRgBFW1BVaVZQTl0GXEEKXkFYCBRGDQxmB1BYUl5URggQVBUZE1BFQhcCFiZWDl1FWl0QQUQkC1sRUBV/WV0NRlcBFRkTW19GR1lAABtZXkVYWEgaBw0XVxdHTBEKEiNwEEkVUElNU1xGUVsLG1kSREcWSBoNET1LBkZBQVVRCVdARw0XARsaEFhZTDpaDF5eUVcQUQsMERtZFwQRHBIJXVwMQ1pDZkZbURoORwpQCAUNDUZF
+#EXTINF:0,SKY SPORTS NEWS
+https://cdn.hdcast.me/live/yYqaNvi8U220180806/chunks.m3u8?nimblesessionid=10267854&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAxOCA1OjI4OjAzIFBNJmhhc2hfdmFsdWU9anZMbWZjUlIyS21MQXpyVWxraWVSUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0,BT Sport 1
+https://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w1759396152_tkaGxzZW5kdGltZT0xNTQ1NzYyMTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9QnpCU0dGa0NWZ3JZeTlBWWhEUDVFVkF3dzk4dVFxcWgtVzJOT2FFREx0VT0=.m3u8
 
 #EXTINF:-1,Sky Sports Action
 http://sensei-iptv.cf:8000/live/leaksat/leaksat/443.ts
