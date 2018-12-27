@@ -1,21 +1,14 @@
 #EXTM3U
+#EXTINF:0,Southampton - West Ham
+http://ul.cdn584.net:8080/hls/opknwiz.m3u8?s=iUFpDuDw3LR367rwYo3hRQ&e=1545966206
+#EXTINF:0,Southampton - West Ham
+http://31.220.2.149:8081/live/hdq1/chunks.m3u8?nimblesessionid=2530820&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxOCA2OjQwOjMzIFBNJmhhc2hfdmFsdWU9OUZteVJLeGJhNFJGNHlydGZXc2ViQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,Southampton - West Ham
+http://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w2053276635_tkaGxzZW5kdGltZT0xNTQ1OTQ3NzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dlB3Ul8xb1NzZW9aRFZEWFRsM2ZPLUVpSHJYcGZaaGx3MTVSaVd0TEpSTT0=.m3u8
+#EXTINF:0,Southampton - West Ham
+https://hls.fra1.lahzecdn.com/hls/pro/1545944329RRIXPc3ad4ff4daca5dda5f2eb22a7e19a2bf/480p/480p.m3u8?source=lahzenegar_api&checksum=Kxokeuc43S6q50PBQ9k28g&format=.m3u8
 
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-https://azst-euno.streaming.media.azure.net/9fdeb02e-e4d5-4a9e-b7b3-2034d9eeab15/c6100631-4d39-492e-87e3-fb916e88c09f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-https://azst-euno.streaming.media.azure.net/9fdeb02e-e4d5-4a9e-b7b3-2034d9eeab15/c6100631-4d39-492e-87e3-fb916e88c09f.ism/QualityLevels(3500000)/Fragments(video=129194910,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=jkou37dVMefLkLOMMvfekA&e=1545864980
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=LSRVqpNnPiuMISlq0k2i1A&e=1545865958
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://live.mypeercast.com/hls/1UuQChKSGPUn/index.m3u8?st=E3qKzOyUudfK0s76Cu82Ag&e=1545865032
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://23.237.88.199:25461/live/intocable/Hp5JuXcKtR/22077.m3u8?token=HRBdWUpaEw4aCAMAUAZXBVUBAVNTUVpXDFICU1EFXVEFAAYKW1QJVQwaGRNHFhcDUV9sDQVGAlAGAwAHHBdMQQNAalFdEAsWCQkEBgBQR0oSRloJBEYCUhgRR1lUFwMQVQcBDhseE1FATFBDWgMJOVRXRQ0CARpYWkZbXBwXVlw5VlBVWFxVFgIaBRMYQAwVQBAJRiILVQ9BXV5ESRV/WwRAUBh1W1xdTF1RExhABw9EQFIQBEYCQAYKAQgSGRtRCUdbTEtLEw4af3cTGEAAHkRXXRcIC1ZADhFaA0UNGx5EW0ZnS1dCQEpdVFxREEdcEgIRSEMJWRprUFheXlBaRg9dW0sbCBMHGhQXXFsMDBJfQGwUCAAaWBYFBQEFF0Q=
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://195.181.163.79:25461/live/100/100/33880.m3u8?token=QxVbUBEKFA4XBQYEDAAEVQ5cUQQMAFcLDQtWBFFUD1YODgcEUgZTBQ0QHBRKR0FRWVRsWV0WCwoGAQhVTUZDQ11FbFgGQAwWBAUGBQ4RHxZMUF5VGw4BFRdJWQFDXhQCDwEFE05AU0xBV0JYWF9sUF1PWlNcFgtXQFVcSUMLWG9cUl5QDAYUDhcDEhobWkBEGgMRc1ZZXExbUEQcQSJfUkpSE30LD19AUFYSGhtRWkBKWEdVGw4TDAUACUdNRlVfTVlHQxtADBZycBIaG1ZLQF1XQFlWWhMDF1QDEFlGGhJRRGxDBxFCRlBTXVNLEQkWCBsfElRVSWZWVl4LBAdCWVdZQBNYQAcWGRBdWVdaR1tKZkNZXRYLGwcPCFJDGQ==
-#EXTINF:0,[17:15 GMT] Brighton vs Arsenal
-http://58b42f6c8c9bf.streamlock.net:1935/live/dcb1t/chunklist_w1366995553.m3u8
+
 #EXTINF:-1 Hope At Christmas  (Miracles of Christmas)	movie
 https://s6.stream365.live/m3u8/JD1JftV4w1erIhD2Wx3w76BSVx4wOmzjvXIvayGP9ir2/sMzqdMLb/xGJUnSD5KCiOlAYWSx4GqP31FitGbcUgi8BYkrPnG/M15/1KsC6hmqjPloTKYRwEX0cTKmrUkHglxeD22AU8OTD5zvicctG7C/b0h7pFrKGIOmrcdxwHdx9/xMfKksF7x+VlhKR8CcbSni7IqPs1xnsmPDyjaDCXy678w5fTl04pHZEooJhoxYxN0BDRmEywklHo7tNVeSjJIAvdDVDmWOUz56J9WuWUzJzh+F2ZimsuYbEygI50Am4e7rELacqzAB+GMmm+r+t5fYUYeLYfvRHTxBQZ4cz0IKhNvPg7FjJLw09vHZ52uu5ORg/gvcDS3npA+/MFJD8rARXA9GkNbb7lOAuFCOjR8G1aKrq/124wTFLlcvhLsAwa8ucKiNgA3Bcu1lw7hGS+3+7TBV57GtE0rzfi6QWWD9l2mYTpmt8OsAeFCtpe3F1I36jXCzULMScSG/1b6oYRaKrIa5RGyNfWSUmtIC1I1ESBF/C2VAHd9x/ZzGwUxRsA526A3H38FpJXH5ap2RjeQZRc4ahw01HToZOJETxw==/playlist.m3u8
 #EXTINF:-1    USA | NBCSN ʜᴅ
