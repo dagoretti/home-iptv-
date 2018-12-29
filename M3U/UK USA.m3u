@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:0, Liverpool - Arsenal / Premier League
-http://87.120.36.62:8080/hls/streama79298/index.m3u8?st=p4GrPXdFThTYUFL3KYL6fA
+https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=CKcFq2Yz8rOwbyptGFUzSg&e=1546127445
 #EXTINF:0, Liverpool - Arsenal / Premier League
-https://p15.quest123.top:8088/stream/football00228/playlist.m3u8?id=4535&wowzasessionid=3460899484&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0, Liverpool - Arsenal / Premier League
-http://103.252.220.42:8081/live/hdq1/chunks.m3u8?nimblesessionid=7332132&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxOCAyOjQ3OjAzIFBNJmhhc2hfdmFsdWU9M3Z6empTZ0s2ZnZxRkhEOHVtN1JRQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0, Liverpool - Arsenal / Premier League
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=tIxCVOMNFHOiJJ0spXfsjg&e=1546125393
-#EXTINF:0, Liverpool - Arsenal / Premier League
-http://78.142.19.8:8080/hls/streama79450/index.m3u8?st=FQpZlhYjaCmVa0hRIsnnng
-#EXTINF:0, Liverpool - Arsenal / Premier League
-http://31.220.3.192:8081/live/nCqnJDM1j/chunks.m3u8?nimblesessionid=2934296&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxOCAyOjU2OjM4IFBNJmhhc2hfdmFsdWU9NmZpYjc2ellOb2tsS3owTUlLV1JMUT09JnZhbGlkbWludXRlcz0xMjA=
-
-
+https://cdn1.hdstreams.xyz/live/ch1/index.m3u8
 
 
 
