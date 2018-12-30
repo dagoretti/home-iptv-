@@ -1,10 +1,34 @@
 #EXTM3U
-#EXTINF:0,Crystal Palace - Chelsea / Premier League
-https://c27c366f6bcd47398e1a21b83a224eee.azureedge.net/0a2fcbca-004d-43f3-bfeb-f17bd23acace/e4918148-a1f8-4b05-b9a7-9da81cd21b03.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Crystal Palace - Chelsea / Premier League
-https://p17.quest123.top:8088/live/sporcn00347/playlist.m3u8?id=104579&wowzasessionid=974187468&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,Crystal Palace - Chelsea / Premier League
-https://p17.quest123.top:8088/live/sporcn00347/playlist.m3u8?id=104579&wowzasessionid=356136497&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester City
+English Premier League
+#EXTINF:0,https://ul.cdn584.net:8443/hls/pxtq2op41mn89.m3u8?s=a4G-uFO7pwgP3vmN4q79bQ&e=1546199770
+[14:15 GMT] Southampton vs Manchester City
+#EXTINF:0,English Premier League
+http://31.220.3.192:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=3220822&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOCAxMTozNDozNSBBTSZoYXNoX3ZhbHVlPU1RRXlCalJPK3RRUi93Z0RKNDhkRmc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester City
+English Premier League
+#EXTINF:0,http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w1494021472_tkaGxzZW5kdGltZT0xNTQ2MTgxNDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RlhiU21TbzNnS191Q0gwS2xxY3Axb2RUOU85TUhZR2cwTW80d2lCajdvcz0=.m3u8
+[14:15 GMT] Southampton vs Manchester City
+#EXTINF:0,English Premier League
+http://cdn2.playmystream.site:8081/live_abr/zee/live/zee_source/chunks.m3u8?nimblesessionid=5726
+#EXTINF:0,Manchester United vs AFC Bournemouth
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=P-mOtYABShzOWEbpU4j2mw&e=1546201622
+#EXTINF:0,Manchester United vs AFC Bournemouth
+http://5bc58f09bf8c44ed83737306c19d9ef2.azureedge.net/a5d22ea2-3037-4e52-9a5c-819b4c0baeec/e62ce874-0a4a-40ad-9268-0daa9402a846.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Manchester United vs AFC Bournemouth
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/ec76ffcd22fa4edb9a76e72e25c5d541/index_1.m3u8
+#EXTINF:0,Manchester United vs AFC Bournemouth
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=P-mOtYABShzOWEbpU4j2mw&e=1546201622
+#EXTINF:0,Manchester United vs AFC Bournemouth
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=i7WYtWFACFE3Oz3RqNUKtQ&e=1546202335
+#EXTINF:0,Manchester United vs AFC Bournemouth
+http://img.foodenergy.ga/live/bein11-hq/chunks.m3u8?nimblesessionid=341113&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOCAyOjQwOjM4IFBNJmhhc2hfdmFsdWU9TUdudnJVVjlTL3NSSEQ0WGRadldRUT09JnZhbGlkbWludXRlcz02MCZpZD04NC4yNDQuMTgxLjEyMyZzdHJtX2xlbj01
+#EXTINF:0,Manchester United vs AFC Bournemouth
+https://cdn1.hdstreams.xyz/live/ch1/index.m3u8
+#EXTINF:0,Manchester United vs AFC Bournemouth
+https://hls.ustreamix.com/Sky-Sports-Premier-League.m3u8?token=ead-e23-162-71e-530-89c-6e5-d48-13b-c08-038-ebc-b9c-10a-158-fa4-262-4ac-f14-c72-676-7
+#EXTINF:0,Manchester United vs AFC Bournemouth
+https://5bc58f09bf8c44ed83737306c19d9ef2.azureedge.net/a5d22ea2-3037-4e52-9a5c-819b4c0baeec/e62ce874-0a4a-40ad-9268-0daa9402a846.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 
 
 
