@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:0,[14:15 GMT] Southampton vs Manchester City
-English Premier League
-#EXTINF:0,https://ul.cdn584.net:8443/hls/pxtq2op41mn89.m3u8?s=a4G-uFO7pwgP3vmN4q79bQ&e=1546199770
-[14:15 GMT] Southampton vs Manchester City
-#EXTINF:0,English Premier League
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester CityEnglish Premier League
+https://ul.cdn584.net:8443/hls/pxtq2op41mn89.m3u8?s=a4G-uFO7pwgP3vmN4q79bQ&e=1546199770
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester CityEnglish Premier League
 http://31.220.3.192:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=3220822&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOCAxMTozNDozNSBBTSZoYXNoX3ZhbHVlPU1RRXlCalJPK3RRUi93Z0RKNDhkRmc9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:0,[14:15 GMT] Southampton vs Manchester City
-English Premier League
-#EXTINF:0,http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w1494021472_tkaGxzZW5kdGltZT0xNTQ2MTgxNDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RlhiU21TbzNnS191Q0gwS2xxY3Axb2RUOU85TUhZR2cwTW80d2lCajdvcz0=.m3u8
-[14:15 GMT] Southampton vs Manchester City
-#EXTINF:0,English Premier League
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester CityEnglish Premier League
+http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w1494021472_tkaGxzZW5kdGltZT0xNTQ2MTgxNDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RlhiU21TbzNnS191Q0gwS2xxY3Axb2RUOU85TUhZR2cwTW80d2lCajdvcz0=.m3u8
+#EXTINF:0,[14:15 GMT] Southampton vs Manchester CityEnglish Premier League
 http://cdn2.playmystream.site:8081/live_abr/zee/live/zee_source/chunks.m3u8?nimblesessionid=5726
 #EXTINF:0,Manchester United vs AFC Bournemouth
 http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=P-mOtYABShzOWEbpU4j2mw&e=1546201622
