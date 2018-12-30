@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0, Liverpool - Arsenal / Premier League
-https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=CKcFq2Yz8rOwbyptGFUzSg&e=1546127445
-#EXTINF:0, Liverpool - Arsenal / Premier League
-https://cdn1.hdstreams.xyz/live/ch1/index.m3u8
-#EXTINF:0,halftime nbcsn  Premier League
-http://eplscdn0.azureedge.net/live/2/chunks.m3u8
+#EXTINF:0,Crystal Palace - Chelsea / Premier League
+http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=8218616&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxOCAxMDoxMjo0MiBBTSZoYXNoX3ZhbHVlPW1DYWpMemRoZFk4Q0s1RldlbzNiUEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,Crystal Palace - Chelsea / Premier League
+https://p17.quest123.top:8088/live/sporcn00347/playlist.m3u8?id=104579&wowzasessionid=974187468&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,Crystal Palace - Chelsea / Premier League
+https://p17.quest123.top:8088/live/sporcn00347/playlist.m3u8?id=104579&wowzasessionid=356136497&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
 
 
 
