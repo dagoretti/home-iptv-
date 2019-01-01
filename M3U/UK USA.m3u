@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:0,Cardiff - Tottenham / Premier League
-http://87.120.36.62:8080/hls/streama73864/index.m3u8?st=eA7tVMOeSkWtvcHNqgKtNg
-#EXTINF:0,Cardiff - Tottenham / Premier League
-http://awzasbgs4.s3-accelerate.amazonaws.com/live1.m3u8
-#EXTINF:0,Cardiff - Tottenham / Premier League
-https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=dDCa7vQ_JfFJHfguVFk-tQ&e=1546386501
-
-
-#EXTINF:-1 Hope At Christmas  (Miracles of Christmas)	movie
-https://s6.stream365.live/m3u8/JD1JftV4w1erIhD2Wx3w76BSVx4wOmzjvXIvayGP9ir2/sMzqdMLb/xGJUnSD5KCiOlAYWSx4GqP31FitGbcUgi8BYkrPnG/M15/1KsC6hmqjPloTKYRwEX0cTKmrUkHglxeD22AU8OTD5zvicctG7C/b0h7pFrKGIOmrcdxwHdx9/xMfKksF7x+VlhKR8CcbSni7IqPs1xnsmPDyjaDCXy678w5fTl04pHZEooJhoxYxN0BDRmEywklHo7tNVeSjJIAvdDVDmWOUz56J9WuWUzJzh+F2ZimsuYbEygI50Am4e7rELacqzAB+GMmm+r+t5fYUYeLYfvRHTxBQZ4cz0IKhNvPg7FjJLw09vHZ52uu5ORg/gvcDS3npA+/MFJD8rARXA9GkNbb7lOAuFCOjR8G1aKrq/124wTFLlcvhLsAwa8ucKiNgA3Bcu1lw7hGS+3+7TBV57GtE0rzfi6QWWD9l2mYTpmt8OsAeFCtpe3F1I36jXCzULMScSG/1b6oYRaKrIa5RGyNfWSUmtIC1I1ESBF/C2VAHd9x/ZzGwUxRsA526A3H38FpJXH5ap2RjeQZRc4ahw01HToZOJETxw==/playlist.m3u8
-
 #EXTINF:0,UKSP: SKY SPORTS MAIN EVENT HD
 http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=6Tj3ldeBG1
 #EXTINF:0,UKSP: SKY SPORTS NEWS HD
