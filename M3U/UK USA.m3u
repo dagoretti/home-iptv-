@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:0,Arsenal vs Fulham
-http://live.mypeercast.com/hls/zWfg3jUP6oj/index.m3u8?st=Xd_rbA4e4ker6l_I146Rzw&e=1546374193
-#EXTINF:0,Arsenal vs Fulham
-https://ul.cdn584.net:8443/hls/doc9fo3z4t.m3u8?s=vKCAfuhnJAK4p1oDsST7Tg&e=1546375329
+#EXTINF:0,Cardiff - Tottenham / Premier League
+http://87.120.36.62:8080/hls/streama73864/index.m3u8?st=eA7tVMOeSkWtvcHNqgKtNg
+#EXTINF:0,Cardiff - Tottenham / Premier League
+http://awzasbgs4.s3-accelerate.amazonaws.com/live1.m3u8
+#EXTINF:0,Cardiff - Tottenham / Premier League
+https://ul.cdn584.net:8443/hls/xgl8gck.m3u8?s=dDCa7vQ_JfFJHfguVFk-tQ&e=1546386501
 
 
 #EXTINF:-1 Hope At Christmas  (Miracles of Christmas)	movie
