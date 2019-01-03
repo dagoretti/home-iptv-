@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:0, Manchester City - Liverpool / Premier League
-http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=10457184&wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMTkgNTozNjoxOCBQTSZoYXNoX3ZhbHVlPUJHakJsbGFkMHBzcjZJUEFlMFdMV0E9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:0, Manchester City - Liverpool / Premier League
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=IQqEh8v51o0i1d0CdJIJWQ&e=1546567758
-
+#EXTINF:0,nbcsn 
+http://87.120.36.62:8080/hls/streama79433/index.m3u8?st=d_2lH7M9zIzsSD5rwFsTQQ
+#EXTINF:0,nbcsn
+http://78.142.19.8:8080/hls/streama79490/index.m3u8?st=9dAx0h6huCB1D5DSLI-R2w
 
 
 #EXTINF:0,Bein Sport SD11
