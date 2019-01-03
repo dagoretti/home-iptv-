@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,match of the day  Premier League
-http://nl.matkhau.net/live/bbcone/chunks.m3u8
+#EXTINF:0, Manchester City - Liverpool / Premier League
+http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=10457184&wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMTkgNTozNjoxOCBQTSZoYXNoX3ZhbHVlPUJHakJsbGFkMHBzcjZJUEFlMFdMV0E9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0, Manchester City - Liverpool / Premier League
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=IQqEh8v51o0i1d0CdJIJWQ&e=1546567758
 
 
 
