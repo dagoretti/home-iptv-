@@ -1,5 +1,37 @@
 #EXTM3U
-#EXTINF:0,nbcsn 
+#EXTI#EXTM3U
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=3zGTnDpRhHOJ1mwjJylrFg&e=1546707374
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://ul.cdn584.net:8443/hls/z51k8s1k.m3u8?s=PMatBpCMNiKK923Q24a1RQ&e=1546707525
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=LRu7ID0XIuTweRYuneCUXQ&e=1546711289
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://cdn1.playmystream.site:8081/live_abr/sky1/live/sky1_source/chunks.m3u8?nimblesessionid=29799&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgMTI6MDI6NDIgUE0maGFzaF92YWx1ZT1tS055OThobDRTQWRaY2xMelJTNjhBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://p04.quest123.top:8088/live/sporcn00357/playlist.m3u8?id=104818&wowzasessionid=3025743566&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://31.220.0.86:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=232901&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgOTo0MTozMyBBTSZoYXNoX3ZhbHVlPU84aFMya1RzN0pKYkJ3QVNObUJVUVE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://p29.quest123.top:8088/live/streamrd174/playlist.m3u8?id=104700&wowzasessionid=413680488&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://d253plzqdhjock.cloudfront.net/live/2/chunks.m3u8
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://31.220.3.192:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=179581&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgOTo0NjowNCBBTSZoYXNoX3ZhbHVlPVRjZFZ3QlBmSEthMmZwU2p1ZkZiMnc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://ul.cdn584.net:8080/hls/bwz6ak9bf2s.m3u8?s=RL5qncZH1JEDCFmgPjrR7Q&e=1546712005
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CvcDwke2U3gl3zHzc8CrvzEFZmbNOam8EwqNPnXEQL-dRpuqQkmOLDwA6pViibZs-yj63y2Eo1efPHFZ3Y-IfjCpS-tWQfodD8kb3e1nNu-wheq3WzsWj_096C5HCyQd0U-ngTx0KSTV4W2Ho0WMAIFTK32eUSsz9Dgmtuo0MgyhBPFvIP1T23EFEkd3w9UBR4VVXDOvaajgqDPTjttNUKHvO8So2rDfJ6SCU2OFSe_JRkpKsW5I9Ve6Pv98Z7mUTYfeGnQb5PuUdFEHe-rQlrjkmOXtfmP2ox9ZmyAflmThILbpAO02vpwBqNtWIy5x6SqIsc-V-PHPmH5tvgZ57qb8jPEgrCCHozhPPV6WifEuVAwJRH5ogq8sNkKT_j_P6T8z3jP3f2IDAWtN0jKLA6gGWZ7fL_eAuGMAwWpS-v8LlrNkKFkNKpKES9bbWhLdXXULOpg1Itvsh8sepPX6g7YSfzHaH4iIih3nZuOwOwWbTtUubJ4j3kdxBacu8NfVLH4bGQPfDUfoPeKZoQ5OJmbzJeJdZo6Wc4ohn-1aQdAqd6wDHT01xr1xvmIjMAI98NhZEjShdSl2ZX6WkTc6vMbAKnfO3lOjVClGUgqpcMjvPVfqztwV1LN0TUiIZ2JDsBlpKOAjJx67KreGH84oGGGEzJzDIi48O8ISECcDvS_Oxkv2EhmowgO5TN0aDBfSHjiiDzv5DJTYSQ.m3u8
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://neostreamen.azureedge.net/f0d3fa7e-42a2-459d-b712-7f34afd3a825/379694e5-8ad8-42bc-8f9f-b0a11c7b7185.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+http://cdn-hw.aliez.me/hls/streama79466/index.m3u8
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://cdn2.hdstreams.xyz/live/ch2/index.m3u8
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://e11.weplaylive.stream/stream/2eaf0e84cc5480d0-bab94e518b80d0e53a0f8c0e5471c6fbf895b7cf3005ce3e6d8317b177022fb90cee4629dd4d9e792be01fe8fdd50baf3b1b9c3b2ad313704136acdd02f7a1c4/master.m3u8
+#EXTINF:0,[12:30 GMT] Manchester United vs Reading
+https://e3.livecamtv.me/zmelive/lXn260mykReUBIuWCaiN/chunklist.m3u8NF:0,nbcsn 
 http://87.120.36.62:8080/hls/streama79433/index.m3u8?st=d_2lH7M9zIzsSD5rwFsTQQ
 #EXTINF:0,nbcsn
 http://78.142.19.8:8080/hls/streama79490/index.m3u8?st=9dAx0h6huCB1D5DSLI-R2w
