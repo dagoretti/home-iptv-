@@ -9,15 +9,14 @@ http://31.220.2.57:8081/live/spstream4/chunks.m3u8?nimblesessionid=238746&wmsAut
 http://tv.wlive.tv/tv/btxwjKRY3Y20180321/chunklist_w1182441935_tkaGxzZW5kdGltZT0xNTQ2NzAyOTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bGFaYi1VNGFFR2lrV3FMdDIwa1F1NVBLa1MtT21mdy1xOUNWMU9qbGliZz0=.m3u8
 #EXTINF:0, Everton - Lincoln City / FA Cup / Third Round
 http://cdn2.playmystream.site:8081/live_abr/ch3/live/ch3_source/chunks.m3u8?nimblesessionid=16581&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgMjo1Nzo1MSBQTSZoYXNoX3ZhbHVlPU1VV0pCVmhQOFZPRHVOZktjalhGN2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTg4LjI0MS4xMDcuNDUmc3RybV9sZW49OQ==
-#EXTINF:0,/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Derby County - Southampton / FA Cup
-#EXTINF:0,http://31.220.0.194:8081/live/nCPezBH23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgMTI6MzQ6MjcgUE0maGFzaF92YWx1ZT1TTWp3bWtqNnJ6RVVRZFlaUjJjVHB3PT0mdmFsaWRtaW51dGVzPTEyMA==
-Derby County - Southampton / FA Cup
-#EXTINF:0,http://ul.cdn584.net:8080/hls/fwh545k.m3u8?s=vnUtZi9x5BGyRI863V49YA&e=1546722064
-Derby County - Southampton / FA Cup
-#EXTINF:0,https://p05.quest123.top:8088/live/zz777/playlist.m3u8?id=104712&wowzasessionid=3374021197&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
- BT SPORT LIVE FA CUP RESULTS 
-#EXTINF:0,http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=5Ee3pnZUMq4NchPVA7Xj3g&e=1546722383
+#EXTINF:0,Derby County - Southampton / FA Cup
+http://31.220.0.194:8081/live/nCPezBH23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMTkgMTI6MzQ6MjcgUE0maGFzaF92YWx1ZT1TTWp3bWtqNnJ6RVVRZFlaUjJjVHB3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Derby County - Southampton / FA Cup
+http://ul.cdn584.net:8080/hls/fwh545k.m3u8?s=vnUtZi9x5BGyRI863V49YA&e=1546722064
+#EXTINF:0,Derby County - Southampton / FA Cup
+https://p05.quest123.top:8088/live/zz777/playlist.m3u8?id=104712&wowzasessionid=3374021197&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0, BT SPORT LIVE FA CUP RESULTS 
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=5Ee3pnZUMq4NchPVA7Xj3g&e=1546722383
 
 #EXTINF:0,nbcsn 
 http://87.120.36.62:8080/hls/streama79433/index.m3u8?st=d_2lH7M9zIzsSD5rwFsTQQ
