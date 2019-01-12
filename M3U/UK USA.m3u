@@ -1,3 +1,20 @@
+#EXTM3U
+#EXTINF:0,West Ham United vs Arsenal
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=_Pku7M1oxDOABu7vRzfRRg&e=1547321769
+#EXTINF:0,West Ham United vs Arsenal
+https://p15.quest123.top:8088/live/streamrd181/playlist.m3u8?id=105022&wowzasessionid=3817068971&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,West Ham United vs Arsenal
+https://baldycdnnnn.azureedge.net/4f962cdc-deba-45a3-bfe3-49563bdbbbc0/654b07cf-39f0-4c39-93ad-57d4080865d7.ism/manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
+#EXTINF:0,West Ham United vs Arsenal
+https://ssl3.cdn4.us/ingest01/31209.m3u8?sf=ZXhiTGN2TUpDZA==&token=s3p5kV7gOHki3-qM-ijvtg&expires=1547307917&rnd=31209
+#EXTINF:0,West Ham United vs Arsenal
+http://cdn1.playmystream.site:8081/live_abr/zee/live/zee_720p/chunks.m3u8?nimblesessionid=59453&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE5IDE6NDY6MTEgUE0maGFzaF92YWx1ZT05Z3ZabnRzWnY4a1pSRURlckJNUGZ3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
+#EXTINF:0,West Ham United vs Arsenal
+http://cdn2.soccerfree.icu/live/ch6/index.m3u8
+#EXTINF:0,West Ham United vs Arsenal
+http://185.39.11.109:8081/live/nbcsportsnew.m3u8?e=1547333321&st=VknuhUZMHu_uZTJZ0UcuKw
+
+
 #EXTINF:0,AR: beIN SPORTS 11 HD
 http://212.232.31.20:25461/live/pay4iptv/OovQKViJrC/10782.ts?token=TxtZVBVYFVhHUgQBUQkAV1IAUAQOVwEBAgcDCgZSVAlRD1MNA1FWVgAWShtDREYGVgs6WV1BCVQEVV4BGkQRQ1FLblwCEg1AVgdUGxwSQApaA0cKCFYHUwxbVAMCUkgSRFBVF1wSAVdSDEQVElVMF1IUC1FVPFcAQgsFVhRcCkVYVR0XCV5oBgBZB1dUEg5BBkRJElAQQ0cOQCVcWwsRXl1NSBUgWVUQABQqUF1ZQAZTREkSWwpHF1UWAxEMRFUIBA0TGURTWBcLQBRAEgoWJHVESRJcG0cAWhEPXFhEXhJAShMZRFlEPRdRFU1CVVUOUhRHChtTEUkWDwdLaQULXlpcUkEPX1kRRw5EAQASGEFaCQtZTQxBOkQLAhEMRFUCDA0TSA==
 #EXTINF:0,(AR) BEIN SPORTS 11 HD
