@@ -1,18 +1,11 @@
 #EXTM3U
-#EXTINF:0,West Ham United vs Arsenal
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=_Pku7M1oxDOABu7vRzfRRg&e=1547321769
-#EXTINF:0,West Ham United vs Arsenal
-https://p15.quest123.top:8088/live/streamrd181/playlist.m3u8?id=105022&wowzasessionid=3817068971&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,West Ham United vs Arsenal
-https://baldycdnnnn.azureedge.net/4f962cdc-deba-45a3-bfe3-49563bdbbbc0/654b07cf-39f0-4c39-93ad-57d4080865d7.ism/manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
-#EXTINF:0,West Ham United vs Arsenal
-https://ssl3.cdn4.us/ingest01/31209.m3u8?sf=ZXhiTGN2TUpDZA==&token=s3p5kV7gOHki3-qM-ijvtg&expires=1547307917&rnd=31209
-#EXTINF:0,West Ham United vs Arsenal
-http://cdn1.playmystream.site:8081/live_abr/zee/live/zee_720p/chunks.m3u8?nimblesessionid=59453&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE5IDE6NDY6MTEgUE0maGFzaF92YWx1ZT05Z3ZabnRzWnY4a1pSRURlckJNUGZ3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
-#EXTINF:0,West Ham United vs Arsenal
-http://cdn2.soccerfree.icu/live/ch6/index.m3u8
-#EXTINF:0,West Ham United vs Arsenal
-http://185.39.11.109:8081/live/nbcsportsnew.m3u8?e=1547333321&st=VknuhUZMHu_uZTJZ0UcuKw
+#EXTINF:0,Leicester City - Southampton / Premier League
+https://ul.cdn584.net:8443/hls/chwonpp83.m3u8?s=0GDNjbBAPB1iOm4pZ-vgfQ&e=1547328245
+#EXTINF:0,Leicester City - Southampton / Premier League
+https://cdn.hdcast.me/live/3i61PH9IME20181029/chunks.m3u8?nimblesessionid=12431401&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE5IDM6MjU6NDAgUE0maGFzaF92YWx1ZT1KR2tFNGJ1WXVZb0MwZm1FUEhxdXp3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Burnley - Fulham / Premier League
+http://cdn-hw.aliez.me/hls/streama80025/index.m3u8
+
 #EXTINF:0,BT SPORT 1 score centre 
 https://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w470909200_tkaGxzZW5kdGltZT0xNTQ3MzA4MTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9QTB2d2l3a2xlbTdnYlZsUnhHbVoteDU4TC1ySFBBSm1PaGxnd1MyYktDWT0=.m3u8
 
