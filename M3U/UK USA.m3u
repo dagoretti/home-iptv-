@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:0,Leicester City - Southampton / Premier League
-https://ul.cdn584.net:8443/hls/chwonpp83.m3u8?s=0GDNjbBAPB1iOm4pZ-vgfQ&e=1547328245
-#EXTINF:0,Leicester City - Southampton / Premier League
-https://cdn.hdcast.me/live/3i61PH9IME20181029/chunks.m3u8?nimblesessionid=12431401&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDE5IDM6MjU6NDAgUE0maGFzaF92YWx1ZT1KR2tFNGJ1WXVZb0MwZm1FUEhxdXp3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:0,Burnley - Fulham / Premier League
-http://cdn-hw.aliez.me/hls/streama80025/index.m3u8
-
-#EXTINF:0,Premier League / halftime  nbcsn 
-https://p15.quest123.top:8088/live/sporcn00370/playlist.m3u8?id=105029&wowzasessionid=3412313672&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,BT SPORT 1 score centre 
-https://tv.wlive.tv/tv/PPRh154UUz20180321/chunklist_w470909200_tkaGxzZW5kdGltZT0xNTQ3MzA4MTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9QTB2d2l3a2xlbTdnYlZsUnhHbVoteDU4TC1ySFBBSm1PaGxnd1MyYktDWT0=.m3u8
-
+#EXTINF:0,Everton vs Bournemouth
+https://ul.cdn584.net:8443/hls/wam6q8.m3u8?s=3Ef7qU-DZaay2fMRusud6w&e=1547404027
+#EXTINF:0,Everton vs Bournemouth
+http://31.220.2.57:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=985363&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE5IDExOjM3OjE3IEFNJmhhc2hfdmFsdWU9akJmRHNtU21sMUVVbERaZlFTaCtmQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,Everton vs Bournemouth
+http://ul.cdn584.net:8080/hls/opknwiz.m3u8?s=S4kNQn_IxMnvcZROPsmnIQ&e=1547409876
+#EXTINF:0,Everton vs Bournemouth
+http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w66825465_tkaGxzZW5kdGltZT0xNTQ3MzkxMzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9X1JxVVdjcng2Ry1EYmlNVFlaeEFTcC1ZdXM3emxXYm12WE5UX0xkUHh0bz0=.m3u8
+#EXTINF:0,Everton vs Bournemouth
+https://fc.tumarcador.xyz/live/2/chunks.m3u8
+#EXTINF:0,Everton vs Bournemouth
+https://livegpscdnn.azureedge.net/f4b1b2f7-05a3-4dee-badd-4bbc79a20dde/f931d803-353c-4f66-97d8-549b4c850416.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Everton vs Bournemouth
+http://cdn1.playmystream.site:8081/live_abr/sky1/live/sky1_source/chunks.m3u8?nimblesessionid=66352&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE5IDI6MTA6MjQgUE0maGFzaF92YWx1ZT00UHQrc3FhS2FHa0luTlJrMHJLSUx3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
+#EXTINF:0,Everton vs Bournemouth
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=ZbQBwqwSm7XcErw4ES2lsQ&e=1547410259
 
 #EXTINF:0,AR: beIN SPORTS 11 HD
 http://212.232.31.20:25461/live/pay4iptv/OovQKViJrC/10782.ts?token=TxtZVBVYFVhHUgQBUQkAV1IAUAQOVwEBAgcDCgZSVAlRD1MNA1FWVgAWShtDREYGVgs6WV1BCVQEVV4BGkQRQ1FLblwCEg1AVgdUGxwSQApaA0cKCFYHUwxbVAMCUkgSRFBVF1wSAVdSDEQVElVMF1IUC1FVPFcAQgsFVhRcCkVYVR0XCV5oBgBZB1dUEg5BBkRJElAQQ0cOQCVcWwsRXl1NSBUgWVUQABQqUF1ZQAZTREkSWwpHF1UWAxEMRFUIBA0TGURTWBcLQBRAEgoWJHVESRJcG0cAWhEPXFhEXhJAShMZRFlEPRdRFU1CVVUOUhRHChtTEUkWDwdLaQULXlpcUkEPX1kRRw5EAQASGEFaCQtZTQxBOkQLAhEMRFUCDA0TSA==
