@@ -10,7 +10,7 @@ http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=bRpnzcT-l4QOVyT5B-sbAQ&e=1547514410
 #EXTINF:0,Manchester City - Wolverhampton / Premier League
 http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=dYGoLOVmwbtln1wukyWi3A&e=1547513257
 #EXTINF:0,Manchester City - Wolverhampton / Premier League
-https://neostreamml.azureedge.net/c8b74ab9-967c-4d6d-b9c6-da8d2a91c17e/154fce0c-b35f-499b-89b2-ea3566be86f3.ism/Manifest(video,format=m3u8-aapManchester City - Wolverhampton / Premier Leaguel-v3,audiotrack=audio).m3u8
+https://neostreamml.azureedge.net/c8b74ab9-967c-4d6d-b9c6-da8d2a91c17e/154fce0c-b35f-499b-89b2-ea3566be86f3.ism/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
 #EXTINF:0,Manchester City - Wolverhampton / Premier League
 http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=Rm4knQLfim1SG_2vhFn7aA&e=1547512811
 #EXTINF:0,Manchester City - Wolverhampton / Premier League
@@ -29,7 +29,24 @@ http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=o43k2Ty-7LmkwVx6R9Sgwg&e=1547515203
 http://31.220.2.57:8081/live/spstreamskymv/chunks.m3u8?nimblesessionid=1251437&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE5IDQ6NTc6MTcgUE0maGFzaF92YWx1ZT1sRlJZaDM1bi8wR2xVZVVnY0RlRVVBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,Manchester City - Wolverhampton / Premier League
 https://p05.quest123.top:8088/live/socolive20038/playlist.m3u8?id=104930&wowzasessionid=714112695&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://cdn.vercanalestv.xyz/live/t2/chunks.m3u8
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://103.194.171.84:8081/abr_hls/abr_Stream-1/hls/Stream-1_source/chunks.m3u8?nimblesessionid=1513107&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE5IDc6MzY6MDAgUE0maGFzaF92YWx1ZT1lbjJieHZWRit2VmtObU53bFhNQmR3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://neostreamz3.azureedge.net/733ef287-6b59-4f9f-988a-af809a93cbf6/be3e7e8c-64c0-4df7-82e3-5953de832b63.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://cdn.vercanalestv.xyz/live/2/chunks.m3u8
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://neostreamz3.azureedge.net/733ef287-6b59-4f9f-988a-af809a93cbf6/be3e7e8c-64c0-4df7-82e3-5953de832b63.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://easy.azureedge.net/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio).m3u8
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=2683909&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE5IDU6MjM6MzkgUE0maGFzaF92YWx1ZT1kUktqelREOEJFMHp5R0hYMThSbU5BPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul.cdn584.net:8080/hls/lw1hcsv3j7cpm.m3u8?s=P6R3tzlIVBKjOI-XhbMznw&e=1547517108
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://ssl1.cdn4.us/ingest09/27345.m3u8?sf=U0IyMkViNzJqQw==&token=JqYD2XGkqTiM_zvuzDC9tA&expires=1547502801&rnd=27345
 
 
 #EXTINF:0,AR: beIN SPORTS 11 HD
