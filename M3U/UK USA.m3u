@@ -1,24 +1,36 @@
 #EXTM3U
-#EXTINF:0,Everton vs Bournemouth
-https://ul.cdn584.net:8443/hls/wam6q8.m3u8?s=3Ef7qU-DZaay2fMRusud6w&e=1547404027
-#EXTINF:0,Everton vs Bournemouth
-http://31.220.2.57:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=985363&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE5IDExOjM3OjE3IEFNJmhhc2hfdmFsdWU9akJmRHNtU21sMUVVbERaZlFTaCtmQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,Everton vs Bournemouth
-http://ul.cdn584.net:8080/hls/opknwiz.m3u8?s=S4kNQn_IxMnvcZROPsmnIQ&e=1547409876
-#EXTINF:0,Everton vs Bournemouth
-http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w66825465_tkaGxzZW5kdGltZT0xNTQ3MzkxMzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9X1JxVVdjcng2Ry1EYmlNVFlaeEFTcC1ZdXM3emxXYm12WE5UX0xkUHh0bz0=.m3u8
-#EXTINF:0,Everton vs Bournemouth
-https://fc.tumarcador.xyz/live/2/chunks.m3u8
-#EXTINF:0,Everton vs Bournemouth
-https://livegpscdnn.azureedge.net/f4b1b2f7-05a3-4dee-badd-4bbc79a20dde/f931d803-353c-4f66-97d8-549b4c850416.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Everton vs Bournemouth
-http://cdn1.playmystream.site:8081/live_abr/sky1/live/sky1_source/chunks.m3u8?nimblesessionid=66352&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE5IDI6MTA6MjQgUE0maGFzaF92YWx1ZT00UHQrc3FhS2FHa0luTlJrMHJLSUx3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
-#EXTINF:0,Everton vs Bournemouth
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=ZbQBwqwSm7XcErw4ES2lsQ&e=1547410259
-#EXTINF:0, Everton vs Bournemouth 
-https://ul.cdn584.net:8443/hls/r36m5dl9a.m3u8?s=hyEZ5zOSfIF0clW2yvmfQQ&e=1547410360
-#EXTINF:0, Everton vs Bournemouth 
-https://ul.cdn584.net:8443/hls/tpeqiou.m3u8?s=8OHWQ8eBafTIYdb3RxA-7w&e=1547410493
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=F2BNyFl5D_9khj57msiZbA&e=1547515576
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://ul.cdn584.net:8443/hls/u2a7n3ymo3zf.m3u8?s=67dlT3D8rfAeZsAyHhGmOw&e=1547514922
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul01.cdn584.net:8080/hls/650ts2vo.m3u8?s=GbzkLQ65Qtk5SpW6eK4Cng&e=1547514857
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=bRpnzcT-l4QOVyT5B-sbAQ&e=1547514410
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=dYGoLOVmwbtln1wukyWi3A&e=1547513257
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://neostreamml.azureedge.net/c8b74ab9-967c-4d6d-b9c6-da8d2a91c17e/154fce0c-b35f-499b-89b2-ea3566be86f3.ism/Manifest(video,format=m3u8-aapManchester City - Wolverhampton / Premier Leaguel-v3,audiotrack=audio).m3u8
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=Rm4knQLfim1SG_2vhFn7aA&e=1547512811
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://51.15.4.204:8081/stream/snw/chunks.m3u8?nimblesessionid=6396
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://p15.quest123.top:8088/live/sport330/playlist.m3u8?id=105111&wowzasessionid=3442559772&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://ul.cdn584.net:8443/hls/419ejn26.m3u8?s=h_CtA3qQLA5le1Nbj1pIMg&e=1547514964
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://hls305304.r-cdn.com/trn_61807/381/720p/playlist.m3u8?st=GYFXDyL9cwLcfrhhashp8w&e=1547500604
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://wowzaprod100-i.akamaihd.net/hls/live/254626/f4c11159_1_2728/chunklist.m3u8
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=o43k2Ty-7LmkwVx6R9Sgwg&e=1547515203
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+http://31.220.2.57:8081/live/spstreamskymv/chunks.m3u8?nimblesessionid=1251437&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE5IDQ6NTc6MTcgUE0maGFzaF92YWx1ZT1sRlJZaDM1bi8wR2xVZVVnY0RlRVVBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Manchester City - Wolverhampton / Premier League
+https://p05.quest123.top:8088/live/socolive20038/playlist.m3u8?id=104930&wowzasessionid=714112695&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+
+
 
 #EXTINF:0,AR: beIN SPORTS 11 HD
 http://212.232.31.20:25461/live/pay4iptv/OovQKViJrC/10782.ts?token=TxtZVBVYFVhHUgQBUQkAV1IAUAQOVwEBAgcDCgZSVAlRD1MNA1FWVgAWShtDREYGVgs6WV1BCVQEVV4BGkQRQ1FLblwCEg1AVgdUGxwSQApaA0cKCFYHUwxbVAMCUkgSRFBVF1wSAVdSDEQVElVMF1IUC1FVPFcAQgsFVhRcCkVYVR0XCV5oBgBZB1dUEg5BBkRJElAQQ0cOQCVcWwsRXl1NSBUgWVUQABQqUF1ZQAZTREkSWwpHF1UWAxEMRFUIBA0TGURTWBcLQBRAEgoWJHVESRJcG0cAWhEPXFhEXhJAShMZRFlEPRdRFU1CVVUOUhRHChtTEUkWDwdLaQULXlpcUkEPX1kRRw5EAQASGEFaCQtZTQxBOkQLAhEMRFUCDA0TSA==
