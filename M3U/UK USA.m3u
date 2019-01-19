@@ -9,3 +9,13 @@ https://baldyy.azureedge.net/41145bbd-575b-4ff2-af21-abd6d2066dff/2059ce42-b4c8-
 http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=W_ljwHLkHunAujXb8IoHEw&e=1547920985
 #EXTINF:0,Wolverhampton - Leicester City / Premier League
 http://ul01.cdn584.net:8080/hls/fx3809kqd.m3u8?s=uDNLzOixkLAzQVFTI0CojA&e=1547921106
+#EXTINF:0,Wolves vs Leicester City Live Online
+https://df695e3cea58486e9635e66d9e0c2248.azureedge.net/c8ac32bf-9fba-4f9a-ae87-934208b82a7a/301ab82a-908a-4215-a318-1287d1dfd4ad.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Wolverhampton vs Leicester City
+https://cdn.vercanalestv.xyz/live/t4/chunks.m3u8
+#EXTINF:0,Wolverhampton vs Leicester City
+http://103.194.171.84:8081/abr_hls/abr_Stream-1/hls/Stream-1_source/chunks.m3u8?nimblesessionid=1616741&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDE5IDEyOjExOjU4IFBNJmhhc2hfdmFsdWU9OEtTdTB3NEg2MjBSR2N4MjYvQXc1QT09JnZhbGlkbWludXRlcz0xMCZpZD0xNDEuMTAxLjg4LjEzOSZzdHJtX2xlbj04
+#EXTINF:0,Wolverhampton vs Leicester City
+http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=3hqdNmnEcRmGMLtQG4ib6A&e=1547920580
+#EXTINF:0,Wolverhampton vs Leicester City
+https://ssl3.cdn4.us/ingest010/25501.m3u8?sf=MVNwczEwU2JE&token=1TgDaKn9ZTy9ufCUYIRdIw&expires=1547907586&rnd=25501
