@@ -1,21 +1,47 @@
 #EXTM3U
 #EXTINF:0,Wolverhampton - Leicester City / Premier League
-https://p15.quest123.top:8088/live/streamrd196/playlist.m3u8?id=105277&wowzasessionid=3920106636&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,Wolverhampton - Leicester City / Premier League
-http://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w766996200_tkaGxzZW5kdGltZT0xNTQ3OTAxNzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dzlyTThhZUhOSE9DNk93a1N1OEhUWHNZcEJINlpFeVl2NXc3TXdqZHcyUT0=.m3u8
-#EXTINF:0,Wolverhampton - Leicester City / Premier League
 https://baldyy.azureedge.net/41145bbd-575b-4ff2-af21-abd6d2066dff/2059ce42-b4c8-440e-a717-dec7e0e41b4f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Wolverhampton - Leicester City / Premier League
-http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=W_ljwHLkHunAujXb8IoHEw&e=1547920985
-#EXTINF:0,Wolverhampton - Leicester City / Premier League
-http://ul01.cdn584.net:8080/hls/fx3809kqd.m3u8?s=uDNLzOixkLAzQVFTI0CojA&e=1547921106
-#EXTINF:0,Wolves vs Leicester City Live Online
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://tv.wlive.tv/tv/H5eGwOvzFT20180321/chunklist_w232214940_tkaGxzZW5kdGltZT0xNTQ3OTAzNzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SktiUjM0NXF5SjMycXFXVVg1M1J6QW1uQnlfNGNZYi0zanZoejdvVUliVT0=.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
 https://df695e3cea58486e9635e66d9e0c2248.azureedge.net/c8ac32bf-9fba-4f9a-ae87-934208b82a7a/301ab82a-908a-4215-a318-1287d1dfd4ad.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Wolverhampton vs Leicester City
-https://cdn.vercanalestv.xyz/live/t4/chunks.m3u8
-#EXTINF:0,Wolverhampton vs Leicester City
-http://103.194.171.84:8081/abr_hls/abr_Stream-1/hls/Stream-1_source/chunks.m3u8?nimblesessionid=1616741&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDE5IDEyOjExOjU4IFBNJmhhc2hfdmFsdWU9OEtTdTB3NEg2MjBSR2N4MjYvQXc1QT09JnZhbGlkbWludXRlcz0xMCZpZD0xNDEuMTAxLjg4LjEzOSZzdHJtX2xlbj04
-#EXTINF:0,Wolverhampton vs Leicester City
-http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=3hqdNmnEcRmGMLtQG4ib6A&e=1547920580
-#EXTINF:0,Wolverhampton vs Leicester City
-https://ssl3.cdn4.us/ingest010/25501.m3u8?sf=MVNwczEwU2JE&token=1TgDaKn9ZTy9ufCUYIRdIw&expires=1547907586&rnd=25501
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://p24.quest123.top:8088/live/pp33333/playlist.m3u8?id=105286&wowzasessionid=3561513880&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://31.220.2.57:8081/live/ctvc6/chunks.m3u8?nimblesessionid=1777146&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDE5IDExOjU3OjQwIEFNJmhhc2hfdmFsdWU9aS9QNVh4LzdMWEt4a2RrbWg5azhqQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://ssl3.cdn4.us/ingest010/25510.m3u8?sf=MTBwczEwU2JE&token=pgOrG-LDYzursalKYNXFJQ&expires=1547915135&rnd=25510
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://p15.quest123.top:8088/live/pp33333/playlist.m3u8?id=105286&wowzasessionid=69628353&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://cdn-hw.aliez.me/hls/streama80354/index.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=gcL8JIzYewV5K2FM0vLQDg&e=1547929777
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://31.220.2.149:8081/live/hdq2/chunks.m3u8?nimblesessionid=1661644&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDE5IDEyOjAzOjQ3IFBNJmhhc2hfdmFsdWU9bU9mZ2NjSERaOTFvVTF2OG9RbVcvdz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://ul.cdn584.net:8080/hls/zzwa5ao.m3u8?s=hZ_vCgjT_az2FsgI-48Hxg&e=1547929982
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://cdn1.hdstreams.xyz/live/ch7/index.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://ul.cdn584.net:8080/hls/wam6q8.m3u8?s=OFqf5FlJy-D8IketcXRPPA&e=1547930229
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://cdn-1.stream88.io/hls/1d3846f2981566e5c3a98caa8f1f75f87e8c0afa_high/index.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://01dubscdn.azureedge.net/30ee7c6f-4677-4db8-bf63-5363ae8d3cef/54caa604-5c61-460e-a0cb-f65700c1639b.ism/QualityLevels(2500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://wowzaprod100-i.akamaihd.net/hls/live/254626/3d0fda00_1_1/chunklist.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://e10.livecamtv.me/zmelive/r9Dzyb1WdNiO3Bn4paXH/chunklist.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://31.220.0.86:8081/live/ch2/chunks.m3u8?nimblesessionid=1722160&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDE5IDEyOjE5OjAxIFBNJmhhc2hfdmFsdWU9UjlQckYrV3FTWTVnZHhMazZaMyttUT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+http://ul.cdn584.net:8080/hls/c1h1mgn.m3u8?s=L7hyAWt22zqzuL2UinI9Jw&e=1547930827
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://cdn.vercanalestv.xyz/live/3/chunks.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://p15.quest123.top:8088/live/ih001/playlist.m3u8?id=105239&wowzasessionid=76260041&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CokE-JGThaQ9PQx43hIadgSLarb1C34I3MX9fKNTo6iBqgLB_Fp7IjfSeRq8nsSmQGDcs0iEl-0nh5eSL1JFjE4bIGimot8a0fZggFtZnSHlf6QhiGj2o5iK2fLxUbboVpsRH5xBZSQ8UMAB5aFOgUz8sZMzRbjcYnVwLmI2MKKWkl5wZPHBUE9mZeJPtV9DAf10b0b6SWWTBmTQ5JdlNjeg1ULdc9antfwnpwMJ7GhHze9JQ1DG9t0t6413lxlxxwZ8ESsliLKxCFmP92j6DhU1eHMJbTz8Q8FE9h87KX9gcrP4HcLnT5OcY6Qir5x7ywW2NjLOxx7w7vpG5x5ZOkcUyaKoQRblkjalC3RYUyfZqa1pyKHK_pzeYDAPy6MgHklFM4z5y4mAk-cbGNELhl9jvO4V1tMIK6un_cinWItQfUBHTQfWHjUUfbg57V_xHroUummrd6mWvhOiWCfVe-9JyIHGHsFUw7cBHUn-U5KYwE4sakvSPN7V40I4ly_zBoqTR9fubMkAdhpZ78A1e6YRfBHMyzcxRu0iQiffYt--ZISKO1YrkUat2dvuFB0oATevgx7KC5OMjTMXJ3ThISNSrO1ABCeyEhG5wdAoL9NRy8DSmfdoDW0r2Io3q4DWaLLgb_Jri_XHLr5m2YuUyc1mRaymCPW0n0fd-e6oNsSieZtTyvB1rPPFQK8SEDAB3SBD6ezbZQsCJkNwrKYaDO5y3ZsCJjEnGQ9OYQ.m3u8
+#EXTINF:0,MANCHESTER UNITED VS BRIGHTON AND HOVE ALBION LIVE  
+https://cdn.vercanalestv.xyz/live/3/chunks.m3u8
