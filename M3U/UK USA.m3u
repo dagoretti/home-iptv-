@@ -1,25 +1,9 @@
 #EXTM3U
 #EXTINF:0,nbcsn / Premier League
 https://baldyy.azureedge.net/41145bbd-575b-4ff2-af21-abd6d2066dff/2059ce42-b4c8-440e-a717-dec7e0e41b4f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-https://cdn.vercanalestv.xyz/live/3/chunks.m3u8
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City 
-https://cdn.vercanalestv.xyz/live/3/chunks.m3u8
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-https://neostreamnet1.azureedge.net/b6c405ce-8167-499f-b906-ea17048f7684/0a48c470-d895-45a0-895d-ab1f4c5b8cf9.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-http://213.183.42.50/hls-live/xmlive/_definst_/2043090/2043090.m3u8?refId=31
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-http://ul.cdn584.net:8080/hls/l36y2.m3u8?s=SgL-5NIkN9AHDslriIrYZg&e=1548012590
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-https://ssl2.cdn4.us/ingest09/27346.m3u8?sf=SXBud005dUV0Mg==&token=NV_4ddqgnFKHOBKb56pLgA&expires=1547998239&rnd=27346
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-http://cdn2.playmystream.site:8081/live_abr/sky1/live/sky1_720p/chunks.m3u8?nimblesessionid=187223&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDE5IDE6MzE6MzIgUE0maGFzaF92YWx1ZT15bUQrV1NyYnl6Mmd3aHp2K1dxVytRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-https://p05.quest123.top:8088/live/streamrd850/playlist.m3u8?id=105351&wowzasessionid=718438990&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-https://ul.cdn584.net:8443/hls/cv15b.m3u8?s=PByOCGpjL95erHUT3g1QXA&e=1548013170
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-http://31.220.0.134:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=3282471&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDE5IDExOjEzOjMzIEFNJmhhc2hfdmFsdWU9b1J3WCswWng1d3lJeXdFWG5jbE5YQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,[13:30 GMT] Huddersfield Town vs Manchester City
-http://ul.cdn584.net:8080/hls/8u8acv17o.m3u8?s=G7v_VXfq3SwE5Hd3XhBk6w&e=1548013345
+#EXTINF:0,Fulham vs Tottenham
+http://sono.molay.xyz/hls/skymaineventhd71/chunks.m3u8
+#EXTINF:0,Fulham vs Tottenham
+https://livethegpcdn.azureedge.net/11492213-3d7f-46dd-97a7-15b080c451b4/6c4a1453-8f8d-4947-a59f-57a24cbb2b11.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Fulham vs Tottenham
+http://37.48.83.12:8081/abr_hls/abr_S-1/hls/S-1/chunks.m3u8?nimblesessionid=297805
