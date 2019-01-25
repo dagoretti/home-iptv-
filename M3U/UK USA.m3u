@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0,nbcsn / Premier League
-https://baldyy.azureedge.net/41145bbd-575b-4ff2-af21-abd6d2066dff/2059ce42-b4c8-440e-a717-dec7e0e41b4f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Fulham vs Tottenham
-http://sono.molay.xyz/hls/skymaineventhd71/chunks.m3u8
-#EXTINF:0,Fulham vs Tottenham
-https://livethegpcdn.azureedge.net/11492213-3d7f-46dd-97a7-15b080c451b4/6c4a1453-8f8d-4947-a59f-57a24cbb2b11.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Fulham vs Tottenham
-http://37.48.83.12:8081/abr_hls/abr_S-1/hls/S-1/chunks.m3u8?nimblesessionid=297805
+#EXTINF:0,Uk | Sky Sport News
+http://50.7.222.42:8080/halimturkay/turkayhalim/1087?token=TUcMVRAJEg4UAwMGAF0IAFkDCFIKCVUHVgQCUQUDVANSU1BXBVYGAwEWHhVATEoDAF1mCF0bC1BVWlNJFxdGUEQ6DVBBWxIFBQQEAwEaFEQVWVQEGwMAVFFaUFYGUAEDGkcUXQdDChYHAwUCAxoURARITQRLV1ANOgYBE1wBUBcMCxFYD00SW1hrVlJeWVYCQwobURsVEwgWEkZfFyFaWFsQCl0XGBByX1ZAUhN0UQsIRFwFGxUTAwwWFgRBBxcPFFdSDFNDHBZVW0dZR0pBRFsSfiMbFRMEHRYBC0YLWlsUX0ZAEEMcFl9HbUVWS0wUBFFUBEsbC0NVQEhHWANNalUKCloGAkRdWVpBFQkaCURNElQOV1BFDhc9FAxRQA8XBVRQAFpDTQ==
