@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,Newcastle - Watford / FA Cup / Fourth Round
 http://103.194.171.84:8081/abr_live/abr_Stream-1/live/Stream-1/chunks.m3u8?nimblesessionid=1953254&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDE5IDM6Mzg6MDUgUE0maGFzaF92YWx1ZT0vTDkzRXhHT292UHhXMlZYM1paSEp3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTE3Mi42OS4yMjYuNzQmc3RybV9sZW49OQ==
+#EXTINF:0,Manchester City vs Burnley / FA Cup / Fourth Round
+https://neostreamg.azureedge.net/c1f41e4e-10d8-494a-b98e-19989aa028a2/3750a26f-8be9-416e-aa3c-7edde0185639.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
