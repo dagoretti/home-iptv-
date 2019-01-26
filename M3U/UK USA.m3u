@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:0,Newcastle - Watford / FA Cup / Fourth Round
-http://103.252.220.42:8081/live/spstream5/chunks.m3u8?nimblesessionid=4199942&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDE5IDEyOjI2OjMxIFBNJmhhc2hfdmFsdWU9RVA1WFpzajJnUENUdzNweW9Nb3ZFQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,Newcastle - Watford / FA Cup / Fourth Round
-https://cdn2.hdstreams.xyz/live/ch13/index.m3u8
-#EXTINF:0,Newcastle - Watford / FA Cup / Fourth Round
-http://31.220.0.86:8081/live/nCPezBH23/chunks.m3u8?nimblesessionid=2824962&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDE5IDEyOjIxOjQzIFBNJmhhc2hfdmFsdWU9NDRUVzhKMmMwWkNjc0cxS0E1bTUwQT09JnZhbGlkbWludXRlcz0xMjA=
+http://cdn1.soccershow.club/live/ch13/index.m3u8
