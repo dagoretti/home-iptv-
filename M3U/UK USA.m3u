@@ -1,22 +1,13 @@
 #EXTM3U
 #EXTINF:0,Manchester Utd - Burnley / Premier League
-http://31.220.0.134:8081/live/hdq3/chunks.m3u8?nimblesessionid=185607&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE5IDU6MTU6NDkgUE0maGFzaF92YWx1ZT1Ma01CNkpOMTd3TENiOGRjUTV5eC9BPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-http://31.220.2.149:8081/live/ctvc1/chunks.m3u8?nimblesessionid=3156250&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE5IDU6MTg6NTggUE0maGFzaF92YWx1ZT00dktHd1JsR09RaGkxbWUydnNaTU9nPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-https://cdn.vercanalestv.xyz/live/3/playlist.m3u8
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-https://cdn.vercanalestv.xyz/live/3/chunks.m3u8
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-https://neostream00.azureedge.net/5618ed42-cca4-4a85-9beb-1dcf43aede99/70ce3faa-485d-4cba-bbb1-d390cbf8e9fe.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-https://ssl5.cdn4.us/ingest010/25506.m3u8?sf=NlNwczEwU2JE&token=hlXi2kfk43lT-1RSg9uPuQ&expires=1548798645&rnd=25506
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-http://1ddf.azureedge.net/hls/live.m3u8
-#EXTINF:0,Manchester Utd - Burnley / Premier League
 https://cdn.vercanalestv.xyz/live/2/chunks.m3u8
-#EXTINF:0,Manchester Utd - Burnley / Premier League
-https://hls.ustreamix.com/TSN-1.m3u8?token=b68-8cf-085-13e-547-0df-326-e3c-dcb-b61-cda-3bf-bdc-2e7-f75-344-098-8e4-a5e-456-b47-a
+#EXTINF:0,[20:00 GMT] Manchester United vs Burnley
+http://ul01.cdn584.net:8080/hls/pb72u.m3u8?s=lqfNpWsd8I-9d3fc9BI3cg&e=1548813874
+#EXTINF:0,[20:00 GMT] Manchester United vs Burnley
+http://buffsoccer.azureedge.net/live_abr/buff3/live/buff3_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE5IDg6MjA6NDMgUE0maGFzaF92YWx1ZT1Sc1UyZ0hqUWlzZnYvWTc0VnMza05RPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTk=
+#EXTINF:0,[20:00 GMT] Manchester United vs Burnley
+http://103.252.220.42:8081/live/spstream1/chunks.m3u8?nimblesessionid=4561320&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDE5IDU6NTU6MDYgUE0maGFzaF92YWx1ZT1XdDZ4cWwycVFwaTBCSWc4UlZkaGtBPT0mdmFsaWRtaW51dGVzPTEyMA==
+
 #EXTINF:0,beIN SPORTS HD11
 http://185.132.134.19:25461/hichem123/123hichem/3157?token=SxsKBEZdR1saVAZSAFUGVlMHBVcBW1dQBFIAVQcDVVEGCQEAVwBXBAkSGRIXRERQU1prD1xBCwAEUwYcRBcXB0JmCwEXD0dTCwgCCUYcFEFbWlFEAlIEBw1RCQZeV1BOEkkLARcPR1AAAA0BRhwUUEpDURRWAl1sUQNHWQUHRlheTA4JGRcKD2dUUF0FXlIXCBUERBRBWEBFRAsSJQ0JD0VXCxFMFSMIWkJQEChZW1xGUlBEFEFTWkEUUEQDQF5AAwBRVhcZRwJXRVtEFkkUDxBwdkQUQVRLQQNfQw8NCkAKGxYWFxlHCEtvR1UXRERQU1pRFBpZEwMXShNdBxo7AV9XDABWQQwOVkMXCkYBFBkQWlsIURdeQWoWWFREWEZaCQhaR0g=
 #EXTINF:0,Sky Sports News UK
