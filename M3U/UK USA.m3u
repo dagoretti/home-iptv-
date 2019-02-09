@@ -11,3 +11,16 @@ http://185.39.11.91/hls/skym.m3u8
 https://hls336335.r-cdn.com/trn_61801/483/playlist.m3u8?st=f8YS7dOpBcuK7j53dAwvsA&e=1549722031
 #EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
 http://31.220.3.192:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=326140&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMTkgOTo1MzoyMiBBTSZoYXNoX3ZhbHVlPXA5VlpxUnptSUhSYVd6V1FseHN0R3c9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
+https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
+https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(3500000)/Fragments(video=562585140,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
+https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(3500000)/Fragments(video=562585140,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=RSBFKOAz0cIv9866Jq2i0w&e=1549736968
+#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
+https://d1m52zz6s36x1u.cloudfront.net/live1_1080p30.m3u8
+#EXTINF:0,4[12:30 GMT] Fulham FC vs Manchester United 
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=xuHTMK5_wMb_ZrctWGMLOw&e=1549736640
