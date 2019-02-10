@@ -1,26 +1,11 @@
 #EXTM3U
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w1339964547_tkaGxzZW5kdGltZT0xNTQ5NzE0ODYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Q1BnbFhTLTNnc245NEs4X3cxMDduTEFxQ0lZdDVucWctc0ZyN3lRUHdoUT0=.m3u8
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://185.39.11.91/hls/skym.m3u8
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-https://hls336335.r-cdn.com/trn_61801/483/playlist.m3u8?st=f8YS7dOpBcuK7j53dAwvsA&e=1549722031
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://31.220.3.192:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=326140&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMTkgOTo1MzoyMiBBTSZoYXNoX3ZhbHVlPXA5VlpxUnptSUhSYVd6V1FseHN0R3c9PSZ2YWxpZG1pbnV0ZXM9MTIw
-
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(850000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(3500000)/Fragments(video=562585140,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-https://neostreamzx.azureedge.net/d9c785dc-5de0-442e-8a24-5746057fe285/66f4a2e7-34e8-4307-bebc-73f1dc53b675.ism/QualityLevels(3500000)/Fragments(video=562585140,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=RSBFKOAz0cIv9866Jq2i0w&e=1549736968
-#EXTINF:0,[12:30 GMT] Fulham FC vs Manchester United 
-https://d1m52zz6s36x1u.cloudfront.net/live1_1080p30.m3u8
-#EXTINF:0,4[12:30 GMT] Fulham FC vs Manchester United 
-http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=xuHTMK5_wMb_ZrctWGMLOw&e=1549736640
+#EXTINF:0,Manchester City vs Chelsea
+https://cdn.tumarcador.xyz/live/t4/chunks.m3u8
+#EXTINF:0,Manchester City vs Chelsea
+http://forevebiervbe.azureedge.net/r/playlist.m3u8
+#EXTINF:0,Manchester City vs Chelsea
+http://forevebiervbe.azureedge.net/r/chunks.m3u8
+#EXTINF:0,Manchester City vs Chelsea
+http://enjoyhd.azureedge.net/65dfd990-38de-4144-9454-89b10751518b/e7cc6803-215a-4872-8187-998536d970d6.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Manchester City vs Chelsea
+http://31.220.0.82:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=182555&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE5IDE6MzQ6MjggUE0maGFzaF92YWx1ZT1rWjBId2dHYWkycFpTV1JFMUFGYTZBPT0mdmFsaWRtaW51dGVzPTEyMA==
