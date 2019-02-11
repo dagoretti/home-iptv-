@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:0,Manchester City vs Chelsea
-https://cdn.tumarcador.xyz/live/t4/chunks.m3u8
-#EXTINF:0,Manchester City vs Chelsea
-http://forevebiervbe.azureedge.net/r/playlist.m3u8
-#EXTINF:0,Manchester City vs Chelsea
-http://forevebiervbe.azureedge.net/r/chunks.m3u8
-#EXTINF:0,Manchester City vs Chelsea
-http://enjoyhd.azureedge.net/65dfd990-38de-4144-9454-89b10751518b/e7cc6803-215a-4872-8187-998536d970d6.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Manchester City vs Chelsea
-http://31.220.0.82:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=182555&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE5IDE6MzQ6MjggUE0maGFzaF92YWx1ZT1rWjBId2dHYWkycFpTV1JFMUFGYTZBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
+http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=-dmaBbfCRlULE-alYnuh5w&e=1549935234
+#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
+https://p29.quest123.top:8088/stream/football00332/playlist.m3u8?id=4943&wowzasessionid=98287424&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
+https://ul.cdn574.net:8443/hls/enb6ujwa8dkmf.m3u8?s=FxC9n2sZ-LbrSVjsG5lttw&e=1549935374
+#EXTINF:0,Wolverhampton vs Newcastle Live Stream
+https://fricstreamercdn.azureedge.net/56a3d27e-bfa6-406f-9bd8-56ffd2d56e4b/1ebcb62d-88ba-42fe-81db-e5e8bf6fcb4f.ism/QualityLevels(3500000)/Fragments(video=3276849600,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Wolverhampton vs Newcastle Live Stream
+https://fricstreamercdn.azureedge.net/56a3d27e-bfa6-406f-9bd8-56ffd2d56e4b/1ebcb62d-88ba-42fe-81db-e5e8bf6fcb4f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,Wolverhampton vs Newcastle Live Stream
+http://1fs.azureedge.net/hls/live.m3u8
