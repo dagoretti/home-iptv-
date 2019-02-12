@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
-http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=-dmaBbfCRlULE-alYnuh5w&e=1549935234
-#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
-https://p29.quest123.top:8088/stream/football00332/playlist.m3u8?id=4943&wowzasessionid=98287424&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0, Wolverhampton Wanderers vs Newcastle United
-https://ul.cdn574.net:8443/hls/enb6ujwa8dkmf.m3u8?s=FxC9n2sZ-LbrSVjsG5lttw&e=1549935374
-#EXTINF:0,Wolverhampton vs Newcastle Live Stream
-https://fricstreamercdn.azureedge.net/56a3d27e-bfa6-406f-9bd8-56ffd2d56e4b/1ebcb62d-88ba-42fe-81db-e5e8bf6fcb4f.ism/QualityLevels(3500000)/Fragments(video=3276849600,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Wolverhampton vs Newcastle Live Stream
-https://fricstreamercdn.azureedge.net/56a3d27e-bfa6-406f-9bd8-56ffd2d56e4b/1ebcb62d-88ba-42fe-81db-e5e8bf6fcb4f.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Wolverhampton vs Newcastle Live Stream
-http://1fs.azureedge.net/hls/live.m3u8
+#EXTINF:0,Manchester Utd vs Paris SG
+http://ul.cdn574.net:8080/hls/8u8acv17o.m3u8?s=aLfblVVqKsxI1-7Ct_oh5w&e=1550022254
+#EXTINF:0,Manchester Utd vs Paris SG
+https://ul.cdn574.net:8443/hls/xgl8gck.m3u8?s=m65CJdk-WiZQCl6LFHxffA&e=1550022330
+#EXTINF:0,Manchester Utd vs Paris SG
+http://185.39.10.142:8081/live/btsports2lsh.m3u8?e=1550005218&st=qUWElrG16yV3h6HuMNZq3Q
+#EXTINF:0,Manchester Utd vs Paris SG
+http://1sds.azureedge.net/hls/live.m3u8
+#EXTINF:0,Manchester Utd vs Paris SG
+https://livetuasdm012.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
+#EXTINF:0,Manchester Utd vs Paris SG
+http://live.mypeercast.com/hls/VRiUgp9UdJa/index.m3u8?st=KPdZtqJrV-7hjrLXBn7DTw&e=1550022783
+#EXTINF:0,Manchester Utd vs Paris SG
+http://kiwisports.xyz/kot/2.m3u8
+#EXTINF:0,Manchester Utd vs Paris SG
+http://31.220.0.82:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=211848&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE5IDU6MjU6NTEgUE0maGFzaF92YWx1ZT1iWmNSOUd4Ymwrdk9lVFZMZVNQWDBBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Manchester Utd vs Paris SG
+https://e7.livecamtv.me/zmelive/xA9Ubo0FaMy4lBHC3S51/chunklist.m3u8
+#EXTINF:0,Manchester Utd vs Paris SG
+https://streamcraft-eu.akamaized.net/m3u8/live_rel_WeLive-Ext-OL_29094163_1_1168755.m3u8
