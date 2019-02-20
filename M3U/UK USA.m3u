@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:0,Manchester Utd vs Paris SG
-http://ul.cdn574.net:8080/hls/8u8acv17o.m3u8?s=aLfblVVqKsxI1-7Ct_oh5w&e=1550022254
-#EXTINF:0,Manchester Utd vs Paris SG
-https://ul.cdn574.net:8443/hls/xgl8gck.m3u8?s=m65CJdk-WiZQCl6LFHxffA&e=1550022330
-#EXTINF:0,Manchester Utd vs Paris SG
-http://185.39.10.142:8081/live/btsports2lsh.m3u8?e=1550005218&st=qUWElrG16yV3h6HuMNZq3Q
-#EXTINF:0,Manchester Utd vs Paris SG
-http://1sds.azureedge.net/hls/live.m3u8
-#EXTINF:0,Manchester Utd vs Paris SG
-https://livetuasdm012.s3-accelerate.amazonaws.com/live1_1080p30.m3u8
-#EXTINF:0,Manchester Utd vs Paris SG
-http://live.mypeercast.com/hls/VRiUgp9UdJa/index.m3u8?st=KPdZtqJrV-7hjrLXBn7DTw&e=1550022783
-#EXTINF:0,Manchester Utd vs Paris SG
-http://kiwisports.xyz/kot/2.m3u8
-#EXTINF:0,Manchester Utd vs Paris SG
-http://31.220.0.82:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=211848&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE5IDU6MjU6NTEgUE0maGFzaF92YWx1ZT1iWmNSOUd4Ymwrdk9lVFZMZVNQWDBBPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Manchester Utd vs Paris SG
-https://e7.livecamtv.me/zmelive/xA9Ubo0FaMy4lBHC3S51/chunklist.m3u8
-#EXTINF:0,Manchester Utd vs Paris SG
-https://streamcraft-eu.akamaized.net/m3u8/live_rel_WeLive-Ext-OL_29094163_1_1168755.m3u8
+#EXTINF:0,BT SPORT 2  UK
+http://live.mypeercast.com/hls/jkXBqcoVFGr6/index.m3u8?st=MgiiVLt7rPny9VtD_6U67Q&e=1550709747
+#EXTINF:0,BT SPORT 2  UK
+http://31.220.0.196:8081/live/ctvb2/chunks.m3u8?nimblesessionid=1260861&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE5IDQ6Mjc6MTUgUE0maGFzaF92YWx1ZT0xU0lLQUo0YnlTWjVLTWNWWno1LzN3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Man.City vs Schalke  bein 11
+https://p05.quest123.top:8088/live/streamrd366/playlist.m3u8?id=106484&wowzasessionid=3575017992&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,Man.City vs Schalke
+http://31.220.2.57:8081/live/ssbt2/chunks.m3u8?nimblesessionid=949305&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE5IDQ6MzI6MzEgUE0maGFzaF92YWx1ZT1tV0tSa3VVQ08zQ3lMSTZzSDRPa2hRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Man.City vs Schalke
+https://stream.udn141.com/hls/bt2.m3u8
+#EXTINF:0,Man.City vs Schalke
+https://asa3.urus.icu/ingest09/27345.m3u8?sf=U0IyMkViNzJqQw==&token=aF-VfWsCc_uuqNhZNiKt9Q&expires=1550696813&rnd=27345
+#EXTINF:0,Man.City vs Schalke
+http://31.220.3.192:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=822887&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE5IDQ6NDY6MDIgUE0maGFzaF92YWx1ZT02VTNFT3lmN0hOb1VrUnR3Q2diK3pBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Man.City vs Schalke
+http://31.220.2.57:8081/live/n2Bn2WoPb/chunks.m3u8?nimblesessionid=950182&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE5IDQ6NDY6NDUgUE0maGFzaF92YWx1ZT1kQUxreXFmdXlrWG5BNlY0REc0NS9RPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Man.City vs Schalke
+http://185.39.11.91/hls/bt2.m3u8
+#EXTINF:0,Man.City vs Schalke
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=D0qASNiWg29Bq_7TnzZIxw&e=1550712141
+#EXTINF:0,Man.City vs Schalke
+http://87.120.36.57:8080/hls/streama82096/index.m3u8?st=cqfgSozXNjunAjwgCVoWvQ
+#EXTINF:0,Man.City vs Schalke
+http://31.220.3.192:8081/live/nYJx17SXM/chunks.m3u8?nimblesessionid=823901&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDE5IDQ6NTc6MjAgUE0maGFzaF92YWx1ZT1tbGtsV1QrNTQzRUdnM0dsSVF6S3lBPT0mdmFsaWRtaW51dGVzPTEyMA==
