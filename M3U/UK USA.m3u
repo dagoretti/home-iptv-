@@ -1,29 +1,3 @@
 #EXTM3U
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=Z3dL8SnUmcTFmnHmEyaNBw&e=1550944903
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://tv.wlive.tv/tv/MMx06H2LOL20180321/chunklist_w2017125894_tkaGxzZW5kdGltZT0xNTUwOTI2NTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NkxremNqZVo4MVhCbVlIUDBNWTU4RGRfQ2dmUlJIWUFNTFJXT2FOTzh3Yz0=.m3u8
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://tv.wlive.tv/tv/XXi3JB0S8v20180321/chunklist_w617936827_tkaGxzZW5kdGltZT0xNTUwOTI2NjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SUM4YzRMS24tcXc2Q0Q4dGhSY1FqbGc5Z3VXNl9vdnVERVZlZzZYOU5LWT0=.m3u8
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://live.mypeercast.com/hls/1UuQChKSGPUn/index.m3u8?st=Plsr4SV4rBA80kX8URuMxg&e=1550945707
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://live.mypeercast.com/hls/VRiUgp9UdJa/index.m3u8?st=gP3HSM6PpR-p2zZiK9BBbw&e=1550945741
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-https://mbl3.chessbook.icu/ingest011/25057.m3u8?sf=NjR6VmhEOU15dQ==&token=hVMBCo3eW5th7AxU1vOT_Q&expires=1550931470&rnd=25057
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-https://mbl3.chessbook.icu/ingest010/25502.m3u8?sf=MlNwczEwU2JE&token=y858LbNPBVx8-wdJb-eDuw&expires=1550931528&rnd=25502
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-https://nl1.streamlive.to/edge/0fm1lstybe4a0j4/chunks.m3u8?nimblesessionid=1353764&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDEyOjIwOjUyIFBNJmhhc2hfdmFsdWU9ZVZ6OUV6R0g5R2ZQUzhYTU1yRm51Zz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0yMCZpcD0xODguMjQxLjEwNy40NQ==
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-https://nl1.streamlive.to/edge/lfpubj6e27rtxyn/chunks.m3u8?nimblesessionid=1353781&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDEyOjIyOjE5IFBNJmhhc2hfdmFsdWU9NWhSZVAwTG9qdjA2VGN4UnV6Y0toZz09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0yMCZpcD0xODguMjQxLjEwNy40NQ==
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-https://p26.quest123.top:8088/live/frx0x201/playlist.m3u8?id=106732&wowzasessionid=000051748&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://31.220.0.103:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=1539842&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE5IDk6NTY6MzQgQU0maGFzaF92YWx1ZT0yZms0UVg3aEZmeEljcVJBaHorbU1BPT0mdmFsaWRtaW51dGVzPTEyMA==
-
-#EXTINF:0,12:30 England Premier League: Burnley FC - Tottenham Hotspur
-http://194.67.208.149/hls/102.m3u8
-
+#EXTINF:0,sky-sports-news-live-stream
+https://tv.wlive.tv/tv/dYAREzIbUs20180321/chunklist_w685880936_tkaGxzZW5kdGltZT0xNTUxMDEyMTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OVN1SG1IRDJXQWdVZGNJb3h6YUdOVVZ6SEl6TFNsQVlwRHhjQ0dtc0JlUT0=.m3u8
