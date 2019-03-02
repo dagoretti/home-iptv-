@@ -2,9 +2,11 @@
 #EXTINF:0,TOTTENHAM - ARSENAL
 http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=njz_5qZRpGPvsnV2yx_L7Q&e=1551551433
 #EXTINF:0,TOTTENHAM - ARSENAL
-https://mob2.cartime.icu/ingest06/43256.m3u8?sf=cFdDamlISG9RWA==&token=a4W7G2Pry-Z0QXeg5cINYQ&expires=1551537175&rnd=43256
+http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=2307310&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDY6NDkgQU0maGFzaF92YWx1ZT1zYjFhSWliemZEWG9pT2FSS0dkeFB3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,TOTTENHAM - ARSENAL
-https://pe04.quest123.top:8088/live/socolivessport0026/playlist.m3u8?id=106812&wowzasessionid=3354052265&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+http://31.220.0.196:8081/live/hdq2/chunks.m3u8?nimblesessionid=152435&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDg6MDYgQU0maGFzaF92YWx1ZT05blhvay96TVlxZjR5YnRRRE1HVDdnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,TOTTENHAM - ARSENAL
+http://31.220.0.194:8081/live/spstreambt1/chunks.m3u8?nimblesessionid=1439345&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDk6MzUgQU0maGFzaF92YWx1ZT1Dc3RTTndRZTFkMUczYi9palpwT2VBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky News HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/1214b9e6b40ecd375c9fe838a844b5eb.png" group-title="UK",UK: Sky News HD
 http://31.220.1.190:8080/11223344/44332211/65042
