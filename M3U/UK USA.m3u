@@ -1,12 +1,28 @@
 #EXTM3U
-#EXTINF:0,TOTTENHAM - ARSENAL
-http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=njz_5qZRpGPvsnV2yx_L7Q&e=1551551433
-#EXTINF:0,TOTTENHAM - ARSENAL
-http://103.252.220.42:8081/live/nYSoN4PVv/chunks.m3u8?nimblesessionid=2307310&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDY6NDkgQU0maGFzaF92YWx1ZT1zYjFhSWliemZEWG9pT2FSS0dkeFB3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,TOTTENHAM - ARSENAL
-http://31.220.0.196:8081/live/hdq2/chunks.m3u8?nimblesessionid=152435&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDg6MDYgQU0maGFzaF92YWx1ZT05blhvay96TVlxZjR5YnRRRE1HVDdnPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,TOTTENHAM - ARSENAL
-http://31.220.0.194:8081/live/spstreambt1/chunks.m3u8?nimblesessionid=1439345&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMTA6MDk6MzUgQU0maGFzaF92YWx1ZT1Dc3RTTndRZTFkMUczYi9palpwT2VBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+http://cdn3.soccerfree.icu/live/ch9/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMjoyNDo1NSBQTSZoYXNoX3ZhbHVlPXhrS05mVFVPT2R5cndTTEdqTFB3T2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTg4LjI0MS4xMDcuNDUmc3RybV9sZW49Nw==
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://p02.quest123.top:8088/live/x03x03/playlist.m3u8?id=107068&wowzasessionid=286072281&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://nl1.streamlive.to/edge/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1564434&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTkgMjozMzowMyBQTSZoYXNoX3ZhbHVlPVBITEZjVHRFMDdoNWMxTUVzMmtSQ0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49MjAmaXA9MTg4LjI0MS4xMDcuNDU=
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://ul.cdn574.net:8443/hls/jj0tkrdjwuuiv1.m3u8?s=KC3SWYFX80ug1DzO0aKlvQ&e=1551558911
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=kuOzrjuabWAjce1x60FIJg&e=1551558961
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+http://live.mypeercast.com/hls/ibrodtv6_2sct2dex/index.m3u8?st=E_K84MZM5w9D5DmLT__E-Q&e=1551558864
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=LRquwE4Gp1aNvV4q0TxTVg&e=1551559262
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://mob2.cartime.icu/ingest09/30567.m3u8?sf=Vm5tOGY5TUFJVA==&token=D9NLLFj_xhWiVAQBBoR07A&expires=1551544906&rnd=30567
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://ul.cdn574.net:8443/hls/tpeqiou.m3u8?s=rMqfo2VMcUDILXd2j19uEQ&e=1551559349
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=nn91aoAiZfsx1ZwfCKHiig&e=1551559423
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://mob2.cartime.icu/ingest010/38225.m3u8?sf=MTJwczEwU2JE&token=X95AdHyUAE1r7BPCyyxMDQ&expires=1551545055&rnd=38225
+#EXTINF:0,15:00 England Premier League: Manchester United - Southampton FC
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=a9jlnYj9j4UT-d-8abHcpw&e=1551559627
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky News HD" tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/1214b9e6b40ecd375c9fe838a844b5eb.png" group-title="UK",UK: Sky News HD
 http://31.220.1.190:8080/11223344/44332211/65042
