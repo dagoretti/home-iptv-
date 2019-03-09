@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://185.39.10.141:8081/live/nbcsportsnew.m3u8?e=1552141395&st=hj5y_KsAm4IrcR0Tx0HO8A
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w1780840591_tkaGxzZW5kdGltZT0xNTUyMTM4MzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9alEwV3JRY1lOaGxQQ2ItdjJURmFta0Q3cjhPbVZscDJhUTFtU194Uk9RST0=.m3u8
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://ul.cdn574.net:8080/hls/mpmme7jf.m3u8?s=CMvjq6kBub5YVCRLeVziwQ&e=1552156981
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://tv.wlive.tv/tv/SULfL4yHw720180321/chunklist_w1590135479_tkaGxzZW5kdGltZT0xNTUyMTM4MjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Y3Z0TFlaTWlKM2hJenphdHRHV2VLVjRkVGhmMlEwb3JWUTFoQ3pJNFp3cz0=.m3u8
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://31.220.0.194:8081/live/spstreameurosport/chunks.m3u8?nimblesessionid=340332&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTkgMTA6MDg6MzggQU0maGFzaF92YWx1ZT00TzRDenN4anVSRzFnVjg0RWt2Tm5RPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,12:30 England Premier League: Crystal Palace - Brighton & Hove Albion FC
-http://185.39.10.141:8081/live/nbcsportsnew.m3u8?e=1552141395&st=hj5y_KsAm4IrcR0Tx0HO8A
+#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
+https://nl1.streamlive.to/edge/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1651149&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTkgMjo1Mjo0NCBQTSZoYXNoX3ZhbHVlPWRaZmtLaG53VDY4ekJ3QlBaWTNpV3c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49MjAmaXA9MTg4LjI0MS4xMDcuNDU=
+#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
+http://live.mypeercast.com/hls/ibrodtv9_b8wlniv3/index.m3u8?st=BAfWv68nyNJ3VUZNQ4fEow&e=1552164831
+#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
+http://live.mypeercast.com/hls/qfmllIjmOq1i/index.m3u8?st=MQYUFRSFB-OwbPf_QjMecQ&e=1552164834
+#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
+https://edge.nlive.club/ingest01/38955.m3u8?sf=NWM0YzQ4Yzc5YWZhNA==&token=_8PnJczb4Y7emLiBAD1YHw&expires=1552150672
