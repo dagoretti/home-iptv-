@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:0,PREMIER LEAGUE LIVE LIVE STREAMING
 https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=dK2p4iDRHmea3IZT9p_b6g&e=1552238890
-#EXTINF:0,12:00 England Premier League: Liverpool FC - Burnley FC
+#EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
 http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=YxepHew4tXD14X1MsPDVww&e=1552240848
-#EXTINF:0,12:00 England Premier League: Liverpool FC - Burnley FC
-http://ul.cdn574.net:8080/hls/z3yslviozhl1.m3u8?s=Em0g1rPIta3AhTu5xQMOQg&e=1552240943
-#EXTINF:0,12:00 England Premier League: Liverpool FC - Burnley FC
-http://31.220.0.194:8081/live/spstreambt1/chunks.m3u8?nimblesessionid=218288&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE5IDk6MzM6MTYgQU0maGFzaF92YWx1ZT01bEtLZ3Q5Q3hQSWgvb1lycGw2QU1RPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,12:00 England Premier League: Liverpool FC - Burnley FC
-http://31.220.0.194:8081/live/hdq2/chunks.m3u8?nimblesessionid=218650&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE5IDk6MzM6NTUgQU0maGFzaF92YWx1ZT1CSTU5Ym8waEE0TEFMQUVVSUtXUHZBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
+https://kk.telerium.org/ingest07/42776.m3u8?sf=bmp6V1FnUlJvcQ==&token=N1V0EN-ISjBxWIL3QSthSA&expires=1552234854&rnd=42776
+#EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=r7IOp36ALcBdtj5NixGxeg&e=1552249335
+#EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=l8s4jsJ2Gzy2EIsKeqQRlQ&e=1552249381
+#EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
+https://cdn.yosports.net/live/ch4/index.m3u8
