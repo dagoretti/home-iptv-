@@ -11,3 +11,37 @@ http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=r7IOp36ALcBdtj5NixGxeg&e=1552249335
 http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=l8s4jsJ2Gzy2EIsKeqQRlQ&e=1552249381
 #EXTINF:0,14:05 England Premier League: Chelsea FC - Wolverhampton Wanderers
 https://cdn.yosports.net/live/ch4/index.m3u8
+
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://easy900.azureedge.net/7f208d68-7c38-4fcf-83b1-a7103f0157e1/5870203d-2d91-4b80-a678-0d0590fa79f1.ism/QualityLevels(2200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://easy900.azureedge.net/7f208d68-7c38-4fcf-83b1-a7103f0157e1/5870203d-2d91-4b80-a678-0d0590fa79f1.ism/QualityLevels(2200000)/Fragments(video=3386886120,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=P1BRykjOENOhSrnLgpCOTQ&e=1552253154
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://kk.telerium.org/ingest08/36057.m3u8?sf=QUlFMGJFZXc0Qw==&token=u3tZyIXgvUCFwD18ONsU0Q&expires=1552238653&rnd=36057
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://live.mypeercast.com/hls/0TDYxIhn90py/index.m3u8?st=s0me1Rv1LjezEPMmGb5aMQ&e=1552252180
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://kk.telerium.org/ingest07/43885.m3u8?sf=VXlpZ01EdGlHaw==&token=sDd3r6fksSMsyXy54YsgRw&expires=1552237618&rnd=43885
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://ul.cdn574.net:8080/hls/2528v.m3u8?s=_iizxPlU52FxDj10pLaomw&e=1552251913
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://ul.cdn574.net:8080/hls/ihi0yv568q9.m3u8?s=jwIuaGfB984lsCwZBzi4tw&e=1552251874
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://ul.cdn574.net:8443/hls/cv15b.m3u8?s=UwaOJqYlYKVYzgdIfOEp3A&e=1552253879
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://ul.cdn574.net:8443/hls/cv15b.m3u8?s=vM3PigOJjoPaQL1QGDJNVA&e=1552254138
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://cdn.yosports.net/live/ch4/index.m3u8
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://p3q8j8p4.stackpathcdn.com/08371940-5143-4e58-8268-ffb3d7b43faa/b337f67d-f7d7-4eac-a0c8-e32e6ff14525.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://cdn.yosports.net/live/ch4/index.m3u8
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+https://cdn.hdcast.me/live/kcTQgLVcf720181202/chunks.m3u8?nimblesessionid=1627698&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE5IDQ6MjU6NDMgUE0maGFzaF92YWx1ZT1CK01FREwxaDVDZG9DcDVGLyt6b3dRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,16:30 England Premier League: Arsenal FC - Manchester United
+http://194.67.208.149/hls/102.m3u8
+
