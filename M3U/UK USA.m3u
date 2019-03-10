@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
-https://nl1.streamlive.to/edge/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1651149&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTkgMjo1Mjo0NCBQTSZoYXNoX3ZhbHVlPWRaZmtLaG53VDY4ekJ3QlBaWTNpV3c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49MjAmaXA9MTg4LjI0MS4xMDcuNDU=
-#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
-http://live.mypeercast.com/hls/ibrodtv9_b8wlniv3/index.m3u8?st=BAfWv68nyNJ3VUZNQ4fEow&e=1552164831
-#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
-http://live.mypeercast.com/hls/qfmllIjmOq1i/index.m3u8?st=MQYUFRSFB-OwbPf_QjMecQ&e=1552164834
-#EXTINF:0,15:00 England Premier League: Southampton FC - Tottenham Hotspur
-https://edge.nlive.club/ingest01/38955.m3u8?sf=NWM0YzQ4Yzc5YWZhNA==&token=_8PnJczb4Y7emLiBAD1YHw&expires=1552150672
+#EXTINF:0,PREMIER LEAGUE LIVE LIVE STREAMING
+http://31.220.0.134:8081/live/ssnbc/chunks.m3u8?nimblesessionid=274830&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE5IDg6NTE6MzkgQU0maGFzaF92YWx1ZT1TVThib0llWUlnSHVrK3JkVGFVZlpRPT0mdmFsaWRtaW51dGVzPTEyMA==
