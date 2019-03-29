@@ -1,194 +1,345 @@
 #EXTM3U
-#EXTINF:-1,~ USA TV ~
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,MSNBC (HD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1,MSNBC (SD)
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1,MSNBC (SD)*
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1,Bloomberg TV
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg TV*
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,Fox News Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
-#EXTINF:-1,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:-1,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1,The Blaze
-https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:-1,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1,MLB Network*
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
-#EXTINF:-1,NBA TV
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-#EXTINF:-1,NBC Golf [NoRoku]
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:-1,Cartoon Network
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Comedy Central
-http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
-#EXTINF:-1,FreeForm [NoKodi]
-https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1,Investigation Discovery
-http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
-#EXTINF:-1,NatGeo Wild [Off]
-http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
-#EXTINF:-1,Science Channel
-http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
-#EXTINF:-1,truTV
-http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#EXTINF:-1,Velocity
-http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Biz TV
-http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,Channel 7 [NoRoku]
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1,Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-#EXTINF:-1,The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,D23 TV
-http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
-#EXTINF:-1,Ditty TV
-http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
-#EXTINF:-1,Evine [Off]
-http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
-#EXTINF:-1,Home Shopping Network
-http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-#EXTINF:-1,Hunt Channel
-http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
-#EXTINF:-1,MeTV
-http://video.metv.com/metv/index.m3u8
-#EXTINF:-1,NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
-#EXTINF:-1,NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rev'n
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
-#EXTINF:-1,SupTV
-http://91.134.238.137/live/alpha/index.m3u8
-#EXTINF:-1,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,Tuff TV
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
-#EXTINF:-1,TWiT.TV
-http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
-#EXTINF:-1,Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-#EXTINF:-1,Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-#EXTINF:-1,iHeart 80s
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
-#EXTINF:-1,Lite FM 106.7
-http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
-#EXTINF:-1,Nick Radio
-http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
-#EXTINF:-1,Z100 New York
-http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1,360 North
-http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1,ASD TV
-http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
-#EXTINF:-1,Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-#EXTINF:-1,Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1,Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:-1,Capital City Connection
-http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1,Daytona Beach TV
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:-1,District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1,District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1,Escambia TV
-http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,The Florida Channel
-http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
-#EXTINF:-1,Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:-1,Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:-1,House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:-1,KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:-1,Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1,Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:-1,Laurel TV
-https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
-#EXTINF:-1,Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:-1,Orange TV
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-#EXTINF:-1,PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:-1,RyeTV
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1,SCCtv
-http://media3.scctv.net/live/scctv_300/playlist.m3u8
-#EXTINF:-1,Seattle Channel
-https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
-#EXTINF:-1,Seminole TV
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:-1,Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:-1,TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:-1,TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1,TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1,UCTV
-http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
-#EXTINF:-1,UGA TV
-http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
-#EXTINF:-1,White Plains TV
-http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,USA: 24/7 SOUTHPARK HD SERIES
+http://jack.dyndns.tv:15800/angelo1/angelo1/7007
+#EXTINF:-1,USA: A&E HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/7006
+#EXTINF:-1,USA: ABC
+http://jack.dyndns.tv:15800/angelo1/angelo1/7005
+#EXTINF:-1,USA: ABC Action News
+http://jack.dyndns.tv:15800/angelo1/angelo1/7004
+#EXTINF:-1,USA: ABC FAMILY/SPARK
+http://jack.dyndns.tv:15800/angelo1/angelo1/7003
+#EXTINF:-1,USA: ABC HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/7002
+#EXTINF:-1,USA: ABC News
+http://jack.dyndns.tv:15800/angelo1/angelo1/7001
+#EXTINF:-1,USA: AFN News
+http://jack.dyndns.tv:15800/angelo1/angelo1/6998
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://jack.dyndns.tv:15800/angelo1/angelo1/6997
+#EXTINF:-1,USA: AFN Prime Pacific
+http://jack.dyndns.tv:15800/angelo1/angelo1/6996
+#EXTINF:-1,USA: AFN Sports
+http://jack.dyndns.tv:15800/angelo1/angelo1/6995
+#EXTINF:-1,USA: AFN Sports 2
+http://jack.dyndns.tv:15800/angelo1/angelo1/6994
+#EXTINF:-1,USA: AFN Sports HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6993
+#EXTINF:-1,USA: AL JAZEERA U.S HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6992
+#EXTINF:-1,USA: AMC
+http://jack.dyndns.tv:15800/angelo1/angelo1/6991
+#EXTINF:-1,USA: Americas Auction TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6990
+#EXTINF:-1,USA: ANIMAL PLANET
+http://jack.dyndns.tv:15800/angelo1/angelo1/6989
+#EXTINF:-1,USA: Astro Sports 2
+http://jack.dyndns.tv:15800/angelo1/angelo1/6988
+#EXTINF:-1,USA: Astro Sports 3
+http://jack.dyndns.tv:15800/angelo1/angelo1/6987
+#EXTINF:-1,USA: Astro Sports 4
+http://jack.dyndns.tv:15800/angelo1/angelo1/6986
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6985
+#EXTINF:-1,USA: BEIN SPORTS U.S.A
+http://jack.dyndns.tv:15800/angelo1/angelo1/6984
+#EXTINF:-1,USA: Big Ten Network HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6983
+#EXTINF:-1,USA: BLOOMBERG TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6982
+#EXTINF:-1,USA: Bravo HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6981
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6979
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6978
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6977
+#EXTINF:-1,USA: CAPITAL TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6976
+#EXTINF:-1,USA: CBS HD-US
+http://jack.dyndns.tv:15800/angelo1/angelo1/6974
+#EXTINF:-1,USA: CBS News
+http://jack.dyndns.tv:15800/angelo1/angelo1/6973
+#EXTINF:-1,USA: CBSN News
+http://jack.dyndns.tv:15800/angelo1/angelo1/6972
+#EXTINF:-1,USA: Cinemax 5 Max
+http://jack.dyndns.tv:15800/angelo1/angelo1/6971
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://jack.dyndns.tv:15800/angelo1/angelo1/6970
+#EXTINF:-1,USA: Cinemax ActionMax
+http://jack.dyndns.tv:15800/angelo1/angelo1/6969
+#EXTINF:-1,USA: Cinemax East
+http://jack.dyndns.tv:15800/angelo1/angelo1/6968
+#EXTINF:-1,USA: Cinemax Moremax
+http://jack.dyndns.tv:15800/angelo1/angelo1/6967
+#EXTINF:-1,USA: CITY HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6966
+#EXTINF:-1,USA: CNBC HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6965
+#EXTINF:-1,USA: CNN
+http://jack.dyndns.tv:15800/angelo1/angelo1/6964
+#EXTINF:-1,USA: CNN HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6963
+#EXTINF:-1,USA: CNN HD INTERNATIONAL
+http://jack.dyndns.tv:15800/angelo1/angelo1/6962
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://jack.dyndns.tv:15800/angelo1/angelo1/6961
+#EXTINF:-1,USA: Crime & Investigation
+http://jack.dyndns.tv:15800/angelo1/angelo1/6960
+#EXTINF:-1,USA: CW 11 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6959
+#EXTINF:-1,USA: CW Channel 11
+http://jack.dyndns.tv:15800/angelo1/angelo1/6958
+#EXTINF:-1,USA: DEPORTES HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6957
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6956
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6955
+#EXTINF:-1,USA: DISCOVERY SHOWCASE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6954
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+http://jack.dyndns.tv:15800/angelo1/angelo1/6953
+#EXTINF:-1,USA: DISNEY JR HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6952
+#EXTINF:-1,USA: E! Network HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6951
+#EXTINF:-1,USA: ESPN
+http://jack.dyndns.tv:15800/angelo1/angelo1/6950
+#EXTINF:-1,USA: ESPN 1
+http://jack.dyndns.tv:15800/angelo1/angelo1/6949
+#EXTINF:-1,USA: ESPN 2 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6948
+#EXTINF:-1,USA: ESPN 3 TRE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6947
+#EXTINF:-1,USA: ESPN NEWS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6946
+#EXTINF:-1,USA: EURO NEWS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6945
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://jack.dyndns.tv:15800/angelo1/angelo1/6944
+#EXTINF:-1,USA: Fight Sport 1
+http://jack.dyndns.tv:15800/angelo1/angelo1/6943
+#EXTINF:-1,USA: Fight Sport 2
+http://jack.dyndns.tv:15800/angelo1/angelo1/6942
+#EXTINF:-1,USA: FOOD NETWORK
+http://jack.dyndns.tv:15800/angelo1/angelo1/6941
+#EXTINF:-1,USA: FOX
+http://jack.dyndns.tv:15800/angelo1/angelo1/6940
+#EXTINF:-1,USA: FOX MOTOSPORT
+http://jack.dyndns.tv:15800/angelo1/angelo1/6939
+#EXTINF:-1,USA: Fox News
+http://jack.dyndns.tv:15800/angelo1/angelo1/6938
+#EXTINF:-1,USA: FOX SOCCER SUN HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6937
+#EXTINF:-1,USA: FOX Sport 1
+http://jack.dyndns.tv:15800/angelo1/angelo1/6936
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6935
+#EXTINF:-1,USA: FOX SPORTS TWO HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6934
+#EXTINF:-1,USA: FX HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6933
+#EXTINF:-1,USA: GRIT TV MOVIES
+http://jack.dyndns.tv:15800/angelo1/angelo1/6932
+#EXTINF:-1,USA: GSN TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6931
+#EXTINF:-1,USA: HALLMARK HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6930
+#EXTINF:-1,USA: HBO 2 COMEDY
+http://jack.dyndns.tv:15800/angelo1/angelo1/6929
+#EXTINF:-1,USA: HBO Family HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6928
+#EXTINF:-1,USA: HBO HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6927
+#EXTINF:-1,USA: HBO SIGNATURE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6926
+#EXTINF:-1,USA: HBO ZONE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6925
+#EXTINF:-1,USA: HEART TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6924
+#EXTINF:-1,USA: HGTV HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6923
+#EXTINF:-1,USA: HISTORY HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6922
+#EXTINF:-1,USA: HSN YT LIVE 1080p HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6921
+#EXTINF:-1,USA: KIDS READING TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6920
+#EXTINF:-1,USA: LIFE TIME
+http://jack.dyndns.tv:15800/angelo1/angelo1/6919
+#EXTINF:-1,USA: LIFETIME HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6918
+#EXTINF:-1,USA: LMN HDTV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6917
+#EXTINF:-1,USA: MLB HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6916
+#EXTINF:-1,USA: MOVIETIME
+http://jack.dyndns.tv:15800/angelo1/angelo1/6915
+#EXTINF:-1,USA: MSNBC HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6914
+#EXTINF:-1,USA: MTV HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6913
+#EXTINF:-1,USA: MTV HITS LA
+http://jack.dyndns.tv:15800/angelo1/angelo1/6912
+#EXTINF:-1,USA: MTV LIVE HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6911
+#EXTINF:-1,USA: MTV LIVE USA
+http://jack.dyndns.tv:15800/angelo1/angelo1/6910
+#EXTINF:-1,USA: Music Choice RAP
+http://jack.dyndns.tv:15800/angelo1/angelo1/6909
+#EXTINF:-1,USA: Music Choice Rap2k
+http://jack.dyndns.tv:15800/angelo1/angelo1/6908
+#EXTINF:-1,USA: MY9 TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6907
+#EXTINF:-1,USA: NASA TV HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6906
+#EXTINF:-1,USA: NASA TV MEDIA HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6905
+#EXTINF:-1,USA: NAT GEO HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6904
+#EXTINF:-1,USA: NBA TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6903
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6902
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6901
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6900
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6899
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6898
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6897
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6896
+#EXTINF:-1,USA: NBC GOLF
+http://jack.dyndns.tv:15800/angelo1/angelo1/6895
+#EXTINF:-1,USA: NBC HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6894
+#EXTINF:-1,USA: NBCSN HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6893
+#EXTINF:-1,USA: News 12 Bronx (NYC)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6892
+#EXTINF:-1,USA: News 12 Brooklyn (NYC)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6891
+#EXTINF:-1,USA: News 12 Connecticut (LIVE)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6890
+#EXTINF:-1,USA: News 12 Long Island(Stream 1)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6889
+#EXTINF:-1,USA: News 12 New Jersey (LIVE)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6888
+#EXTINF:-1,USA: News 12 New Jersey (Weather Live)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6887
+#EXTINF:-1,USA: NEWSMAX YT LIVE HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6886
+#EXTINF:-1,USA: NFL Network HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6885
+#EXTINF:-1,USA: NFL Network HDTV 1080i
+http://jack.dyndns.tv:15800/angelo1/angelo1/6884
+#EXTINF:-1,USA: NFL Now
+http://jack.dyndns.tv:15800/angelo1/angelo1/6883
+#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6882
+#EXTINF:-1,USA: NHL NETWORK
+http://jack.dyndns.tv:15800/angelo1/angelo1/6881
+#EXTINF:-1,USA: NHLTV NETWORK HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6880
+#EXTINF:-1,USA: NICK HD (kids)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6879
+#EXTINF:-1,USA: NICKELODEON KIDS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6878
+#EXTINF:-1,USA: NICKTOONS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6877
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6876
+#EXTINF:-1,USA: NYC - NEWS 12 Traffic & Weather
+http://jack.dyndns.tv:15800/angelo1/angelo1/6875
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
+http://jack.dyndns.tv:15800/angelo1/angelo1/6874
+#EXTINF:-1,USA: P.B.S Kids
+http://jack.dyndns.tv:15800/angelo1/angelo1/6873
+#EXTINF:-1,USA: QVC Beauty IQ
+http://jack.dyndns.tv:15800/angelo1/angelo1/6872
+#EXTINF:-1,USA: QVC Live
+http://jack.dyndns.tv:15800/angelo1/angelo1/6871
+#EXTINF:-1,USA: QVC Plus
+http://jack.dyndns.tv:15800/angelo1/angelo1/6870
+#EXTINF:-1,USA: Redbull TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6869
+#EXTINF:-1,USA: RT DOCUMENTARY
+http://jack.dyndns.tv:15800/angelo1/angelo1/6868
+#EXTINF:-1,USA: Showtime 2 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6867
+#EXTINF:-1,USA: Showtime Extreme HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6866
+#EXTINF:-1,USA: Showtime HDTV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6865
+#EXTINF:-1,USA: Showtime Showcase
+http://jack.dyndns.tv:15800/angelo1/angelo1/6864
+#EXTINF:-1,USA: SPIKE TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6863
+#EXTINF:-1,USA: SportsNet One HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6862
+#EXTINF:-1,USA: Starz Comedy
+http://jack.dyndns.tv:15800/angelo1/angelo1/6860
+#EXTINF:-1,USA: Starz East
+http://jack.dyndns.tv:15800/angelo1/angelo1/6859
+#EXTINF:-1,USA: Starz Edge HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6858
+#EXTINF:-1,USA: Starz Encore East
+http://jack.dyndns.tv:15800/angelo1/angelo1/6857
+#EXTINF:-1,USA: Starz Encore HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6856
+#EXTINF:-1,USA: Starz West
+http://jack.dyndns.tv:15800/angelo1/angelo1/6855
+#EXTINF:-1,USA: SYFY HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6854
+#EXTINF:-1,USA: T.N.T
+http://jack.dyndns.tv:15800/angelo1/angelo1/6853
+#EXTINF:-1,USA: TBS
+http://jack.dyndns.tv:15800/angelo1/angelo1/6852
+#EXTINF:-1,USA: TBS HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6851
+#EXTINF:-1,USA: TENNIS HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6850
+#EXTINF:-1,USA: THE WALKING DEAD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6849
+#EXTINF:-1,USA: The Weather Channel
+http://jack.dyndns.tv:15800/angelo1/angelo1/6848
+#EXTINF:-1,USA: TLC
+http://jack.dyndns.tv:15800/angelo1/angelo1/6847
+#EXTINF:-1,USA: Toon Kids
+http://jack.dyndns.tv:15800/angelo1/angelo1/6846
+#EXTINF:-1,USA: TRAVEL CHANNEL
+http://jack.dyndns.tv:15800/angelo1/angelo1/6845
+#EXTINF:-1,USA: TRU TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6844
+#EXTINF:-1,USA: TRUE MOVIES
+http://jack.dyndns.tv:15800/angelo1/angelo1/6843
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6842
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6841
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6840
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6839
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6838
+#EXTINF:-1,USA: TV SERIES
+http://jack.dyndns.tv:15800/angelo1/angelo1/6837
+#EXTINF:-1,USA: TV SKY ONE
+http://jack.dyndns.tv:15800/angelo1/angelo1/6836
+#EXTINF:-1,USA: University of California TV
+http://jack.dyndns.tv:15800/angelo1/angelo1/6835
+#EXTINF:-1,USA: USA Network
+http://jack.dyndns.tv:15800/angelo1/angelo1/6834
+#EXTINF:-1,USA: VH1 HD
+http://jack.dyndns.tv:15800/angelo1/angelo1/6832
+#EXTINF:-1,USA: WEATHERNATION
+http://jack.dyndns.tv:15800/angelo1/angelo1/6831
+#EXTINF:-1,USA: WWE Network
+http://jack.dyndns.tv:15800/angelo1/angelo1/6830
