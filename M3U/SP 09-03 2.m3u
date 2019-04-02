@@ -121,16 +121,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198072.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199369.m3u8
 #EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139512.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198421.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198422.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198423.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198577.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198425.m3u8
 #EXTINF:-1,SPORT: FR - Trace Sport Stars HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198811.m3u8
 #EXTINF:-1,SPORT: IN - STAR SPORTS 1 FHD
@@ -149,8 +139,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198117.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198116.m3u8
 #EXTINF:-1,SPORT: PT - ELEVEN SPORTS 2 FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65064.m3u8
-#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 6 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/140850.m3u8
 #EXTINF:-1,SPORT: PT - SPORT TV+ FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198179.m3u8
 #EXTINF:-1,SPORT: TR - beIN Sports 3 FHD
@@ -199,8 +187,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198544.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198122.m3u8
 #EXTINF:-1,SPORT: US - FOX SPORTS 2 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198123.m3u8
-#EXTINF:-1,SPORT: US - FOX SPORTS 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198124.m3u8
 #EXTINF:-1,SPORT: US - MLB NETWORK HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198549.m3u8
 #EXTINF:-1,SPORT: US - NFL Network FHD
@@ -257,12 +243,8 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/109959.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98196.m3u8
 #EXTINF:-1,UK: Sky Sports News HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74481.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/137225.m3u8
 #EXTINF:-1,AL: K Sport 1 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94058.m3u8
-#EXTINF:-1,AL: K Sport 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94059.m3u8
 #EXTINF:-1,AL: K Sport 3 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94060.m3u8
 #EXTINF:-1,AL: K Sport 4 HD
@@ -385,16 +367,12 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134770.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134771.m3u8
 #EXTINF:-1,AR: AD Sports 3 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113215.m3u8
-#EXTINF:-1,AR: AD Sports 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/111591.m3u8
 #EXTINF:-1,AR: KSA Sport 1
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135339.m3u8
 #EXTINF:-1,AR: KSA Sport 2 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/131080.m3u8
 #EXTINF:-1,AR: KSA SPORTS 2 + HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/131082.m3u8
-#EXTINF:-1,AU: FOX SPORTS News
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147647.m3u8
 #EXTINF:-1,BE: ELEVEN SPORTS 2 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/127943.m3u8
 #EXTINF:-1,BE: VOO SPORT 1 HD
@@ -417,8 +395,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156637.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65364.m3u8
 #EXTINF:-1,HR: Arena Sport 6 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65362.m3u8
-#EXTINF:-1,HR: Sport Klub 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156640.m3u8
 #EXTINF:-1,CZ: Nova Sport 1 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/106575.m3u8
 #EXTINF:-1,CZ: SPORT 1 HD
@@ -431,8 +407,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63070.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93786.m3u8
 #EXTINF:-1,EX-YU: Arena Sport 5 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65363.m3u8
-#EXTINF:-1,EX-YU: SPORT CLUB 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134429.m3u8
 #EXTINF:-1,EX-YU: SPORT CLUB 2 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134430.m3u8
 #EXTINF:-1,EX-YU: Sport Klub 1 (CRO)
@@ -449,8 +423,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65351.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65350.m3u8
 #EXTINF:-1,FR: beIN Sports 1 FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198126.m3u8
-#EXTINF:-1,FR: beIN Sports 2 FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198131.m3u8
 #EXTINF:-1,FR: beIN Sports 3 FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198125.m3u8
 #EXTINF:-1,FR: beIN Sports 1 HD
@@ -499,8 +471,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/91919.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/120878.m3u8
 #EXTINF:-1,FR: RMC SPORT 5 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65662.m3u8
-#EXTINF:-1,FR: RMC SPORT NEWS FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149141.m3u8
 #EXTINF:-1,MY: Astro SuperSport 1 HD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147234.m3u8
 #EXTINF:-1,MY: Astro SuperSport 2 HD
@@ -1163,8 +1133,6 @@ http://landiptv.live:8080/live/marco/polo/198474.m3u8
 http://landiptv.live:8080/live/marco/polo/197968.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 3 HD
 http://landiptv.live:8080/live/marco/polo/197982.m3u8
-#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
-http://landiptv.live:8080/live/marco/polo/198060.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 6 HD
 http://landiptv.live:8080/live/marco/polo/197987.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 8 HD
@@ -1179,8 +1147,6 @@ http://landiptv.live:8080/live/marco/polo/197999.m3u8
 http://landiptv.live:8080/live/marco/polo/198000.m3u8
 #EXTINF:-1,SPORT: CA - TSN 1 FHD
 http://landiptv.live:8080/live/marco/polo/198647.m3u8
-#EXTINF:-1,SPORT: CA - TSN 2 FHD
-http://landiptv.live:8080/live/marco/polo/198643.m3u8
 #EXTINF:-1,SPORT: CA - TSN 3 FHD
 http://landiptv.live:8080/live/marco/polo/198644.m3u8
 #EXTINF:-1,SPORT: CA - TSN 4 FHD
@@ -1193,22 +1159,8 @@ http://landiptv.live:8080/live/marco/polo/198434.m3u8
 http://landiptv.live:8080/live/marco/polo/198072.m3u8
 #EXTINF:-1,SPORT: ES - beIN Sports Ñ HD
 http://landiptv.live:8080/live/marco/polo/199369.m3u8
-#EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
-http://landiptv.live:8080/live/marco/polo/139512.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 1 HD
-http://landiptv.live:8080/live/marco/polo/198421.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 2 HD
-http://landiptv.live:8080/live/marco/polo/198422.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 3 HD
-http://landiptv.live:8080/live/marco/polo/198423.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 4 HD
-http://landiptv.live:8080/live/marco/polo/198577.m3u8
-#EXTINF:-1,SPORT: FR - RMC SPORT 5 HD
-http://landiptv.live:8080/live/marco/polo/198425.m3u8
 #EXTINF:-1,SPORT: FR - Trace Sport Stars HD
 http://landiptv.live:8080/live/marco/polo/198811.m3u8
-#EXTINF:-1,SPORT: IN - STAR SPORTS 1 FHD
-http://landiptv.live:8080/live/marco/polo/198575.m3u8
 #EXTINF:-1,SPORT: MY - SKYNET SPORTS 1
 http://landiptv.live:8080/live/marco/polo/198119.m3u8
 #EXTINF:-1,SPORT: MY - SKYNET SPORTS 2
@@ -1217,18 +1169,10 @@ http://landiptv.live:8080/live/marco/polo/198118.m3u8
 http://landiptv.live:8080/live/marco/polo/121815.m3u8
 #EXTINF:-1,SPORT: MY - SKYNET SPORTS 6
 http://landiptv.live:8080/live/marco/polo/198117.m3u8
-#EXTINF:-1,SPORT: MY - SKYNET SPORTS HD
-http://landiptv.live:8080/live/marco/polo/198116.m3u8
 #EXTINF:-1,SPORT: PT - ELEVEN SPORTS 2 FHD
 http://landiptv.live:8080/live/marco/polo/65064.m3u8
-#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 6 HD
-http://landiptv.live:8080/live/marco/polo/140850.m3u8
-#EXTINF:-1,SPORT: PT - SPORT TV+ FHD
-http://landiptv.live:8080/live/marco/polo/198179.m3u8
 #EXTINF:-1,SPORT: TR - beIN Sports 1 FHD
 http://landiptv.live:8080/live/marco/polo/198571.m3u8
-#EXTINF:-1,SPORT: TR - beIN Sports 2 FHD
-http://landiptv.live:8080/live/marco/polo/198572.m3u8
 #EXTINF:-1,SPORT: TR - beIN Sports 3 FHD
 http://landiptv.live:8080/live/marco/polo/198573.m3u8
 #EXTINF:-1,SPORT: TR - tivibu spor 1 FHD
@@ -1253,22 +1197,10 @@ http://landiptv.live:8080/live/marco/polo/137211.m3u8
 http://landiptv.live:8080/live/marco/polo/198103.m3u8
 #EXTINF:-1,SPORT: UK - EUROSPORT 2 FHD
 http://landiptv.live:8080/live/marco/polo/198104.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Action HD
-http://landiptv.live:8080/live/marco/polo/197947.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Arena HD
-http://landiptv.live:8080/live/marco/polo/197949.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
 http://landiptv.live:8080/live/marco/polo/197952.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports F1 HD
 http://landiptv.live:8080/live/marco/polo/197954.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Golf HD
-http://landiptv.live:8080/live/marco/polo/197958.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Main Event HD
-http://landiptv.live:8080/live/marco/polo/197960.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Mix HD
-http://landiptv.live:8080/live/marco/polo/197962.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports News HD
-http://landiptv.live:8080/live/marco/polo/197964.m3u8
 #EXTINF:-1,SPORT: US - beIN Sports FHD
 http://landiptv.live:8080/live/marco/polo/198539.m3u8
 #EXTINF:-1,SPORT: US - ELEVEN SPORTS HD
@@ -1277,8 +1209,6 @@ http://landiptv.live:8080/live/marco/polo/198544.m3u8
 http://landiptv.live:8080/live/marco/polo/198122.m3u8
 #EXTINF:-1,SPORT: US - FOX SPORTS 2 HD
 http://landiptv.live:8080/live/marco/polo/198123.m3u8
-#EXTINF:-1,SPORT: US - FOX SPORTS 3
-http://landiptv.live:8080/live/marco/polo/198124.m3u8
 #EXTINF:-1,SPORT: US - MLB NETWORK HD
 http://landiptv.live:8080/live/marco/polo/198549.m3u8
 #EXTINF:-1,SPORT: US - NFL Network FHD
@@ -1297,8 +1227,6 @@ http://landiptv.live:8080/live/marco/polo/92580.m3u8
 http://landiptv.live:8080/live/marco/polo/92581.m3u8
 #EXTINF:-1,UK: BT Sport ESPN FHD
 http://landiptv.live:8080/live/marco/polo/107282.m3u8
-#EXTINF:-1,UK: BT Sport Extra 1
-http://landiptv.live:8080/live/marco/polo/145466.m3u8
 #EXTINF:-1,UK: BT Sport Extra 4
 http://landiptv.live:8080/live/marco/polo/96511.m3u8
 #EXTINF:-1,UK: BT Sport Extra 5
@@ -1309,32 +1237,12 @@ http://landiptv.live:8080/live/marco/polo/108783.m3u8
 http://landiptv.live:8080/live/marco/polo/124390.m3u8
 #EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
 http://landiptv.live:8080/live/marco/polo/137212.m3u8
-#EXTINF:-1,UK: Sky Sports Racing FHD
-http://landiptv.live:8080/live/marco/polo/198820.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://landiptv.live:8080/live/marco/polo/92609.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://landiptv.live:8080/live/marco/polo/74495.m3u8
 #EXTINF:-1,UK: Sky Sports Cricket HD
 http://landiptv.live:8080/live/marco/polo/131501.m3u8
 #EXTINF:-1,UK: Sky Sports F1 HD
 http://landiptv.live:8080/live/marco/polo/137224.m3u8
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://landiptv.live:8080/live/marco/polo/74770.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://landiptv.live:8080/live/marco/polo/109959.m3u8
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://landiptv.live:8080/live/marco/polo/98196.m3u8
-#EXTINF:-1,UK: Sky Sports News HD
-http://landiptv.live:8080/live/marco/polo/74481.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://landiptv.live:8080/live/marco/polo/137225.m3u8
 #EXTINF:-1,AL: K Sport 1 HD
 http://landiptv.live:8080/live/marco/polo/94058.m3u8
-#EXTINF:-1,AL: K Sport 2 HD
-http://landiptv.live:8080/live/marco/polo/94059.m3u8
-#EXTINF:-1,AL: K Sport 3 HD
-http://landiptv.live:8080/live/marco/polo/94060.m3u8
 #EXTINF:-1,AL: K Sport 4 HD
 http://landiptv.live:8080/live/marco/polo/94061.m3u8
 #EXTINF:-1,AL: SPORT KLUB 1 HD
@@ -1343,42 +1251,16 @@ http://landiptv.live:8080/live/marco/polo/119272.m3u8
 http://landiptv.live:8080/live/marco/polo/134004.m3u8
 #EXTINF:-1,AL: Sport News HD
 http://landiptv.live:8080/live/marco/polo/140183.m3u8
-#EXTINF:-1,AL: SUPER SPORT 1 HD
-http://landiptv.live:8080/live/marco/polo/176254.m3u8
-#EXTINF:-1,AL: Super Sport 1 News
-http://landiptv.live:8080/live/marco/polo/63347.m3u8
-#EXTINF:-1,AL: Super Sport 3 FHD
-http://landiptv.live:8080/live/marco/polo/63351.m3u8
 #EXTINF:-1,AL: Super Sport 5 HD
 http://landiptv.live:8080/live/marco/polo/63349.m3u8
 #EXTINF:-1,AL: Super Sport 6
 http://landiptv.live:8080/live/marco/polo/94049.m3u8
-#EXTINF:-1,AL: Super Sport KOSOVA 2 HD
-http://landiptv.live:8080/live/marco/polo/196124.m3u8
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://landiptv.live:8080/live/marco/polo/63346.m3u8
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://landiptv.live:8080/live/marco/polo/63345.m3u8
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://landiptv.live:8080/live/marco/polo/78437.m3u8
-#EXTINF:-1,AL: Tring Sport News HD
-http://landiptv.live:8080/live/marco/polo/78438.m3u8
-#EXTINF:-1,AR: OSN AD SPORTS 1 HD
-http://landiptv.live:8080/live/marco/polo/74671.m3u8
-#EXTINF:-1,AR: OSN AD SPORTS 2
-http://landiptv.live:8080/live/marco/polo/74672.m3u8
 #EXTINF:-1,AR: OSN Sport 1 Action
 http://landiptv.live:8080/live/marco/polo/143179.m3u8
 #EXTINF:-1,AR: OSN SPORT 2 ACTION
 http://landiptv.live:8080/live/marco/polo/89336.m3u8
-#EXTINF:-1,AR: OSN Sport 4
-http://landiptv.live:8080/live/marco/polo/143181.m3u8
-#EXTINF:-1,AR: OSN Sports 3
-http://landiptv.live:8080/live/marco/polo/86785.m3u8
 #EXTINF:-1,AR: OSN Sports Action 1 HD
 http://landiptv.live:8080/live/marco/polo/101751.m3u8
-#EXTINF:-1,AR: OSN Sports Cricket HD
-http://landiptv.live:8080/live/marco/polo/94108.m3u8
 #EXTINF:-1,AR: beIN Sports 1 FHD
 http://landiptv.live:8080/live/marco/polo/197923.m3u8
 #EXTINF:-1,AR: beIN Sports 2 FHD
@@ -1401,32 +1283,16 @@ http://landiptv.live:8080/live/marco/polo/197924.m3u8
 http://landiptv.live:8080/live/marco/polo/145599.m3u8
 #EXTINF:-1,AR: beIN Sports 3 HD
 http://landiptv.live:8080/live/marco/polo/62259.m3u8
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://landiptv.live:8080/live/marco/polo/198058.m3u8
 #EXTINF:-1,AR: beIN Sports 10 HD
 http://landiptv.live:8080/live/marco/polo/62744.m3u8
 #EXTINF:-1,AR: beIN Sports 11 HD
 http://landiptv.live:8080/live/marco/polo/74643.m3u8
-#EXTINF:-1,AR: beIN Sports 12 HD
-http://landiptv.live:8080/live/marco/polo/93269.m3u8
 #EXTINF:-1,AR: beIN Sports 13 HD
 http://landiptv.live:8080/live/marco/polo/97054.m3u8
-#EXTINF:-1,AR: beIN Sports Max 2
-http://landiptv.live:8080/live/marco/polo/106577.m3u8
 #EXTINF:-1,AR: beIN Sports Max 4
 http://landiptv.live:8080/live/marco/polo/65672.m3u8
-#EXTINF:-1,AR: beIN Sports Max 5
-http://landiptv.live:8080/live/marco/polo/65671.m3u8
-#EXTINF:-1,AR: beIN Sports Max 6
-http://landiptv.live:8080/live/marco/polo/65670.m3u8
 #EXTINF:-1,AR: beIN Sports Max 7
 http://landiptv.live:8080/live/marco/polo/65669.m3u8
-#EXTINF:-1,AR: beIN Sports Max 8
-http://landiptv.live:8080/live/marco/polo/65668.m3u8
-#EXTINF:-1,AR: beIN Sports Max 9
-http://landiptv.live:8080/live/marco/polo/65667.m3u8
-#EXTINF:-1,AR: beIN Sports Max 10
-http://landiptv.live:8080/live/marco/polo/65666.m3u8
 #EXTINF:-1,AR: beIN Sports NBA HD
 http://landiptv.live:8080/live/marco/polo/136392.m3u8
 #EXTINF:-1,AR: beIN Sports News HD
@@ -1451,8 +1317,6 @@ http://landiptv.live:8080/live/marco/polo/111591.m3u8
 http://landiptv.live:8080/live/marco/polo/135339.m3u8
 #EXTINF:-1,AR: KSA Sport 2 HD
 http://landiptv.live:8080/live/marco/polo/131080.m3u8
-#EXTINF:-1,AU: FOX SPORTS News
-http://landiptv.live:8080/live/marco/polo/147647.m3u8
 #EXTINF:-1,BE: VOO SPORT World 1 HD
 http://landiptv.live:8080/live/marco/polo/106558.m3u8
 #EXTINF:-1,BE: VOO SPORT World 2 HD
@@ -1463,8 +1327,6 @@ http://landiptv.live:8080/live/marco/polo/65559.m3u8
 http://landiptv.live:8080/live/marco/polo/65558.m3u8
 #EXTINF:-1,BG: Diema Sport HD
 http://landiptv.live:8080/live/marco/polo/78784.m3u8
-#EXTINF:-1,HR: Arena Sport 1 HD
-http://landiptv.live:8080/live/marco/polo/156635.m3u8
 #EXTINF:-1,HR: Arena Sport 3
 http://landiptv.live:8080/live/marco/polo/156637.m3u8
 #EXTINF:-1,HR: Arena Sport 4 HD
@@ -1481,42 +1343,24 @@ http://landiptv.live:8080/live/marco/polo/63070.m3u8
 http://landiptv.live:8080/live/marco/polo/65363.m3u8
 #EXTINF:-1,EX-YU: SPORT CLUB 2 HD
 http://landiptv.live:8080/live/marco/polo/134430.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 1 (CRO)
-http://landiptv.live:8080/live/marco/polo/89494.m3u8
 #EXTINF:-1,EX-YU: SPORT KLUB 2 HD
 http://landiptv.live:8080/live/marco/polo/65341.m3u8
 #EXTINF:-1,EX-YU: Sport Klub 3 (CRO)
 http://landiptv.live:8080/live/marco/polo/89496.m3u8
-#EXTINF:-1,EX-YU: SPORT KLUB 3 HD
-http://landiptv.live:8080/live/marco/polo/65340.m3u8
 #EXTINF:-1,FR: beIN Sports 1 FHD
 http://landiptv.live:8080/live/marco/polo/198126.m3u8
 #EXTINF:-1,FR: beIN Sports 2 FHD
 http://landiptv.live:8080/live/marco/polo/198131.m3u8
-#EXTINF:-1,FR: beIN Sports 3 FHD
-http://landiptv.live:8080/live/marco/polo/198125.m3u8
-#EXTINF:-1,FR: beIN Sports 2 HD
-http://landiptv.live:8080/live/marco/polo/62336.m3u8
 #EXTINF:-1,FR: beIN Sports 3 HD
 http://landiptv.live:8080/live/marco/polo/63602.m3u8
 #EXTINF:-1,FR: beIN Sports max 4 HD
 http://landiptv.live:8080/live/marco/polo/160280.m3u8
 #EXTINF:-1,FR: beIN Sports Max 5 HD
 http://landiptv.live:8080/live/marco/polo/160281.m3u8
-#EXTINF:-1,FR: beIN Sports Max 7 HD
-http://landiptv.live:8080/live/marco/polo/74988.m3u8
-#EXTINF:-1,FR: beIN Sports MAX 8 HD
-http://landiptv.live:8080/live/marco/polo/160284.m3u8
-#EXTINF:-1,FR: beIN Sports MAX 9 HD
-http://landiptv.live:8080/live/marco/polo/160285.m3u8
 #EXTINF:-1,FR: beIN Sports Max 10 HD
 http://landiptv.live:8080/live/marco/polo/164422.m3u8
 #EXTINF:-1,FR: BFM SPORT HD
 http://landiptv.live:8080/live/marco/polo/163476.m3u8
-#EXTINF:-1,FR: ELEVEN SPORTS 1 HD
-http://landiptv.live:8080/live/marco/polo/127942.m3u8
-#EXTINF:-1,FR: ELEVEN SPORTS 3
-http://landiptv.live:8080/live/marco/polo/152552.m3u8
 #EXTINF:-1,FR: EUROSPORT 1 FHD
 http://landiptv.live:8080/live/marco/polo/73680.m3u8
 #EXTINF:-1,FR: EUROSPORT 2 FHD
@@ -1537,8 +1381,6 @@ http://landiptv.live:8080/live/marco/polo/91919.m3u8
 http://landiptv.live:8080/live/marco/polo/120878.m3u8
 #EXTINF:-1,FR: RMC SPORT 5 HD
 http://landiptv.live:8080/live/marco/polo/65662.m3u8
-#EXTINF:-1,FR: RMC SPORT NEWS FHD
-http://landiptv.live:8080/live/marco/polo/149141.m3u8
 #EXTINF:-1,MY: Astro SuperSport 1 HD
 http://landiptv.live:8080/live/marco/polo/147234.m3u8
 #EXTINF:-1,MY: Astro SuperSport 2 HD
@@ -1569,8 +1411,6 @@ http://landiptv.live:8080/live/marco/polo/198110.m3u8
 http://landiptv.live:8080/live/marco/polo/198111.m3u8
 #EXTINF:-1,SPORT: FR - beIN Sports 1 FHD
 http://landiptv.live:8080/live/marco/polo/198130.m3u8
-#EXTINF:-1,SPORT: FR - beIN Sports 3 FHD
-http://landiptv.live:8080/live/marco/polo/198133.m3u8
 #EXTINF:-1,SPORT: MY - Astro SuperSport 1 HD
 http://landiptv.live:8080/live/marco/polo/198099.m3u8
 #EXTINF:-1,SPORT: MY - Astro SuperSport 2 HD
@@ -1583,24 +1423,16 @@ http://landiptv.live:8080/live/marco/polo/140845.m3u8
 http://landiptv.live:8080/live/marco/polo/198093.m3u8
 #EXTINF:-1,SPORT: PT - SPORT TV 3 FHD
 http://landiptv.live:8080/live/marco/polo/198095.m3u8
-#EXTINF:-1,SPORT: PT - SPORT TV 5 FHD
-http://landiptv.live:8080/live/marco/polo/198096.m3u8
 #EXTINF:-1,SPORT: UK - BT Sport 2 FHD
 http://landiptv.live:8080/live/marco/polo/99563.m3u8
 #EXTINF:-1,SPORT: UK - ELEVEN SPORTS 2 FHD
 http://landiptv.live:8080/live/marco/polo/197901.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Action FHD
-http://landiptv.live:8080/live/marco/polo/197946.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Arena FHD
 http://landiptv.live:8080/live/marco/polo/197948.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Cricket FHD
-http://landiptv.live:8080/live/marco/polo/197951.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Football FHD
 http://landiptv.live:8080/live/marco/polo/197955.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Golf FHD
 http://landiptv.live:8080/live/marco/polo/197957.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Main Event FHD
-http://landiptv.live:8080/live/marco/polo/197959.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Mix FHD
 http://landiptv.live:8080/live/marco/polo/197961.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports News FHD
@@ -2305,8 +2137,6 @@ http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198104.m3u8
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198539.m3u8
 #EXTINF:-1,SPORT: AR - beIN Sports 10 FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/197969.m3u8
-#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 5 FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130337.m3u8
 #EXTINF:-1,SPORT: PT - SPORT TV 1 FHD
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198092.m3u8
 #EXTINF:-1,SPORT: UK - BT Sport 3 FHD
@@ -2577,8 +2407,6 @@ http://5.254.66.150:25461/live/adel2018/adel2018/4768.m3u8
 http://5.254.66.150:25461/live/adel2018/adel2018/4833.m3u8
 #EXTINF:-1,Horse and Country
 http://5.254.66.150:25461/live/adel2018/adel2018/4760.m3u8
-#EXTINF:-1,Voo Sport World 1 HD
-http://5.254.66.150:25461/live/adel2018/adel2018/8709.m3u8
 #EXTINF:-1,Voo Sport World 2 HD
 http://5.254.66.150:25461/live/adel2018/adel2018/8710.m3u8
 #EXTINF:-1,A SPORT HD
@@ -2605,8 +2433,6 @@ http://5.254.66.150:25461/live/adel2018/adel2018/3915.m3u8
 http://5.254.66.150:25461/live/adel2018/adel2018/3914.m3u8
 #EXTINF:-1,Ziggo Sport Golf
 http://5.254.66.150:25461/live/adel2018/adel2018/4200.m3u8
-#EXTINF:-1,Ziggo Sport Racing
-http://5.254.66.150:25461/live/adel2018/adel2018/4201.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal HD
 http://5.254.66.150:25461/live/adel2018/adel2018/4204.m3u8
 #EXTINF:-1,Ziggo Sport eXtra 1
@@ -2689,8 +2515,6 @@ http://5.254.66.150:25461/live/adel2018/adel2018/8342.m3u8
 http://5.254.66.150:25461/live/adel2018/adel2018/8343.m3u8
 #EXTINF:-1,beIN SPORTS HD9.
 http://5.254.66.150:25461/live/adel2018/adel2018/9430.m3u8
-#EXTINF:-1,beIN SPORTS HD10.
-http://5.254.66.150:25461/live/adel2018/adel2018/9431.m3u8
 #EXTINF:-1,SPORT: AR - beoutQ 3 HD
 http://landiptv.live:8080/live/marco/polo/198004.m3u8
 #EXTINF:-1,SPORT: AR - beoutQ 4 HD
@@ -2711,10 +2535,6 @@ http://landiptv.live:8080/live/marco/polo/198443.m3u8
 http://landiptv.live:8080/live/marco/polo/109804.m3u8
 #EXTINF:-1,SPORT: TR - beIN Sports 4 FHD
 http://landiptv.live:8080/live/marco/polo/198574.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Football HD
-http://landiptv.live:8080/live/marco/polo/197956.m3u8
-#EXTINF:-1,SPORT: UK - Sky Sports Premier League HD
-http://landiptv.live:8080/live/marco/polo/197966.m3u8
 #EXTINF:-1,UK: BT Sport 3 FHD
 http://landiptv.live:8080/live/marco/polo/93484.m3u8
 #EXTINF:-1,UK: BT Sport Extra 2
@@ -2723,8 +2543,6 @@ http://landiptv.live:8080/live/marco/polo/175406.m3u8
 http://landiptv.live:8080/live/marco/polo/108416.m3u8
 #EXTINF:-1,UK: Setanta +Sports
 http://landiptv.live:8080/live/marco/polo/74761.m3u8
-#EXTINF:-1,UK: Sky Sports Football HD
-http://landiptv.live:8080/live/marco/polo/88302.m3u8
 #EXTINF:-1,AR: beIN Sports 2 HD
 http://landiptv.live:8080/live/marco/polo/77965.m3u8
 #EXTINF:-1,AR: beIN Sports 4 HD
@@ -2747,14 +2565,10 @@ http://landiptv.live:8080/live/marco/polo/131082.m3u8
 http://landiptv.live:8080/live/marco/polo/127944.m3u8
 #EXTINF:-1,BE: VOO SPORT 1 HD
 http://landiptv.live:8080/live/marco/polo/86858.m3u8
-#EXTINF:-1,HR: Sport Klub
-http://landiptv.live:8080/live/marco/polo/156656.m3u8
 #EXTINF:-1,HR: Sport Klub 1
 http://landiptv.live:8080/live/marco/polo/156640.m3u8
 #EXTINF:-1,HR: Sport Klub 2
 http://landiptv.live:8080/live/marco/polo/156641.m3u8
-#EXTINF:-1,HR: Sport Klub 3
-http://landiptv.live:8080/live/marco/polo/156642.m3u8
 #EXTINF:-1,CZ: SPORT 1 HD
 http://landiptv.live:8080/live/marco/polo/63069.m3u8
 #EXTINF:-1,EX-YU: Arena Sport 1 HD
@@ -2897,62 +2711,6 @@ http://brina1.world-tv.org:8888/live/germany/5ABuupT8yA/30.ts
 http://brina1.world-tv.org:8888/live/germany/5ABuupT8yA/28.ts
 #EXTINF:-1,DE -- Eurosport 1 Local
 http://brina1.world-tv.org:8888/live/germany/5ABuupT8yA/27.ts
-#EXTINF:-1,AR: FOX SPORTS 1 FULL HD
-http://tv.asplay.club:25461/live/abel/abel2019/7509.m3u8
-#EXTINF:-1,DIRECTV SPORT 2
-http://tv.asplay.club:25461/live/abel/abel2019/6986.m3u8
-#EXTINF:-1,AR: TNT SPORTS (Opcion 1)
-http://tv.asplay.club:25461/live/abel/abel2019/8142.m3u8
-#EXTINF:-1,AR: FOX SPORTS PREMIUM (Opcion 1)
-http://tv.asplay.club:25461/live/abel/abel2019/8143.m3u8
-#EXTINF:-1,AR: FOX SPORTS PREMIUM  (Opcion 2)
-http://tv.asplay.club:25461/live/abel/abel2019/8053.m3u8
-#EXTINF:-1,AR: TNT SPORTS (Opcion 2)
-http://tv.asplay.club:25461/live/abel/abel2019/8083.m3u8
-#EXTINF:-1,AR: FOX SPORTS 1 HD
-http://tv.asplay.club:25461/live/abel/abel2019/7151.m3u8
-#EXTINF:-1,AR: FOX SPORTS 2 FULL
-http://tv.asplay.club:25461/live/abel/abel2019/7150.m3u8
-#EXTINF:-1,AR: FOX SPORTS 3 720
-http://tv.asplay.club:25461/live/abel/abel2019/7149.m3u8
-#EXTINF:-1,AR: FOX SPORTS 3 FULL HD
-http://tv.asplay.club:25461/live/abel/abel2019/8016.m3u8
-#EXTINF:-1,FOX SPORTS 3 MX
-http://tv.asplay.club:25461/live/abel/abel2019/7683.m3u8
-#EXTINF:-1,US: FIGHT BOX
-http://tv.asplay.club:25461/live/abel/abel2019/7697.m3u8
-#EXTINF:-1,US: NFL Network HD
-http://tv.asplay.club:25461/live/abel/abel2019/7699.m3u8
-#EXTINF:-1,US: WWE HD
-http://tv.asplay.club:25461/live/abel/abel2019/7704.m3u8
-#EXTINF:-1,FOX SPORTS 1 MX FHD
-http://tv.asplay.club:25461/live/abel/abel2019/8018.m3u8
-#EXTINF:-1,FOX SPORTS 2 MX FHD
-http://tv.asplay.club:25461/live/abel/abel2019/8023.m3u8
-#EXTINF:-1,FOX SPORTS 3 MX FHD
-http://tv.asplay.club:25461/live/abel/abel2019/8024.m3u8
-#EXTINF:-1,US: Fox Sports San Diego
-http://tv.asplay.club:25461/live/abel/abel2019/9555.m3u8
-#EXTINF:-1,Br: Sportv 2 Hd
-http://tv.asplay.club:25461/live/abel/abel2019/10563.m3u8
-#EXTINF:-1,Br: Sportv 3 Hd
-http://tv.asplay.club:25461/live/abel/abel2019/10562.m3u8
-#EXTINF:-1,Br: Sportv Hd
-http://tv.asplay.club:25461/live/abel/abel2019/10564.m3u8
-#EXTINF:-1,CL: FOX Sports Chile 1 HD
-http://tv.asplay.club:25461/live/abel/abel2019/10797.m3u8
-#EXTINF:-1,CL: FOX Sports Chile 2 HD
-http://tv.asplay.club:25461/live/abel/abel2019/10798.m3u8
-#EXTINF:-1,CL: FOX Sports Chile 3 HD
-http://tv.asplay.club:25461/live/abel/abel2019/10799.m3u8
-#EXTINF:-1,BEIN SPORTS 1HD
-http://tv.asplay.club:25461/live/abel/abel2019/8926.m3u8
-#EXTINF:-1,BEIN SPORTS 3HD
-http://tv.asplay.club:25461/live/abel/abel2019/8928.m3u8
-#EXTINF:-1,BEIN SPORTS 4HD
-http://tv.asplay.club:25461/live/abel/abel2019/8929.m3u8
-#EXTINF:-1,UK: SKYNET SPORT 2
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2517.m3u8
 #EXTINF:-1,UK: SKYNET SPORT 3
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2516.m3u8
 #EXTINF:-1,UK: SKYNET SPORT 5
@@ -2963,8 +2721,6 @@ http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2546.m3u8
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2568.m3u8
 #EXTINF:-1,UK| BT SPORT 3 HD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2564.m3u8
-#EXTINF:-1,UK| BT Sport 1
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2570.m3u8
 #EXTINF:-1,UK| BT Sport 1 HD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2572.m3u8
 #EXTINF:-1,UK| BT Sport 2 FHD
@@ -2973,12 +2729,8 @@ http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2569.m3u8
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2567.m3u8
 #EXTINF:-1,UK| BT Sport 3 FHD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2565.m3u8
-#EXTINF:-1,UK| BT Sport 3 HD  ( Back up )
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2563.m3u8
 #EXTINF:-1,UK| BT Sport ESPN FHD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2561.m3u8
-#EXTINF:-1,UK| Box Nation
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2542.m3u8
 #EXTINF:-1,UK| Eurosport 1 FHD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2555.m3u8
 #EXTINF:-1,UK| Eurosport 2 FHD
@@ -2993,20 +2745,12 @@ http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2604.m3u8
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2597.m3u8
 #EXTINF:-1,UK| Sky Sports Cricket FHD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2600.m3u8
-#EXTINF:-1,UK| Sky Sports FootBall FHD
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2596.m3u8
-#EXTINF:-1,UK| Sky Sports Golf
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2589.m3u8
 #EXTINF:-1,UK| Sky Sports Golf FHD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2592.m3u8
-#EXTINF:-1,UK| Sky Sports News HD
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2577.m3u8
 #EXTINF:-1,UK| eir Sports 1
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2540.m3u8
 #EXTINF:-1,UK| eir Sports 2
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2539.m3u8
-#EXTINF:-1,UK|TSN 1 HD (3pm kick offs)
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2528.m3u8
 #EXTINF:-1,Uk: Bt Sports 1 Hd
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2625.m3u8
 #EXTINF:-1,Uk: Bt Sports 2 Hd
@@ -3053,18 +2797,10 @@ http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/1020.m3u8
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/1019.m3u8
 #EXTINF:-1,ES-Lat: Fox Sports 1 Hd
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/978.m3u8
-#EXTINF:-1,ES-Lat: Fox Sports 2 Hd
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/977.m3u8
 #EXTINF:-1,ES-Lat: Fox Sports 3 HD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/976.m3u8
-#EXTINF:-1,ES-Lat: Fox Sports Premium
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/975.m3u8
-#EXTINF:-1,PT: Fight Box
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/314.m3u8
 #EXTINF:-1,PT: Sport TV 1
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/296.m3u8
-#EXTINF:-1,PT: Sport Tv 2HD
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2662.m3u8
 #EXTINF:-1,IT: Rai sport 1
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/1307.m3u8
 #EXTINF:-1,IT: Rai Sport 2 HD
@@ -3097,6 +2833,3 @@ http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/1790.m3u8
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/1822.m3u8
 #EXTINF:-1,USA: Fox Sports 1 HD
 http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2990.m3u8
-#EXTINF:-1,USA: Fox SPORTS 506 HD
-http://spaceiptv.tk:25461/live/tvapp/s8NE5JnEPG/2988.m3u8
-iptvdaiily.blogspot.com
