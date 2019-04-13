@@ -1,9 +1,14 @@
 #EXTM3U
 #EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
 http://ul.cdn574.net:8080/hls/c173fyfweah1.m3u8?s=0H6kkPjykFWus1uygZ1PCw&e=1555184257
-#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
-#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
-
+#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
+http://31.220.0.196:8081/live/FFMyjyWwYcacULKW/chunks.m3u8?nimblesessionid=410698&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDExOjExOjI4IEFNJmhhc2hfdmFsdWU9V0x2WUp0RE5wVTk2UWYvQlVpaGxmUT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
+http://ul.cdn574.net:8080/hls/r5xdgo7mujsw3.m3u8?s=al43Ya40U13EbXQ6WBh3-A&e=1555185414
+#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
+http://31.220.0.196:8081/live/FFMyjyWwYcacULKW/chunks.m3u8?nimblesessionid=416620&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDExOjI0OjM5IEFNJmhhc2hfdmFsdWU9Q3NNRXFsUFlwaVFCTGE4eVUzTnB0UT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,12:30 England Premier League: Fulham Vs Everton
+http://tv.jantv.live/tv/H5eGwOvzFT20180321/chunklist_w1140781093_tkaGxzZW5kdGltZT0xNTU1MTY2NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WUVmM0l6NkQ2TUN1STdzX2ZVRTEtNUNXc0lEYkRvUDd4SDdfQXYyaEFiOD0=.m3u8
 
 
 #EXTINF:0,Captain Marvel
