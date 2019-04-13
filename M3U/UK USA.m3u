@@ -1,24 +1,11 @@
 #EXTM3U
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=StZfaRfDB7K3pKItnMf4CA&e=1554943140
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-http://cdn.youpit.site/live/yp3/chunks.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-http://cdn.youpit.site/live/yp4/chunks.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://7f9b6430101448d7a0d35a1f73b1821b.azureedge.net/d6b7f3b9-88aa-4346-b81d-46b887c56f79/d86e8c1c-d267-41c7-8404-a51da06b1774.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://7f9b6430101448d7a0d35a1f73b1821b.azureedge.net/d6b7f3b9-88aa-4346-b81d-46b887c56f79/d86e8c1c-d267-41c7-8404-a51da06b1774.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://hls305304.r-cdn.com/trn_61809/559/360p/playlist.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-http://cdn12.wonderstreams.ga/live/premierleague/chunks.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CpwEQhRkGRefbCQF_rC0Yh2fkgrUbrswkAjBGVi5RLbPmAdOWNelI6gQi2PTYd0G7vHQMo1-JJX-YhN7AStYgvSAeEEYuKpN-pHuwjJ-2-4r0MJNTaytwHxNTnrWTFSU1XBWxU-2STj_0P3h3xdRB950CcqO_iNcefQ4-_q_7WK_V9jmzDxhMMWpseBnSYz-URS0vaMssskMuiTp5O68Su88VtRReHCVb5JtMFMzPmHc8Sj1pAM6cdmwW9AG40yeG23tCvdXO2LeUjVHMu6I4G4EvZ6wiBbW2ptSGGrwNemVkAgv73pKHO2WDvratdgq7-SlspLLtK71BRJ_VeK4cuzfM7RhGROQyylm2NTr6zBzAbX8HUHfrRbh-Q1ZBecKUNtmIXdld9lLZxezFVRU4ZYPgBzgxqKqEnjgxqtn2aCo2xlpvAugHVCM5IqYu5JhmxTtg-JkyorMuNIjXAcGi4ABjCmshLJGLj7SGw7gNddz433Pk0AnfSIzIocr0t7xoqzgfEKEbsFglcqtHb6LWF1WNsTwJkTat33ojQCrFq9ADShX7cqefsqXfoY5e7rDLKmRkCwtojjxRgM8SbWzVZ44YJsAcPSrCiy5lwOVPIxo4lBQsJqZ1VtejoH8YzTaPy2-xukYpNzTxLw28LGL8WNqN2UmQfpeCoACnSiewFHZRrIXX5I8gcetF9eRHHp4O7Xpgdf8xd6vtR9LBiz1EhBjnfd1T_3ymBFtgenPqRFgGgyuYgl_F-n77xdx0-c.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-https://hls336335.r-cdn.com/trn_61807/482/480p/playlist.m3u8
-#EXTINF:0,20:00 UEFA Champions League: Manchester United - Barcelona
-http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=VQeI08gfa2CfDmflopamtw&e=1554944038
+#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=5_ou5v8SSWf_Hv4JmG9cDw&e=1555178671
+#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=JsjFSXVeGhePkeLTv0PEHw&e=1555178776
+#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
+https://nl1.streamlive.to/edge/lfpubj6e27rtxyn/chunks.m3u8?nimblesessionid=2042757&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDEyOjA2OjQ5IFBNJmhhc2hfdmFsdWU9Q3pJRHVrcEJHM3FKTGFmblJhY05yQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0yMCZpcD0xODguMjQxLjEwNy40NQ==
+
 
 
 #EXTINF:0,Captain Marvel
