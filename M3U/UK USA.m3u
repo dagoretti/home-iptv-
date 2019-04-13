@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:0,12:30 England Premier League: Tottenham Hotspur - Huddersfield Town
-http://ul.cdn574.net:8080/hls/c173fyfweah1.m3u8?s=0H6kkPjykFWus1uygZ1PCw&e=1555184257
-#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
-http://31.220.0.196:8081/live/FFMyjyWwYcacULKW/chunks.m3u8?nimblesessionid=410698&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDExOjExOjI4IEFNJmhhc2hfdmFsdWU9V0x2WUp0RE5wVTk2UWYvQlVpaGxmUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
-http://ul.cdn574.net:8080/hls/r5xdgo7mujsw3.m3u8?s=al43Ya40U13EbXQ6WBh3-A&e=1555185414
-#EXTINF:0,12:30 England Premier League: Southampton - Wolverhampton 
-http://31.220.0.196:8081/live/FFMyjyWwYcacULKW/chunks.m3u8?nimblesessionid=416620&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDE5IDExOjI0OjM5IEFNJmhhc2hfdmFsdWU9Q3NNRXFsUFlwaVFCTGE4eVUzTnB0UT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,12:30 England Premier League: Fulham Vs Everton
-http://tv.jantv.live/tv/H5eGwOvzFT20180321/chunklist_w1140781093_tkaGxzZW5kdGltZT0xNTU1MTY2NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WUVmM0l6NkQ2TUN1STdzX2ZVRTEtNUNXc0lEYkRvUDd4SDdfQXYyaEFiOD0=.m3u8
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=My3-xIlbi2-f2-cAoDtIiw&e=1555194267
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+https://p04.quest123.top:8088/live/sporcn0329/playlist.m3u8?id=108201&wowzasessionid=784533552&pk=1386883d4bfa76be6e028f4a58a01f0a3c0e6565dedec143cff6685cfca96a86
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w165262074_tkaGxzZW5kdGltZT0xNTU1MTc1NTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZktVVVl4ZnI3NmtyMzQyT2NLSVJDV0RkYldZUGdndmI4OUxqZGlQcWpiQT0=.m3u8
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=sH7xHmJkRzFP8emzm1ZnDw&e=1555194051
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+http://87.120.36.57:8080/hls/streama87274/index.m3u8?st=c4zgJnSeOnGIGk_diSX39g
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w57324188_tkaGxzZW5kdGltZT0xNTU1MTc1NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ejdIbWtFSWZvMzRDQVIwQ0RuOTZqRmlpYWYxZ0tGblB1Tm05N21ONnMwbz0=.m3u8
+#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=2SUhJd3hbhdC7jLEfe5F9A&e=1555194648
 
 
 #EXTINF:0,Captain Marvel
