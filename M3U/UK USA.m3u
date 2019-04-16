@@ -1,6 +1,27 @@
 #EXTM3U
-#EXTINF:0,MANCHESTER UTD - WEST HAM LIVE
-https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=RUE-i-3Cw-IrtFe1Bva5MA&e=1555198574
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://87.120.36.57:8080/hls/streama87867/index.m3u8?st=a_yrlwh1z5y5OU8sscI-6g
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+https://kk.telerium.org/ingest010/25504.m3u8?sf=NFNwczEwU2JE&token=Q3_eFJXjk20gPq5h5OgoFw&expires=1555446815&rnd=25504
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+https://207.gotoplayer.xyz/stream/beinsports11hdnbf/playlist.m3u8?id=25555&wowzasessionid=133913806&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://tv.jantv.live/tv/BSr715Im6t20180321/chunklist_w1815680738_tkaGxzZW5kdGltZT0xNTU1NDQyODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dXh6ZEtmT1lBRmdPN3ZmVE10NXpRc0VhZWVzZnd6Ti1GSEZYQnFTY3BIRT0=.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://194.67.220.30/hls/1604192.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+https://kk.telerium.org/ingest011/27352.m3u8?sf=VG43TUdCalpHMg==&token=UY6iH_17cC7JqJpwWJkfbw&expires=1555447336&rnd=27352
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=ewV9s0P_Lhr5WHgpM_DfRQ&e=1555461809
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=0F76KuYliOtep8wClFzPpA&e=1555462382
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://tv.jantv.live/tv/BSr715Im6t20180321/chunklist_w1312864834_tkaGxzZW5kdGltZT0xNTU1NDQzODQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9b3ktYU1rY2tKMmQwR2U4SGUwTmluV29vZ0cwSlAwckRlWmMxM2JGR0J5Yz0=.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://163.172.209.68/bt2saaaz/tracks-v1a1/mono.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League: Barcelona - Manchester United
+http://ul.cdn574.net:8080/hls/wam6q8.m3u8?s=kf97iTnmnoaKEM8IINZ87A&e=1555462590
+
 #EXTINF:0,chilling_adventures_of_sabrina_season_2
 https://www1611.leasewebcdn.me/token=n6xxaW1Z-gcXx-dQ7s17Aw/1555210186/188.241.0.0/40/b/11/7b32ae950a0394adc704576ad2b2e11b-480p.mp4
 #EXTINF:0,Captain Marvel
