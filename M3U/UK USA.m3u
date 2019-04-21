@@ -1,14 +1,45 @@
 #EXTM3U
-#EXTINF:0,Man.City vs Tottenham
-https://757f4dff306a46ad8a01f0a519d3c0de.azureedge.net/657a4a39-992f-46d8-8e72-fb9f1de7c636/a9b5f864-5d03-415d-817e-f12bd9f29c6c.ism/QualityLevels(1350000)/Fragments(video=414854640,format=m3u8-aapl-v3,audiotrack=audio)
-#EXTINF:0,Man.City vs Tottenham
-http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w1461681548_tkaGxzZW5kdGltZT0xNTU1NzYyNjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9QW9rUi1jMDh3dG43YmhLRGZHelVvY3pPWFVDTTViRTNzOUNWMDZoZWEtdz0=.m3u8
-#EXTINF:0,Man.City vs Tottenham
-http://www.astonishing.gdn/mount/lil9/index.m3u8
-#EXTINF:0,Man.City vs Tottenham
-http://www.duno.pw/mount/grande12/index.m3u8
-#EXTINF:0,Man.City vs Tottenham
-http://www.astonishing.gdn/mount/lil9/index.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://nl3.streamlive.to/edge/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=751084&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE5IDEwOjU1OjU0IEFNJmhhc2hfdmFsdWU9bEZ2YTZ1MTYyVDU5WjZBSDlOemJuQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0yMCZpcD0xODguMjQxLjEwNy40NQ==
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://ul.cdn574.net:8080/hls/qqzbdqx1v.m3u8?s=aLdqwF_X9FsFymXtV_USog&e=1555865880
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=xYCESAqOPOhXa-BJ9yGUQg&e=1555866241
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://perqedsoe.s3-accelerate.amazonaws.com/1/1.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=zBmVeBC48o3Jq0RAAv0LEQ&e=1555867917
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/03.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=eJct79irxkcKHROo9Hv8bQ&e=1555866345
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://31.220.0.134:8081/live/ssmain/chunks.m3u8?nimblesessionid=472864&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE5IDk6MDc6MDkgQU0maGFzaF92YWx1ZT1SZy85NUUvYSt1UkdOMnFHRGhLWEhRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=9Xt8ATd_qlrAMO_Qq8P6Yw&e=1555868005
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://mbl.chessbook.icu/ingest011/27350.m3u8?sf=YjBnN3hHaWN4bg==&token=MHu5o2UdBqJVFRR0JkqEbg&expires=1555853584&rnd=27350
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w2145344932_tkaGxzZW5kdGltZT0xNTU1ODQ5OTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NXNiTEs1Y2dySkthRzFmQ3dmTjRpUGg0Y1A1RTF2cjRRRlYyMmtLc0pFbz0=.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/ndzu477d.m3u8?s=h-I30sQUkzWn7RZsbQWPQA&e=1555869616
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://cdn1.hdstreams.club/live/ch5/index.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/psyzxkw0zdhv.m3u8?s=KR2FprMauuB53U7T5jX6GQ&e=1555870090
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/fyyxzqrb36.m3u8?s=-xZ_n97qp5Kl4tsa2r6llg&e=1555870396
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=abKIr1tz_83czsIGbL1iNA&e=1555870428
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+https://telerium.tv/ingest011/27350.m3u8?sf=YjBnN3hHaWN4bg==&token=l7u_6HV8q4CwFa5XUl9oZQ&expires=1555850070&rnd=27350
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://93.157.63.53:8080/hls/streama88591/index.m3u8?st=2zFvAS_JGfNR0YMF8QYVsw
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://185.246.209.80/TSN1/mono.m3u8
+#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
+http://live.mypeercast.com/hls/ibrodtv4_qjqy13nw/index.m3u8?st=JIPMJOjoAUwxEm31_3WU-w&e=1555871254
+
 
 
 #EXTINF:0,chilling_adventures_of_sabrina_season_2
