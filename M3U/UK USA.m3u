@@ -1,46 +1,28 @@
 #EXTM3U
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://nl3.streamlive.to/edge/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=751084&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE5IDEwOjU1OjU0IEFNJmhhc2hfdmFsdWU9bEZ2YTZ1MTYyVDU5WjZBSDlOemJuQT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0yMCZpcD0xODguMjQxLjEwNy40NQ==
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://ul.cdn574.net:8080/hls/qqzbdqx1v.m3u8?s=aLdqwF_X9FsFymXtV_USog&e=1555865880
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=xYCESAqOPOhXa-BJ9yGUQg&e=1555866241
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://perqedsoe.s3-accelerate.amazonaws.com/1/1.m3u8
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=zBmVeBC48o3Jq0RAAv0LEQ&e=1555867917
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/03.m3u8
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=eJct79irxkcKHROo9Hv8bQ&e=1555866345
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://31.220.0.134:8081/live/ssmain/chunks.m3u8?nimblesessionid=472864&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE5IDk6MDc6MDkgQU0maGFzaF92YWx1ZT1SZy85NUUvYSt1UkdOMnFHRGhLWEhRPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=9Xt8ATd_qlrAMO_Qq8P6Yw&e=1555868005
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://mbl.chessbook.icu/ingest011/27350.m3u8?sf=YjBnN3hHaWN4bg==&token=MHu5o2UdBqJVFRR0JkqEbg&expires=1555853584&rnd=27350
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w2145344932_tkaGxzZW5kdGltZT0xNTU1ODQ5OTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NXNiTEs1Y2dySkthRzFmQ3dmTjRpUGg0Y1A1RTF2cjRRRlYyMmtLc0pFbz0=.m3u8
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/ndzu477d.m3u8?s=h-I30sQUkzWn7RZsbQWPQA&e=1555869616
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://cdn1.hdstreams.club/live/ch5/index.m3u8
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/psyzxkw0zdhv.m3u8?s=KR2FprMauuB53U7T5jX6GQ&e=1555870090
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/fyyxzqrb36.m3u8?s=-xZ_n97qp5Kl4tsa2r6llg&e=1555870396
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://ul.cdn574.net:8443/hls/rlu5iprm5zq9t.m3u8?s=abKIr1tz_83czsIGbL1iNA&e=1555870428
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-https://telerium.tv/ingest011/27350.m3u8?sf=YjBnN3hHaWN4bg==&token=l7u_6HV8q4CwFa5XUl9oZQ&expires=1555850070&rnd=27350
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://93.157.63.53:8080/hls/streama88591/index.m3u8?st=2zFvAS_JGfNR0YMF8QYVsw
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://185.246.209.80/TSN1/mono.m3u8
-#EXTINF:0,13:30 England Premier League: Everton FC - Manchester United
-http://live.mypeercast.com/hls/ibrodtv4_qjqy13nw/index.m3u8?st=JIPMJOjoAUwxEm31_3WU-w&e=1555871254
-
-
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://cdn3.azureedge.eu/live/a/index.m3u8
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+https://neostreamz.net/hls/exprestream9/chunks.m3u8
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://31.220.0.196:8081/live/rTNbBMEHvVUxrTZs/chunks.m3u8?nimblesessionid=555547&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE5IDM6NTk6MDIgUE0maGFzaF92YWx1ZT1uZVVmWEZPYWtNOVRwaEozOUFJazl3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://ul.cdn574.net:8080/hls/4csubpsa1qjiq.m3u8?s=B3nOXo7VmZrIZ9jEbufwhw&e=1556152330
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=_J5Z8UagDnHcySp2sQCYww&e=1556152218
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://uk.passit.ml/live/bein11-hq/chunks.m3u8?nimblesessionid=4304738&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE5IDY6Mjk6MDEgUE0maGFzaF92YWx1ZT1SVE9mN0oxNXhwQnBzWmlXWHR5OEVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE4OC4yNDEuMTA3LjQ1JnN0cm1fbGVuPTU=
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+https://ul.cdn574.net:8443/hls/b401afo30kea.m3u8?s=Flr8vFwRlQCwzVnbdewr4g&e=1556152990
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+https://ul.cdn574.net:8443/hls/p4vmi1t4.m3u8?s=k6uPFzvZfWbIiZ5yqQ85fw&e=1556153037
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=aNdEFIoEKI0YI3BzKuiuHA&e=1556153127
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://185.39.11.36/hls/nbcsn.m3u8
+#EXTINF:0,20:00 England Premier League: Manchester United - Manchester City
+http://xstreamsports.xyz/hotstar/hotplus.php?c=ssselecthd1&e=.m3u8
 
 #EXTINF:0,chilling_adventures_of_sabrina_season_2
 https://www1611.leasewebcdn.me/token=n6xxaW1Z-gcXx-dQ7s17Aw/1555210186/188.241.0.0/40/b/11/7b32ae950a0394adc704576ad2b2e11b-480p.mp4
@@ -48,5 +30,3 @@ https://www1611.leasewebcdn.me/token=n6xxaW1Z-gcXx-dQ7s17Aw/1555210186/188.241.0
 https://vanilla.fruithosted.net/dl/n/FnSLt4-EqqUdkQax/napbsdnsrfsalnkf/W1s8ILF508wio1WK1tjdud3qMm0TptBISIeKz0vZ-QbZf6qX7eG2qvFezNrF3_3Vg5SDqMTTgl7K27oulwFh3nnr_2Gb65GoP8isGSL3JXJ5YvmbwevwFpgJigCmaV-C6zh4f6cATixRplCQkQkXLLTvlOXLF0Wt4oNs1iqVZyK8ZjmEw9sFXUy8S0aTI7Z7sz2aPvUwd6ifdRF8Z5DbrGRdioSitKOelu-LQsi9WYJlqR8lKhqOvYJEFkrvAVRnJ3zVtM45-38lUnwX2cgO7arwPWR9xzCi5MQEVguqzbCFga_BZ06ZkE2RWN6ZApHMmoRsxDvt45Nw2T6Glht5qPxXUWbqkE2nVINYlylOqEQR4sy3XdLzsGCsnllbFqrcBwvQjgVDa9iuvsrOIATIyeWkFpl3F3BLZX8lF1XYsn4/movie_244562.mp4
 #EXTINF:0,Captain Marvel link 2
 https://zhr06sruah.playercdn.net/187/5/xNsUCqDwkuuGGI96LNwR6w/1552449760/190312/923G10PCVMAD8NHJNDQT6.mp4
-
-
