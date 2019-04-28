@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0,TOTTENHAM - WEST HAM
-https://ul.cdn574.net:8443/hls/st6h1y6ei.m3u8?s=-608oUDlmczKAjjLr-DMqQ&e=1556387341
-#EXTINF:0,TOTTENHAM - WEST HAM
-http://ul01.cdn574.net:8080/hls/eki6e.m3u8?s=WaKf9wHQSWEUgVtGVI6bKA&e=1556387299
-#EXTINF:0,TOTTENHAM - WEST HAM
-http://78.142.19.55:8080/hls/streama89390/index.m3u8?st=N0PEiF1Z0-qYGAsoVbmELg
+#EXTINF:0,/sky-sports-premier-league-live
+http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w1806219316_tkaGxzZW5kdGltZT0xNTU2NDUwNDAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WFpwanRYdnJuU01SR2VGa2U0Z0ppZkhkRWhzLWVuN1dLVmxjcVJXS3hoST0=.m3u8
