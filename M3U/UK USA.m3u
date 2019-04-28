@@ -1,20 +1,45 @@
 #EXTM3U
-#EXTINF:0,/sky-sports-premier-league-live
-http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w1806219316_tkaGxzZW5kdGltZT0xNTU2NDUwNDAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WFpwanRYdnJuU01SR2VGa2U0Z0ppZkhkRWhzLWVuN1dLVmxjcVJXS3hoST0=.m3u8
-
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-http://cdn2.hdstreams.club/live/ch5/index.m3u8
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-http://streams.easysport.tv/live/easysport1/chunks.m3u8
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-https://ul.cdn574.net:8443/hls/ge4i8qwsvfkbe7.m3u8?s=4nZyOxKaMSzC2mtVlPsAjQ&e=1556470152
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-https://ul.cdn574.net:8443/hls/idld7a4tvwi.m3u8?s=z8hVcWA1kHGzpVwirVVJ2g&e=1556470004
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-https://ul.cdn574.net:8443/hls/419ejn26.m3u8?s=Ex6feagivxfLEPSClT6n-A&e=1556470312
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-https://ul.cdn574.net:8443/hls/idld7a4tvwi.m3u8?s=SKVHj5AO4EhcAc_r-YCVZg&e=1556470354
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
-https://ul.cdn574.net:8443/hls/ndzu477d.m3u8?s=ku0opAZ7MJXGbOglTwMZOg&e=1556470400
-#EXTINF:0,12:00 England Premier League: Leicester City - Arsenal FC
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://34.96.101.191/live/ch10/index.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://cdn2.azureedge.eu/live/d/index.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://ul.cdn574.net:8080/hls/8u8acv17o.m3u8?s=4pgWEuvlyhQML4oojn_tQQ&e=1556485837
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://l3.hhhssssss.com/hls/live10/index.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/ho15js300.m3u8?s=p3MH3lu-YCVGdC_qmmgZPw&e=1556485651
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/st6h1y6ei.m3u8?s=w-mFq8CYfSNQT4iiaSl2Sw&e=1556485613
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/hwbzcvp.m3u8?s=BXl-WDBUJapjq9dSiOGJ_A&e=1556485556
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://185.39.11.36/hls/nbcsn.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/idld7a4tvwi.m3u8?s=qSW-Q8lKAw_bNKPp2317nQ&e=1556485394
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/idld7a4tvwi.m3u8?s=qSW-Q8lKAw_bNKPp2317nQ&e=1556485394
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://ul.cdn574.net:8080/hls/8u8acv17o.m3u8?s=SuN3WE4LA7dGlCffZrfvUQ&e=1556485254
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CqEE2Oz0LgBKb2vKiRD-7fco_iX4bRX_HkcNITqi1JJGbGjPMojZOJou99v58k46aKTgUYoFKgZcYejkuGwOX8esim21aqVgi271xUhVinrjL68yRxY5lcMuFSuyxiI49wsh7XDJcY0CyfXVHvyASVMwYwGTqT84MHz_zMXGTgK4lRzDob7CXDkG04woqmiDmQd6OLZqrF7LHhIQMEADaYfORivHRAdZ4STR8rMsNrPV0NYo59S9-D6QVBLOZ02S-H6ObEVifxhDhosnPKjhkPBYS7AFW-X8PTqNZSogaAFQnwGZ_6m8DB0Tvk9FBtZpFHpJZGrSsMT4xV-OxGlKH6zTdqcqr8J_-M9-317QSAWxz7HzZyAu_cxQ7fiU4U79VHgLmMHpk-xsZxwqw1o7kfMzkqb9Z2E7oqlsYHygxFopDLoUoiaOx7fWeE14LTEogR_XFFIG1rR0gPTwyxy0GP32VD-jTSnPeqO8p6nhoyTtxMuvb-Ixfu12lKikC2K72IPpjcATeKoPeh9x1bFuQASlIyzEHjNPAGxQxNRKNAyWuYpnbtp11mP7zJ9Y3986AV-BhshEEPUHHjc4G_1Ds4ofSP__Mmmjajc5wCgapdJDllO8FepiWLGI5oA6dVoImAWmuk7CiYSa9RlguyjnxN4HH_LEDFnOL3C4Lgt0vG-AJ53JM30p-UuRvbXDBbFCfeZThMLTC0PsxHt5uLU5T9CALdYSEPLStZMxcrr4x8ysMTcs3PgaDAcTDtW-qNjrUeQHUQ.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://mbl.chessbook.icu/ingest011/27350.m3u8?sf=YjBnN3hHaWN4bg==&token=YLokm-CRLajB8q-vVHXZgQ&expires=1556470573&rnd=27350
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/8u8acv17o.m3u8?s=M9Uf1WOPSQAvexC8J-yh8A&e=1556484793
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://mbl.chessbook.icu/ingest010/43080.m3u8?sf=dDRMTmlzMEZSdQ==&token=ZRrhFlgsDPJ-lKKZ67bxcQ&expires=1556470349&rnd=43080
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://mbl.chessbook.icu/ingest09/25526.m3u8?sf=MjZwczEwU2JE&token=g6_5yeHTGGeT06hcHO-DaA&expires=1556470300&rnd=25526
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://ul.cdn574.net:8443/hls/8u8acv17o.m3u8?s=fFIMZ1v3FVBnEORXD-Tdsw&e=1556484640
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://p02.quest123.top:8088/live/xeech3a19/playlist.m3u8?id=108719&wowzasessionid=598406024&pk=6aa59b42fba60fb566818c0bd2c82f90752124fd97ee0825cd3285be55b50b20
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
+https://edge.nlive.club/ingest01/39125.m3u8?sf=NWM3NmU5MjNiMmEzOQ==&token=XevWUFxmn690FoIxIE4duA&expires=1556471891
+#EXTINF:0,16:30 England Premier League: Manchester United - Chelsea FC
 http://bnk.sportz.is/espn3.m3u8
