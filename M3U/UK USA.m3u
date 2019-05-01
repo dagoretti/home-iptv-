@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0,Tottenham vs Ajax
-http://cdn1.soccerfree.icu/live/ch2/index.m3u8
-#EXTINF:0,Tottenham vs Ajax
-https://ul.cdn574.net:8443/hls/rvj9fx.m3u8?s=B1tBibW1yljge4iw0hbzjA&e=1556673493
-#EXTINF:0,Tottenham vs Ajax
+#EXTINF:0,Barcelona vs Liverpool
+http://194.67.220.30/hls/0105193.m3u8
+#EXTINF:0,Barcelona vs Liverpool
 http://streams.easysport.tv/live/easysport1/chunks.m3u8
-#EXTINF:0,Tottenham vs Ajax
-https://ul.cdn574.net:8443/hls/st6h1y6ei.m3u8?s=2YhM1XLzsLxX6EK4cHy5Eg&e=1556673305
-#EXTINF:0,Tottenham vs Ajax
-https://ul.cdn574.net:8443/hls/lg769m.m3u8?s=3RB_wQuqsjTehufkHkxXsQ&e=1556673165
+#EXTINF:0,Barcelona vs Liverpool
+https://ul.cdn574.net:8443/hls/419ejn26.m3u8?s=QU66plrakf96lkx_SiPSTQ&e=1556757521
+#EXTINF:0,Barcelona vs Liverpool
+https://ul.cdn574.net:8443/hls/idld7a4tvwi.m3u8?s=wMnk80NiIkErc0CbGBHVZg&e=1556757475
+#EXTINF:0,Barcelona vs Liverpool
+http://ul.cdn574.net:8080/hls/cfwwrhy5mom.m3u8?s=WQgmmXb0sir88_YCOPrm5Q&e=1556757379
