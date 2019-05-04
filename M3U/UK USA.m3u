@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:0,Sky Sports NEWS
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w1657401455_tkaGxzZW5kdGltZT0xNTU2OTU3OTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RXN2LVc2aXZTNnVpN0tOWXI1RC1oYWxBYzd4YnRRVzJTRWNsMTkyU0dDaz0=.m3u8
-#EXTINF:-1, SKY SPORTS NEWS LIVE
-#EXTVLCOPT:http-referrer=http://www.jantv.live/crichd.php?player=desktop&live=ssnews&vw=620&vh=490
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w1106196138_tkaGxzZW5kdGltZT0xNTU2OTY1ODAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9d2Vjamo1M051WklKRkpKRGF6R2FvNVZsUFhXWjZ3SFQydF83STBHR0U2cz0=.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://streams.easysport.tv/live/easysport1/chunks.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+https://ul.cdn574.net:8443/hls/6zi69o4lmrv1cy.m3u8?s=2b58YrGBl_85XJsfoc_sbQ&e=1556988486
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://35.241.21.188/live/ch8/index.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham7
+https://ul.cdn574.net:8443/hls/7oohs46ld1spe.m3u8?s=BpHZDOG-p43zuvougNaoHA&e=1556988307
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://94.102.56.145/hls/nbcsn.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+https://ul.cdn574.net:8443/hls/rvj9fx.m3u8?s=TePnACJxbtG2KUJtvPFR4Q&e=1556988752
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w236176842_tkaGxzZW5kdGltZT0xNTU2OTcwNTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dHFvNkJTdUlUTF9Yb0NKMWpaZGdjRk91XzVHd1ViX1JoeVJTaUFMc3ZuWT0=.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w1392124211_tkaGxzZW5kdGltZT0xNTU2OTcwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eHBpSjlEZFZGSlFjYWV2NkVkY253bXdTNWQxS2dRYlY0NGhncTZSMlJHST0=.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w874237234_tkaGxzZW5kdGltZT0xNTU2OTcwNzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NHFKMU1tbGdiTF96enpKakRDY2hkOUxYRllnNzgxZFM5aW1VQ2pRRXpKbz0=.m3u8
+#EXTINF:0,AFC Bournemouth vs Tottenham
+http://31.220.0.134:8081/live/spstream11/chunks.m3u8?nimblesessionid=380123&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTkgODoyOToyMSBBTSZoYXNoX3ZhbHVlPU00dTR1aTFVbG5qMGw3eFgvbjZpNEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
