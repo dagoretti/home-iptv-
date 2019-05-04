@@ -1,37 +1,3 @@
 #EXTM3U
-#EXTINF:0,West Ham United vs Southampton
-https://ul.cdn574.net:8443/hls/bwiv4ou33xbc.m3u8?s=pnGH9UHFilQhW6uhY08QdA&e=1556999001
-#EXTINF:0,West Ham United vs Southampton
-https://ul.cdn574.net:8443/hls/wny2f44ianxbs.m3u8?s=qCvA-O9-NHoFMY_0oqxK3w&e=1556999070
-#EXTINF:0,West Ham United vs Southampton
-http://194.67.208.149/hls/105.m3u8
-#EXTINF:0,West Ham United vs Southampton
-https://l1.hhhssssss.com/hls/live1/index.m3u8
-#EXTINF:0,West Ham United vs Southampton
-https://epl12345.s3-accelerate.amazonaws.com/2/2.m3u8
-#EXTINF:0,West Ham United vs Southampton
-http://cdn1.hdstreams.club/live/ch11/index.m3u8
-#EXTINF:0,West Ham United vs Southampton
-http://185.39.11.36/hls/tsn1.m3u8
-#EXTINF:0,West Ham United vs Southampton
-https://e23.livecamtv.me/zmelive/APbgp8O2ixyLaklXzcVU/chunklist.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://streams.easysport.tv/live/easysport1/chunks.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-https://ul.cdn574.net:8443/hls/6zi69o4lmrv1cy.m3u8?s=2b58YrGBl_85XJsfoc_sbQ&e=1556988486
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://35.241.21.188/live/ch8/index.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham7
-https://ul.cdn574.net:8443/hls/7oohs46ld1spe.m3u8?s=BpHZDOG-p43zuvougNaoHA&e=1556988307
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://94.102.56.145/hls/nbcsn.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-https://ul.cdn574.net:8443/hls/rvj9fx.m3u8?s=TePnACJxbtG2KUJtvPFR4Q&e=1556988752
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w236176842_tkaGxzZW5kdGltZT0xNTU2OTcwNTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dHFvNkJTdUlUTF9Yb0NKMWpaZGdjRk91XzVHd1ViX1JoeVJTaUFMc3ZuWT0=.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://tv.jantv.live/tv/SULfL4yHw720180321/chunklist_w1392124211_tkaGxzZW5kdGltZT0xNTU2OTcwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eHBpSjlEZFZGSlFjYWV2NkVkY253bXdTNWQxS2dRYlY0NGhncTZSMlJHST0=.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w874237234_tkaGxzZW5kdGltZT0xNTU2OTcwNzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NHFKMU1tbGdiTF96enpKakRDY2hkOUxYRllnNzgxZFM5aW1VQ2pRRXpKbz0=.m3u8
-#EXTINF:0,AFC Bournemouth vs Tottenham
-http://31.220.0.134:8081/live/spstream11/chunks.m3u8?nimblesessionid=380123&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTkgODoyOToyMSBBTSZoYXNoX3ZhbHVlPU00dTR1aTFVbG5qMGw3eFgvbjZpNEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+#EXTINF:0,Sky Sports News Live 
+http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w384621504_tkaGxzZW5kdGltZT0xNTU3MDEzODAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OHB2Mzlwc2dRQlIxVEpDdGk2bmhpMHBnM1o4bDNNYlJoaWFuTXpTX1hGdz0=.m3u8
