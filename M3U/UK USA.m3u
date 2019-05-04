@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:0,Sky Sports NEWS
 http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w1657401455_tkaGxzZW5kdGltZT0xNTU2OTU3OTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9RXN2LVc2aXZTNnVpN0tOWXI1RC1oYWxBYzd4YnRRVzJTRWNsMTkyU0dDaz0=.m3u8
+#EXTINF:-1, SKY SPORTS NEWS LIVE
+#EXTVLCOPT:http-referrer=http://www.jantv.live/crichd.php?player=desktop&live=ssnews&vw=620&vh=490
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.108 Safari/537.36
+http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w958432329_tkaGxzZW5kdGltZT0xNTU2OTYxMjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SEI0LVdEY2xTWDJVTVhwWHNreUlqU2cybzBGdnBpU3BxZF9WSk9HMGRDdz0=.m3u8
+
+
