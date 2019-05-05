@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:0,Sky Sports News Live 
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w384621504_tkaGxzZW5kdGltZT0xNTU3MDEzODAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OHB2Mzlwc2dRQlIxVEpDdGk2bmhpMHBnM1o4bDNNYlJoaWFuTXpTX1hGdz0=.m3u8
+#EXTINF:0,NBCSN Live 
+https://ul.cdn574.net:8443/hls/ahbr3.m3u8?s=AKNd_yAwTy8iUhzxJzPdSw&e=1557079275
+#EXTINF:0,NBCSN Live 
+https://ul.cdn574.net:8443/hls/l294hlys.m3u8?s=1lf_rN7QKzSlbhK1YJ3I-g&e=1557078835
+#EXTINF:0,nbc-sports-live
+https://ul.cdn574.net:8443/hls/ahbr3.m3u8?s=ZmAoqs9oNTFLtag6id2v1w&e=1557078326
+#EXTINF:0,SKY SPORTS NEWS 1
+http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w689523219_tkaGxzZW5kdGltZT0xNTU3MDU5OTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9cjlibmttcVlYYWItLXNhWWVHTmFJRkZWUGdHVzhqYk9BMFc0YVpkOUY5Zz0=.m3u8
+#EXTINF:0,SKY SPORTS NEWS 2
+http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w1358543677_tkaGxzZW5kdGltZT0xNTU3MDYwMDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dWFFM2FnVDYyN3U4MklGZXVyZ1VVbTRSd1dITnlvQmtkU0l5QlhEYTdhcz0=.m3u8
+#EXTINF:0,SKY SPORTS NEWS 3
+http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w134750599_tkaGxzZW5kdGltZT0xNTU3MDYwMzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SGRySTdER21GVjJiMGtRMnI2M0hQNUxGQW9fN3ByZkJuS3N4RkxCTjJZdz0=.m3u8
+#EXTINF:0,Sky Sports Premier League
+http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w1267754777_tkaGxzZW5kdGltZT0xNTU3MDYwNTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9c1Mya2tXMVhBZFJXa3F0OVg3OXVjNVhrM0ZGWW4yeXU2YTRGOG8zcEFNOD0=.m3u8
