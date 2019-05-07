@@ -1,32 +1,11 @@
 #EXTM3U
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://us2.qcache.xyz/NBA/skyPE/chunks.m3u8
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://cdn3.hdstreams.club/live/ch5/index.m3u8
-#EXTINF:0,Huddersfield Town vs Manchester United
-https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CqoEP443c7RnbG5hbLDMfQ6JqmlTykjntiayBMFobbVPXVe4a3gUgs-eSArg-T4Up_dxAsmzedhsuaOmbHpFj3ZEZGkZlxf_hOZbNFdDOPh5BSGERhYDTtlFCpGHhmfH8uj1cO2-p7RIkyethFsGCQizVzA68D1tqGGhvkV9hp84Up58GfFQgcu0yzNi6yXHWwf_coS5_mS5kjHZj46ZxI7UIdi3pWOXeJsVDMz3PI0mdVR2K1chbGp3orPcj1nXSvyF_js6ukrD1n_-JpPhmTX_KF1NGwSusGzVJxbktVwT_WSS0C1ZwKtdzQ1vDvTS2E2wZOFI54_jaXNbQAjFAuvQQgAcXLuQSiHauw7ABa0YmZxm4UBtjFQM_4oKjEALm_Bkev8R-4WTH9xtqUdyVZHpEdMZ_6mW0mIEkWJOSNpAnnAIZwfKTOR7JFNUaudijDokr952hMGTjasa9PI4TG2te_HJtvIVwN2Pf9CqFnwRWq_Os4Mxshw3JflF5TaavP1_o4nWvJ2F_GnFT6eHs3TdJdd8lXW3ZC6bEPWSnyAk-OfkZfWoQN9ZbC0Hq2U1NM_8ivXfWdo297WTTSCeWteqkdbXnoESiV3FgRjmWFE316BebFgNVtgPELVeDohe-W3E_sQkAteFY6L9WhsMYkKh4MU3W5An9XLnr1BrsrZalBbr1ne_08EyhM2egOncdWwtXHgkCkB-BE6iv_owE4izUe-NrDnBbknNLakSEMIr8UNy1IhdlmO89jNWAMsaDP_lsDiG9a8tV3om-g.m3u8
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://cdn3.soccerfree.icu/live/ch5/index.m3u8
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://185.39.10.141:8081/live/skymaineventlsh.m3u8?e=1557067319&st=_WoaW4mNLbVZ-InjUPK52w
-#EXTINF:0,Huddersfield Town vs Manchester United
-https://ul.cdn574.net:8443/hls/f6x6ynu8xwnbxl.m3u8?s=4Sku3L0TouUW8DWfWnttYg&e=1557082408
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://cdn.youpit.site/live/yp2/chunks.m3u8
-#EXTINF:0,Huddersfield Town vs Manchester United
-http://bnk.bankai.stream/espn5.m3u8
-
-#EXTINF:0,NBCSN Live 
-https://ul.cdn574.net:8443/hls/ahbr3.m3u8?s=AKNd_yAwTy8iUhzxJzPdSw&e=1557079275
-#EXTINF:0,NBCSN Live 
-https://ul.cdn574.net:8443/hls/l294hlys.m3u8?s=1lf_rN7QKzSlbhK1YJ3I-g&e=1557078835
-#EXTINF:0,nbc-sports-live
-https://ul.cdn574.net:8443/hls/ahbr3.m3u8?s=ZmAoqs9oNTFLtag6id2v1w&e=1557078326
-#EXTINF:0,SKY SPORTS NEWS 1
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w689523219_tkaGxzZW5kdGltZT0xNTU3MDU5OTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9cjlibmttcVlYYWItLXNhWWVHTmFJRkZWUGdHVzhqYk9BMFc0YVpkOUY5Zz0=.m3u8
-#EXTINF:0,SKY SPORTS NEWS 2
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w1358543677_tkaGxzZW5kdGltZT0xNTU3MDYwMDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dWFFM2FnVDYyN3U4MklGZXVyZ1VVbTRSd1dITnlvQmtkU0l5QlhEYTdhcz0=.m3u8
-#EXTINF:0,SKY SPORTS NEWS 3
-http://tv.jantv.live/tv/dYAREzIbUs20180321/chunklist_w134750599_tkaGxzZW5kdGltZT0xNTU3MDYwMzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SGRySTdER21GVjJiMGtRMnI2M0hQNUxGQW9fN3ByZkJuS3N4RkxCTjJZdz0=.m3u8
-#EXTINF:0,Sky Sports Premier League
-http://tv.jantv.live/tv/XXi3JB0S8v20180321/chunklist_w1267754777_tkaGxzZW5kdGltZT0xNTU3MDYwNTQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9c1Mya2tXMVhBZFJXa3F0OVg3OXVjNVhrM0ZGWW4yeXU2YTRGOG8zcEFNOD0=.m3u8
+#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
+https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=Q2UKDQfjjjM7hEydAQBAmw&e=1557275861
+#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
+https://ul.cdn574.net:8443/hls/6zi69o4lmrv1cy.m3u8?s=momKVrOD5aSqzQkfQSzGBQ&e=1557275857
+#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
+https://ul.cdn574.net:8443/hls/vcly5.m3u8?s=4lpfp-LX0-JICx_I6xY_Fw&e=1557275806
+#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
+http://185.39.11.36/hls/tnt.m3u8
+#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
+https://d88wn9kkji59m.cloudfront.net/live/media-4/media.eyJuIjogInUxN20xODI1ODZjMTgyMTY5X3ByaW1hcnkifQ.1557257845.Dm1YIZRTIcYOU4Jlr5J5ClqDyhA/hls/u17m182586c182169_primary/index.m3u8?ticket=media.eyJuIjogInUxN20xODI1ODZjMTgyMTY5X3ByaW1hcnkifQ.1557257845.Dm1YIZRTIcYOU4Jlr5J5ClqDyhA
