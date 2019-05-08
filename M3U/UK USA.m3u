@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
-https://ul.cdn574.net:8443/hls/wam6q8.m3u8?s=Q2UKDQfjjjM7hEydAQBAmw&e=1557275861
-#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
-https://ul.cdn574.net:8443/hls/6zi69o4lmrv1cy.m3u8?s=momKVrOD5aSqzQkfQSzGBQ&e=1557275857
-#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
-https://ul.cdn574.net:8443/hls/vcly5.m3u8?s=4lpfp-LX0-JICx_I6xY_Fw&e=1557275806
-#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
-http://185.39.11.36/hls/tnt.m3u8
-#EXTINF:0,UEFA Champions LeagueLiverpool vs Barcelona
-https://d88wn9kkji59m.cloudfront.net/live/media-4/media.eyJuIjogInUxN20xODI1ODZjMTgyMTY5X3ByaW1hcnkifQ.1557257845.Dm1YIZRTIcYOU4Jlr5J5ClqDyhA/hls/u17m182586c182169_primary/index.m3u8?ticket=media.eyJuIjogInUxN20xODI1ODZjMTgyMTY5X3ByaW1hcnkifQ.1557257845.Dm1YIZRTIcYOU4Jlr5J5ClqDyhA
+#EXTINF:0,19:00 Clubs UEFA Champions League, Preview: Ajax Amsterdam - Tottenham Hotspur
+http://tv.jantv.live/tv/BSr715Im6t20180321/chunklist_w549350589_tkaGxzZW5kdGltZT0xNTU3MzQ0NDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9eHRpMk45MTM5dDZ0SnhwNW9OaGlhdHRfNmRySVlyMktYemtuM0dUYVpKVT0=.m3u8
+#EXTINF:0,19:00 Clubs UEFA Champions League, Preview: Ajax Amsterdam - Tottenham Hotspur
+https://mbl1.telerium.org/ingest09/33399.m3u8?sf=MlNwczEwU2JE&token=28f9j54VpUwDGdOWbJpPTg&expires=1557348121&rnd=33399
+#EXTINF:0,19:00 Clubs UEFA Champions League, Preview: Ajax Amsterdam - Tottenham Hotspur
+https://mbl1.telerium.org/ingest09/33399.m3u8?sf=MlNwczEwU2JE&token=TzMu24ey29UCwCsbJwq6nA&expires=1557348047&rnd=33399
