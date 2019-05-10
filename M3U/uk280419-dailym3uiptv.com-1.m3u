@@ -1,915 +1,932 @@
 #EXTM3U
-#EXTINF:-1,UK : BBC1 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41344.m3u8
-#EXTINF:-1,UK : BBC1 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41343.m3u8
-#EXTINF:-1,UK :  BBC2 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41342.m3u8
-#EXTINF:-1,UK :  BBC2 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41341.m3u8
-#EXTINF:-1,UK : ITV SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41340.m3u8
-#EXTINF:-1,UK : ITV HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41339.m3u8
-#EXTINF:-1,UK : CHANNEL 4 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41338.m3u8
-#EXTINF:-1,UK : CHANNEL 4 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44748.m3u8
-#EXTINF:-1,UK : Channel 5 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41337.m3u8
-#EXTINF:-1,UK : Channel 5 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41336.m3u8
-#EXTINF:-1,UK : SKY ONE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41335.m3u8
-#EXTINF:-1,UK : SKY ONE HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41334.m3u8
-#EXTINF:-1,UK : SKY ATLANTIC SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41333.m3u8
-#EXTINF:-1,UK : SKY ATLANTIC HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41332.m3u8
-#EXTINF:-1,UK : GOLD HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41330.m3u8
-#EXTINF:-1,UK : GOLD SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41331.m3u8
-#EXTINF:-1,UK : ITV2 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41300.m3u8
-#EXTINF:-1,UK : ITV2 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41299.m3u8
-#EXTINF:-1,UK : 4 SEVEN SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41293.m3u8
-#EXTINF:-1,UK : COMEDY CENTRAL SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41319.m3u8
-#EXTINF:-1,UK : COMEDY CENTRAL HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41318.m3u8
-#EXTINF:-1,UK : COMEDY CENTRAL EXTRA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41317.m3u8
-#EXTINF:-1,UK : DAVE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41313.m3u8
-#EXTINF:-1,UK : DAVE JA VU SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41312.m3u8
-#EXTINF:-1,UK : DRAMA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41311.m3u8
-#EXTINF:-1,UK : E! ENTERTAINMENT SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41315.m3u8
-#EXTINF:-1,UK : E! ENTERTAINMENT HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41314.m3u8
-#EXTINF:-1,UK : E4 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41310.m3u8
-#EXTINF:-1,UK : E4 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41309.m3u8
-#EXTINF:-1,UK : AMC SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41329.m3u8
-#EXTINF:-1,UK : AMC HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41328.m3u8
-#EXTINF:-1,UK : 5 SELECT SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41291.m3u8
-#EXTINF:-1,UK : 5 Star SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41290.m3u8
-#EXTINF:-1,UK : 5 USA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41289.m3u8
-#EXTINF:-1,UK : ALIBI SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41285.m3u8
-#EXTINF:-1,UK : ITV3 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41298.m3u8
-#EXTINF:-1,UK : ITV3 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41297.m3u8
-#EXTINF:-1,UK : ITV4 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41296.m3u8
-#EXTINF:-1,UK : ITV4 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41295.m3u8
-#EXTINF:-1,UK : ITV BE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41284.m3u8
-#EXTINF:-1,UK : FOX SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41308.m3u8
-#EXTINF:-1,UK : LIFETIME SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41307.m3u8
-#EXTINF:-1,UK : TLC HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44744.m3u8
-#EXTINF:-1,UK : UTV HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44747.m3u8
-#EXTINF:-1,UK : W HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44752.m3u8
-#EXTINF:-1,UK : WATCH
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44751.m3u8
-#EXTINF:-1,UK : More4 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41282.m3u8
-#EXTINF:-1,UK : More4 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41283.m3u8
-#EXTINF:-1,UK : PICK TV SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41306.m3u8
-#EXTINF:-1,UK : Quest Red SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41326.m3u8
-#EXTINF:-1,UK : QUEST SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41327.m3u8
-#EXTINF:-1,UK : REALLY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41305.m3u8
-#EXTINF:-1,UK : S4C SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41292.m3u8
-#EXTINF:-1,UK : SKY ARTS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41302.m3u8
-#EXTINF:-1,UK : SKY ARTS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41303.m3u8
-#EXTINF:-1,UK : Sky Living HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41286.m3u8
-#EXTINF:-1,UK : SKY REAL LIVES SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41304.m3u8
-#EXTINF:-1,UK : Sky Two SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41294.m3u8
-#EXTINF:-1,UK : STV  HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42030.m3u8
-#EXTINF:-1,UK : SONY MOVIES SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41349.m3u8
-#EXTINF:-1,UK : SPIKE UK SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41301.m3u8
-#EXTINF:-1,UK : TRUE ENTERTAINMENT SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41281.m3u8
-#EXTINF:-1,UK : Universal Channel HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41287.m3u8
-#EXTINF:-1,UK : Universal Channel SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41288.m3u8
-#EXTINF:-1,UK : CBS Action HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41324.m3u8
-#EXTINF:-1,UK : CBS Action SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41325.m3u8
-#EXTINF:-1,UK : CBS DRAMA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41323.m3u8
-#EXTINF:-1,UK : CBS Reality HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41320.m3u8
-#EXTINF:-1,UK : CBS Reality SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41321.m3u8
-#EXTINF:-1,UK : CHALLENGE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41316.m3u8
-#EXTINF:-1,UK : Sky Cinema Premier | SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41347.m3u8
-#EXTINF:-1,UK : Sky Cinema Premier HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41348.m3u8
-#EXTINF:-1,UK : SKY CINEMA ACTION SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41368.m3u8
-#EXTINF:-1,UK : SKY CINEMA ACTION HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41369.m3u8
-#EXTINF:-1,UK : SKY CINEMA THRILLER SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41350.m3u8
-#EXTINF:-1,UK : SKY CINEMA THRILLER HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41351.m3u8
-#EXTINF:-1,UK : SKY CINEMA COMEDY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41366.m3u8
-#EXTINF:-1,UK : SKY CINEMA COMEDY HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41367.m3u8
-#EXTINF:-1,UK : SKY CINEMA DISNEY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41364.m3u8
-#EXTINF:-1,UK : SKY CINEMA DISNEY HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41365.m3u8
-#EXTINF:-1,UK : SKY CINEMA DRAMA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41363.m3u8
-#EXTINF:-1,UK : SKY CINEMA DRAMA HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41362.m3u8
-#EXTINF:-1,UK : SKY CINEMA FAMILY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41360.m3u8
-#EXTINF:-1,UK : SKY CINEMA FAMILY HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41361.m3u8
-#EXTINF:-1,UK : SKY CINEMA GREATS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41359.m3u8
-#EXTINF:-1,UK : SKY CINEMA GREATS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41358.m3u8
-#EXTINF:-1,UK : SKY CINEMA HITS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41356.m3u8
-#EXTINF:-1,UK : SKY CINEMA HITS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41357.m3u8
-#EXTINF:-1,UK : SKY CINEMA SCIFI & HORROR SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41355.m3u8
-#EXTINF:-1,UK : SKY CINEMA SCIFI & HORROR HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41354.m3u8
-#EXTINF:-1,UK : SKY CINEMA SELECT SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41352.m3u8
-#EXTINF:-1,UK : SKY CINEMA SELECT HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41353.m3u8
-#EXTINF:-1,UK : FILM4 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41375.m3u8
-#EXTINF:-1,UK : FILM4 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41374.m3u8
-#EXTINF:-1,UK : HORROR CHANNEL SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41373.m3u8
-#EXTINF:-1,UK : MOVIES24 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41372.m3u8
-#EXTINF:-1,UK : MOVIES4MEN SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41371.m3u8
-#EXTINF:-1,UK : NOLLYWOOD HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41370.m3u8
-#EXTINF:-1,UK : TCM HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41346.m3u8
-#EXTINF:-1,UK :  TRUE MOVIES SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41345.m3u8
-#EXTINF:-1,UK : SKY SPORTS MAIN EVENT SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41433.m3u8
-#EXTINF:-1,UK : Sky Sports Main Event FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41432.m3u8
-#EXTINF:-1,UK : SKY SPORTS PREMIER LEAGUE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41429.m3u8
-#EXTINF:-1,UK : Sky Sports Premier League FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41428.m3u8
-#EXTINF:-1,UK : SKY SPORTS FOOTBALL SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41437.m3u8
-#EXTINF:-1,UK : Sky Sports Football FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41436.m3u8
-#EXTINF:-1,UK : SKY SPORTS ARENA SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41443.m3u8
-#EXTINF:-1,UK : Sky Sports Arena FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41442.m3u8
-#EXTINF:-1,UK : SKY SPORTS CRICKET SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41441.m3u8
-#EXTINF:-1,UK : Sky Sports Cricket FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41440.m3u8
-#EXTINF:-1,UK : SKY SPORTS F1 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41439.m3u8
-#EXTINF:-1,UK : Sky Sports F1 FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41438.m3u8
-#EXTINF:-1,UK : SKY SPORTS GOLF SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41435.m3u8
-#EXTINF:-1,UK : Sky Sports Golf FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41434.m3u8
-#EXTINF:-1,UK : SKY SPORTS RACING SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41427.m3u8
-#EXTINF:-1,UK : Sky Sports Racing FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41426.m3u8
-#EXTINF:-1,UK : SKY Sports Action SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41425.m3u8
-#EXTINF:-1,UK : Sky Sports Action FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41424.m3u8
-#EXTINF:-1,UK : SKY SPORTS NEWS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41431.m3u8
-#EXTINF:-1,UK : Sky Sports News FHD 50fps
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41430.m3u8
-#EXTINF:-1,UK : BT SPORTS 1 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41423.m3u8
-#EXTINF:-1,UK :  BT Sports 1 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41422.m3u8
-#EXTINF:-1,UK : BT SPORTS 2 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41421.m3u8
-#EXTINF:-1,UK :  BT Sports  2 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41420.m3u8
-#EXTINF:-1,UK : BT SPORTS 3 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41419.m3u8
-#EXTINF:-1,UK : BT Sports 3 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41418.m3u8
-#EXTINF:-1,UK : BT SPORTS ESPN SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41417.m3u8
-#EXTINF:-1,UK : BT Sports ESPN HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41416.m3u8
-#EXTINF:-1,UK : BOXNATION SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41415.m3u8
-#EXTINF:-1,UK : BOXNATION HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41414.m3u8
-#EXTINF:-1,UK : EUROSPORTS 1 FHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41408.m3u8
-#EXTINF:-1,UK : EUROSPORTS 2 FHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41407.m3u8
-#EXTINF:-1,UK : GINXeSports TV SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41406.m3u8
-#EXTINF:-1,UK : PREMIER SPORTS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41409.m3u8
-#EXTINF:-1,UK : PREMIER SPORTS 2 SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44753.m3u8
-#EXTINF:-1,UK : Premier Sports
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41410.m3u8
-#EXTINF:-1,UK : FREESPORT
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44755.m3u8
-#EXTINF:-1,UK FHD : FREESPORTS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44754.m3u8
-#EXTINF:-1,UK : ELEVEN SPORTS 2 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41412.m3u8
-#EXTINF:-1,UK : Eleven Sports La liga 24/7 HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41411.m3u8
-#EXTINF:-1,UK : At The Races
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41585.m3u8
-#EXTINF:-1,UK : RACING TV HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41586.m3u8
-#EXTINF:-1,UK: Manchester United FC HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41584.m3u8
-#EXTINF:-1,UK: Manchester United FC SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41583.m3u8
-#EXTINF:-1,UK: Chelsea TV | HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41594.m3u8
-#EXTINF:-1,UK: Liverpool FC TV HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41582.m3u8
-#EXTINF:-1,UK: Liverpool FC TV SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41581.m3u8
-#EXTINF:-1,BOOKIES : Betfred TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44769.m3u8
-#EXTINF:-1,BOOKIES :Coral TV 1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44768.m3u8
-#EXTINF:-1,BOOKIES :Coral TV 2
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44767.m3u8
-#EXTINF:-1,BOOKIES :Ladbrokes TV 1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44766.m3u8
-#EXTINF:-1,BOOKIES :Ladbrokes TV 2
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44765.m3u8
-#EXTINF:-1,BOOKIES :Paddy Power TV 1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44764.m3u8
-#EXTINF:-1,BOOKIES :Paddy Power TV 3
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44763.m3u8
-#EXTINF:-1,BOOKIES :SIS One
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44762.m3u8
-#EXTINF:-1,BOOKIES :SIS Racing
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44761.m3u8
-#EXTINF:-1,BOOKIES :SIS Two
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44760.m3u8
-#EXTINF:-1,BOOKIES :William Hill TV1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44759.m3u8
-#EXTINF:-1,BOOKIES :William Hill TV2
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44758.m3u8
+https://www.dailym3uiptv.com/2019/01/england-channels-playlist-free-iptv-m3u.html
+#EXTINF:-1,UK: BBC 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7937
+#EXTINF:-1,UK: BBC 1  HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7945
+#EXTINF:-1,UK: BBC One FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9620
+#EXTINF:-1,UK: BBC 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7941
+#EXTINF:-1,UK: BBC 2  HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7936
+#EXTINF:-1,UK: BBC 2  FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9621
+#EXTINF:-1,UK: ITV 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7934
+#EXTINF:-1,UK: ITV 1 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7933
+#EXTINF:-1,UK: ITV 1 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9677
+#EXTINF:-1,UK: CHANNEL 4 SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7755
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7926
+#EXTINF:-1,UK: Channel 4 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9682
+#EXTINF:-1,UK: CHANNEL 5 SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7925
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7924
+#EXTINF:-1,UK: Channel 5 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9681
+#EXTINF:-1,UK: SKY 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7918
+#EXTINF:-1,UK: SKY 1 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7917
+#EXTINF:-1,UK: Sky One FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9649
+#EXTINF:-1,UK FHD : SKY ONE FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50824
+#EXTINF:-1,UK: SKY 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7916
+#EXTINF:-1,UK: SKY WITNESS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7912
+#EXTINF:-1,UK: Sky Witness HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9650
+#EXTINF:-1,UK FHD : SKY WITNESS FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50821
+#EXTINF:-1,UK: WATCH (W)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7881
+#EXTINF:-1,UK: Watch - (W)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21047
+#EXTINF:-1,UK FHD : WATCH FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50822
+#EXTINF:-1,UK: GOLD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7895
+#EXTINF:-1,UK: G.O.L.D
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/30497
+#EXTINF:-1,UK: Gold HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46982
+#EXTINF:-1,UK: Gold FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46983
+#EXTINF:-1,UK: GOLD UK + 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/30498
+#EXTINF:-1,UK: DAVE SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7898
+#EXTINF:-1,UK: DAVE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7743
+#EXTINF:-1,UK FHD : DAVE FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50482
+#EXTINF:-1,UK: DAVE JA VU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/11439
+#EXTINF:-1,UK: COMEDY CENTRAL SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7901
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7747
+#EXTINF:-1,UK FHD : COMEDY CENTRAL FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50481
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7900
+#EXTINF:-1,UK : SKY ATLANTIC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8052
+#EXTINF:-1,UK: Sky Atlantic FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9675
+#EXTINF:-1,UK FHD : SKY ATLANTIC FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50472
+#EXTINF:-1,UK: UNIVERSAL
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7637
+#EXTINF:-1,UK: UNIVERSAL HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7884
+#EXTINF:-1,UK: Syfy
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8228
+#EXTINF:-1,UK: SYFY HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7887
+#EXTINF:-1,UK: SKY ARTS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7668
+#EXTINF:-1,UK: SKY ARTS SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21055
+#EXTINF:-1,UK: SKY ARTS FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21190
+#EXTINF:-1,UK: PICK
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7879
+#EXTINF:-1,UK: Pick SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37143
+#EXTINF:-1,UK: ITV2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8231
+#EXTINF:-1,UK: ITV2 SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21334
+#EXTINF:-1,UK: ITV2 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21053
+#EXTINF:-1,UK: ITV 3
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8232
+#EXTINF:-1,UK: ITV 3 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7931
+#EXTINF:-1,UK: ITV 3  BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21332
+#EXTINF:-1,UK: ITV 4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8233
+#EXTINF:-1,UK: ITV 4.
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7930
+#EXTINF:-1,UK: ITV 4 SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21333
+#EXTINF:-1,UK: ITVBE SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7929
+#EXTINF:-1,UK: ITVBE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8247
+#EXTINF:-1,UK: ITV + 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8234
+#EXTINF:-1,UK: ITV 2 +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/35174
+#EXTINF:-1,UK: Channel 4 +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/30500
+#EXTINF:-1,UK: Channel 5 +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/30501
+#EXTINF:-1,UK: CHALLENGE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7902
+#EXTINF:-1,UK: Challenge bu
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37141
+#EXTINF:-1,UK: 4SEVEN
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21065
+#EXTINF:-1,UK: 4 SEVEN HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7776
+#EXTINF:-1,UK FHD : 4 SEVEN FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50473
+#EXTINF:-1,UK: AMC HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7773
+#EXTINF:-1,UK: 5SPIKE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7790
+#EXTINF:-1,UK: 5 STAR
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7909
+#EXTINF:-1,UK: 5 Star +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21077
+#EXTINF:-1,UK: 5 USA
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7908
+#EXTINF:-1,UK: 5 Usa +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21076
+#EXTINF:-1,UK: 5SELECT
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21063
+#EXTINF:-1,UK: E4 SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7922
+#EXTINF:-1,UK: E4 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7735
+#EXTINF:-1,UK FHD : E4 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50484
+#EXTINF:-1,UK: E4 +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21049
+#EXTINF:-1,UK: More 4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21064
+#EXTINF:-1,UK: More 4 BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/42085
+#EXTINF:-1,UK: MORE 4 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7920
+#EXTINF:-1,UK: More 4 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45071
+#EXTINF:-1,UK FHD : MORE 4 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50490
+#EXTINF:-1,UK: MTV UK
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7794
+#EXTINF:-1,UK: MTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21073
+#EXTINF:-1,UK FHD : MTV FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50491
+#EXTINF:-1,UK: ALIBI
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7907
+#EXTINF:-1,UK: Alibi sd
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21062
+#EXTINF:-1,UK: TRU TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37148
+#EXTINF:-1,UK: E! ENTERTAINMENT
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7923
+#EXTINF:-1,UK: E! Entertainment SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21079
+#EXTINF:-1,UK: Forces TV SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/42548
+#EXTINF:-1,UK: GOOD FOOD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7894
+#EXTINF:-1,UK: FOOD NETWORK
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7833
+#EXTINF:-1,UK: BBC FOUR
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7938
+#EXTINF:-1,UK: BBC ONE SCOTLAND
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7943
+#EXTINF:-1,UK: BBC TWO SCOTLAND
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7767
+#EXTINF:-1,UK: BBC One WALES
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/17480
+#EXTINF:-1,UK: BBC One Northern Ireland SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/57839
+#EXTINF:-1,UK: ITV 1 Wales FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45411
+#EXTINF:-1,UK: CBS DRAMA
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7904
+#EXTINF:-1,UK: CBS Reality
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7903
+#EXTINF:-1,UK: CBS Action
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37142
+#EXTINF:-1,UK: QUEST
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7892
+#EXTINF:-1,UK: QUEST +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21069
+#EXTINF:-1,UK: QUEST RED
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21070
+#EXTINF:-1,UK: QUEST RED +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21071
+#EXTINF:-1,UK: REAL LIVES
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7878
+#EXTINF:-1,UK: REALLY
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7877
+#EXTINF:-1,UK: YESTERDAY
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7880
+#EXTINF:-1,UK: DMAX
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7897
+#EXTINF:-1,UK: DRAMA
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7738
+#EXTINF:-1,UK: EDEN
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7896
+#EXTINF:-1,UK: FOX HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7911
+#EXTINF:-1,UK: Fox SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21059
+#EXTINF:-1,UK FHD : FOX FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50489
+#EXTINF:-1,UK: LIFETIME FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21056
+#EXTINF:-1,UK: Lifetime SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21057
+#EXTINF:-1,UK: TRUE ENTERTAINMENT
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7947
+#EXTINF:-1,UK: QVC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45308
+#EXTINF:-1,UK: Paramount Channel
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37144
+#EXTINF:-1,UK: GNTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37149
+#EXTINF:-1,UK: London Live
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/23269
+#EXTINF:-1,UK: Propeller
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37151
+#EXTINF:-1,UK: Faith TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/23264
+#EXTINF:-1,UK: Property Show
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37152
+#EXTINF:-1,UK: BEN
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37147
+#EXTINF:-1,UK: Vox Africa
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37153
+#EXTINF:-1,UK: BBC NEWS SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7768
+#EXTINF:-1,UK: BBC NEWS HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7784
+#EXTINF:-1,UK: SKY NEWS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7778
+#EXTINF:-1,UK: CNN
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7750
+#EXTINF:-1,UK: CNN HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7782
+#EXTINF:-1,UK: CNN FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9680
+#EXTINF:-1,IRE: Oireachtas TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53402
+#EXTINF:-1,IRE: RTE News NOW
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53421
+#EXTINF:-1,IRE: RTE One
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53420
+#EXTINF:-1,IRE: RTE One HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53418
+#EXTINF:-1,IRE: RTE One ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53419
+#EXTINF:-1,IRE: RTE2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53417
+#EXTINF:-1,IRE: RTE2 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53415
+#EXTINF:-1,IRE: RTE2 ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53416
+#EXTINF:-1,IRE: RTEjr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53403
+#EXTINF:-1,IRE: TG4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53406
+#EXTINF:-1,IRE: TG4 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53404
+#EXTINF:-1,IRE: TG4 ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53405
+#EXTINF:-1,IRE: VM One  1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53413
+#EXTINF:-1,IRE: VM One HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53411
+#EXTINF:-1,IRE: VM One ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53412
+#EXTINF:-1,IRE: VM One SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53414
+#EXTINF:-1,IRE: VM Three HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53407
+#EXTINF:-1,IRE: VM Three ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53408
+#EXTINF:-1,IRE: VM Two HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53409
+#EXTINF:-1,IRE: VM Two ʜᴅ
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53410
+#EXTINF:-1,IRE: At The Races
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50279
+#EXTINF:-1,UK: VM Two HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7890
+#EXTINF:-1,UK: VM Two HD(formerly 3e)-BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45903
+#EXTINF:-1,UK: RTE Junior
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7677
+#EXTINF:-1,UK: RTE ONE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7675
+#EXTINF:-1,UK: RTE One HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8255
+#EXTINF:-1,UK: RTE ONE  BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21089
+#EXTINF:-1,UK: RTE Two
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7888
+#EXTINF:-1,UK: RTE Two HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8256
+#EXTINF:-1,UK: RTE TWO HD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21090
+#EXTINF:-1,UK: UTV Ireland
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8264
+#EXTINF:-1,UK: UTV FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9627
+#EXTINF:-1,UK: RTE NEWS NOW
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7676
+#EXTINF:-1,UK: TG 4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7644
+#EXTINF:-1,UK: TG4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21329
+#EXTINF:-1,UK: TG4 BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21091
+#EXTINF:-1,UK: VM One HD-formerly TV3
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7882
+#EXTINF:-1,UK: VM One HD(formerly TV3)-BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21092
+#EXTINF:-1,UK: VM Three HD(formerly be3)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45927
+#EXTINF:-1,UK: TLC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8262
+#EXTINF:-1,UK: STV FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9630
+#EXTINF:-1,UK: Travel Channel
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8263
+#EXTINF:-1,UK: Home
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7717
+#EXTINF:-1,UK: BBC Alba
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21050
+#EXTINF:-1,UK: BBC FOUR HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21051
+#EXTINF:-1,UK: BBC PARLIAMENT
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21052
+#EXTINF:-1,UK: YOURTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21058
+#EXTINF:-1,UK: AL JAZEERA NEWS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37194
+#EXTINF:-1,UK: Euronews
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37193
+#EXTINF:-1,UK: BET
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21072
+#EXTINF:-1,UK: PBS America
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21098
+#EXTINF:-1,UK: S4C
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21087
+#EXTINF:-1,UK: S4C HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21086
+#EXTINF:-1,UK: SHOWCASE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21084
+#EXTINF:-1,UK: BABY TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7821
+#EXTINF:-1,UK: BABY TV *
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21330
+#EXTINF:-1,UK: BOOMERANG
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7820
+#EXTINF:-1,UK: Boomerang BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37195
+#EXTINF:-1,UK: CBBC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8207
+#EXTINF:-1,UK: CBBC HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8208
+#EXTINF:-1,UK: CBeebies
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8209
+#EXTINF:-1,UK: CBeebies BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37201
+#EXTINF:-1,UK: CITV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8225
+#EXTINF:-1,UK: CARTOONITO
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7806
+#EXTINF:-1,UK: CARTOON NETWORK
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7816
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7812
+#EXTINF:-1,UK FHD : CARTOON NETWORK FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50475
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7810
+#EXTINF:-1,UK: Disney Channel Bu
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37199
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7804
+#EXTINF:-1,UK: Disney Junior HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21336
+#EXTINF:-1,UK: DISNEY XD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7813
+#EXTINF:-1,UK: NICKELODEON HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7808
+#EXTINF:-1,UK: Nickelodeon bu
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37196
+#EXTINF:-1,UK FHD : NICK FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50820
+#EXTINF:-1,UK: NICK JR
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7815
+#EXTINF:-1,UK: Nick Jr BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21335
+#EXTINF:-1,UK: NICK JR TOO
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7811
+#EXTINF:-1,UK: Nick Jr Too bu
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37204
+#EXTINF:-1,UK: NICKTOONS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7807
+#EXTINF:-1,UK: Nicktoons Bu
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37198
+#EXTINF:-1,UK: TINY POP
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7803
+#EXTINF:-1,UK: Tiny Pop BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37203
+#EXTINF:-1,UK: POP
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7687
+#EXTINF:-1,UK: POP BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37202
+#EXTINF:-1,UK: POP MAX
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7686
+#EXTINF:-1,UK: 4MUSIC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7801
+#EXTINF:-1,UK: CHART SHOW TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7799
+#EXTINF:-1,UK FHD : MTV LIVE FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50492
+#EXTINF:-1,UK: MTV Base
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7797
+#EXTINF:-1,UK : MTV BASE'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51436
+#EXTINF:-1,UK: MTV OMG
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8254
+#EXTINF:-1,UK: MTV Classic
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7796
+#EXTINF:-1,UK : MTV CLASSIC'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51435
+#EXTINF:-1,UK: MTV Dance
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7795
+#EXTINF:-1,UK : MTV DANCE'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51434
+#EXTINF:-1,UK: MTV HITS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7793
+#EXTINF:-1,UK : MTV HITS'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51433
+#EXTINF:-1,UK: MTV Music
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7787
+#EXTINF:-1,UK : MTV MUSIC UK'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51432
+#EXTINF:-1,UK: Mtv Rocks
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7701
+#EXTINF:-1,UK : MTV ROCKS'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51430
+#EXTINF:-1,UK : MTV ONE'
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51431
+#EXTINF:-1,UK: Club MTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37180
+#EXTINF:-1,UK: VH1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/10464
+#EXTINF:-1,UK: MAGIC
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8250
+#EXTINF:-1,UK: CLUBLAND TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37189
+#EXTINF:-1,UK: Box Upfront
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37181
+#EXTINF:-1,UK: Box Hits
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37183
+#EXTINF:-1,UK: The Box
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37182
+#EXTINF:-1,UK: Kerrang
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45446
+#EXTINF:-1,UK: Keep It Country
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37191
+#EXTINF:-1,UK: KISS TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37184
+#EXTINF:-1,UK: Massive R&B
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37190
+#EXTINF:-1,UK: Now 80s
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37187
+#EXTINF:-1,UK: Now 90s
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37186
+#EXTINF:-1,UK: The Vault
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37185
+#EXTINF:-1,UK: SKY SPORTS NEWS SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8046
+#EXTINF:-1,UK: Sky Sports News SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21161
+#EXTINF:-1,UK: SKY SPORTS NEWS  HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8045
+#EXTINF:-1,UK: SKY SPORTS NEWS FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9634
+#EXTINF:-1,UK: SKYSPORTS NEWS FHD2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21160
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8037
+#EXTINF:-1,UK: Sky Sports Football SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21149
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8036
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9641
+#EXTINF:-1,UK FHD : SKY SPORTS FOOTBALL FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50433
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8042
+#EXTINF:-1,UK: Sky Sports Main Event SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21145
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8043
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9637
+#EXTINF:-1,UK FHD : SKY SPORTS MAIN EVENT FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50435
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8039
+#EXTINF:-1,UK: Sky Sports Premier League SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21147
+#EXTINF:-1,UK : SKY SPORTS PREMIER LEAGUE  HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8040
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9632
+#EXTINF:-1,UK FHD : SKY SPORTS PREMIER LEAGUE FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50436
+#EXTINF:-1,UK: SKY SPORTS CRICKET SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8027
+#EXTINF:-1,UK: Sky Sports Cricket SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21151
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8028
+#EXTINF:-1,UK: SKY SPORTS CRICKET  FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9645
+#EXTINF:-1,UK FHD : SKY SPORTS CRICKET FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50431
+#EXTINF:-1,UK : SKY SPORTS ACTION
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8146
+#EXTINF:-1,UK: Sky Sports Action SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21157
+#EXTINF:-1,UK : SKY SPORTS ACTION HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8147
+#EXTINF:-1,UK: SKY SPORTS ACTION FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9648
+#EXTINF:-1,UK FHD : SKY SPORTS ACTION FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50429
+#EXTINF:-1,UK : SKY SPORTS ARENA
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8148
+#EXTINF:-1,UK: Sky Sports Arena SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21159
+#EXTINF:-1,UK : SKY SPORTS ARENA HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8149
+#EXTINF:-1,UK: SKY SPORTS ARENA FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9646
+#EXTINF:-1,UK FHD : SKY SPORTS ARENA FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50430
+#EXTINF:-1,UK : SKY SPORTS MIX HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8150
+#EXTINF:-1,UK: SKY SPORTS MIX FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9635
+#EXTINF:-1,UK: SKY SPORTS MIX  FHD BKUP
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51425
+#EXTINF:-1,UK: SKY SPORTS F1 SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8024
+#EXTINF:-1,UK: Sky Sports F1 SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21155
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8025
+#EXTINF:-1,UK: SKY SPORTS F1 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9643
+#EXTINF:-1,UK FHD : SKY SPORTS F1 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50432
+#EXTINF:-1,UK: SKY SPORTS GOLF SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8018
+#EXTINF:-1,UK: Sky Sports Golf SDr
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21153
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8019
+#EXTINF:-1,UK: SKY SPORTS GOLF FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9639
+#EXTINF:-1,UK FHD : SKY SPORTS GOLF FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50434
+#EXTINF:-1,UK: SKY SPORTS RACING SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8003
+#EXTINF:-1,UK : SKY SPORTS RACING FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/57825
 #EXTINF:-1,UK: PDC Darts (Live For Matches)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42125.m3u8
-#EXTINF:-1,UK : ANIMAL PLANET SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41385.m3u8
-#EXTINF:-1,UK : ANIMAL PLANET HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41384.m3u8
-#EXTINF:-1,UK : DISCOVERY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41405.m3u8
-#EXTINF:-1,UK : DISCOVERY HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41404.m3u8
-#EXTINF:-1,UK : DISCOVERY HISTORY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41403.m3u8
-#EXTINF:-1,UK : DISCOVERY HOME HEALTH SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41402.m3u8
-#EXTINF:-1,UK : DISCOVERY SCIENCE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41401.m3u8
-#EXTINF:-1,UK : DISCOVERY SHED SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41400.m3u8
-#EXTINF:-1,UK : DISCOVERY SHED HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41399.m3u8
-#EXTINF:-1,UK : DISCOVERY TURBO SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41398.m3u8
-#EXTINF:-1,UK : DISCOVERY TURBO HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41397.m3u8
-#EXTINF:-1,UK : Crime and Investigation SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41383.m3u8
-#EXTINF:-1,UK : Crime and Investigation HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41382.m3u8
-#EXTINF:-1,UK : HISTORY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41396.m3u8
-#EXTINF:-1,UK : HISTORY HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41395.m3u8
-#EXTINF:-1,UK : HISTORY 2 (H2) SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41394.m3u8
-#EXTINF:-1,UK : INVESTIGATION DISCOVERY (ID) SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41391.m3u8
-#EXTINF:-1,UK : INVESTIGATION DISCOVERY (ID) HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41390.m3u8
-#EXTINF:-1,UK : NAT GEO SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41389.m3u8
-#EXTINF:-1,UK : NAT GEO HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41388.m3u8
-#EXTINF:-1,UK : NAT GEO WILD SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41387.m3u8
-#EXTINF:-1,UK : NAT GEO WILD HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41386.m3u8
-#EXTINF:-1,UK : HOME AND HEALTH SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41392.m3u8
-#EXTINF:-1,UK FHD : LOVE NATURE
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42031.m3u8
-#EXTINF:-1,UK : FOOD NETWORK
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44746.m3u8
-#EXTINF:-1,UK : GOOD FOOD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44750.m3u8
-#EXTINF:-1,UK FHD : GOOD FOOD FHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44749.m3u8
-#EXTINF:-1,UK FHD : LIVING FOODZ
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/44745.m3u8
-#EXTINF:-1,UK : DMAX SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41378.m3u8
-#EXTINF:-1,UK : BLAZE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41380.m3u8
-#EXTINF:-1,UK : EDEN SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41379.m3u8
-#EXTINF:-1,UK : Forces TV  SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41381.m3u8
-#EXTINF:-1,UK : HOME SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41393.m3u8
-#EXTINF:-1,UK : Talking Pictures SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41377.m3u8
-#EXTINF:-1,UK : YESTERDAY SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41376.m3u8
-#EXTINF:-1,UK : CARTOON NETWORK HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41462.m3u8
-#EXTINF:-1,UK : BOOMERANG SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41461.m3u8
-#EXTINF:-1,UK  : CARTONITO SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41463.m3u8
-#EXTINF:-1,UK : BABY TV SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41447.m3u8
-#EXTINF:-1,UK : CBBC SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41455.m3u8
-#EXTINF:-1,UK : CBEEBIES HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41454.m3u8
-#EXTINF:-1,UK : CBEEBIES SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41453.m3u8
-#EXTINF:-1,UK : DISNEY CHANNEL HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41459.m3u8
-#EXTINF:-1,UK : DISNEY CHANNEL SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41460.m3u8
-#EXTINF:-1,UK : DISNEY JUNIOR HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41457.m3u8
-#EXTINF:-1,UK : DISNEY JUNIOR SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41458.m3u8
-#EXTINF:-1,UK : DISNEY XD HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41456.m3u8
-#EXTINF:-1,UK : NICKELODEON SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41449.m3u8
-#EXTINF:-1,UK : NICK HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41448.m3u8
-#EXTINF:-1,UK : NICK JR TOO
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41452.m3u8
-#EXTINF:-1,UK : NICK JUNIOR
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41451.m3u8
-#EXTINF:-1,UK : NICK TOONS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41450.m3u8
-#EXTINF:-1,UK : POP SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41446.m3u8
-#EXTINF:-1,UK : POP MAX SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41445.m3u8
-#EXTINF:-1,UK : TINY POP SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41444.m3u8
-#EXTINF:-1,UK : MTV HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41485.m3u8
-#EXTINF:-1,UK : MTV BASE SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41488.m3u8
-#EXTINF:-1,UK : MTV CLASSIC SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41487.m3u8
-#EXTINF:-1,UK : MTV HITS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41484.m3u8
-#EXTINF:-1,UK : MTV LIVE HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41483.m3u8
-#EXTINF:-1,UK : MTV MUSIC UK SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41482.m3u8
-#EXTINF:-1,UK : MTV OMG SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41481.m3u8
-#EXTINF:-1,UK : MTV ROCKS SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41480.m3u8
-#EXTINF:-1,UK : CHART SHOW HITS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41475.m3u8
-#EXTINF:-1,UK : CHART SHOW TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41474.m3u8
-#EXTINF:-1,UK : CLUBLAND
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41473.m3u8
-#EXTINF:-1,UK : VH1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41478.m3u8
-#EXTINF:-1,UK : 4Music
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41476.m3u8
-#EXTINF:-1,UK : Kerrang!
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41479.m3u8
-#EXTINF:-1,UK : Keep It Country
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41465.m3u8
-#EXTINF:-1,UK : Kiss
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41472.m3u8
-#EXTINF:-1,UK : Magic
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41471.m3u8
-#EXTINF:-1,UK : NOW 90s
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41470.m3u8
-#EXTINF:-1,UK : THE VAULT
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41464.m3u8
-#EXTINF:-1,UK : The Box
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41468.m3u8
-#EXTINF:-1,UK : BOX HITS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41467.m3u8
-#EXTINF:-1,UK : BOX UPFRONT
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41466.m3u8
-#EXTINF:-1,UK : SKY NEWS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42021.m3u8
-#EXTINF:-1,UK  : SKY NEWS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42028.m3u8
-#EXTINF:-1,UK : BBC News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42015.m3u8
-#EXTINF:-1,UK  : BBC NEWS HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42029.m3u8
-#EXTINF:-1,UK: BBC PARLIAMENT | SD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42014.m3u8
-#EXTINF:-1,UK : CNN HD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42027.m3u8
-#EXTINF:-1,UK : FOX NEWS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42025.m3u8
-#EXTINF:-1,UK : RTE NEWS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42022.m3u8
-#EXTINF:-1,UK : 92 News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42018.m3u8
-#EXTINF:-1,UK : ABP NEWS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42017.m3u8
-#EXTINF:-1,UK : Arise News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42016.m3u8
-#EXTINF:-1,UK : Dunya News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42026.m3u8
-#EXTINF:-1,UK : GEO News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42024.m3u8
-#EXTINF:-1,UK : HUM News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42023.m3u8
-#EXTINF:-1,UK : TVC News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42020.m3u8
-#EXTINF:-1,UK : Bbc One Cambridge
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42011.m3u8
-#EXTINF:-1,UK : Bbc One Cumbria
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42010.m3u8
-#EXTINF:-1,UK : Bbc One East Midlands
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42009.m3u8
-#EXTINF:-1,UK : Bbc One Islands
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42008.m3u8
-#EXTINF:-1,UK : Bbc One London
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42007.m3u8
-#EXTINF:-1,UK : Bbc One Midlands
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42006.m3u8
-#EXTINF:-1,UK : Bbc Two England
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41996.m3u8
-#EXTINF:-1,UK : Bbc One Ni
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42005.m3u8
-#EXTINF:-1,UK : Bbc Two Ni
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41995.m3u8
-#EXTINF:-1,UK : Bbc One North East
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42004.m3u8
-#EXTINF:-1,UK : Bbc One North West
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42003.m3u8
-#EXTINF:-1,UK : Bbc One Oxford
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42002.m3u8
-#EXTINF:-1,UK : BBC ONE SCOTLAND
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42013.m3u8
-#EXTINF:-1,UK : BBC TWO SCOTLAND
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42012.m3u8
-#EXTINF:-1,UK : Bbc One South
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42001.m3u8
-#EXTINF:-1,UK : Bbc One South East (alt)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42000.m3u8
-#EXTINF:-1,UK : Bbc One Wales
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41999.m3u8
-#EXTINF:-1,UK : Bbc One West
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41998.m3u8
-#EXTINF:-1,UK : Bbc One Yorkshire
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41997.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ACTION
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43496.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ADVENTURE
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43495.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ANIMATION
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43493.m3u8
-#EXTINF:-1,SHIZZ-PIX: || COMEDY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43492.m3u8
-#EXTINF:-1,SHIZZ-PIX: || CRIME
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43491.m3u8
-#EXTINF:-1,SHIZZ-PIX: || DISNEY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43490.m3u8
-#EXTINF:-1,SHIZZ-PIX: || DOCUMENTARY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43489.m3u8
-#EXTINF:-1,SHIZZ-PIX: || DRAMA
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43488.m3u8
-#EXTINF:-1,SHIZZ-PIX: || FAMILY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43487.m3u8
-#EXTINF:-1,SHIZZ-PIX: || FILM NOIR
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43486.m3u8
-#EXTINF:-1,SHIZZ-PIX:  || HISTORY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43494.m3u8
-#EXTINF:-1,SHIZZ-PIX: || HORROR
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43485.m3u8
-#EXTINF:-1,SHIZZ-PIX: || KIDS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43484.m3u8
-#EXTINF:-1,SHIZZ-PIX: || MUSICAL
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43483.m3u8
-#EXTINF:-1,SHIZZ-PIX: || MYSTERY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43482.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ROMANCE
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43481.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ROMANTIC COMEDY
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43480.m3u8
-#EXTINF:-1,SHIZZ-PIX: || SCI FI
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43479.m3u8
-#EXTINF:-1,SHIZZ-PIX: || SPORTS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43478.m3u8
-#EXTINF:-1,SHIZZ-PIX: || SUPER HERO
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43477.m3u8
-#EXTINF:-1,SHIZZ-PIX: || URBAN
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43476.m3u8
-#EXTINF:-1,SHIZZ-PIX: || WAR
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43475.m3u8
-#EXTINF:-1,SHIZZ-PIX: || WESTERNS
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43474.m3u8
-#EXTINF:-1,SHIZZ-PIX: || ZOMBIE
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43473.m3u8
-#EXTINF:-1,WRC   LIVE - World Rally Championship
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45458.m3u8
-#EXTINF:-1,PLUTO TV: ~ 24/7 GEO TV ~
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45457.m3u8
-#EXTINF:-1,PLUTO TV: ~ 24/7 PLUTO TV ~
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45456.m3u8
-#EXTINF:-1,PLUTO TV: ~ 24/7 TV ~
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45455.m3u8
-#EXTINF:-1,PLUTO TV: 4K TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45454.m3u8
-#EXTINF:-1,PLUTO TV: Action Movies
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45453.m3u8
-#EXTINF:-1,PLUTO TV: Adult Swim Live Stream
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45452.m3u8
-#EXTINF:-1,PLUTO TV: Adventure TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45451.m3u8
-#EXTINF:-1,PLUTO TV: After School Cartoons
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45450.m3u8
-#EXTINF:-1,PLUTO TV: Animals
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45385.m3u8
-#EXTINF:-1,PLUTO TV: Anime All Ages
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45449.m3u8
-#EXTINF:-1,PLUTO TV: Anime All Day
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45448.m3u8
-#EXTINF:-1,PLUTO TV: Aqua Teen Hunger Force (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45447.m3u8
-#EXTINF:-1,PLUTO TV: Awesomeness TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45446.m3u8
-#EXTINF:-1,PLUTO TV: Big Sky Conference
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45445.m3u8
-#EXTINF:-1,PLUTO TV: Biography
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45384.m3u8
-#EXTINF:-1,PLUTO TV: Black Cinema
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45444.m3u8
-#EXTINF:-1,PLUTO TV: Black Jesus (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45443.m3u8
-#EXTINF:-1,PLUTO TV: Cars
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45442.m3u8
-#EXTINF:-1,PLUTO TV: Cash Cab
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45441.m3u8
-#EXTINF:-1,PLUTO TV: Cats 24/7
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45440.m3u8
-#EXTINF:-1,PLUTO TV: Chassy
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45439.m3u8
-#EXTINF:-1,PLUTO TV: Cine
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45383.m3u8
-#EXTINF:-1,PLUTO TV: Classic Movies
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45438.m3u8
-#EXTINF:-1,PLUTO TV: Classic Toons TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45437.m3u8
-#EXTINF:-1,PLUTO TV: Classic TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45436.m3u8
-#EXTINF:-1,PLUTO TV: Clevver
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45435.m3u8
-#EXTINF:-1,PLUTO TV: CNBC
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45434.m3u8
-#EXTINF:-1,PLUTO TV: CNET
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45433.m3u8
-#EXTINF:-1,PLUTO TV: Cold Case Files
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45432.m3u8
-#EXTINF:-1,PLUTO TV: Combate World
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45431.m3u8
-#EXTINF:-1,PLUTO TV: Comedy
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45382.m3u8
-#EXTINF:-1,PLUTO TV: Conspiracy
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45381.m3u8
-#EXTINF:-1,PLUTO TV: ConTV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45430.m3u8
-#EXTINF:-1,PLUTO TV: Cracked
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45429.m3u8
-#EXTINF:-1,PLUTO TV: Crime Network
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45428.m3u8
-#EXTINF:-1,PLUTO TV: Documentaries
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45380.m3u8
-#EXTINF:-1,PLUTO TV: DocuTV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45427.m3u8
-#EXTINF:-1,PLUTO TV: Dog the Bounty Hunter
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45426.m3u8
-#EXTINF:-1,PLUTO TV: Drama
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45379.m3u8
-#EXTINF:-1,PLUTO TV: DramaFever
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45425.m3u8
-#EXTINF:-1,PLUTO TV: Dream Corp LLC (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45424.m3u8
-#EXTINF:-1,PLUTO TV: Eye Candy
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45423.m3u8
-#EXTINF:-1,PLUTO TV: FailArmy
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45422.m3u8
-#EXTINF:-1,PLUTO TV: Faith TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45421.m3u8
-#EXTINF:-1,PLUTO TV: Family
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45378.m3u8
-#EXTINF:-1,PLUTO TV: Fight
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45420.m3u8
-#EXTINF:-1,PLUTO TV: Flicks of Fury
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45419.m3u8
-#EXTINF:-1,PLUTO TV: Food TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45418.m3u8
-#EXTINF:-1,PLUTO TV: Forensic Files
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45417.m3u8
-#EXTINF:-1,PLUTO TV: Fox Sports
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45416.m3u8
-#EXTINF:-1,PLUTO TV: FrontDoor
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45415.m3u8
-#EXTINF:-1,PLUTO TV: Funny AF
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45414.m3u8
-#EXTINF:-1,PLUTO TV: Geek & Sundry
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45413.m3u8
-#EXTINF:-1,PLUTO TV: Glory Kickboxing
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45412.m3u8
-#EXTINF:-1,PLUTO TV: Gravitas Movies
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45411.m3u8
-#EXTINF:-1,PLUTO TV: Hell's Kitchen
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45410.m3u8
-#EXTINF:-1,PLUTO TV: Her
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45409.m3u8
-#EXTINF:-1,PLUTO TV: History
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45377.m3u8
-#EXTINF:-1,PLUTO TV: Hive
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45408.m3u8
-#EXTINF:-1,PLUTO TV: Home Movies (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45407.m3u8
-#EXTINF:-1,PLUTO TV: Horror 24/7
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45406.m3u8
-#EXTINF:-1,PLUTO TV: IGN
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45405.m3u8
-#EXTINF:-1,PLUTO TV: Impact Wrestling
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45404.m3u8
-#EXTINF:-1,PLUTO TV: Indies
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45376.m3u8
-#EXTINF:-1,PLUTO TV: Internet Gold
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45403.m3u8
-#EXTINF:-1,PLUTO TV: JASH
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45402.m3u8
-#EXTINF:-1,PLUTO TV: Kids
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45375.m3u8
-#EXTINF:-1,PLUTO TV: Kids TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45401.m3u8
-#EXTINF:-1,PLUTO TV: LA Ink   NY Ink
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45400.m3u8
-#EXTINF:-1,PLUTO TV: LittleThings
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45399.m3u8
-#EXTINF:-1,PLUTO TV: Live Music Replay
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45398.m3u8
-#EXTINF:-1,PLUTO TV: Lucha Libre AAA
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45397.m3u8
-#EXTINF:-1,PLUTO TV: Man Up
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45396.m3u8
-#EXTINF:-1,PLUTO TV: Man Up: Outdoors
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45395.m3u8
-#EXTINF:-1,PLUTO TV: Metalocalypse (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45394.m3u8
-#EXTINF:-1,PLUTO TV: MinecrafTV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45393.m3u8
-#EXTINF:-1,PLUTO TV: Movies 1
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45374.m3u8
-#EXTINF:-1,PLUTO TV: Movies 2
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45373.m3u8
-#EXTINF:-1,PLUTO TV: Mr. Pickles
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45392.m3u8
-#EXTINF:-1,PLUTO TV: Mystery Science Theater 3000
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45391.m3u8
-#EXTINF:-1,PLUTO TV: NBC News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45390.m3u8
-#EXTINF:-1,PLUTO TV: Nerdist
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45389.m3u8
-#EXTINF:-1,PLUTO TV: News 24/7
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45388.m3u8
-#EXTINF:-1,PLUTO TV: Nosey
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45387.m3u8
-#EXTINF:-1,PLUTO TV: People TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45386.m3u8
-#EXTINF:-1,PLUTO TV: PopSugar
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45365.m3u8
-#EXTINF:-1,PLUTO TV: Revry
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45364.m3u8
-#EXTINF:-1,PLUTO TV: Rick and Morty (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45363.m3u8
-#EXTINF:-1,PLUTO TV: RiffTrax
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45362.m3u8
-#EXTINF:-1,PLUTO TV: Robot Chicken (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45361.m3u8
-#EXTINF:-1,PLUTO TV: Romance
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45372.m3u8
-#EXTINF:-1,PLUTO TV: Science TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45360.m3u8
-#EXTINF:-1,PLUTO TV: ShoutFactoryTV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45359.m3u8
-#EXTINF:-1,PLUTO TV: Sitcoms
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45371.m3u8
-#EXTINF:-1,PLUTO TV: Slow TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45358.m3u8
-#EXTINF:-1,PLUTO TV: Sports
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45370.m3u8
-#EXTINF:-1,PLUTO TV: Sports News
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45357.m3u8
-#EXTINF:-1,PLUTO TV: Spotlight
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45369.m3u8
-#EXTINF:-1,PLUTO TV: Squidbillies (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45356.m3u8
-#EXTINF:-1,PLUTO TV: Stand-Up TV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45355.m3u8
-#EXTINF:-1,PLUTO TV: Super Geek Heroes
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45354.m3u8
-#EXTINF:-1,PLUTO TV: Superjail! (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45353.m3u8
-#EXTINF:-1,PLUTO TV: Survivorman
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45352.m3u8
-#EXTINF:-1,PLUTO TV: THC
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45351.m3u8
-#EXTINF:-1,PLUTO TV: The Asylum
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45350.m3u8
-#EXTINF:-1,PLUTO TV: The Eric Andre Show (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45349.m3u8
-#EXTINF:-1,PLUTO TV: The Feed
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45348.m3u8
-#EXTINF:-1,PLUTO TV: The New Detectives
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45347.m3u8
-#EXTINF:-1,PLUTO TV: The Onion
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45346.m3u8
-#EXTINF:-1,PLUTO TV: The Pet Collective
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45345.m3u8
-#EXTINF:-1,PLUTO TV: The Surf Channel
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45344.m3u8
-#EXTINF:-1,PLUTO TV: The Venture Bros. (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45343.m3u8
-#EXTINF:-1,PLUTO TV: Thrillers
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45368.m3u8
-#EXTINF:-1,PLUTO TV: Tim and Eric (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45342.m3u8
-#EXTINF:-1,PLUTO TV: Tom and Jerry
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45341.m3u8
-#EXTINF:-1,PLUTO TV: Travel
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45367.m3u8
-#EXTINF:-1,PLUTO TV: Unsolved Mysteries (Opt-2)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45340.m3u8
-#EXTINF:-1,PLUTO TV: Unsolved Mysteriess (Opt-1)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45339.m3u8
-#EXTINF:-1,PLUTO TV: Voyager Documentaries
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45338.m3u8
-#EXTINF:-1,PLUTO TV: Wahlburgers
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45337.m3u8
-#EXTINF:-1,PLUTO TV: Westerns
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45366.m3u8
-#EXTINF:-1,PLUTO TV: What?!
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45336.m3u8
-#EXTINF:-1,PLUTO TV: What's On?
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45335.m3u8
-#EXTINF:-1,PLUTO TV: Williams Stream (Geo)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45334.m3u8
-#EXTINF:-1,PLUTO TV: Wipeout
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45333.m3u8
-#EXTINF:-1,PLUTO TV: World Poker Tour
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45332.m3u8
-#EXTINF:-1,PLUTO TV: XiveTV
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/45331.m3u8
-#EXTINF:-1,Sky Red Button 01
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41994.m3u8
-#EXTINF:-1,Sky Red Button 02
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41993.m3u8
-#EXTINF:-1,Sky Red Button 03
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41992.m3u8
-#EXTINF:-1,Sky Red Button 04
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41991.m3u8
-#EXTINF:-1,Sky Red Button 05
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41990.m3u8
-#EXTINF:-1,Sky Red Button 06
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41989.m3u8
-#EXTINF:-1,Sky Red Button 07
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41988.m3u8
-#EXTINF:-1,Sky Red Button 08
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41987.m3u8
-#EXTINF:-1,Sky Red Button 09
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41986.m3u8
-#EXTINF:-1,Le Sports 1 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41923.m3u8
-#EXTINF:-1,Le Sports 2 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41922.m3u8
-#EXTINF:-1,Le Sports 3 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41921.m3u8
-#EXTINF:-1,Le Sports 4 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41920.m3u8
-#EXTINF:-1,Le Sports 5 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41919.m3u8
-#EXTINF:-1,Le Sports 6 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41918.m3u8
-#EXTINF:-1,Le Sports 7 | UHD
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41917.m3u8
-#EXTINF:-1,SPFL: ABERDEEN TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41539.m3u8
-#EXTINF:-1,SPFL: CELTIC TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41538.m3u8
-#EXTINF:-1,SPFL: DUNDEE TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41537.m3u8
-#EXTINF:-1,SPFL: Dunfermline TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41524.m3u8
-#EXTINF:-1,SPFL: Falkirk TV (Live Events only))
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41528.m3u8
-#EXTINF:-1,SPFL: HEARTS TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41536.m3u8
-#EXTINF:-1,SPFL: HIBS TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41535.m3u8
-#EXTINF:-1,SPFL: Kilmarnock TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41529.m3u8
-#EXTINF:-1,SPFL: MOTHERWELL TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41527.m3u8
-#EXTINF:-1,SPFL: PARTICK THISTLE TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41531.m3u8
-#EXTINF:-1,SPFL: RAITH ROVERS TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41530.m3u8
-#EXTINF:-1,SPFL: Rangers (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41541.m3u8
-#EXTINF:-1,SPFL: RANGERS TV** (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41534.m3u8
-#EXTINF:-1,SPFL: RANGERS TV***(Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41533.m3u8
-#EXTINF:-1,SPFL: RANGERS TV**** (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41532.m3u8
-#EXTINF:-1,SPFL: Rangers*(Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41540.m3u8
-#EXTINF:-1,SPFL: St Johnstone TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41525.m3u8
-#EXTINF:-1,SPFL: St Mirren TV (Live Events only)
-http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41526.m3u8
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51008
+#EXTINF:-1,UK: RACING UK SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8001
+#EXTINF:-1,UK: Racing UK SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21163
+#EXTINF:-1,UK: Racing UK BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45006
+#EXTINF:-1,UK : RACING UK FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/57792
+#EXTINF:-1,UK: BOXNATION FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8000
+#EXTINF:-1,UK: BOXNATION
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7764
+#EXTINF:-1,UK FHD : EUROSPORTS 1 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50485
+#EXTINF:-1,UK: EUROSPORT 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7994
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7995
+#EXTINF:-1,UK: Eurosport 1 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9679
+#EXTINF:-1,UK: Eurosport 1 (main) FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45642
+#EXTINF:-1,UK FHD : EUROSPORTS 2 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50486
+#EXTINF:-1,UK: EUROSPORT 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7992
+#EXTINF:-1,UK: Eurosport 2 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9678
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7993
+#EXTINF:-1,UK: Eurosport 2 (main) FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/45643
+#EXTINF:-1,WILLOW CRICKET 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53548
+#EXTINF:-1,WILLOW CRICKET 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53547
+#EXTINF:-1,WILLOW CRICKET 3
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53546
+#EXTINF:-1,WILLOW CRICKET 4
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53545
+#EXTINF:-1,WILLOW CRICKET 5
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53544
+#EXTINF:-1,UK: eir Sport 1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7998
+#EXTINF:-1,UK: eir Sport 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7997
+#EXTINF:-1,UK: FREE SPORTS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7988
+#EXTINF:-1,UK: CHELSEA TV HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7753
+#EXTINF:-1,UK: CHELSEA TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7985
+#EXTINF:-1,UK: LFCTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8248
+#EXTINF:-1,UK: LFCTV HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8249
+#EXTINF:-1,UK: MUTV SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7700
+#EXTINF:-1,UK: MUTV HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7983
+#EXTINF:-1,UK: MUTV FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9676
+#EXTINF:-1,SPFL: ABERDEEN TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51566
+#EXTINF:-1,SPFL: CELTIC TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51565
+#EXTINF:-1,SPFL: CELTIC TV BU (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51564
+#EXTINF:-1,SPFL: CELTIC TV BU2 (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51563
+#EXTINF:-1,SPFL: CELTIC TV BU3 (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51562
+#EXTINF:-1,SPFL: DUNDEE TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51561
+#EXTINF:-1,SPFL: DUNDEE UTD TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51560
+#EXTINF:-1,SPFL: DUNFERMLINE TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51559
+#EXTINF:-1,SPFL: Kilmarnock TV (match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53330
+#EXTINF:-1,SPFL: Falkirk TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51558
+#EXTINF:-1,SPFL: HEARTS TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51557
+#EXTINF:-1,SPFL: HIBS TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51556
+#EXTINF:-1,SPFL: MOTHERWELL TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51555
+#EXTINF:-1,SPFL: PARTICK THISLTE TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51554
+#EXTINF:-1,SPFL: RAITH ROVERS TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51553
+#EXTINF:-1,SPFL: RANGERS TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51552
+#EXTINF:-1,SPFL: RANGERS TV BU (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51551
+#EXTINF:-1,SPFL: RANGERS TV BU2 (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51550
+#EXTINF:-1,SPFL: RANGERS TV BU3 (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51549
+#EXTINF:-1,SPFL: RANGERS TV BU4 (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51548
+#EXTINF:-1,SPFL: ST MIRREN TV (Match time Only)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/51547
+#EXTINF:-1,CLUB: Leeds FC TV (Live For Matches)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/32058
+#EXTINF:-1,CLUB: Leeds FC TV (Live For Matches) BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/32057
+#EXTINF:-1,CLUB: NEWCASTLE TV (Live For Matches
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/32056
+#EXTINF:-1,UK: Front Runner
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21327
+#EXTINF:-1,UK: GINXeSportsTV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21164
+#EXTINF:-1,UK: PREMIER SPORTS
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7991
+#EXTINF:-1,UK: PREMIER SPORTS HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7685
+#EXTINF:-1,UK: PREMIER SPORTS 2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/36907
+#EXTINF:-1,UK: Animal Planet
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21095
+#EXTINF:-1,UK: Animal Planet +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/30499
+#EXTINF:-1,UK: Animal Planet SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21096
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7770
+#EXTINF:-1,UK FHD : ANIMAL PLANET FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50474
+#EXTINF:-1,UK: CRIME & INVESTIGATION HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7745
+#EXTINF:-1,UK: CRIME & INVESTIGATION SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7839
+#EXTINF:-1,UK: Discovery Channel  HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7838
+#EXTINF:-1,UK: Discovery Channel SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21093
+#EXTINF:-1,UK FHD : DISCOVERY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50483
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7837
+#EXTINF:-1,UK: DISCOVERY HISTORY BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7718
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7836
+#EXTINF:-1,UK: Discovery Science SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/33281
+#EXTINF:-1,UK: Discovery Channel SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7740
+#EXTINF:-1,UK: DISCOVERY SHED
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7835
+#EXTINF:-1,UK: Discovery Shed UK BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/42087
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7834
+#EXTINF:-1,UK: Discovery Turbo SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21094
+#EXTINF:-1,UK: SONY CRIME
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21067
+#EXTINF:-1,UK: BLAZE
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/10067
+#EXTINF:-1,UK: Blaze BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/53422
+#EXTINF:-1,UK: H2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7831
+#EXTINF:-1,UK: H2 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21100
+#EXTINF:-1,UK: DISCOVERY HOME & HEALTH
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21074
+#EXTINF:-1,UK: Discovery Home & Health SD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21075
+#EXTINF:-1,UK: HORSE & COUNTRY
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21081
+#EXTINF:-1,UK: History
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/10135
+#EXTINF:-1,UK: History FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/10134
+#EXTINF:-1,UK FHD : HISTORY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50823
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21097
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7828
+#EXTINF:-1,UK: NAT GEO WILD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7825
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7697
+#EXTINF:-1,UK FHD : NAT GEO WILD FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50819
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7824
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7826
+#EXTINF:-1,UK FHD : NAT GEO FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50818
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7981
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7982
+#EXTINF:-1,UK: SKY CINEMA PREMIER FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9658
+#EXTINF:-1,UK FHD : SKY CINEMA PREMIER FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50465
+#EXTINF:-1,UK: SKY CINEMA PREMIER +1
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21104
+#EXTINF:-1,UK: SKY CINEMA PREMIER +1 BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21105
+#EXTINF:-1,UK: Sky Cinema Action
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7670
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7978
+#EXTINF:-1,UK: SKY CINEMA ACTION FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9673
+#EXTINF:-1,UK FHD : SKY CINEMA ACTION FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50470
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7976
+#EXTINF:-1,UK: SKY CINEMA COMEDY HD BU
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21114
+#EXTINF:-1,UK: SKY CINEMA COMEDY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9671
+#EXTINF:-1,UK FHD : SKY CINEMA COMEDY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50469
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7964
+#EXTINF:-1,UK: SKY CINEMA GREATS  FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9662
+#EXTINF:-1,UK FHD : SKY CINEMA GREATS FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50466
+#EXTINF:-1,UK: Sky Cinema Disney HD2
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7969
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7658
+#EXTINF:-1,UK: SKY CINEMA DISNEY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9668
+#EXTINF:-1,UK FHD : SKY CINEMA DISNEY FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50468
+#EXTINF:-1,UK: Sky Cinema Drama
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7657
+#EXTINF:-1,UK: Sky Cinema Drama HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8257
+#EXTINF:-1,UK: SKY CINEMA DRAMA  FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9666
+#EXTINF:-1,UK: Sky Cinema Family SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7971
+#EXTINF:-1,UK: UK305: Sky Cinema Family HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7972
+#EXTINF:-1,UK: Sky Cinema Family FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9664
+#EXTINF:-1,UK: Sky Cinema Hits
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7961
+#EXTINF:-1,UK: Sky Cinema Hits HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8258
+#EXTINF:-1,UK: SKY CINEMA HITS FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9660
+#EXTINF:-1,UK: Sky Cinema Sci-Fi Horror
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7960
+#EXTINF:-1,UK: Sky Cinema Sci-Fi Horror HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7958
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9656
+#EXTINF:-1,UK: Sky Cinema Select
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7966
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7967
+#EXTINF:-1,UK: SKY CINEMA SELECT FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9654
+#EXTINF:-1,UK FHD : SKY CINEMA SELECT FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50463
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7653
+#EXTINF:-1,UK: Sky Cinema Thriller HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7968
+#EXTINF:-1,UK: SKY CINEMA THRILLER FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9652
+#EXTINF:-1,UK FHD : SKY CINEMA THRILLER FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50462
+#EXTINF:-1,UK: SKY STORE 1 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46386
+#EXTINF:-1,UK: SKY STORE 2 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46385
+#EXTINF:-1,UK: SKY STORE 3 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46384
+#EXTINF:-1,UK: SKY STORE 4 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46383
+#EXTINF:-1,UK: SKY STORE 5 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46382
+#EXTINF:-1,UK: SKY STORE 6 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46381
+#EXTINF:-1,UK: SKY STORE 7 (UK)
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46380
+#EXTINF:-1,UK: FILM 4 SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/21118
+#EXTINF:-1,UK: FILM 4 HD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7957
+#EXTINF:-1,UK FHD : FILM 4 FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/50488
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7950
+#EXTINF:-1,UK: Movies 24
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/8381
+#EXTINF:-1,UK: Movies24+ SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/42769
+#EXTINF:-1,UK: Movies 24+
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/46984
+#EXTINF:-1,UK: TCM
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7885
+#EXTINF:-1,UK: TCM FHD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/9629
+#EXTINF:-1,UK: Horror Channel
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7716
+#EXTINF:-1,UK: ROK TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/7891
+#EXTINF:-1,UK: Talking Pictures TV
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37179
+#EXTINF:-1,UK: TalkingPictures TV SD
+http://lightningstreams.com:8080/Rodney-Pinard/zBSEuyV9wQ/37178
