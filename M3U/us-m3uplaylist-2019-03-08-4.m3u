@@ -1,669 +1,523 @@
 #EXTM3U
-#EXTINF:-1,ABC EAST Local
-http://primestreams.tv:826/peterd/peterd/38699
-#EXTINF:-1,CBS EAST Local
-http://primestreams.tv:826/peterd/peterd/36594
-#EXTINF:-1,NBC EAST Local
-http://primestreams.tv:826/peterd/peterd/36592
-#EXTINF:-1,FOX EAST Local
-http://primestreams.tv:826/peterd/peterd/36593
-#EXTINF:-1,ABC WEST Local
-http://primestreams.tv:826/peterd/peterd/34340
-#EXTINF:-1,NBC WEST Local
-http://primestreams.tv:826/peterd/peterd/31643
-#EXTINF:-1,CBS WEST Local
-http://primestreams.tv:826/peterd/peterd/31644
-#EXTINF:-1,FOX WEST Local
-http://primestreams.tv:826/peterd/peterd/31645
-#EXTINF:-1,ABC EAST Low BW
-http://primestreams.tv:826/peterd/peterd/77487
-#EXTINF:-1,CBS EAST Low BW
-http://primestreams.tv:826/peterd/peterd/77486
-#EXTINF:-1,FOX EAST Low BW
-http://primestreams.tv:826/peterd/peterd/77484
-#EXTINF:-1,NBC EAST Low BW
-http://primestreams.tv:826/peterd/peterd/77485
-#EXTINF:-1,ABC WEST Low BW
-http://primestreams.tv:826/peterd/peterd/77483
-#EXTINF:-1,CBS WEST Low BW
-http://primestreams.tv:826/peterd/peterd/77481
-#EXTINF:-1,FOX WEST Low BW
-http://primestreams.tv:826/peterd/peterd/77480
-#EXTINF:-1,NBC WEST Low BW
-http://primestreams.tv:826/peterd/peterd/77482
-#EXTINF:-1,SportsMix
-http://primestreams.tv:826/peterd/peterd/84671
-#EXTINF:-1,ESPN Local (East Server)
-http://primestreams.tv:826/peterd/peterd/1262
-#EXTINF:-1,ESPN Local (West Server)
-http://primestreams.tv:826/peterd/peterd/86502
-#EXTINF:-1,ESPN Backup
-http://primestreams.tv:826/peterd/peterd/1709
-#EXTINF:-1,ESPN Low BW
-http://primestreams.tv:826/peterd/peterd/77479
-#EXTINF:-1,ESPN2 Local
-http://primestreams.tv:826/peterd/peterd/1263
-#EXTINF:-1,ESPN2 Low BW
-http://primestreams.tv:826/peterd/peterd/87587
-#EXTINF:-1,ESPN NEWS Local
-http://primestreams.tv:826/peterd/peterd/1275
-#EXTINF:-1,ESPN U Local
-http://primestreams.tv:826/peterd/peterd/1274
-#EXTINF:-1,FOX SPORTS 1 Local
-http://primestreams.tv:826/peterd/peterd/1367
-#EXTINF:-1,FOX SPORTS 2 Local
-http://primestreams.tv:826/peterd/peterd/38483
-#EXTINF:-1,FOX SOCCER PLUS Local
-http://primestreams.tv:826/peterd/peterd/33472
-#EXTINF:-1,NFL NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1402
-#EXTINF:-1,NBA TV Local
-http://primestreams.tv:826/peterd/peterd/29485
-#EXTINF:-1,MLB NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1389
-#EXTINF:-1,NHL NETWORK
-http://primestreams.tv:826/peterd/peterd/1612
-#EXTINF:-1,ELEVEN SPORTS Local
-http://primestreams.tv:826/peterd/peterd/86505
-#EXTINF:-1,FANTASY SPORTS NETWORK
-http://primestreams.tv:826/peterd/peterd/40033
-#EXTINF:-1,TVG
-http://primestreams.tv:826/peterd/peterd/35449
-#EXTINF:-1,UFC FIGHT PASS
-http://primestreams.tv:826/peterd/peterd/33843
-#EXTINF:-1,WWE
-http://primestreams.tv:826/peterd/peterd/36372
-#EXTINF:-1,STADIUM Local
-http://primestreams.tv:826/peterd/peterd/89136
-#EXTINF:-1,STADIUM 1 Local
-http://primestreams.tv:826/peterd/peterd/89137
-#EXTINF:-1,STADIUM 2 Local
-http://primestreams.tv:826/peterd/peterd/89138
-#EXTINF:-1,STADIUM 3 Local
-http://primestreams.tv:826/peterd/peterd/89139
-#EXTINF:-1,GOLF CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1479
-#EXTINF:-1,NBCSN Local
-http://primestreams.tv:826/peterd/peterd/1396
-#EXTINF:-1,BIG TEN NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1467
-#EXTINF:-1,BTN 2 Local
-http://primestreams.tv:826/peterd/peterd/86541
-#EXTINF:-1,BTN 3 Local
-http://primestreams.tv:826/peterd/peterd/86542
-#EXTINF:-1,BTN 4 Local
-http://primestreams.tv:826/peterd/peterd/86543
-#EXTINF:-1,LONGHORN NETWORK Local
-http://primestreams.tv:826/peterd/peterd/34341
-#EXTINF:-1,SEC NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1419
-#EXTINF:-1,ESPN College Sports Extra 1
-http://primestreams.tv:826/peterd/peterd/85262
-#EXTINF:-1,ESPN College Sports Extra 2
-http://primestreams.tv:826/peterd/peterd/85263
-#EXTINF:-1,ESPN College Sports Extra 3
-http://primestreams.tv:826/peterd/peterd/85264
-#EXTINF:-1,ESPN College Sports Extra 4
-http://primestreams.tv:826/peterd/peterd/85265
-#EXTINF:-1,ESPN College Sports Extra 5
-http://primestreams.tv:826/peterd/peterd/85266
-#EXTINF:-1,ESPN College Sports Extra 6
-http://primestreams.tv:826/peterd/peterd/85267
-#EXTINF:-1,ESPN College Sports Extra 7
-http://primestreams.tv:826/peterd/peterd/85268
-#EXTINF:-1,ESPN College Sports Extra 8
-http://primestreams.tv:826/peterd/peterd/85269
-#EXTINF:-1,FOX COLLEGE ATLANTIC Local
-http://primestreams.tv:826/peterd/peterd/33483
-#EXTINF:-1,FOX COLLEGE CENTRAL Local
-http://primestreams.tv:826/peterd/peterd/33484
-#EXTINF:-1,FOX COLLEGE PACIFIC Local
-http://primestreams.tv:826/peterd/peterd/36266
-#EXTINF:-1,FOX SPORTS RACING
-http://primestreams.tv:826/peterd/peterd/91127
-#EXTINF:-1,FOX SPORTS ARIZONA Local
-http://primestreams.tv:826/peterd/peterd/33761
-#EXTINF:-1,FOX SPORTS CAROLINAS Local
-http://primestreams.tv:826/peterd/peterd/36274
-#EXTINF:-1,FOX SPORTS DETROIT Local
-http://primestreams.tv:826/peterd/peterd/33759
-#EXTINF:-1,FOX SPORTS INDIANA Local
-http://primestreams.tv:826/peterd/peterd/88267
-#EXTINF:-1,FOX SPORTS FLORIDA Local
-http://primestreams.tv:826/peterd/peterd/33758
-#EXTINF:-1,FOX SPORTS MID WEST Local
-http://primestreams.tv:826/peterd/peterd/33756
-#EXTINF:-1,FOX SPORTS NEW ORLEANS Local
-http://primestreams.tv:826/peterd/peterd/36272
-#EXTINF:-1,FOX SPORTS NORTH Local
-http://primestreams.tv:826/peterd/peterd/33755
-#EXTINF:-1,FOX SPORTS OHIO Local
-http://primestreams.tv:826/peterd/peterd/33754
-#EXTINF:-1,FOX SPORTS OHIO PLUS Local
-http://primestreams.tv:826/peterd/peterd/84649
-#EXTINF:-1,FOX SPORTS TIME OHIO Local
-http://primestreams.tv:826/peterd/peterd/91157
-#EXTINF:-1,FOX SPORTS OKLAHOMA Local
-http://primestreams.tv:826/peterd/peterd/89131
-#EXTINF:-1,FOX SPORTS PRIME TICKET Local
-http://primestreams.tv:826/peterd/peterd/36570
-#EXTINF:-1,FOX SPORTS SAN DIEGO Local
-http://primestreams.tv:826/peterd/peterd/36279
-#EXTINF:-1,FOX SPORTS SOUTH Local
-http://primestreams.tv:826/peterd/peterd/33751
-#EXTINF:-1,FOX SPORTS SE Local
-http://primestreams.tv:826/peterd/peterd/33750
-#EXTINF:-1,FOX SPORTS SW  Local
-http://primestreams.tv:826/peterd/peterd/33749
-#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
-http://primestreams.tv:826/peterd/peterd/36277
-#EXTINF:-1,FOX SPORTS SUN Local
-http://primestreams.tv:826/peterd/peterd/33748
-#EXTINF:-1,FOX SPORTS WEST Local
-http://primestreams.tv:826/peterd/peterd/33746
-#EXTINF:-1,FOX SPORTS WISCONSIN Local
-http://primestreams.tv:826/peterd/peterd/33745
-#EXTINF:-1,FOX SPORTS YES NETWORK Local
-http://primestreams.tv:826/peterd/peterd/33762
-#EXTINF:-1,FOX DEPORTES Local
-http://primestreams.tv:826/peterd/peterd/36267
-#EXTINF:-1,MSG
-http://primestreams.tv:826/peterd/peterd/33474
-#EXTINF:-1,MSG +
-http://primestreams.tv:826/peterd/peterd/38593
-#EXTINF:-1,SNY Local
-http://primestreams.tv:826/peterd/peterd/38440
-#EXTINF:-1,NESN Local
-http://primestreams.tv:826/peterd/peterd/35508
-#EXTINF:-1,NESN PLUS
-http://primestreams.tv:826/peterd/peterd/95016
-#EXTINF:-1,NESN 3
-http://primestreams.tv:826/peterd/peterd/95015
-#EXTINF:-1,NESN 4
-http://primestreams.tv:826/peterd/peterd/95014
-#EXTINF:-1,NESN 5
-http://primestreams.tv:826/peterd/peterd/95013
-#EXTINF:-1,Pac-12 NETWORK (US)
-http://primestreams.tv:826/peterd/peterd/1413
-#EXTINF:-1,Pac-12 ARIZONA Local
-http://primestreams.tv:826/peterd/peterd/1409
-#EXTINF:-1,Pac-12 WASHINGTON Local
-http://primestreams.tv:826/peterd/peterd/1415
-#EXTINF:-1,Pac-12 OREGON Local
-http://primestreams.tv:826/peterd/peterd/1414
-#EXTINF:-1,Pac-12 LOS ANGELES Local
-http://primestreams.tv:826/peterd/peterd/1411
-#EXTINF:-1,Pac-12 BAY AREA Local
-http://primestreams.tv:826/peterd/peterd/1410
-#EXTINF:-1,PAC-12 MOUNTAIN Local
-http://primestreams.tv:826/peterd/peterd/1596
-#EXTINF:-1,SPECTRUM SPORTSNET
-http://primestreams.tv:826/peterd/peterd/89362
-#EXTINF:-1,SPORTSNET L.A.
-http://primestreams.tv:826/peterd/peterd/59601
-#EXTINF:-1,NBCSN BAY AREA Local
-http://primestreams.tv:826/peterd/peterd/1730
-#EXTINF:-1,NBCSN BOSTON Local
-http://primestreams.tv:826/peterd/peterd/1732
-#EXTINF:-1,NBCSN CALIFORNIA Local
-http://primestreams.tv:826/peterd/peterd/35437
-#EXTINF:-1,NBCSN CHICAGO Local
-http://primestreams.tv:826/peterd/peterd/1731
-#EXTINF:-1,NBCSN NORTH WEST Local
-http://primestreams.tv:826/peterd/peterd/1733
-#EXTINF:-1,NBCSN PHILLY Local
-http://primestreams.tv:826/peterd/peterd/1734
-#EXTINF:-1,NBCSN PHILLY +
-http://primestreams.tv:826/peterd/peterd/1735
-#EXTINF:-1,NBCSN Washington Local
-http://primestreams.tv:826/peterd/peterd/81822
-#EXTINF:-1,CBS SPORTS NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1281
-#EXTINF:-1,TENNIS CHANNEL
-http://primestreams.tv:826/peterd/peterd/31209
-#EXTINF:-1,FIGHT NETWORK
-http://primestreams.tv:826/peterd/peterd/29193
-#EXTINF:-1,Box Nation HD (UK)
-http://primestreams.tv:826/peterd/peterd/1380
-#EXTINF:-1,Bee T SPORTS 1 FHD
-http://primestreams.tv:826/peterd/peterd/89214
-#EXTINF:-1,Bee T SPORTS 2 FHD
-http://primestreams.tv:826/peterd/peterd/89213
-#EXTINF:-1,Bee T SPORTS 3 FHD
-http://primestreams.tv:826/peterd/peterd/89212
-#EXTINF:-1,Bee T SPORTS EPSN FHD
-http://primestreams.tv:826/peterd/peterd/89211
-#EXTINF:-1,SKEYE SPORTS ACTION
-http://primestreams.tv:826/peterd/peterd/1590
-#EXTINF:-1,SKEYE SPORTS ARENA
-http://primestreams.tv:826/peterd/peterd/27173
-#EXTINF:-1,SKEYE SPORTS CRICKET
-http://primestreams.tv:826/peterd/peterd/89940
-#EXTINF:-1,SKEYE SPORTS F1
-http://primestreams.tv:826/peterd/peterd/92188
-#EXTINF:-1,SKEYE SPORTS FOOTBALL
-http://primestreams.tv:826/peterd/peterd/1591
-#EXTINF:-1,SKEYE SPORTS GOLF
-http://primestreams.tv:826/peterd/peterd/1592
-#EXTINF:-1,SKEYE SPORTS MAIN EVENT
-http://primestreams.tv:826/peterd/peterd/27209
-#EXTINF:-1,SKEYE SPORTS NEWS
-http://primestreams.tv:826/peterd/peterd/2405
-#EXTINF:-1,SKEYE SPORTS PR3MIER LEAGUE
-http://primestreams.tv:826/peterd/peterd/1650
-#EXTINF:-1,EUROSPORT 1
-http://primestreams.tv:826/peterd/peterd/31459
-#EXTINF:-1,EUROSPORT 2
-http://primestreams.tv:826/peterd/peterd/31460
-#EXTINF:-1,TSN 1
-http://primestreams.tv:826/peterd/peterd/1621
-#EXTINF:-1,TSN 2
-http://primestreams.tv:826/peterd/peterd/1622
-#EXTINF:-1,TSN 3
-http://primestreams.tv:826/peterd/peterd/1623
-#EXTINF:-1,TSN 4
-http://primestreams.tv:826/peterd/peterd/1624
-#EXTINF:-1,TSN 5
-http://primestreams.tv:826/peterd/peterd/1625
-#EXTINF:-1,SPORTSNET WORLD
-http://primestreams.tv:826/peterd/peterd/1619
-#EXTINF:-1,SPORTSNET ONTARIO
-http://primestreams.tv:826/peterd/peterd/25999
-#EXTINF:-1,SPORTSNET 360
-http://primestreams.tv:826/peterd/peterd/26000
-#EXTINF:-1,SPORTSNET ONE
-http://primestreams.tv:826/peterd/peterd/26001
-#EXTINF:-1,SPORTSNET PACIFIC
-http://primestreams.tv:826/peterd/peterd/26002
-#EXTINF:-1,BEIN SPORTS ESP (US)
-http://primestreams.tv:826/peterd/peterd/27685
-#EXTINF:-1,BEIN SPORT LA LIGA esp
-http://primestreams.tv:826/peterd/peterd/28014
-#EXTINF:-1,BEIN SPORT esp
-http://primestreams.tv:826/peterd/peterd/36412
-#EXTINF:-1,BEIN SPORTS USA
-http://primestreams.tv:826/peterd/peterd/1501
-#EXTINF:-1,BEIN CONNECT 4 Local
-http://primestreams.tv:826/peterd/peterd/38455
-#EXTINF:-1,BEIN CONNECT 5 Local
-http://primestreams.tv:826/peterd/peterd/38456
-#EXTINF:-1,BEIN CONNECT 6 Local
-http://primestreams.tv:826/peterd/peterd/38457
-#EXTINF:-1,BEIN CONNECT 7 Local
-http://primestreams.tv:826/peterd/peterd/38458
-#EXTINF:-1,BEIN CONNECT 8 Local
-http://primestreams.tv:826/peterd/peterd/38459
-#EXTINF:-1,Bee n Sport 1 HD
-http://primestreams.tv:826/peterd/peterd/89210
-#EXTINF:-1,Bee n Sport 2 HD
-http://primestreams.tv:826/peterd/peterd/89209
-#EXTINF:-1,Bee N Sport 3 HD
-http://primestreams.tv:826/peterd/peterd/89208
-#EXTINF:-1,Bee N Sport 4 HD
-http://primestreams.tv:826/peterd/peterd/89207
-#EXTINF:-1,Bee n Sports 5
-http://primestreams.tv:826/peterd/peterd/89206
-#EXTINF:-1,Bee n Sports 6
-http://primestreams.tv:826/peterd/peterd/89205
-#EXTINF:-1,Bee n Sports 7
-http://primestreams.tv:826/peterd/peterd/89204
-#EXTINF:-1,Bee N Sport 8 HD
-http://primestreams.tv:826/peterd/peterd/89203
-#EXTINF:-1,Bee N Sport 9 HD
-http://primestreams.tv:826/peterd/peterd/89202
-#EXTINF:-1,Bee N Sport 10 HD
-http://primestreams.tv:826/peterd/peterd/89201
-#EXTINF:-1,Bee N Sport 11 HD
-http://primestreams.tv:826/peterd/peterd/89200
-#EXTINF:-1,Bee n Sport 12 HD
-http://primestreams.tv:826/peterd/peterd/89199
-#EXTINF:-1,OSN CRICKET
-http://primestreams.tv:826/peterd/peterd/95012
-#EXTINF:-1,WILLOW 1
-http://primestreams.tv:826/peterd/peterd/92900
-#EXTINF:-1,WILLOW 2
-http://primestreams.tv:826/peterd/peterd/92899
-#EXTINF:-1,WILLOW 3
-http://primestreams.tv:826/peterd/peterd/92898
-#EXTINF:-1,WILLOW 4
-http://primestreams.tv:826/peterd/peterd/92897
-#EXTINF:-1,WILLOW 5
-http://primestreams.tv:826/peterd/peterd/92896
-#EXTINF:-1,AT THE RACES (UK)
-http://primestreams.tv:826/peterd/peterd/1458
-#EXTINF:-1,MOTOGP (EVENTS ONLY)
-http://primestreams.tv:826/peterd/peterd/35101
-#EXTINF:-1,MOTOGP MOVISTAR (ES)
-http://primestreams.tv:826/peterd/peterd/35099
-#EXTINF:-1,MAVTV
-http://primestreams.tv:826/peterd/peterd/1267
-#EXTINF:-1,MOTORSPORT TV Local
-http://primestreams.tv:826/peterd/peterd/31458
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://primestreams.tv:826/peterd/peterd/36070
-#EXTINF:-1,OUTDOOR CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/26029
-#EXTINF:-1,World Fishing Network
-http://primestreams.tv:826/peterd/peterd/30261
-#EXTINF:-1,OUTSIDE TV Local
-http://primestreams.tv:826/peterd/peterd/38436
-#EXTINF:-1,MOTORTREND Local
-http://primestreams.tv:826/peterd/peterd/1452
-#EXTINF:-1,MOTORTREND Low BW
-http://primestreams.tv:826/peterd/peterd/86534
-#EXTINF:-1,RED BULL TV
-http://primestreams.tv:826/peterd/peterd/1757
-#EXTINF:-1,A&E
-http://primestreams.tv:826/peterd/peterd/1307
-#EXTINF:-1,A&E BACKUP
-http://primestreams.tv:826/peterd/peterd/33265
-#EXTINF:-1,AMC Local
-http://primestreams.tv:826/peterd/peterd/1317
-#EXTINF:-1,AMC Low BW
-http://primestreams.tv:826/peterd/peterd/86492
-#EXTINF:-1,AMERICAN HEROES CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1681
-#EXTINF:-1,AMERICAN HEROES CHANNEL Low BW
-http://primestreams.tv:826/peterd/peterd/87594
-#EXTINF:-1,ANIMAL PLANET Local
-http://primestreams.tv:826/peterd/peterd/1466
-#EXTINF:-1,ANIMAL PLANET Low BW
-http://primestreams.tv:826/peterd/peterd/87593
-#EXTINF:-1,ANIMAL PLANET WEST Local
-http://primestreams.tv:826/peterd/peterd/86531
-#EXTINF:-1,ANTENNA TV Local
-http://primestreams.tv:826/peterd/peterd/39211
-#EXTINF:-1,AWE Local
-http://primestreams.tv:826/peterd/peterd/89531
-#EXTINF:-1,AXS TV Local
-http://primestreams.tv:826/peterd/peterd/36608
-#EXTINF:-1,AXS TV Low BW
-http://primestreams.tv:826/peterd/peterd/93005
-#EXTINF:-1,BABY TV Local
-http://primestreams.tv:826/peterd/peterd/38435
-#EXTINF:-1,BBC AMERICA Local
-http://primestreams.tv:826/peterd/peterd/1329
-#EXTINF:-1,BET Local
-http://primestreams.tv:826/peterd/peterd/1330
-#EXTINF:-1,BET Low BW
-http://primestreams.tv:826/peterd/peterd/89162
-#EXTINF:-1,BET HER
-http://primestreams.tv:826/peterd/peterd/35193
-#EXTINF:-1,BLOOMBERG TV
-http://primestreams.tv:826/peterd/peterd/30274
-#EXTINF:-1,BOOMERANG Local
-http://primestreams.tv:826/peterd/peterd/1683
-#EXTINF:-1,BOOMERANG Low BW
-http://primestreams.tv:826/peterd/peterd/87592
-#EXTINF:-1,BRAVO Local
-http://primestreams.tv:826/peterd/peterd/1379
-#EXTINF:-1,BRAVO Low BW
-http://primestreams.tv:826/peterd/peterd/87599
-#EXTINF:-1,BYU TV Local
-http://primestreams.tv:826/peterd/peterd/92947
-#EXTINF:-1,C-SPAN
-http://primestreams.tv:826/peterd/peterd/30039
-#EXTINF:-1,C-SPAN 2
-http://primestreams.tv:826/peterd/peterd/30038
-#EXTINF:-1,C-SPAN 3
-http://primestreams.tv:826/peterd/peterd/30037
-#EXTINF:-1,CARTOON NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1378
-#EXTINF:-1,CARTOON NETWORK Low BW
-http://primestreams.tv:826/peterd/peterd/87598
-#EXTINF:-1,CARTOON NETWORK WEST Local
-http://primestreams.tv:826/peterd/peterd/38628
-#EXTINF:-1,CBS Action
-http://primestreams.tv:826/peterd/peterd/1654
-#EXTINF:-1,CBS DRAMA
-http://primestreams.tv:826/peterd/peterd/1655
-#EXTINF:-1,CBS REALITY
-http://primestreams.tv:826/peterd/peterd/1656
-#EXTINF:-1,CHEDDAR BIG NEWS Local
-http://primestreams.tv:826/peterd/peterd/90396
-#EXTINF:-1,CHEDDAR NEWS Local
-http://primestreams.tv:826/peterd/peterd/90395
-#EXTINF:-1,CMT Local
-http://primestreams.tv:826/peterd/peterd/1345
-#EXTINF:-1,CMT Low BW
-http://primestreams.tv:826/peterd/peterd/89059
-#EXTINF:-1,CNBC Local
-http://primestreams.tv:826/peterd/peterd/1346
-#EXTINF:-1,CNBC WORLD Local
-http://primestreams.tv:826/peterd/peterd/91153
-#EXTINF:-1,CNN Local
-http://primestreams.tv:826/peterd/peterd/1347
-#EXTINF:-1,CNN Low BW
-http://primestreams.tv:826/peterd/peterd/77768
-#EXTINF:-1,COMEDY CENTRAL
-http://primestreams.tv:826/peterd/peterd/1679
-#EXTINF:-1,COOKING CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1259
-#EXTINF:-1,COMET Local
-http://primestreams.tv:826/peterd/peterd/91152
-#EXTINF:-1,COWBOY CHANNEL
-http://primestreams.tv:826/peterd/peterd/90060
-#EXTINF:-1,COZI TV Local
-http://primestreams.tv:826/peterd/peterd/38429
-#EXTINF:-1,CW (MY50) Local
-http://primestreams.tv:826/peterd/peterd/1350
-#EXTINF:-1,DESTINATION AMERICA Local
-http://primestreams.tv:826/peterd/peterd/1462
-#EXTINF:-1,DISCOVERY CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/39638
-#EXTINF:-1,DISCOVERY CHANNEL Low BW
-http://primestreams.tv:826/peterd/peterd/86501
-#EXTINF:-1,DISCOVERY CHANNEL WEST Local
-http://primestreams.tv:826/peterd/peterd/1443
-#EXTINF:-1,DISCOVERY FAMILY Local
-http://primestreams.tv:826/peterd/peterd/38619
-#EXTINF:-1,DISCOVERY LIFE Local
-http://primestreams.tv:826/peterd/peterd/38620
-#EXTINF:-1,DISCOVERY SCIENCE Local
-http://primestreams.tv:826/peterd/peterd/1687
-#EXTINF:-1,DISCOVERY TURBO
-http://primestreams.tv:826/peterd/peterd/1692
-#EXTINF:-1,DISNEY CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1358
-#EXTINF:-1,DISNEY CHANNEL Low BW
-http://primestreams.tv:826/peterd/peterd/87586
-#EXTINF:-1,DISNEY JR Local
-http://primestreams.tv:826/peterd/peterd/1261
-#EXTINF:-1,DISNEY JR Low BW
-http://primestreams.tv:826/peterd/peterd/86497
-#EXTINF:-1,DISNEY XD Local
-http://primestreams.tv:826/peterd/peterd/1672
-#EXTINF:-1,DISNEY XD Low BW
-http://primestreams.tv:826/peterd/peterd/87590
-#EXTINF:-1,DISNEY CHANNEL WEST Local
-http://primestreams.tv:826/peterd/peterd/38627
-#EXTINF:-1,DISNEY JR WEST Local
-http://primestreams.tv:826/peterd/peterd/38626
-#EXTINF:-1,DISNEY XD WEST Local
-http://primestreams.tv:826/peterd/peterd/38625
-#EXTINF:-1,DIY Local
-http://primestreams.tv:826/peterd/peterd/1463
-#EXTINF:-1,DOG TV
-http://primestreams.tv:826/peterd/peterd/92292
-#EXTINF:-1,E! Local
-http://primestreams.tv:826/peterd/peterd/1653
-#EXTINF:-1,E! Low BW
-http://primestreams.tv:826/peterd/peterd/87591
-#EXTINF:-1,EL REY
-http://primestreams.tv:826/peterd/peterd/29176
-#EXTINF:-1,ESCAPE Local
-http://primestreams.tv:826/peterd/peterd/39212
-#EXTINF:-1,FOOD NETWORK Local
-http://primestreams.tv:826/peterd/peterd/29480
-#EXTINF:-1,FOOD NETWORK Low BW
-http://primestreams.tv:826/peterd/peterd/86494
-#EXTINF:-1,FREE SPEECH TV Local
-http://primestreams.tv:826/peterd/peterd/90394
-#EXTINF:-1,FREEFORM Local
-http://primestreams.tv:826/peterd/peterd/1677
-#EXTINF:-1,FX Local
-http://primestreams.tv:826/peterd/peterd/1364
-#EXTINF:-1,FX WEST Local
-http://primestreams.tv:826/peterd/peterd/85209
-#EXTINF:-1,FX MOVIE Local
-http://primestreams.tv:826/peterd/peterd/29312
-#EXTINF:-1,FXX Local
-http://primestreams.tv:826/peterd/peterd/1671
-#EXTINF:-1,FOX BUSINESS Local
-http://primestreams.tv:826/peterd/peterd/27167
-#EXTINF:-1,FOX NEWS Local
-http://primestreams.tv:826/peterd/peterd/31684
-#EXTINF:-1,FOX NEWS Low BW
-http://primestreams.tv:826/peterd/peterd/77767
-#EXTINF:-1,FUSE
-http://primestreams.tv:826/peterd/peterd/29989
-#EXTINF:-1,FUSION Local
-http://primestreams.tv:826/peterd/peterd/29988
-#EXTINF:-1,FYI
-http://primestreams.tv:826/peterd/peterd/31451
-#EXTINF:-1,GAME SHOW NETWORK
-http://primestreams.tv:826/peterd/peterd/1369
-#EXTINF:-1,GINX eSPORTS Local
-http://primestreams.tv:826/peterd/peterd/91154
-#EXTINF:-1,BUZZR
-http://primestreams.tv:826/peterd/peterd/26760
-#EXTINF:-1,PopTV Local
-http://primestreams.tv:826/peterd/peterd/1264
-#EXTINF:-1,GRIT Local
-http://primestreams.tv:826/peterd/peterd/1371
-#EXTINF:-1,HALLMARK CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1375
-#EXTINF:-1,HALLMARK CHANNEL Low BW
-http://primestreams.tv:826/peterd/peterd/86496
-#EXTINF:-1,HALLMARK DRAMA Local
-http://primestreams.tv:826/peterd/peterd/38591
-#EXTINF:-1,HALLMARK MOVIES Local
-http://primestreams.tv:826/peterd/peterd/1611
-#EXTINF:-1,HGTV Local
-http://primestreams.tv:826/peterd/peterd/1589
-#EXTINF:-1,HGTV Low BW
-http://primestreams.tv:826/peterd/peterd/86493
-#EXTINF:-1,HGTV WEST Local
-http://primestreams.tv:826/peterd/peterd/86533
-#EXTINF:-1,HISTORY
-http://primestreams.tv:826/peterd/peterd/1386
-#EXTINF:-1,HLN Local
-http://primestreams.tv:826/peterd/peterd/38633
-#EXTINF:-1,IFC Local
-http://primestreams.tv:826/peterd/peterd/1579
-#EXTINF:-1,INVESTIGATION DISCOVERY Local
-http://primestreams.tv:826/peterd/peterd/35716
-#EXTINF:-1,INVESTIGATION DISCOVERY Low BW
-http://primestreams.tv:826/peterd/peterd/86500
-#EXTINF:-1,INVESTIGATION DISCOVERY West Local
-http://primestreams.tv:826/peterd/peterd/1594
-#EXTINF:-1,ION TV
-http://primestreams.tv:826/peterd/peterd/28901
-#EXTINF:-1,LAFF TV Local
-http://primestreams.tv:826/peterd/peterd/84190
-#EXTINF:-1,LAW & CRIME Local
-http://primestreams.tv:826/peterd/peterd/92837
-#EXTINF:-1,LIFETIME
-http://primestreams.tv:826/peterd/peterd/1446
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://primestreams.tv:826/peterd/peterd/2514
-#EXTINF:-1,ME TV EAST Local
-http://primestreams.tv:826/peterd/peterd/38431
-#EXTINF:-1,MSNBC Local
-http://primestreams.tv:826/peterd/peterd/30001
-#EXTINF:-1,MSNBC Low BW
-http://primestreams.tv:826/peterd/peterd/86696
-#EXTINF:-1,MTV
-http://primestreams.tv:826/peterd/peterd/1657
-#EXTINF:-1,MY64 (CINCI) Local
-http://primestreams.tv:826/peterd/peterd/92834
-#EXTINF:-1,NAT GEO Local
-http://primestreams.tv:826/peterd/peterd/1403
-#EXTINF:-1,NAT GEO WEST Local
-http://primestreams.tv:826/peterd/peterd/77223
-#EXTINF:-1,NAT GEO WILD Local
-http://primestreams.tv:826/peterd/peterd/1784
-#EXTINF:-1,NECN Local
-http://primestreams.tv:826/peterd/peterd/89012
-#EXTINF:-1,NEWSMAX 2 Local
-http://primestreams.tv:826/peterd/peterd/90393
-#EXTINF:-1,NEWSMAX 3 Local
-http://primestreams.tv:826/peterd/peterd/90392
-#EXTINF:-1,NICKELODEON
-http://primestreams.tv:826/peterd/peterd/1445
-#EXTINF:-1,NICK JR
-http://primestreams.tv:826/peterd/peterd/1268
-#EXTINF:-1,NICKTOONS
-http://primestreams.tv:826/peterd/peterd/1407
-#EXTINF:-1,ONE AMERICA NETWORK Local
-http://primestreams.tv:826/peterd/peterd/36607
-#EXTINF:-1,OWN Local
-http://primestreams.tv:826/peterd/peterd/1488
-#EXTINF:-1,OXYGEN Local
-http://primestreams.tv:826/peterd/peterd/1489
-#EXTINF:-1,PARAMOUNT NETWORK
-http://primestreams.tv:826/peterd/peterd/1434
-#EXTINF:-1,PBS East
-http://primestreams.tv:826/peterd/peterd/75496
-#EXTINF:-1,PBS KIDS
-http://primestreams.tv:826/peterd/peterd/41008
-#EXTINF:-1,PEOPLE TV
-http://primestreams.tv:826/peterd/peterd/40051
-#EXTINF:-1,PETS TV
-http://primestreams.tv:826/peterd/peterd/91126
-#EXTINF:-1,QVC Local
-http://primestreams.tv:826/peterd/peterd/35468
-#EXTINF:-1,REVOLT
-http://primestreams.tv:826/peterd/peterd/29310
-#EXTINF:-1,RIDE TV Local
-http://primestreams.tv:826/peterd/peterd/92982
-#EXTINF:-1,RODEO CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/90181
-#EXTINF:-1,SMITHSONIAN CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/35461
-#EXTINF:-1,SONY MOVIE CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/38701
-#EXTINF:-1,START TV Local
-http://primestreams.tv:826/peterd/peterd/41306
-#EXTINF:-1,SUNDANCETV Local
-http://primestreams.tv:826/peterd/peterd/1435
-#EXTINF:-1,SYFY Local
-http://primestreams.tv:826/peterd/peterd/1270
-#EXTINF:-1,TASTEMADE Local
-http://primestreams.tv:826/peterd/peterd/95075
-#EXTINF:-1,TBS Local
-http://primestreams.tv:826/peterd/peterd/1272
-#EXTINF:-1,TBS Low BW
-http://primestreams.tv:826/peterd/peterd/87589
-#EXTINF:-1,TBS WEST Local
-http://primestreams.tv:826/peterd/peterd/38621
-#EXTINF:-1,TCM Local
-http://primestreams.tv:826/peterd/peterd/33103
-#EXTINF:-1,TEEN NICK
-http://primestreams.tv:826/peterd/peterd/92681
-#EXTINF:-1,THE COUNTRY NETWORK
-http://primestreams.tv:826/peterd/peterd/30035
-#EXTINF:-1,TLC Local
-http://primestreams.tv:826/peterd/peterd/1667
-#EXTINF:-1,TLC WEST Local
-http://primestreams.tv:826/peterd/peterd/86532
-#EXTINF:-1,TNT Local
-http://primestreams.tv:826/peterd/peterd/1448
-#EXTINF:-1,TNT Low BW
-http://primestreams.tv:826/peterd/peterd/87588
-#EXTINF:-1,TNT WEST Local
-http://primestreams.tv:826/peterd/peterd/38622
-#EXTINF:-1,TRAVEL CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/2028
-#EXTINF:-1,TRU TV Local
-http://primestreams.tv:826/peterd/peterd/1587
-#EXTINF:-1,TRT WORLD NEWS (DIRECT)
-http://primestreams.tv:826/peterd/peterd/30267
-#EXTINF:-1,TUFF TV HD (DIRECT)
-http://primestreams.tv:826/peterd/peterd/30036
-#EXTINF:-1,TV LAND
-http://primestreams.tv:826/peterd/peterd/1676
-#EXTINF:-1,TV ONE
-http://primestreams.tv:826/peterd/peterd/29307
-#EXTINF:-1,USA NETWORK Local
-http://primestreams.tv:826/peterd/peterd/1449
+#EXTINF:-1,|USA *| MSNBC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31617
+#EXTINF:-1,|USA  | MSNBC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31724
+#EXTINF:-1,|USA  | MSNBC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31808
+#EXTINF:-1,|USA *| NBC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31700
+#EXTINF:-1,|USA  | NBC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31786
+#EXTINF:-1,|USA *| NBCSN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31612
+#EXTINF:-1,|USA  | NBCSNHD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31768
+#EXTINF:-1,|USA *| AFN Sports
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31681
+#EXTINF:-1,|USA *| AFN Sports 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31680
+#EXTINF:-1,|USA *| BEIN Sports HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31693
+#EXTINF:-1,|USA  | Bein Sports USA HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31827
+#EXTINF:-1,|USA *| BET HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31677
+#EXTINF:-1,|USA  | BTN Sport HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31709
+#EXTINF:-1,|USA *| BTN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31672
+#EXTINF:-1,|USA *| Big Ten Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31676
+#EXTINF:-1,|USA *| ESPN
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31647
+#EXTINF:-1,|USA  | ESPN
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31765
+#EXTINF:-1,|USA  | ESPN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31755
+#EXTINF:-1,|USA  | ESPN 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31805
+#EXTINF:-1,|USA *| ESPN 2 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31646
+#EXTINF:-1,|USA *| ESPN 3
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31645
+#EXTINF:-1,|USA  | ESPN U HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31778
+#EXTINF:-1,|USA *| ESPN U HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31643
+#EXTINF:-1,|USA *| ESPN Deportes HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31644
+#EXTINF:-1,|USA *| CBS Sports Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31665
+#EXTINF:-1,|USA  | CBS Sports Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31710
+#EXTINF:-1,|USA  | CBSN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31731
+#EXTINF:-1,|USA *| CBS
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31666
+#EXTINF:-1,|USA *| FOX Sports 1 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31698
+#EXTINF:-1,|USA *| FOX Sports 2 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31699
+#EXTINF:-1,|USA *| FX HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31636
+#EXTINF:-1,|USA *| FXX HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31635
+#EXTINF:-1,|USA *| Food Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31641
+#EXTINF:-1,|USA *| Fox Soccer
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31642
+#EXTINF:-1,|USA  | Fox Sports 1 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31766
+#EXTINF:-1,|USA  | Fox Sports 2 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31767
+#EXTINF:-1,|USA  | Fox sport 1 backup
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31708
+#EXTINF:-1,|USA *| Golf HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31634
+#EXTINF:-1,|USA *| MLB Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31619
+#EXTINF:-1,|USA  | MLB Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31807
+#EXTINF:-1,|USA  |  NBA TV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31741
+#EXTINF:-1,|USA *| NBA TV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31614
+#EXTINF:-1,|USA *| NBC Golf
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31613
+#EXTINF:-1,|USA  | NBC Golf
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31759
+#EXTINF:-1,|USA  | NHL Network(1)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31809
+#EXTINF:-1,|USA *| NHL Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31611
+#EXTINF:-1,|USA *| SEC Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31604
+#EXTINF:-1,|USA  | SEC Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31810
+#EXTINF:-1,|USA  | TNT HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31762
+#EXTINF:-1,|USA *| TNT HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31596
+#EXTINF:-1,|USA *| TSN HD 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31705
+#EXTINF:-1,|USA *| TSN HD 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31704
+#EXTINF:-1,|USA *| TSN HD 3
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31703
+#EXTINF:-1,|USA *| TSN HD 4
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31702
+#EXTINF:-1,|USA *| TSN HD 5
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31701
+#EXTINF:-1,|USA  | TSN 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31813
+#EXTINF:-1,|USA  | TSN 3*
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31815
+#EXTINF:-1,|USA  | CA | TSN 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31814
+#EXTINF:-1,|USA  | CA | TSN 4 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31816
+#EXTINF:-1,|USA  | CA | TSN 5*
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31817
+#EXTINF:-1,|USA  | Tennis Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31749
+#EXTINF:-1,|USA *| Tennis HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31599
+#EXTINF:-1,|USA *| WWE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31590
+#EXTINF:-1,|USA *| WWE Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31589
+#EXTINF:-1,|USA  | WWE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31775
+#EXTINF:-1,|USA *| Willow Cricket HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31591
+#EXTINF:-1,|USA  | AFN SPORTS
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31825
+#EXTINF:-1,|USA  | AFN SPORTS 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31826
+#EXTINF:-1,|USA  | FIGHT SPORT
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31818
+#EXTINF:-1,|USA  | FOX 43
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31806
+#EXTINF:-1,|USA  | FOX NEWS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31756
+#EXTINF:-1,|USA  | FOXX HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31834
+#EXTINF:-1,|USA  | FUEL HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31791
+#EXTINF:-1,|USA  | FX HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31835
+#EXTINF:-1,|USA  | Fight HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31735
+#EXTINF:-1,|USA  | NFL Network 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31798
+#EXTINF:-1,|USA  | NFL Network 1080i
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31727
+#EXTINF:-1,|USA  | NFL REDZONE SD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31726
+#EXTINF:-1,|USA  | PAC-12 Arizona
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31769
+#EXTINF:-1,|USA  | PAC-12 Bay Area
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31770
+#EXTINF:-1,|USA  | PAC-12 Los Angeles
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31771
+#EXTINF:-1,|USA  | PAC-12 Oregon
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31772
+#EXTINF:-1,|USA  | PAC-12 Washington
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31773
+#EXTINF:-1,|USA  | Sports-Net
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31844
+#EXTINF:-1,|USA  | Sportsnet 360 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31812
+#EXTINF:-1,|USA  | VIP: BAYERN FC TV FHD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31712
+#EXTINF:-1,|USA  | ***** USA CARTOONS *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31850
+#EXTINF:-1,|USA  | Nursery Rhymes (Baby Songs)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31782
+#EXTINF:-1,|USA *| Boomerang HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31674
+#EXTINF:-1,|USA *| Disney Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31652
+#EXTINF:-1,|USA *| Disney Jr. HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31651
+#EXTINF:-1,|USA  | DISNEY JR HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31720
+#EXTINF:-1,|USA  | NICKELODEN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31839
+#EXTINF:-1,|USA *| Nick Jr. HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31610
+#EXTINF:-1,|USA *| Nickelodean HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31609
+#EXTINF:-1,|USA *| Nicktoons HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31608
+#EXTINF:-1,|USA *| Bloomberg HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31675
+#EXTINF:-1,|USA  | Bloomberg Europe
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31797
+#EXTINF:-1,|USA  | Bloomberg TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31785
+#EXTINF:-1,|USA  | CARTOON NETWORK
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31730
+#EXTINF:-1,|USA *| Cartoon Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31668
+#EXTINF:-1,|USA  | Toon Kids
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31722
+#EXTINF:-1,|USA  | ***** USA CINEMA *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31849
+#EXTINF:-1,|USA *| Action Max
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31684
+#EXTINF:-1,|USA *| BBC America HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31678
+#EXTINF:-1,|USA *| Comedy Central
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31661
+#EXTINF:-1,|USA  | COMEDY CENTRAL HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31753
+#EXTINF:-1,|USA *| Cinemax 5
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31664
+#EXTINF:-1,|USA *| Cinemax HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31706
+#EXTINF:-1,|USA *| Cinemax Moremax
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31663
+#EXTINF:-1,|USA *| Cinemax MoreMax HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31662
+#EXTINF:-1,|USA  | Cinemax 5 StarMax
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31828
+#EXTINF:-1,|USA  | CINEMAX ACTION HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31803
+#EXTINF:-1,|USA  | Cinemax ActionMax East
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31829
+#EXTINF:-1,|USA  | Cinemax East
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31830
+#EXTINF:-1,|USA  | Cinemax East HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31796
+#EXTINF:-1,|USA  | Cinemax MoreMax
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31795
+#EXTINF:-1,|USA  | HBO Comedy
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31736
+#EXTINF:-1,|USA  | HBO HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31738
+#EXTINF:-1,|USA  | HBO East
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31737
+#EXTINF:-1,|USA  | HBO Signature
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31739
+#EXTINF:-1,|USA  | HBO Zone
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31740
+#EXTINF:-1,|USA *| HBO 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31627
+#EXTINF:-1,|USA *| HBO Comedy HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31629
+#EXTINF:-1,|USA *| HBO Family HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31690
+#EXTINF:-1,|USA *| HBO HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31628
+#EXTINF:-1,|USA *| HBO Signature HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31626
+#EXTINF:-1,|USA *| HBO Zone
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31625
+#EXTINF:-1,|USA *| Reelz HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31605
+#EXTINF:-1,|USA *| Starz Edge
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31602
+#EXTINF:-1,|USA  | Starz Cinema
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31745
+#EXTINF:-1,|USA  | Starz Comedy
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31746
+#EXTINF:-1,|USA  | Starz East
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31747
+#EXTINF:-1,|USA  | STARZ EDGE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31841
+#EXTINF:-1,|USA  | Starz Encore
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31748
+#EXTINF:-1,|USA *| Sundance HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31601
+#EXTINF:-1,|USA  | AFN MOVIE
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31819
+#EXTINF:-1,|USA  | AFN SPECTRUM
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31824
+#EXTINF:-1,|USA *| SYFY HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31600
+#EXTINF:-1,|USA  | SYFY HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31761
+#EXTINF:-1,|USA  | Showtime 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31742
+#EXTINF:-1,|USA  | SHOWTIME HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31743
+#EXTINF:-1,|USA  | Showtime West
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31744
+#EXTINF:-1,|USA  | ***** USA NEWS *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31848
+#EXTINF:-1,|USA  | DW
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31734
+#EXTINF:-1,|USA  | ABC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31750
+#EXTINF:-1,|USA  | ABC NEWS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31751
+#EXTINF:-1,|USA *| ABC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31686
+#EXTINF:-1,|USA *| ABC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31696
+#EXTINF:-1,|USA *| ABC News HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31685
+#EXTINF:-1,|USA *| C-SPAN 1 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31671
+#EXTINF:-1,|USA *| C-SPAN 2 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31670
+#EXTINF:-1,|USA *| C-SPAN 3 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31669
+#EXTINF:-1,|USA  | C-Span 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31800
+#EXTINF:-1,|USA  | C-Span 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31801
+#EXTINF:-1,|USA  | C-Span 3
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31802
+#EXTINF:-1,|USA  | CNBC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31732
+#EXTINF:-1,|USA *| CBN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31667
+#EXTINF:-1,|USA *| CNN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31692
+#EXTINF:-1,|USA  | CNN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31804
+#EXTINF:-1,|USA  | CNN HD *
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31718
+#EXTINF:-1,|USA  | CNN US HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31780
+#EXTINF:-1,|USA  | Fox HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31725
+#EXTINF:-1,|USA *| FOX Business Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31640
+#EXTINF:-1,|USA *| FOX News
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31638
+#EXTINF:-1,|USA  | AFN NEWS
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31820
+#EXTINF:-1,|USA  | ***** USA DISCOVERY *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31846
+#EXTINF:-1,|USA *| Animal Planet HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31679
+#EXTINF:-1,|USA  | ANIMAL PLANET HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31799
+#EXTINF:-1,|USA *| Crime & Investigation HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31659
+#EXTINF:-1,|USA *| Discovery Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31656
+#EXTINF:-1,|USA *| Discovery Family HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31655
+#EXTINF:-1,|USA *| Discovery HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31695
+#EXTINF:-1,|USA *| Discovery Science HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31654
+#EXTINF:-1,|USA *| Discovery Velocity HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31653
+#EXTINF:-1,|USA  | DISCCOVERY HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31733
+#EXTINF:-1,|USA  | Discovery Channel
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31721
+#EXTINF:-1,|USA  | Discovery HD Showcase
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31793
+#EXTINF:-1,|USA  | Discovery Science HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31831
+#EXTINF:-1,|USA *| Investigation Discovery
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31622
+#EXTINF:-1,|USA  | Investigation Discovery
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31758
+#EXTINF:-1,|USA *| Nat Geo hd
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31615
+#EXTINF:-1,|USA  | National Geographic
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31838
+#EXTINF:-1,|USA  | AMERICAN HEROES CHANNEL
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31719
+#EXTINF:-1,|USA  | Amazing Discoveries HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31764
+#EXTINF:-1,|USA  | NASA TV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31711
+#EXTINF:-1,|USA  | ***** USA MUSIC *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31845
+#EXTINF:-1,|USA  | VH1 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/32729
+#EXTINF:-1,|USA  | MTV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31707
+#EXTINF:-1,|USA *| MTV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31616
+#EXTINF:-1,|USA  | ***** USA CULTURE *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31847
+#EXTINF:-1,|USA *| A and E HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31687
+#EXTINF:-1,|USA *| AFN Prime Atlantic
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31683
+#EXTINF:-1,|USA *| AFN Prime Pacific
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31682
+#EXTINF:-1,|USA *| AMC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31697
+#EXTINF:-1,|USA *| Bravo
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31673
+#EXTINF:-1,|USA *| Bravo HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31694
+#EXTINF:-1,|USA *| Cooking Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31660
+#EXTINF:-1,|USA *| CW HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31658
+#EXTINF:-1,|USA *| Destination America
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31657
+#EXTINF:-1,|USA *| DIY Network HD**
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31650
+#EXTINF:-1,|USA *| DTX HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31649
+#EXTINF:-1,|USA *| E! HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31648
+#EXTINF:-1,|USA *| FOX 29 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31691
+#EXTINF:-1,|USA *| FOX HD**
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31639
+#EXTINF:-1,|USA *| Freeform HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31637
+#EXTINF:-1,|USA *| GSN HD*
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31633
+#EXTINF:-1,|USA *| H2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31632
+#EXTINF:-1,|USA *| Hall Mark HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31631
+#EXTINF:-1,|USA *| HallMark
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31630
+#EXTINF:-1,|USA *| HGTV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31689
+#EXTINF:-1,|USA *| History
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31624
+#EXTINF:-1,|USA *| IFC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31623
+#EXTINF:-1,|USA *| Life Time
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31621
+#EXTINF:-1,|USA *| LMN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31620
+#EXTINF:-1,|USA *| More Max HD*
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31618
+#EXTINF:-1,|USA *| Oxygen HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31607
+#EXTINF:-1,|USA *| PBS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31606
+#EXTINF:-1,|USA *| Spike HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31603
+#EXTINF:-1,|USA *| TBS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31688
+#EXTINF:-1,|USA *| The Weather Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31598
+#EXTINF:-1,|USA *| TLC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31597
+#EXTINF:-1,|USA *| Travel Channel HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31595
+#EXTINF:-1,|USA *| TV Land HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31594
+#EXTINF:-1,|USA *| Universal HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31593
+#EXTINF:-1,|USA *| USA Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31592
+#EXTINF:-1,|USA  | A&E HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31763
+#EXTINF:-1,|USA  | AFN PRIME ATLANTIC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31821
+#EXTINF:-1,|USA  | AFN PRIME PACIFIC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31822
+#EXTINF:-1,|USA  | AFN PULSE
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31823
+#EXTINF:-1,|USA  | AMC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31728
+#EXTINF:-1,|USA  | BRAVO HD(1)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31752
+#EXTINF:-1,|USA  | BYU TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31729
+#EXTINF:-1,|USA  | CAPITAL TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31784
+#EXTINF:-1,|USA  | CW HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31754
+#EXTINF:-1,|USA  | CW11
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31794
+#EXTINF:-1,|USA  | DIY Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31832
+#EXTINF:-1,|USA  | E!
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31723
+#EXTINF:-1,|USA  | ESPN News US HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31779
+#EXTINF:-1,|USA  | Fine Living
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31792
+#EXTINF:-1,|USA  | Food Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31833
+#EXTINF:-1,|USA  | GRIT TV Movies
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31717
+#EXTINF:-1,|USA  | H2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31836
+#EXTINF:-1,|USA  | HALLMARK
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31837
+#EXTINF:-1,|USA  | HGTV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31790
+#EXTINF:-1,|USA  | HISTORY HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31757
+#EXTINF:-1,|USA  | ION Television East HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31777
+#EXTINF:-1,|USA  | Lifetime Movie Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31776
+#EXTINF:-1,|USA  | MelloTV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31843
+#EXTINF:-1,|USA  | MY13
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31715
+#EXTINF:-1,|USA  | MY9 TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31783
+#EXTINF:-1,|USA  | Network (US)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31760
+#EXTINF:-1,|USA  | OUTDOOR CHANNEL HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31789
+#EXTINF:-1,|USA  | OWN HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31713
+#EXTINF:-1,|USA  | Smile Of A Child
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31788
+#EXTINF:-1,|USA  | SNY
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31714
+#EXTINF:-1,|USA  | SPIKE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31840
+#EXTINF:-1,|USA  | TBS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31811
+#EXTINF:-1,|USA  | TLC HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31774
+#EXTINF:-1,|USA  | USA Network HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31842
+#EXTINF:-1,|USA  | WEATHERNATION
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31781
