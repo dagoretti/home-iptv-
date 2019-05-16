@@ -1,388 +1,1498 @@
 ﻿#EXTM3U
 https://www.iptvvlc.com/search/label/iptv%20uk
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
-http://62.210.27.219:80/live.ts?channelId=1&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
-http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
-http://62.210.27.219:80/live.ts?channelId=4&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
 http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
 http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
-http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
-http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
-http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itvbe.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
-http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="4seven.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
-http://62.210.27.219:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
 http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
-http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
-http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="comedycentral.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
-http://62.210.27.219:80/live.ts?channelId=39&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
-http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="lifetime.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
 http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="fox.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
-http://62.210.27.219:80/live.ts?channelId=53&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
-http://62.210.27.219:80/live.ts?channelId=55&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eentertainment.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
-http://62.210.27.219:80/live.ts?channelId=61&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
 http://163.172.112.225:80/live.ts?channelId=70&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
 http://163.172.112.225:80/live.ts?channelId=75&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="Movie Channels",Sky Movies Action & Adventure - Sky Movies Action & Adventure
-http://163.172.112.225:80/live.ts?channelId=80&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
-http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1,UK | Sky 1 FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24119
+#EXTINF:-1,UK | Sky 1 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24120
+#EXTINF:-1,UK | Sky 2 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24118
+#EXTINF:-1,UK | Sky Atlantic HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24491
+#EXTINF:-1,UK | Sky Arts FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/40655
+#EXTINF:-1,UK | Sky Witness FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/40708
+#EXTINF:-1,UK | AMC FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/44620
+#EXTINF:-1,UK | FOX HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/23915
+#EXTINF:-1,UK | Gold FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24114
+#EXTINF:-1,UK | Comedy Central HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24025
+#EXTINF:-1,UK | Comedy Central Xtra
+http://s1.platinumhostingtech.com:80/vincent/vincent/24085
+#EXTINF:-1,UK | Lifetime FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24446
+#EXTINF:-1,UK | ID
+http://s1.platinumhostingtech.com:80/vincent/vincent/24110
+#EXTINF:-1,UK | Pick
+http://s1.platinumhostingtech.com:80/vincent/vincent/24104
+#EXTINF:-1,UK | Drama (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24011
+#EXTINF:-1,UK | Quest HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24103
+#EXTINF:-1,UK | Quest SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60123
+#EXTINF:-1,UK | Quest +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60124
+#EXTINF:-1,UK | Quest Red SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60352
+#EXTINF:-1,UK | Quest Red +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60353
+#EXTINF:-1,UK | SyFy HD.(L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24087
+#EXTINF:-1,UK | Horror Channel (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24112
+#EXTINF:-1,UK | Horror Channel +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/46437
+#EXTINF:-1,UK | Real Lives
+http://s1.platinumhostingtech.com:80/vincent/vincent/24088
+#EXTINF:-1,UK | Really (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24100
+#EXTINF:-1,UK | Alibi FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24066
+#EXTINF:-1,UK | Alibi +1
+http://s1.platinumhostingtech.com:80/vincent/vincent/40865
+#EXTINF:-1,UK | DMAX (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24012
+#EXTINF:-1,UK | DMAX +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60122
+#EXTINF:-1,UK | Spike HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24101
+#EXTINF:-1,UK | Sony Crime (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37655
+#EXTINF:-1,UK | Sony Crime +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37657
+#EXTINF:-1,UK | Universal Channel
+http://s1.platinumhostingtech.com:80/vincent/vincent/24111
+#EXTINF:-1,UK | Watch
+http://s1.platinumhostingtech.com:80/vincent/vincent/24099
+#EXTINF:-1,UK | Yesterday (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24013
+#EXTINF:-1,UK | TLC  FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24065
+#EXTINF:-1,UK | GOOD FOOD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24068
+#EXTINF:-1,UK | Home & Health
+http://s1.platinumhostingtech.com:80/vincent/vincent/24070
+#EXTINF:-1,UK | Food Network (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24064
+#EXTINF:-1,UK | Tru TV (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24096
+#EXTINF:-1,UK | Tru TV +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37647
+#EXTINF:-1,UK | True Entertainment (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24091
+#EXTINF:-1,UK | True Entertainment +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37654
+#EXTINF:-1,UK | Challenge
+http://s1.platinumhostingtech.com:80/vincent/vincent/24007
+#EXTINF:-1,UK | BBC One NI FHD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24181
+#EXTINF:-1,UK | BBC One NI SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/28730
+#EXTINF:-1,UK | BBC One FHD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24183
+#EXTINF:-1,UK | BBC One HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24182
+#EXTINF:-1,UK | BBC One London SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24176
+#EXTINF:-1,UK | BBC Scotland FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/57634
+#EXTINF:-1,UK | BBC One Wales FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/58426
+#EXTINF:-1,UK | BBC Two HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24175
+#EXTINF:-1,UK | BBC Two SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24173
+#EXTINF:-1,UK | BBC Two NI HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37261
+#EXTINF:-1,UK | BBC Four (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/64840
+#EXTINF:-1,UK | UTV FHD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24121
+#EXTINF:-1,UK | UTV HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24122
+#EXTINF:-1,UK | UTV SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39641
+#EXTINF:-1,UK | UTV SD +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39642
+#EXTINF:-1,UK | ITV 1 FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24165
+#EXTINF:-1,UK | ITV 1 FHD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24166
+#EXTINF:-1,UK | ITV 1 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24167
+#EXTINF:-1,UK | ITV 1 Granada SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37660
+#EXTINF:-1,UK | ITV 1 Anglia East SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37658
+#EXTINF:-1,UK | ITV 1 Wales FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/58425
+#EXTINF:-1,UK | ITV 1 Anglia East  +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37802
+#EXTINF:-1,UK | ITV 1 Central West SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37659
+#EXTINF:-1,UK | ITV 1 Westcountry South West SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37800
+#EXTINF:-1,UK | ITV 1 London SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37661
+#EXTINF:-1,UK | ITVBe FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/46462
+#EXTINF:-1,UK | ITVBe SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37789
+#EXTINF:-1,UK | ITV 1 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37504
+#EXTINF:-1,UK | ITV 2 HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24163
+#EXTINF:-1,UK | ITV 2 HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24161
+#EXTINF:-1,UK | ITV 3 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24159
+#EXTINF:-1,UK | ITV 3 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39631
+#EXTINF:-1,UK | ITV 4 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24157
+#EXTINF:-1,UK | ITV 4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37505
+#EXTINF:-1,UK | Channel 4 FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24008
+#EXTINF:-1,UK | Channel 4 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24137
+#EXTINF:-1,UK | Channel 4 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37500
+#EXTINF:-1,UK | Channel 4 London SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37835
+#EXTINF:-1,UK | Channel 4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37834
+#EXTINF:-1,UK | Channel 4 Midlands SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37498
+#EXTINF:-1,UK | Channel 4 North SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37497
+#EXTINF:-1,UK | Channel 4 Scotland SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37502
+#EXTINF:-1,UK | Channel 4 South & East SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37499
+#EXTINF:-1,UK | Channel 5 FHD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/30507
+#EXTINF:-1,UK | Channel 5 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24134
+#EXTINF:-1,UK | Channel 5 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37822
+#EXTINF:-1,UK | Channel 5 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39619
+#EXTINF:-1,IR: Virgin one HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/52628
+#EXTINF:-1,IR: Virgin One SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24127
+#EXTINF:-1,IR: Virgin Two HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/52629
+#EXTINF:-1,IR: Virgin Two SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/28736
+#EXTINF:-1,IR: Virgin Three HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/52630
+#EXTINF:-1,IR: Virgin Three SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/47505
+#EXTINF:-1,IR: RTE One HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24452
+#EXTINF:-1,IR: RTE Two HD (Main)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24141
+#EXTINF:-1,IR: RTE One FHD*
+http://s1.platinumhostingtech.com:80/vincent/vincent/28732
+#EXTINF:-1,IR: RTE Two HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/28734
+#EXTINF:-1,IR: TG4 SD (Main)
+http://s1.platinumhostingtech.com:80/vincent/vincent/28737
+#EXTINF:-1,IR: RTE News Now HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/28733
+#EXTINF:-1,UK | 4 Seven HD (Main)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24135
+#EXTINF:-1,UK | 5 Star SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/30508
+#EXTINF:-1,UK | 5 STAR+1 SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37495
+#EXTINF:-1,UK | 5 USA SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24002
+#EXTINF:-1,UK | 5 USA+1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37496
+#EXTINF:-1,UK | 5 Spike SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37493
+#EXTINF:-1,UK | 5 Spike +1 SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/37494
+#EXTINF:-1,UK | 5 Select SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37492
+#EXTINF:-1,UK | Dave SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24084
+#EXTINF:-1,UK | E4 HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24009
+#EXTINF:-1,UK | E4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37815
+#EXTINF:-1,UK | E! SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24010
+#EXTINF:-1,UK | More 4 SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24109
+#EXTINF:-1,UK | More 4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37506
+#EXTINF:-1,UK | Home SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37503
+#EXTINF:-1,UK | BBC One East W
+http://s1.platinumhostingtech.com:80/vincent/vincent/39611
+#EXTINF:-1,UK | BBC One Oxford (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39612
+#EXTINF:-1,UK | BBC One South (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39614
+#EXTINF:-1,UK | BBC One South West (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39613
+#EXTINF:-1,UK | BBC One West (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39615
+#EXTINF:-1,UK | Food Netwrk +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37808
+#EXTINF:-1,UK | ITV  Anglia East (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37803
+#EXTINF:-1,UK | ITV 1 Meridian East  +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37801
+#EXTINF:-1,UK | STV HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24123
+#EXTINF:-1,UK | STV Central East SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37775
+#EXTINF:-1,UK | STV Central West SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37774
+#EXTINF:-1,UK | STV North SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37773
+#EXTINF:-1,UK | S4C HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24125
+#EXTINF:-1,UK | CBS Action SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24132
+#EXTINF:-1,UK | CBS Drama SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24133
+#EXTINF:-1,UK | CBS Reality SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24006
+#EXTINF:-1,UK | CBS Reality +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/46436
+#EXTINF:-1,UK | BBC Alba
+http://s1.platinumhostingtech.com:80/vincent/vincent/24170
+#EXTINF:-1,UK | BBC Parliament SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24179
+#EXTINF:-1,UK | BBC1 Scotland FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24180
+#EXTINF:-1,UK | London Live SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24154
+#EXTINF:-1,UK | Word Network SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39644
+#EXTINF:-1,UK | KICC TV SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39633
+#EXTINF:-1,UK | Gems TV SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39626
+#EXTINF:-1,UK | Faith World TV SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39624
+#EXTINF:-1,UK | ETV1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39622
+#EXTINF:-1,UK | BBC Red Button (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39616
+#EXTINF:-1,UK | ETV6 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39623
+#EXTINF:-1,w test
+http://s1.platinumhostingtech.com:80/vincent/vincent/60119
+#EXTINF:-1,UK | Animal Planet SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60120
+#EXTINF:-1,IR: RTE News Now
+http://s1.platinumhostingtech.com:80/vincent/vincent/24143
+
+#EXTINF:-1,UK | Sky Action FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/52940
+#EXTINF:-1,UK | Sky Action HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24197
+#EXTINF:-1,UK | Sky Comedy HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24196
+#EXTINF:-1,UK | Sky Comedy FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24461
+#EXTINF:-1,UK | Sky Crime & Thriller FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24195
+#EXTINF:-1,UK | Sky Crime & Thriller HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24460
+#EXTINF:-1,UK | Sky Disney FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24194
+#EXTINF:-1,UK | Sky Family FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24193
+#EXTINF:-1,UK | Sky Family HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24458
+#EXTINF:-1,UK | Sky Premiere FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24192
+#EXTINF:-1,UK | Sky Premiere HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24456
+#EXTINF:-1,UK | Sky Cinema Select HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24199
+#EXTINF:-1,UK | Sky Cinema Drama & Romance FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24440
+#EXTINF:-1,UK | Sky Cinema Drama & Romance HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24204
+#EXTINF:-1,UK | Sky Hits FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24457
+#EXTINF:-1,UK | Sky SCI-FI & Horror HD Main)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24455
+#EXTINF:-1,UK | Sky Cinema SciFi & Horror FHD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24200
+#EXTINF:-1,UK | Sky Modern Greats HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24198
+#EXTINF:-1,UK | True Movies (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24188
+#EXTINF:-1,UK | True Movies +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37649
+#EXTINF:-1,UK | Film 4 HD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24189
+#EXTINF:-1,UK | Film 4 +1
+http://s1.platinumhostingtech.com:80/vincent/vincent/37810
+#EXTINF:-1,UK | Sony Movies (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24187
+#EXTINF:-1,UK | Sony Movies +1
+http://s1.platinumhostingtech.com:80/vincent/vincent/39637
+#EXTINF:-1,UK | TCM HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24186
+#EXTINF:-1,UK | Movies 4 Men (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24488
+#EXTINF:-1,UK | Movies 4 Men +1 (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39648
+#EXTINF:-1,UK | Talking Pictures (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39640
+#EXTINF:-1,UK | Discovery HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24082
+#EXTINF:-1,UK | Discovery HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24465
+#EXTINF:-1,UK | Discovery Shed
+http://s1.platinumhostingtech.com:80/vincent/vincent/24080
+#EXTINF:-1,UK | Discovery History HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24081
+#EXTINF:-1,UK | Discovery Science SD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24079
+#EXTINF:-1,UK | Discovery Turbo HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24078
+#EXTINF:-1,UK | Nat Geo Wild FHD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24074
+#EXTINF:-1,UK | Nat Geo Wild HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24438
+#EXTINF:-1,UK | Nat Geo HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24450
+#EXTINF:-1,UK | Nat Geo HD. (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24075
+#EXTINF:-1,UK | Animal Planet HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24448
+#EXTINF:-1,UK | Crime Investigation HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24014
+#EXTINF:-1,UK | Crime Investigation HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24015
+#EXTINF:-1,UK | Vice
+http://s1.platinumhostingtech.com:80/vincent/vincent/40705
+#EXTINF:-1,UK | History HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24072
+#EXTINF:-1,UK | History HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24073
+#EXTINF:-1,UK | H2 HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24449
+#EXTINF:-1,UK | Travel Channel SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24067
+#EXTINF:-1,UK | Travel Channel +1 SD (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/60121
+#EXTINF:-1,UK | Al Jazeera
+http://s1.platinumhostingtech.com:80/vincent/vincent/24153
+#EXTINF:-1,UK | BBC News (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24185
+#EXTINF:-1,UK | CNBC HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24017
+#EXTINF:-1,UK | CNN HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24149
+#EXTINF:-1,UK | Euronews
+http://s1.platinumhostingtech.com:80/vincent/vincent/24144
+#EXTINF:-1,UK | Sky News HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24151
+#EXTINF:-1,UK | 92 News (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39606
+#EXTINF:-1,UK | Hum News (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/39629
+#EXTINF:-1,UK | MTV HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24439
+#EXTINF:-1,UK MTV HD.
+http://s1.platinumhostingtech.com:80/vincent/vincent/24063
+#EXTINF:-1,UK | MTV Hits HD
+http://s1.platinumhostingtech.com:80/vincent/vincent/24059
+#EXTINF:-1,UK | MTV Base
+http://s1.platinumhostingtech.com:80/vincent/vincent/24062
+#EXTINF:-1,UK | MTV Classic
+http://s1.platinumhostingtech.com:80/vincent/vincent/24061
+#EXTINF:-1,UK | Club MTV
+http://s1.platinumhostingtech.com:80/vincent/vincent/24060
+#EXTINF:-1,UK | MTV Music
+http://s1.platinumhostingtech.com:80/vincent/vincent/24058
+#EXTINF:-1,UK | MTV Rocks
+http://s1.platinumhostingtech.com:80/vincent/vincent/24057
+#EXTINF:-1,UK | 4 Music
+http://s1.platinumhostingtech.com:80/vincent/vincent/24056
+#EXTINF:-1,UK | Chart Show TV (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24054
+#EXTINF:-1,UK | Scuzz (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24052
+#EXTINF:-1,UK | The Vault (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/24097
+
+#EXTINF:-1,UK | Summer Hits (L)
+http://s1.platinumhostingtech.com:80/vincent/vincent/37648
+
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.27.219:80/live.ts?channelId=3&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.27.219:80/live.ts?channelId=4&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.27.219:80/live.ts?channelId=6&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="more4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.27.219:80/live.ts?channelId=20&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="film4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Film 4" tvg-logo="" group-title="Movie Channels",Film 4
 http://62.210.70.237:80/live.ts?channelId=413&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 In The Night Garden" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 In The Night Garden" tvg-logo="" group-title="24-7 VOD",24/7 In The Night Garden
-http://62.210.70.119:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 The Inbetweeners" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 The Inbetweeners" tvg-logo="" group-title="24-7 VOD",24/7 The Inbetweeners
-http://62.210.70.119:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Blaze And The Monster Machines" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Blaze And The Monster Machines" tvg-logo="" group-title="24-7 VOD",24/7 Blaze And The Monster Machines
-http://62.210.70.119:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Benidorm" tvg-link="" tvg-name="24/7 Benidorm" tvg-logo="" group-title="24-7 VOD",24/7 Benidorm
-http://62.210.70.119:80/live.ts?channelId=432&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS FIXTURES" tvg-link="" tvg-name="SPORTS FIXTURES" tvg-logo="" group-title="Sports Fixtures",SPORTS FIXTURES
-http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Laural And Hardy" tvg-link="" tvg-name="24/7 Laural And Hardy" tvg-logo="" group-title="24-7 VOD",24/7 Laural And Hardy
-http://62.210.27.219:80/live.ts?channelId=532&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Fox News" tvg-link="" tvg-name="Fox News" tvg-logo="" group-title="News Channels",Fox News - Fox News
-http://163.172.118.212:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:2F:F6&uid=1615
------------
-#EXTINF:-1,|UK| SKY SPORT NEWS HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23458
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23457
-#EXTINF:-1,|UK| SKY SPORT CRICKET
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23456
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23455
-#EXTINF:-1,|UK| SKY SPORT GOLF HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23454
-#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23453
-#EXTINF:-1,|UK| BT SPORT HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23452
-#EXTINF:-1,|UK| BT SPORT3FHD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23450
-#EXTINF:-1,|UK| BTSPORT ESPN HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23449
-#EXTINF:-1,|UK| EUROSPORT UK
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23444
-#EXTINF:-1,|UK| EUROSPORT2
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23443
-#EXTINF:-1,|UK| SKY_PREMIERE
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23436
-#EXTINF:-1,|UK| SKY_Action
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23434
-#EXTINF:-1,|UK| SKY_Drama
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23433
-#EXTINF:-1,|UK| SKY THRILLER
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23432
-#EXTINF:-1,|UK| SKY_SciFi&Hor
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23431
-#EXTINF:-1,|UK| SKY_Select
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23430
-#EXTINF:-1,|UK| SKY_Comedy
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23429
-#EXTINF:-1,|UK|  DISNEY CHANNEL
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23420
-#EXTINF:-1,|UK| CARTOON NET
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23410
-#EXTINF:-1,|UK| SKY ONE
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23405
-#EXTINF:-1,|UK| ITV2 HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23401
-#EXTINF:-1,|UK| ITV3 HD
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23400
-#EXTINF:-1,|UK| ITV4
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23399
-#EXTINF:-1,|UK| SKY ATLANTIC
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23388
-#EXTINF:-1,|UK| SKY LIVING
-http://185.23.213.162:8789/panel3/hrM1Dunt8B/23387
-#EXTINF:-1,|UK| EUROSPORT2
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23443
-#EXTINF:-1,|UK| MOTORS
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28358
-#EXTINF:-1,|UK| SKY_PREMIERE
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23436
-#EXTINF:-1,|UK| SKY THRILLER
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23432
-#EXTINF:-1,|UK| SKY_SciFi&Hor
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23431
-#EXTINF:-1,|UK| SKY_Select
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23430
-#EXTINF:-1,|UK| SKY_Comedy
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23429
-#EXTINF:-1,|UK|  DISNEY CHANNEL
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23420
-#EXTINF:-1,|UK| CARTOON NET
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23410
-#EXTINF:-1,|UK| SKY ONE
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23405
-#EXTINF:-1,|UK| BBC 3
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28350
-#EXTINF:-1,|UK| BBC 4
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28351
-#EXTINF:-1,|UK| CHANNEL 4
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28355
-#EXTINF:-1,|UK| RTE TWO
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28353
-#EXTINF:-1,|UK| ITV2 HD
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23401
-#EXTINF:-1,|UK| ITV3 HD
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23400
-#EXTINF:-1,|UK| ITV4
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23399
-#EXTINF:-1,|UK| GOLD
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28359
-#EXTINF:-1,|UK| WATCH
-http://siptv-online.com:8789/27647/DtB0OJy2s3/28357
-#EXTINF:-1,|UK| SKY ATLANTIC
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23388
-#EXTINF:-1,|UK| SKY LIVING
-http://siptv-online.com:8789/27647/DtB0OJy2s3/23387
-#EXTINF:-1,UK: 4Music
-http://iptvtool.es:9977/JESUS/JESUS/73784
-#EXTINF:-1,UK: 5 Usa
-http://iptvtool.es:9977/JESUS/JESUS/73849
-#EXTINF:-1,UK: 5 Usa Plus
-http://iptvtool.es:9977/JESUS/JESUS/73848
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sony Movies" tvg-logo="" group-title="Movie Channels",Sony Movies
+http://62.210.70.237:80/live.ts?channelId=414&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="tcm.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TCM" tvg-logo="" group-title="Movie Channels",TCM
+http://62.210.70.237:80/live.ts?channelId=415&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="movies4men.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Movies4men" tvg-logo="" group-title="Movie Channels",Movies4men
+http://62.210.70.237:80/live.ts?channelId=416&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="truemovies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="True Christmas" tvg-logo="" group-title="Movie Channels",True Christmas
+http://62.210.70.237:80/live.ts?channelId=417&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1,VIP: UK - 4Seven HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206211
+#EXTINF:-1,VIP: UK - Alibi FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/201189
+#EXTINF:-1,VIP: UK - ALJAZEERA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206214
+#EXTINF:-1,VIP: UK - AMC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206189
+#EXTINF:-1,VIP: UK - ANIMAL PLANET FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198514
+#EXTINF:-1,VIP: UK - BBC Earth
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198516
+#EXTINF:-1,VIP: UK - BBC Entertainment HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198515
+#EXTINF:-1,VIP: UK - BOX OFFICE 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206190
+#EXTINF:-1,VIP: UK - BOX OFFICE 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206192
+#EXTINF:-1,VIP: UK - BOX OFFICE 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206193
+#EXTINF:-1,VIP: UK - BOX OFFICE 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206194
+#EXTINF:-1,VIP: UK - BOX OFFICE 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206195
+#EXTINF:-1,VIP: UK - Challenge HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/202741
+#EXTINF:-1,VIP: UK - CHANNEL 5 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206203
+#EXTINF:-1,VIP: UK - CNN INTERNATIONAL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206204
+#EXTINF:-1,VIP: UK - CNN News
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204345
+#EXTINF:-1,VIP: UK - COMEDY CENTRAL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198500
+#EXTINF:-1,VIP: UK - Crime & Investigation FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204608
+#EXTINF:-1,VIP: UK - Discovery Channel HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204731
+#EXTINF:-1,VIP: UK - Discovery H&H
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204793
+#EXTINF:-1,VIP: UK - Discovery History
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204754
+#EXTINF:-1,VIP: UK - Discovery TURBO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/204896
+#EXTINF:-1,VIP: UK - DMAX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198501
+#EXTINF:-1,VIP: UK - E! HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198502
+#EXTINF:-1,VIP: UK - Film 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/205271
+#EXTINF:-1,VIP: UK - FOX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/205519
+#EXTINF:-1,VIP: UK - Fox News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/205550
+#EXTINF:-1,VIP: UK - GOLD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198507
+#EXTINF:-1,VIP: UK - GOOD FOOD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198505
+#EXTINF:-1,VIP: UK - HBO 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198510
+#EXTINF:-1,VIP: UK - HBO Comedy HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198509
+#EXTINF:-1,VIP: UK - HBO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198508
+#EXTINF:-1,VIP: UK - HISTORY CHANNEL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198511
+#EXTINF:-1,VIP: UK - Home
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198512
+#EXTINF:-1,VIP: UK - Investigation Disvovery FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206205
+#EXTINF:-1,VIP: UK - ITV 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198517
+#EXTINF:-1,VIP: UK - ITV 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198518
+#EXTINF:-1,VIP: UK - ITV 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198519
+#EXTINF:-1,VIP: UK - ITV 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198520
+#EXTINF:-1,VIP: UK - MOVIES 4 MEN
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198521
+#EXTINF:-1,VIP: UK - MOVIES 24
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206097
+#EXTINF:-1,VIP: UK - NAT GEO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206103
+#EXTINF:-1,VIP: UK - NAT GEO WILD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198636
+#EXTINF:-1,VIP: UK - Sky Atlantic HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206106
+#EXTINF:-1,VIP: UK - Sky Cinema Action & Adventure HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206208
+#EXTINF:-1,VIP: UK - Sky Cinema Crime & Thriller FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198524
+#EXTINF:-1,VIP: UK - Sky Cinema Drama & Romance FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198525
+#EXTINF:-1,VIP: UK - Sky Cinema Modern Greats FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198527
+#EXTINF:-1,VIP: UK - Sky Cinema Premier FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198528
+#EXTINF:-1,VIP: UK - Sky Cinema Sci-Fi&Horror FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198529
+#EXTINF:-1,VIP: UK - Sky Cinema Select FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198530
+#EXTINF:-1,VIP: UK - Sky Cinema Showcase HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198531
+#EXTINF:-1,VIP: UK - SyFy FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206209
+#EXTINF:-1,VIP: UK - TCM FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198533
+#EXTINF:-1,VIP: UK - TLC FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198532
+#EXTINF:-1,VIP: UK - VH1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206200
+#EXTINF:-1,VIP: UK - Watch HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198534
+#EXTINF:-1,VIP: UK - Yesterday HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198535
+#EXTINF:-1,###### UK VIP ######
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213539
+#EXTINF:-1,UK: At The Races
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208091
+#EXTINF:-1,UK: BE3 Ireland
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199162
+#EXTINF:-1,###### UK ######
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213538
+#EXTINF:-1,UK: 4 MUSIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74604
+#EXTINF:-1,UK: 5 SELECT HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86300
+#EXTINF:-1,UK: 5 Spike HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75683
+#EXTINF:-1,UK: 5 USA
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198346
+#EXTINF:-1,UK: 3E FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65175
+#EXTINF:-1,UK: 4Seven HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74572
 #EXTINF:-1,UK: 5Star
-http://iptvtool.es:9977/JESUS/JESUS/73869
-#EXTINF:-1,UK: Animal Planet   1
-http://iptvtool.es:9977/JESUS/JESUS/73802
-#EXTINF:-1,UK: Animal Planet HD
-http://iptvtool.es:9977/JESUS/JESUS/73803
-#EXTINF:-1,UK: Baby TV
-http://iptvtool.es:9977/JESUS/JESUS/73814
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199160
+#EXTINF:-1,UK: 92 NEWS
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/133394
+#EXTINF:-1,UK: ABC News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96992
+#EXTINF:-1,UK: ABN TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/133396
+#EXTINF:-1,UK: Alibi FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137150
+#EXTINF:-1,UK: ALJAZEERA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/131284
+#EXTINF:-1,UK: AMC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63034
+#EXTINF:-1,UK: ANIMAL PLANET FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65023
+#EXTINF:-1,UK: Baby TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65125
 #EXTINF:-1,UK: BBC 1 HD
-http://iptvtool.es:9977/JESUS/JESUS/73781
-#EXTINF:-1,UK: BBC 2 HD
-http://iptvtool.es:9977/JESUS/JESUS/73780
-#EXTINF:-1,UK: BBC 3
-http://iptvtool.es:9977/JESUS/JESUS/73779
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86279
+#EXTINF:-1,UK: BBC 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74074
+#EXTINF:-1,UK: BBC 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65184
 #EXTINF:-1,UK: BBC 4 HD
-http://iptvtool.es:9977/JESUS/JESUS/73778
-#EXTINF:-1,UK: BBC Earth HD
-http://iptvtool.es:9977/JESUS/JESUS/73777
-#EXTINF:-1,UK: BBC News
-http://iptvtool.es:9977/JESUS/JESUS/73776
-#EXTINF:-1,UK: BOX NATION
-http://iptvtool.es:9977/JESUS/JESUS/73826
-#EXTINF:-1,UK: BOX OFFICE HD 1
-http://iptvtool.es:9977/JESUS/JESUS/73884
-#EXTINF:-1,UK: BOX OFFICE HD 2
-http://iptvtool.es:9977/JESUS/JESUS/73883
-#EXTINF:-1,UK: BOX OFFICE HD 3
-http://iptvtool.es:9977/JESUS/JESUS/73882
-#EXTINF:-1,UK: BOX OFFICE HD 4
-http://iptvtool.es:9977/JESUS/JESUS/73881
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65182
+#EXTINF:-1,UK: BBC Alba HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74735
+#EXTINF:-1,UK: BBC Earth
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/143751
+#EXTINF:-1,UK: BBC Entertainment HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86281
+#EXTINF:-1,UK: BBC News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65183
+#EXTINF:-1,UK: BBC Parliament
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137160
+#EXTINF:-1,UK: BBC TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209079
+#EXTINF:-1,UK: Best Direct
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139647
+#EXTINF:-1,UK: BET HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74589
+#EXTINF:-1,UK: Bike Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99064
+#EXTINF:-1,UK: Blaze HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75740
+#EXTINF:-1,UK: Bloomberg HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74743
+#EXTINF:-1,UK: BOOMERANG FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65126
+#EXTINF:-1,UK: BOX HITS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65056
+#EXTINF:-1,UK: BOX NATION FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74518
+#EXTINF:-1,UK: Bravo HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75739
+#EXTINF:-1,UK: British Muslim
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139564
 #EXTINF:-1,UK: BT Sport 1 HD
-http://iptvtool.es:9977/JESUS/JESUS/73840
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92580
 #EXTINF:-1,UK: BT Sport 2 HD
-http://iptvtool.es:9977/JESUS/JESUS/73839
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206334
 #EXTINF:-1,UK: BT Sport 3 HD
-http://iptvtool.es:9977/JESUS/JESUS/73838
-#EXTINF:-1,UK: Cartoon network HD
-http://iptvtool.es:9977/JESUS/JESUS/73818
-#EXTINF:-1,UK: Cartoonito
-http://iptvtool.es:9977/JESUS/JESUS/73809
-#EXTINF:-1,UK: Challenge   1
-http://iptvtool.es:9977/JESUS/JESUS/73793
-#EXTINF:-1,UK: Channel 4 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73855
-#EXTINF:-1,UK: Channel 4 HD
-http://iptvtool.es:9977/JESUS/JESUS/73856
-#EXTINF:-1,UK: Channel 4 Plus
-http://iptvtool.es:9977/JESUS/JESUS/73854
-#EXTINF:-1,UK: Channel 5 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73852
-#EXTINF:-1,UK: Channel 5 HD
-http://iptvtool.es:9977/JESUS/JESUS/73853
-#EXTINF:-1,UK: Channel 5 Plus
-http://iptvtool.es:9977/JESUS/JESUS/73851
-#EXTINF:-1,UK: CHELSEA TV
-http://iptvtool.es:9977/JESUS/JESUS/73827
-#EXTINF:-1,UK: CNBC Europe
-http://iptvtool.es:9977/JESUS/JESUS/73775
-#EXTINF:-1,UK: Comedy Central HD
-http://iptvtool.es:9977/JESUS/JESUS/73887
-#EXTINF:-1,UK: Crime & Investigiation
-http://iptvtool.es:9977/JESUS/JESUS/73870
-#EXTINF:-1,UK: Dave
-http://iptvtool.es:9977/JESUS/JESUS/73847
-#EXTINF:-1,UK: Nat Geo Graphic
-http://iptvtool.es:9977/JESUS/JESUS/73800
-#EXTINF:-1,UK: Nat Geo Wild HD
-http://iptvtool.es:9977/JESUS/JESUS/73792
-#EXTINF:-1,UK: NATGEO WILD HD
-http://iptvtool.es:9977/JESUS/JESUS/73791
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/93484
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/107282
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197895
+#EXTINF:-1,UK: BT Sport Extra 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145466
+#EXTINF:-1,UK: BT Sport Extra 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/175406
+#EXTINF:-1,UK: BT Sport Extra 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99947
+#EXTINF:-1,UK: BT Sport Extra 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96511
+#EXTINF:-1,UK: BT Sport HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209470
+#EXTINF:-1,UK: C ITV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74590
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74786
+#EXTINF:-1,UK: Cartoonito HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74593
+#EXTINF:-1,UK: CBBC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74569
+#EXTINF:-1,UK: CBeebies HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94696
+#EXTINF:-1,UK: CBS Drama
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155440
+#EXTINF:-1,UK: CBS justice
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155441
+#EXTINF:-1,UK: CBS Reality
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150861
+#EXTINF:-1,UK: Celtic TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/120675
+#EXTINF:-1,UK: CGTN News
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137270
+#EXTINF:-1,UK: Challenge HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74722
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74789
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74790
+#EXTINF:-1,UK: Channel 5 Star
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/134144
+#EXTINF:-1,UK: Channel AKA
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/154650
+#EXTINF:-1,UK: CHELSEA TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65020
+#EXTINF:-1,UK: Club MTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139650
+#EXTINF:-1,UK: Clubland TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139572
+#EXTINF:-1,UK: CNBC
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104258
+#EXTINF:-1,UK: CNN INTERNATIONAL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156144
+#EXTINF:-1,UK: CNN News
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159466
+#EXTINF:-1,UK: COMEDY CENTRAL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65160
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74596
+#EXTINF:-1,UK: DAVE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92585
+#EXTINF:-1,UK: Discovery Channel HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102159
+#EXTINF:-1,UK: Discovery H&H
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159471
 #EXTINF:-1,UK: Discovery History
-http://iptvtool.es:9977/JESUS/JESUS/73801
-#EXTINF:-1,UK: Discovery History  1
-http://iptvtool.es:9977/JESUS/JESUS/73799
-#EXTINF:-1,UK: Discovery Science HD
-http://iptvtool.es:9977/JESUS/JESUS/73798
-#EXTINF:-1,UK: Discovery Shed
-http://iptvtool.es:9977/JESUS/JESUS/73797
-#EXTINF:-1,UK: Discovery Turbo
-http://iptvtool.es:9977/JESUS/JESUS/73796
-#EXTINF:-1,UK: Disney
-http://iptvtool.es:9977/JESUS/JESUS/73817
-#EXTINF:-1,UK: Disney Channel HD
-http://iptvtool.es:9977/JESUS/JESUS/73808
-#EXTINF:-1,UK: Disney Junior
-http://iptvtool.es:9977/JESUS/JESUS/73816
-#EXTINF:-1,UK: Disney XD
-http://iptvtool.es:9977/JESUS/JESUS/73815
-#EXTINF:-1,UK: Disney XD HD
-http://iptvtool.es:9977/JESUS/JESUS/73807
-#EXTINF:-1,UK: DMAX
-http://iptvtool.es:9977/JESUS/JESUS/73868
-#EXTINF:-1,UK: E!
-http://iptvtool.es:9977/JESUS/JESUS/73846
-#EXTINF:-1,UK: E4
-http://iptvtool.es:9977/JESUS/JESUS/73845
-#EXTINF:-1,UK: Eir Sports 1
-http://iptvtool.es:9977/JESUS/JESUS/73822
-#EXTINF:-1,UK: Eir Sports 2
-http://iptvtool.es:9977/JESUS/JESUS/73821
-#EXTINF:-1,UK: Euronews
-http://iptvtool.es:9977/JESUS/JESUS/73774
-#EXTINF:-1,UK: Film 4 HD
-http://iptvtool.es:9977/JESUS/JESUS/73888
-#EXTINF:-1,UK: FOX HD
-http://iptvtool.es:9977/JESUS/JESUS/73873
-#EXTINF:-1,UK: Gold
-http://iptvtool.es:9977/JESUS/JESUS/73794
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92587
+#EXTINF:-1,UK: Discovery SCIENCE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63598
+#EXTINF:-1,UK: Discovery Shed HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74794
+#EXTINF:-1,UK: Discovery TURBO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137265
+#EXTINF:-1,UK: DISNEY CHANNEL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74594
+#EXTINF:-1,UK: DISNEY JUNIOR FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65133
+#EXTINF:-1,UK: DISNEY XD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65134
+#EXTINF:-1,UK: DMAX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74573
+#EXTINF:-1,UK: Docubox HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104278
+#EXTINF:-1,UK: Drama
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74796
+#EXTINF:-1,UK: E! HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65174
+#EXTINF:-1,UK: E4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74576
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209485
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209484
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/124390
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137212
+#EXTINF:-1,UK: ESPN
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99082
+#EXTINF:-1,UK: EURONEWS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74609
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65014
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/93240
+#EXTINF:-1,UK: Fightbox HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99955
+#EXTINF:-1,UK: FILM
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/131294
+#EXTINF:-1,UK: Film 4 +1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75673
+#EXTINF:-1,UK: Film 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74759
+#EXTINF:-1,UK: Fine Living Network
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86312
+#EXTINF:-1,UK: Food Network
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75720
+#EXTINF:-1,UK: Forces TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65584
+#EXTINF:-1,UK: FOX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137173
+#EXTINF:-1,UK: Fox News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74608
+#EXTINF:-1,UK: FRANCE 24
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209491
+#EXTINF:-1,UK: Free Sports TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/108660
+#EXTINF:-1,UK: Front Runner
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104501
+#EXTINF:-1,UK: Global HITS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65054
+#EXTINF:-1,UK: GOLD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63548
+#EXTINF:-1,UK: GOOD FOOD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65040
+#EXTINF:-1,UK: h&h
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213345
 #EXTINF:-1,UK: H2 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73804
-#EXTINF:-1,UK: HBO 2
-http://iptvtool.es:9977/JESUS/JESUS/73877
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74597
+#EXTINF:-1,UK: HBO 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65138
+#EXTINF:-1,UK: HBO 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/212642
+#EXTINF:-1,UK: HBO Comedy HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65139
 #EXTINF:-1,UK: HBO HD
-http://iptvtool.es:9977/JESUS/JESUS/73878
-#EXTINF:-1,UK: History HD
-http://iptvtool.es:9977/JESUS/JESUS/73790
-#EXTINF:-1,UK: Home & Health
-http://iptvtool.es:9977/JESUS/JESUS/73789
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91383
+#EXTINF:-1,UK: Heart TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65060
+#EXTINF:-1,UK: High street TV 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139663
+#EXTINF:-1,UK: High Street TV 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139664
+#EXTINF:-1,UK: High street TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65046
+#EXTINF:-1,UK: Hillsong
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139665
+#EXTINF:-1,UK: HISPAN TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139658
+#EXTINF:-1,UK: HISTORY CHANNEL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74802
+#EXTINF:-1,UK: Home
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75717
+#EXTINF:-1,UK: Home&Health
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65031
+#EXTINF:-1,UK: HORROR CHANNEL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/153919
+#EXTINF:-1,UK: Horse Country
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208308
+#EXTINF:-1,UK: HUM Europe
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209487
+#EXTINF:-1,UK: HUM Masala
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209486
+#EXTINF:-1,UK: Hunting Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65104
+#EXTINF:-1,UK: Ideal Extra
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139667
+#EXTINF:-1,UK: Ideal World
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139668
 #EXTINF:-1,UK: Investigation Discovery
-http://iptvtool.es:9977/JESUS/JESUS/73795
-#EXTINF:-1,UK: ITV 2 Plus
-http://iptvtool.es:9977/JESUS/JESUS/73865
-#EXTINF:-1,UK: ITV 3   HD
-http://iptvtool.es:9977/JESUS/JESUS/73864
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208307
+#EXTINF:-1,UK: Investigation Disvovery FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65102
+#EXTINF:-1,UK: IR RTE ONE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209483
+#EXTINF:-1,UK: IR TG4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209482
+#EXTINF:-1,UK: Irish TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99095
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/105062
+#EXTINF:-1,UK: ITV 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92590
+#EXTINF:-1,UK: ITV 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92591
+#EXTINF:-1,UK: ITV 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92592
 #EXTINF:-1,UK: ITV 4 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73863
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92593
 #EXTINF:-1,UK: ITV Be
-http://iptvtool.es:9977/JESUS/JESUS/73859
-#EXTINF:-1,UK: ITV Be  1
-http://iptvtool.es:9977/JESUS/JESUS/73858
-#EXTINF:-1,UK: ITV1 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73867
-#EXTINF:-1,UK: ITV2 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73866
-#EXTINF:-1,UK: Life time
-http://iptvtool.es:9977/JESUS/JESUS/73874
-#EXTINF:-1,UK: Manchester United TV
-http://iptvtool.es:9977/JESUS/JESUS/73828
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199172
+#EXTINF:-1,UK: ITV Encore
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137182
+#EXTINF:-1,UK: Kerrang
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65051
+#EXTINF:-1,UK: KISS
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65058
+#EXTINF:-1,UK: LFC TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209476
+#EXTINF:-1,UK: Lifetime HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65161
+#EXTINF:-1,UK: Little be HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65036
+#EXTINF:-1,UK: Liverpool FC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/64983
+#EXTINF:-1,UK: Living
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98217
+#EXTINF:-1,UK: London Live
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139594
+#EXTINF:-1,UK: Madani Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139595
+#EXTINF:-1,UK: Magic TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65050
 #EXTINF:-1,UK: More 4 HD
-http://iptvtool.es:9977/JESUS/JESUS/73844
-#EXTINF:-1,UK: MTV Base
-http://iptvtool.es:9977/JESUS/JESUS/73785
-#EXTINF:-1,UK: MTV HD
-http://iptvtool.es:9977/JESUS/JESUS/73786
-#EXTINF:-1,UK: MTV LIVE HD
-http://iptvtool.es:9977/JESUS/JESUS/73770
-#EXTINF:-1,UK: Nick Jr  1
-http://iptvtool.es:9977/JESUS/JESUS/73813
-#EXTINF:-1,UK: Nick Jr Too
-http://iptvtool.es:9977/JESUS/JESUS/73812
-#EXTINF:-1,UK: Nick@niteHD
-http://iptvtool.es:9977/JESUS/JESUS/73810
-#EXTINF:-1,UK: Nickelodeon FHD
-http://iptvtool.es:9977/JESUS/JESUS/73811
-#EXTINF:-1,UK: Racing UK FHD
-http://iptvtool.es:9977/JESUS/JESUS/73824
-#EXTINF:-1,UK: Racing UK HD
-http://iptvtool.es:9977/JESUS/JESUS/73823
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150870
+#EXTINF:-1,UK: MotorSport HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74600
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65124
+#EXTINF:-1,UK: MOVIES 24
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139597
+#EXTINF:-1,UK: MTV Base HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65090
+#EXTINF:-1,UK: MTV Classic HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/154182
+#EXTINF:-1,UK: MTV Dance HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/100942
+#EXTINF:-1,UK: MTV FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99105
+#EXTINF:-1,UK: MTV Hits
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104291
+#EXTINF:-1,UK: MTV Music HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65095
+#EXTINF:-1,UK: MTV ONE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159496
+#EXTINF:-1,UK: MTV Rocks HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65099
+#EXTINF:-1,UK: MUTV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/64982
+#EXTINF:-1,UK: My 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74575
+#EXTINF:-1,UK: My TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139681
+#EXTINF:-1,UK: PBS America
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75613
+#EXTINF:-1,UK: Pick TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91965
+#EXTINF:-1,UK: POP
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75569
+#EXTINF:-1,UK: Pop Max
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74706
+#EXTINF:-1,UK: Premiere Sports
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91964
+#EXTINF:-1,UK: QUEST
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/93803
+#EXTINF:-1,UK: QUEST RED
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74721
+#EXTINF:-1,UK: QVC Beauty HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74950
+#EXTINF:-1,UK: QVC Style
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86329
+#EXTINF:-1,UK: Racing HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209466
+#EXTINF:-1,UK: RACING UK FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65019
+#EXTINF:-1,UK: REAL LIVES
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74582
+#EXTINF:-1,UK: Really
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65037
+#EXTINF:-1,UK: Revelation
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139690
+#EXTINF:-1,UK: RISHTEY EUROPE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209465
+#EXTINF:-1,UK: ROK TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102185
+#EXTINF:-1,UK: RT News
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213338
+#EXTINF:-1,UK: RTE 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65177
+#EXTINF:-1,UK: RTE 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65178
 #EXTINF:-1,UK: RTE Junior
-http://iptvtool.es:9977/JESUS/JESUS/73806
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65176
 #EXTINF:-1,UK: RTE NEWS
-http://iptvtool.es:9977/JESUS/JESUS/73772
-#EXTINF:-1,UK: RTE News Now
-http://iptvtool.es:9977/JESUS/JESUS/73773
-#EXTINF:-1,UK: RTE One HD
-http://iptvtool.es:9977/JESUS/JESUS/73861
-#EXTINF:-1,UK: RTE Two HD
-http://iptvtool.es:9977/JESUS/JESUS/73860
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65179
+#EXTINF:-1,UK: Russia Today News
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65101
+#EXTINF:-1,UK: S4C HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74723
+#EXTINF:-1,UK: SAB TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102186
+#EXTINF:-1,UK: Setanta +Sports
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74761
+#EXTINF:-1,UK: Sky 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74564
+#EXTINF:-1,UK: Sky 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99603
+#EXTINF:-1,UK: SKY ARTS 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65113
 #EXTINF:-1,UK: Sky Arts HD
-http://iptvtool.es:9977/JESUS/JESUS/73862
-#EXTINF:-1,UK: SKY Atlantic HD
-http://iptvtool.es:9977/JESUS/JESUS/73879
-#EXTINF:-1,UK: Sky Box Nation (PPV Events Only)
-http://iptvtool.es:9977/JESUS/JESUS/73825
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://iptvtool.es:9977/JESUS/JESUS/73903
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://iptvtool.es:9977/JESUS/JESUS/73902
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://iptvtool.es:9977/JESUS/JESUS/73901
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://iptvtool.es:9977/JESUS/JESUS/73900
-#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
-http://iptvtool.es:9977/JESUS/JESUS/73899
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://iptvtool.es:9977/JESUS/JESUS/73898
-#EXTINF:-1,UK: Sky Cinema Hits
-http://iptvtool.es:9977/JESUS/JESUS/73895
-#EXTINF:-1,UK: Sky Cinema Premier HD
-http://iptvtool.es:9977/JESUS/JESUS/73897
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://iptvtool.es:9977/JESUS/JESUS/73896
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://iptvtool.es:9977/JESUS/JESUS/73894
-#EXTINF:-1,UK: Sky Living FHD
-http://iptvtool.es:9977/JESUS/JESUS/73893
-#EXTINF:-1,UK: Sky Movies Select HD
-http://iptvtool.es:9977/JESUS/JESUS/73892
-#EXTINF:-1,UK: SKY NEWS HD
-http://iptvtool.es:9977/JESUS/JESUS/73783
-#EXTINF:-1,UK: SKY One
-http://iptvtool.es:9977/JESUS/JESUS/73876
-#EXTINF:-1,UK: Sky Sport Action HD
-http://iptvtool.es:9977/JESUS/JESUS/73837
-#EXTINF:-1,UK: Sky Sport Arena HD
-http://iptvtool.es:9977/JESUS/JESUS/73833
-#EXTINF:-1,UK: Sky Sport F1 FHD
-http://iptvtool.es:9977/JESUS/JESUS/73832
-#EXTINF:-1,UK: Sky Sport Football HD
-http://iptvtool.es:9977/JESUS/JESUS/73829
-#EXTINF:-1,UK: SKY SPORT MIX
-http://iptvtool.es:9977/JESUS/JESUS/73831
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD
-http://iptvtool.es:9977/JESUS/JESUS/73836
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://iptvtool.es:9977/JESUS/JESUS/73841
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
-http://iptvtool.es:9977/JESUS/JESUS/73835
-#EXTINF:-1,UK: True Movies 1
-http://iptvtool.es:9977/JESUS/JESUS/73890
-#EXTINF:-1,UK: VIVA
-http://iptvtool.es:9977/JESUS/JESUS/73787
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/134176
+#EXTINF:-1,UK: Sky Atlantic HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/175822
+#EXTINF:-1,UK: Sky Box Office
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206500
+#EXTINF:-1,UK: SKY CIENMA ACTION HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209453
+#EXTINF:-1,UK: SKY CIENMA COMEDY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209452
+#EXTINF:-1,UK: SKY CIENMA Family HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209450
+#EXTINF:-1,UK: SKY CIENMA Greats HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209449
+#EXTINF:-1,UK: SKY CIENMA HITS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209448
+#EXTINF:-1,UK: SKY CIENMA PREMIER HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209447
+#EXTINF:-1,UK: SKY CIENMA SELECT HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209446
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88315
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65144
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65146
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213352
+#EXTINF:-1,UK: Sky Cinema Modern Greats FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65142
+#EXTINF:-1,UK: Sky Cinema Premier FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74535
+#EXTINF:-1,UK: Sky Cinema Sci-Fi&Horror FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74545
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65140
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65151
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198397
+#EXTINF:-1,UK: SKY LIVING FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/126445
+#EXTINF:-1,UK: Sky News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65042
+#EXTINF:-1,UK: Sky One
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92607
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198820
+#EXTINF:-1,UK: Sky Sports ACTION HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/92609
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74495
+#EXTINF:-1,UK: Sky Sports Box Office
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/133301
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/131501
+#EXTINF:-1,UK: Sky Sports Football HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88302
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74770
+#EXTINF:-1,UK: Sky Sports HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/212975
+#EXTINF:-1,UK: Sky Sports MAIN EVENT HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/109959
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98196
+#EXTINF:-1,UK: Sky Sports News HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74481
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137225
+#EXTINF:-1,UK: Sky Sports The Open HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211691
+#EXTINF:-1,UK: SKY THRILLER HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/212959
+#EXTINF:-1,UK: Sky Two
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137146
+#EXTINF:-1,UK: SONY Max
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209462
+#EXTINF:-1,UK: Sony Movies
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65106
+#EXTINF:-1,UK: Sony SAB
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208278
+#EXTINF:-1,UK: Sony SET MAX
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208277
+#EXTINF:-1,UK: Sony TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208276
+#EXTINF:-1,UK: SPIKE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74588
+#EXTINF:-1,UK: STAR BHARAT
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91458
+#EXTINF:-1,UK: STAR GOLD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159520
+#EXTINF:-1,UK: STAR PLUS
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209461
+#EXTINF:-1,UK: Starz TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65048
+#EXTINF:-1,UK: STV FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98263
+#EXTINF:-1,UK: SyFy FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65165
+#EXTINF:-1,UK: TBN UK
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/75692
+#EXTINF:-1,UK: TCM FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65162
+#EXTINF:-1,UK: TG4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/153972
+#EXTINF:-1,UK: The Box
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65057
+#EXTINF:-1,UK: The Vault
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65052
+#EXTINF:-1,UK: Tiny POP
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74591
+#EXTINF:-1,UK: TLC FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137193
+#EXTINF:-1,UK: Travel Channel
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65045
+#EXTINF:-1,UK: TRUE CRIME
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209112
+#EXTINF:-1,UK: True Movies 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/66026
+#EXTINF:-1,UK: True Movies 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102209
+#EXTINF:-1,UK: TV One
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139699
+#EXTINF:-1,UK: TV3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/99917
+#EXTINF:-1,UK: TV5 Monde
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139701
+#EXTINF:-1,UK: Universal Channel HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74574
+#EXTINF:-1,UK: UTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208271
+#EXTINF:-1,UK: VENUS TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137249
+#EXTINF:-1,UK: VH1 1 Classic
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65061
+#EXTINF:-1,UK: VH1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65097
+#EXTINF:-1,UK: Viceland HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/104929
+#EXTINF:-1,UK: Vintage TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/137278
+#EXTINF:-1,UK: VIVA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/147221
+#EXTINF:-1,UK: Watch HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65168
+#EXTINF:-1,UK: WWE Raw Network HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/93245
+#EXTINF:-1,UK: Yesterday HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63391
+#EXTINF:-1,UK: ZEE CINEMA
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208268
+----------
+#EXTINF:-1,###### -- |UK| UNITED KINGDOM |UK| -- ######
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/22497
+#EXTINF:-1,|UK  | ***** UK MOVIES *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31408
+#EXTINF:-1,|UK  | 5Star
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31030
+#EXTINF:-1,|UK  | 5USA
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31023
+#EXTINF:-1,|UK  | Sky Cinema Action HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30986
+#EXTINF:-1,|UK  | Sky Cinema Comedy HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30985
+#EXTINF:-1,|UK  | Sky Cinema Crime & Thriller HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30984
+#EXTINF:-1,|UK  | Sky Cinema Disney HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30983
+#EXTINF:-1,|UK  | Sky Cinema Drama & Romance HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30982
+#EXTINF:-1,|UK  | Sky Cinema Family HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30981
+#EXTINF:-1,|UK  | Sky Cinema Hits
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30872
+#EXTINF:-1,|UK  | Sky Cinema Premier HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30980
+#EXTINF:-1,|UK  | Sky Cinema Sci-Fi & Horror HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30979
+#EXTINF:-1,|UK  | Sky Cinema Select HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30978
+#EXTINF:-1,|UK  | Sky Movie Sci-Fi
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30931
+#EXTINF:-1,|UK  | Sky Movies Action
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30932
+#EXTINF:-1,|UK  | Sky Movies Comedy
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30933
+#EXTINF:-1,|UK  | Sky Movies Disney
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30934
+#EXTINF:-1,|UK  | Sky Movies Drama
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30964
+#EXTINF:-1,|UK  | Sky Movies Family
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30935
+#EXTINF:-1,|UK  | Sky Movies Greats
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30936
+#EXTINF:-1,|UK  | Sky Movies Modern
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31104
+#EXTINF:-1,|UK  | Sky Movies Premiere
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30937
+#EXTINF:-1,|UK  | Sky Movies Select HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31083
+#EXTINF:-1,|UK  | Sky Movies Showcase
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30938
+#EXTINF:-1,|UK  | Sky Movies Thriller
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30939
+#EXTINF:-1,|UK  | Syfy
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30946
+#EXTINF:-1,|UK  | Syfy   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31092
+#EXTINF:-1,|UK  | Starz TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30852
+#EXTINF:-1,|UK  | Film 4
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30922
+#EXTINF:-1,|UK  | Sony Chnl   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31091
+#EXTINF:-1,|UK  | Sony Movie
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31007
+#EXTINF:-1,|UK  | SkySpBoxOff (PPV Events Only)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31090
+#EXTINF:-1,|UK  | True Movies 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31106
+#EXTINF:-1,|UK  | True Movies 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31097
+#EXTINF:-1,|UK  | Movies 4 Men
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31010
+#EXTINF:-1,|UK  | Real Lives
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31008
+#EXTINF:-1,|UK  | Home & Health
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30925
+#EXTINF:-1,|UK  | Home&Health   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31063
+#EXTINF:-1,|UK  | BOX OFFICE HD 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30869
+#EXTINF:-1,|UK  | BOX OFFICE HD 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30868
+#EXTINF:-1,|UK  | BOX OFFICE HD 3
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30867
+#EXTINF:-1,|UK  | BOX OFFICE HD 4
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30866
+#EXTINF:-1,|UK  | ***** UK KIDS *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31407
+#EXTINF:-1,|UK  | Disney
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30916
+#EXTINF:-1,|UK  | Disney Channel   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31051
+#EXTINF:-1,|UK  | Disney Junior
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30917
+#EXTINF:-1,|UK  | Disney XD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30918
+#EXTINF:-1,|UK  | Disney XD   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31052
+#EXTINF:-1,|UK  | Nick Jr
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30929
+#EXTINF:-1,|UK  | Nick Jr  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31074
+#EXTINF:-1,|UK  | Nick Jr Too
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31073
+#EXTINF:-1,|UK  | Nickelodeon
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31075
+#EXTINF:-1,|UK  | Nickelodeon   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31076
+#EXTINF:-1,|UK  | Nicktoons
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30930
+#EXTINF:-1,|UK  | Baby TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30897
+#EXTINF:-1,|UK  | Boomerang
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30902
+#EXTINF:-1,|UK  | Tiny POP
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30947
+#EXTINF:-1,|UK  | Tiny Pop   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31093
+#EXTINF:-1,|UK  | Cartoon Network
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31045
+#EXTINF:-1,|UK  | Cartoonito
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30987
+#EXTINF:-1,|UK  | ***** UK CULTURE *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31405
+#EXTINF:-1,|UK d| ANIMAL PLANET
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40940
+#EXTINF:-1,|UK d| CRIME & INVESTIGATION
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40942
+#EXTINF:-1,|UK d| DISCOVERY CHANNEL HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40950
+#EXTINF:-1,|UK d| DISCOVERY HISTORY
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40947
+#EXTINF:-1,|UK d| DISCOVERY SCIENCE HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40949
+#EXTINF:-1,|UK d| DISCOVERY SHED
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40948
+#EXTINF:-1,|UK d| DISCOVERY TURBO
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40945
+#EXTINF:-1,|UK d| DISCOVERY TURBO HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40946
+#EXTINF:-1,|UK d| FOOD NETWORK
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40936
+#EXTINF:-1,|UK d| GOOD FOOD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40937
+#EXTINF:-1,|UK d| H2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40939
+#EXTINF:-1,|UK d| HOME & HEATH
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40944
+#EXTINF:-1,|UK d| I.D
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40943
+#EXTINF:-1,|UK d| NAT GEO WILD HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40951
+#EXTINF:-1,|UK d| NATIONAL GEO CHANNEL HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40952
+#EXTINF:-1,|UK d| SKY ARTS
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40938
+#EXTINF:-1,|UK d| TLC HD |720P|
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40941
+#EXTINF:-1,|UK d| TRAVEL CHANNEL
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40935
+#EXTINF:-1,|UK  | Nat Geo Graphic
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30961
+#EXTINF:-1,|UK  | Nat Geo Wild
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31072
+#EXTINF:-1,|UK  | NATGEO WILD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30970
+#EXTINF:-1,|UK  | National Geographic
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30972
+#EXTINF:-1,|UK  | Animal Planet
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30949
+#EXTINF:-1,|UK  | Animal Planet   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31032
+#EXTINF:-1,|UK  | DISCOVERY
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30911
+#EXTINF:-1,|UK  | Discovery History
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30912
+#EXTINF:-1,|UK  | Discovery History  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31049
+#EXTINF:-1,|UK  | Discovery Science
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30913
+#EXTINF:-1,|UK  | Discovery Science  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31050
+#EXTINF:-1,|UK  | Discovery Shed
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30914
+#EXTINF:-1,|UK  | Discovery Turbo
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30915
+#EXTINF:-1,|UK  | DMax
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30919
+#EXTINF:-1,|UK  | ID
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31028
+#EXTINF:-1,|UK  | ID   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31064
+#EXTINF:-1,|UK  | Travel Channel
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31096
+#EXTINF:-1,|UK  | History
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30976
+#EXTINF:-1,|UK  | History  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31062
+#EXTINF:-1,|UK  | ***** UK NEWS *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31404
+#EXTINF:-1,|UK  | BBC News HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30856
+#EXTINF:-1,|UK  | BBC Parliament
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31020
+#EXTINF:-1,|UK  | BBC World News
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31101
+#EXTINF:-1,|UK  | FOX
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30955
+#EXTINF:-1,|UK  | HBO 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31102
+#EXTINF:-1,VIP |UK  | HBO HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31003
+#EXTINF:-1,|UK  | HBO 2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31103
+#EXTINF:-1,|UK  | RT NEW
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30855
+#EXTINF:-1,|UK  | RTE News Now
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30874
+#EXTINF:-1,|UK  | SKY NEWS HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31004
+#EXTINF:-1,|UK  | Sky Sport News
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30944
+#EXTINF:-1,VIP |UK  | SKY NEWS 1080P HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30988
+#EXTINF:-1,VIP |UK  | Sky Sports News HD 1080p
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30993
+#EXTINF:-1,|UK  | ***** UK MUSIC *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31410
+#EXTINF:-1,|UK  | 4Music
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30859
+#EXTINF:-1,|UK  | MTV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30975
+#EXTINF:-1,|UK  | MTV   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31070
+#EXTINF:-1,|UK  | MTV Base HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30860
+#EXTINF:-1,|UK  | MTV Music
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31108
+#EXTINF:-1,|UK  | MTV Rocks
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31109
+#EXTINF:-1,|UK  | MUTV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31071
+#EXTINF:-1,|UK  | MUTV Backup
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30892
+#EXTINF:-1,|UK  | MUTV FHD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30882
+#EXTINF:-1,|UK  | VH1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31099
+#EXTINF:-1,|UK | VH1 Classic
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31787
+#EXTINF:-1,|UK  | VIVA
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30969
+#EXTINF:-1,VIP |UK  | MTV LIVE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31002
+#EXTINF:-1,AFRO-BEATS (sierra leone)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/32823
+#EXTINF:-1,AFRO-BEATS (ugandan)
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/32822
+#EXTINF:-1,AFRO-BEATS- updated weekly
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/32825
+#EXTINF:-1,AFROBEATS- updates weekly
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/32824
+#EXTINF:-1,|UK  | ***** UK ENTERTAINMENT *****
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31406
+#EXTINF:-1,|UK  |  Good Food
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30924
+#EXTINF:-1,|UK  | 3e
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31029
+#EXTINF:-1,|UK  | 4Seven
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31100
+#EXTINF:-1,|UK  | Alibi
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31031
+#EXTINF:-1,|UK  | Amc
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30864
+#EXTINF:-1,|UK  | BBC ALBA
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31021
+#EXTINF:-1,|UK  | BBC EARTH HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31107
+#EXTINF:-1,|UK  | BBC ONE HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30898
+#EXTINF:-1,|UK  | BBC ONE SD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30870
+#EXTINF:-1,|UK  | BBC TWO HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31034
+#EXTINF:-1,|UK  | BBC Three HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30899
+#EXTINF:-1,|UK  | BBC 3 FHD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30884
+#EXTINF:-1,|UK  | BBC4 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31035
+#EXTINF:-1,|UK  | BET
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31019
+#EXTINF:-1,|UK  | Capital TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30889
+#EXTINF:-1,|UK  | CBBC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30900
+#EXTINF:-1,|UK  | Cbeebies
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30977
+#EXTINF:-1,|UK  | CBS Action
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30908
+#EXTINF:-1,|UK  | CBS Drama
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30909
+#EXTINF:-1,|UK  | CBS reality
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30910
+#EXTINF:-1,|UK  | Challenge   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31046
+#EXTINF:-1,|UK  | Channel 4
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31018
+#EXTINF:-1,|UK  | Channel 4 HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31017
+#EXTINF:-1,|UK  | CHANNEL 5
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31016
+#EXTINF:-1,|UK  | Dave
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30953
+#EXTINF:-1,|UK  | Drama
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30920
+#EXTINF:-1,|UK  | Good Food
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31061
+#EXTINF:-1,|UK  | H2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30971
+#EXTINF:-1,|UK  | Investigation Discovery
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31013
+#EXTINF:-1,|UK  | Irish Tv
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30926
+#EXTINF:-1,|UK  | ITV1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31065
+#EXTINF:-1,|UK  | ITV  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30879
+#EXTINF:-1,VIP |UK  | ITV1 FHD 1080
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30991
+#EXTINF:-1,|UK  | ITV2
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31066
+#EXTINF:-1,|UK  | ITV2  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30878
+#EXTINF:-1,|UK  | ITV3
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31067
+#EXTINF:-1,|UK  | ITV3   1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30877
+#EXTINF:-1,|UK  | ITV4
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31068
+#EXTINF:-1,|UK  | ITV4  1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30876
+#EXTINF:-1,|UK  | LFC TV
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31069
+#EXTINF:-1,|UK  | LFC TV HD
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30883
+#EXTINF:-1,|UK  | TLC
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31094
+#EXTINF:-1,|UK  | VICELAND
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/31006
+#EXTINF:-1,VIP |UK  | BBC 1 HD ( 1080P )
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/30992
+#EXTINF:-1,|UK 1|BBC 1
+http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/40873
