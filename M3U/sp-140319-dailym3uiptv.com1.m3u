@@ -1,7 +1,6 @@
 #EXTM3U
 SPORTS M3U PLAYLIST 10/05/2019 
 #EXTINF:-1,###### SPORTS VIP ######
-#EXTM3U
 #EXTINF:-1,===BUNDESLIGA - SUPER RUGBY===
 http://primestreams.tv:826/jamesfamily/jamesfamily/79901
 #EXTINF:-1,FOX MATCH PASS 1 (Match Time Only)
@@ -335,7 +334,8 @@ http://primestreams.tv:826/jamesfamily/jamesfamily/89201
 #EXTINF:-1,Bee N Sport 11 HD
 http://primestreams.tv:826/jamesfamily/jamesfamily/89200
 #EXTINF:-1,Bee n Sport 12 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89199#EXTINF:-1,DE: S3y Sp0rt 1 HD
+http://primestreams.tv:826/jamesfamily/jamesfamily/89199
+#EXTINF:-1,DE: S3y Sp0rt 1 HD
 http://primestreams.tv:826/jamesfamily/jamesfamily/91244
 #EXTINF:-1,DE: S3y Sp0rt 1 HD (1080P)
 http://primestreams.tv:826/jamesfamily/jamesfamily/91243
