@@ -1,255 +1,791 @@
 #EXTM3U
-#EXTINF:-1,|USA| ABC
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24147
-#EXTINF:-1,|USA| CBS HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24144
-#EXTINF:-1,|USA| USA Network
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24143
-#EXTINF:-1,|USA|******NEWS******|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24142
-#EXTINF:-1,|USA| CNN HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24141
-#EXTINF:-1,|USA| Fox News HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24140
-#EXTINF:-1,|USA| MSNBC FHD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24139
-#EXTINF:-1,|USA| ABC NEWS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24138
-#EXTINF:-1,|USA| CNBC
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24137
-#EXTINF:-1,|USA| FOX BUSINESS FHD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24136
-#EXTINF:-1,|USA| BLOOMBERG TV
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24135
-#EXTINF:-1,|USA| ABC 7
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24134
-#EXTINF:-1,|USA| beINSPORT N
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24108
-#EXTINF:-1,|USA| ESPN 3
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24103
-#EXTINF:-1,|USA| The Weather Channel
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24133
-#EXTINF:-1,|USA|******MOVIES******|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24132
-#EXTINF:-1,|USA| SHOWTIME SHOWCASE
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24120
-#EXTINF:-1,|USA| Starz Cinema HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24118
-#EXTINF:-1,|USA| STARZ
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24119
-#EXTINF:-1,|USA| FX TV HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24125
-#EXTINF:-1,|USA| MoreMax HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24116
-#EXTINF:-1,|USA| Lifetime Movies HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24117
-#EXTINF:-1,|USA| 5 Star Max
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24114
-#EXTINF:-1,|USA| ACTIONMAX HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24115
-#EXTINF:-1,|USA| AMC HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24122
-#EXTINF:-1,|USA| Cinemax East HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24113
-#EXTINF:-1,|USA| CINEMAX HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24112
-#EXTINF:-1,|USA| EL REY  HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24111
-#EXTINF:-1,|USA| TNT HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24123
-#EXTINF:-1,|USA| HBO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24131
-#EXTINF:-1,|USA| HBO COMEDY HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24130
-#EXTINF:-1,|USA| HBO FAMILY HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24129
-#EXTINF:-1,|USA| STARZ CINEMA
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24128
-#EXTINF:-1,|USA| HBO SIGNATURE HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24127
-#EXTINF:-1,|USA| HBO ZONE
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24126
-#EXTINF:-1,|USA| HALLMARK HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24124
-#EXTINF:-1,|USA|******SPORTS******|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24110
-#EXTINF:-1,|USA| beINSPORT US
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24109
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24107
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24106
-#EXTINF:-1,|USA| ESPN
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24105
-#EXTINF:-1,|USA| ESPN 2HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24104
-#EXTINF:-1,|USA| ESPN Deportes
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24102
-#EXTINF:-1,|USA| ESPNEWS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24100
-#EXTINF:-1,|USA| ESPN U HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24101
-#EXTINF:-1,|USA| BTN
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24099
-#EXTINF:-1,|USA| CBS SPORTS NET
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24098
-#EXTINF:-1,|USA| NBC SPORTS Net HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24097
-#EXTINF:-1,|USA| NBC GOLF
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24096
-#EXTINF:-1,|USA| Tennis Channel HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24095
-#EXTINF:-1,|USA| FOX DEPORTES
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24094
-#EXTINF:-1,|USA| WWE HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24093
-#EXTINF:-1,|USA| MLB HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24092
-#EXTINF:-1,|USA| NBA
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24091
-#EXTINF:-1,|USA| NBA 1  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24090
-#EXTINF:-1,|USA| NBA 2  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24089
-#EXTINF:-1,|USA| NBA 3  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24088
-#EXTINF:-1,|USA| NBA 4  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24087
-#EXTINF:-1,|USA| NBA 5  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24086
-#EXTINF:-1,|USA| NBA 6  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24085
-#EXTINF:-1,|USA| NBA 7 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24084
-#EXTINF:-1,|USA| NBA 8 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24083
-#EXTINF:-1,|USA| NBA 9 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24082
-#EXTINF:-1,|USA| NBA 10 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24081
-#EXTINF:-1,|USA| NBA 11
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24080
-#EXTINF:-1,|USA| NHL HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24079
-#EXTINF:-1,|USA| NHL 1 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24078
-#EXTINF:-1,|USA| NHL 2 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24077
-#EXTINF:-1,|USA| NHL 3 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24076
-#EXTINF:-1,|USA| NHL 4 MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24075
-#EXTINF:-1,|USA| NHL 5  MATCH EVENT
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24074
-#EXTINF:-1,|USA| NHL 6
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24073
-#EXTINF:-1,|USA| NHL 7
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24072
-#EXTINF:-1,|USA| NHL 8
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24071
-#EXTINF:-1,|USA| NHL 9
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24070
-#EXTINF:-1,|USA| NHL 10
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24069
-#EXTINF:-1,|USA| NHL 11
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24068
-#EXTINF:-1,|USA| NFL NETWORK HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24067
-#EXTINF:-1,|USA| NFL 705
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24066
-#EXTINF:-1,|USA| NFL 706
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24065
-#EXTINF:-1,|USA| NFL 707
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24064
-#EXTINF:-1,|USA| NFL 708
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24063
-#EXTINF:-1,|USA| NFL 709
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24062
-#EXTINF:-1,|USA| NFL 710
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24061
-#EXTINF:-1,|USA| NFL 711
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24060
-#EXTINF:-1,|USA| NFL 712
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24059
-#EXTINF:-1,|USA| NFL 713
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24058
-#EXTINF:-1,|USA| NFL 714
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24057
-#EXTINF:-1,|USA| NFL 715
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24056
-#EXTINF:-1,|USA| NFL 716
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24055
-#EXTINF:-1,|USA| NFL 717
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24054
-#EXTINF:-1,|USA|*****ENTRETAINMENT****|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24992
-#EXTINF:-1,|USA| BRAVO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24052
-#EXTINF:-1,|USA| A&E
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24051
-#EXTINF:-1,|USA| COMEDY CENTRAL HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24050
-#EXTINF:-1,|USA| HGTV
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24049
-#EXTINF:-1,|USA| E!
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24048
-#EXTINF:-1,|USA| Fox HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24047
-#EXTINF:-1,|USA| FXX
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24046
-#EXTINF:-1,|USA| GSN FHD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24045
-#EXTINF:-1,|USA| SPIKE TV HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24044
-#EXTINF:-1,|USA| Syfy HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24043
-#EXTINF:-1,|USA| TLC HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24042
-#EXTINF:-1,|USA| Viceland
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24041
-#EXTINF:-1,|USA| DIY Network
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24040
-#EXTINF:-1,|USA| FREEFROM
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24039
-#EXTINF:-1,|USA| TBS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24038
-#EXTINF:-1,|USA| SBTN
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24037
-#EXTINF:-1,|USA|*****LIFESTYLE*****|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24036
-#EXTINF:-1,|USA| ANIMAL PLANET HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24035
-#EXTINF:-1,|USA| NAT GEO WILD HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24034
-#EXTINF:-1,|USA| NAT GEO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24033
-#EXTINF:-1,|USA| DISCOVERY  HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24032
-#EXTINF:-1,|USA| DISCOVERY SC HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24031
-#EXTINF:-1,|USA| DISCOVERY ID HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24030
-#EXTINF:-1,|USA| HISTORY HD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24029
-#EXTINF:-1,|USA| H2
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24028
-#EXTINF:-1,|USA| Travel Channel
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24027
-#EXTINF:-1,|USA| FOOD NETWORK
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24026
-#EXTINF:-1,|USA|*****KIDS AND FAMILY*****|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24025
-#EXTINF:-1,|USA| Cartoon Network
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24024
-#EXTINF:-1,|USA| Disney Channel FHD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24023
-#EXTINF:-1,|USA| Nick
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24022
-#EXTINF:-1,|USA| NICKTOONS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24021
-#EXTINF:-1,|USA|*****MUSIC*****|USA|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24020
-#EXTINF:-1,|USA| MTV
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24019
-#EXTINF:-1,|USA| VH1 FHD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/24018
+#EXTINF:-1,US: CineMax 5 Star Max FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19496
+#EXTINF:-1,US: 5 USA
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43380
+#EXTINF:-1,US: A&E HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29323
+#EXTINF:-1,US: ABC (West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43381
+#EXTINF:-1,US: ABC 6 WPVI (Philadelphia) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43382
+#EXTINF:-1,US: ABC 7 WWSB FL Sarasota HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43383
+#EXTINF:-1,US: ABC 7 Los Angeles
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43387
+#EXTINF:-1,US: Channel No.12213
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29320
+#EXTINF:-1,US: ABC News HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29319
+#EXTINF:-1,US: AFN Spectrum HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29318
+#EXTINF:-1,US: AFN Sports 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29317
+#EXTINF:-1,US: AFN Sports 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29316
+#EXTINF:-1,US: AMC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29314
+#EXTINF:-1,US: AMC
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29313
+#EXTINF:-1,US: Animal Planet HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19488
+#EXTINF:-1,US: Animal Planet EAST
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29312
+#EXTINF:-1,US: ACTION MAX HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43389
+#EXTINF:-1,US: ADULT SWIM
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43388
+#EXTINF:-1,US: A&E TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43390
+#EXTINF:-1,US: AFN PRIME PACIFIC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43391
+#EXTINF:-1,US: AFN PULSE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43392
+#EXTINF:-1,US: Atlanta Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44637
+#EXTINF:-1,US: Bloomberg HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19485
+#EXTINF:-1,US: Boomerang HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19483
+#EXTINF:-1,US: Boomerang
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29307
+#EXTINF:-1,US: Bravo HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29306
+#EXTINF:-1,US: BLAZE
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44628
+#EXTINF:-1,US: BOX OFFICE MOVIES
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44627
+#EXTINF:-1,US: BYU TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29304
+#EXTINF:-1,US: Bet Her
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/61177
+#EXTINF:-1,US: CBS Action
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29298
+#EXTINF:-1,US: CBS San Diego HD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19480
+#EXTINF:-1,US: CBSN FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19479
+#EXTINF:-1,US: CNBC
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29288
+#EXTINF:-1,US: CNN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29287
+#EXTINF:-1,US: CNN FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19477
+#EXTINF:-1,US: C-SPAN 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44621
+#EXTINF:-1,US: C-SPAN 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44620
+#EXTINF:-1,US: C-SPAN 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44619
+#EXTINF:-1,US: CALIFORNIA MUSIC CHANNEL
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44618
+#EXTINF:-1,US: CBS Sports Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44604
+#EXTINF:-1,US: CBSN News HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44602
+#EXTINF:-1,US: CINEMAX MOREMAX FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44590
+#EXTINF:-1,US: CNBC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44582
+#EXTINF:-1,US: CNN INTERNATIONAL
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44579
+#EXTINF:-1,US: COOKING CHANNEL FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44575
+#EXTINF:-1,US: CW
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29283
+#EXTINF:-1,US: CW FHD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19475
+#EXTINF:-1,US: CW 11
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29282
+#EXTINF:-1,US: Cartoon Network (East) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29299
+#EXTINF:-1,US: Cinemax Action East FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19430
+#EXTINF:-1,US: Cinemax Action FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19429
+#EXTINF:-1,US: Cinemax Action
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29293
+#EXTINF:-1,US: CineMax ActionMax East
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29292
+#EXTINF:-1,US: Cinemax East FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19428
+#EXTINF:-1,US: CineMax East
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29291
+#EXTINF:-1,US: CineMax MoreMax
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29289
+#EXTINF:-1,US: Cinemax More HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29290
+#EXTINF:-1,US: Cinemax More FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19427
+#EXTINF:-1,US: Cinemax West FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19426
+#EXTINF:-1,US: Comedy Central HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29285
+#EXTINF:-1,US: Comedy Central FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19425
+#EXTINF:-1,US: DIY Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29273
+#EXTINF:-1,US: DIY Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29272
+#EXTINF:-1,US: DW
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29271
+#EXTINF:-1,US: Discovery Channel CA FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29281
+#EXTINF:-1,US: Discovery Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29280
+#EXTINF:-1,US: Discovery HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29278
+#EXTINF:-1,US: Discovery Science HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29277
+#EXTINF:-1,US: Discovery Velocity HD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19421
+#EXTINF:-1,US: Discovery Velocity
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29276
+#EXTINF:-1,US: Disney Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29275
+#EXTINF:-1,US: DAYSTAR HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44563
+#EXTINF:-1,US: ESPN DEPORTES HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44560
+#EXTINF:-1,US: DISNEY JR (East) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44550
+#EXTINF:-1,US: DISNEY XD FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44547
+#EXTINF:-1,US: District Knowledge Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44546
+#EXTINF:-1,US: District of Columbia Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44545
+#EXTINF:-1,US: E! Entertainment HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29270
+#EXTINF:-1,US: El Rey Network FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44542
+#EXTINF:-1,US: ESPN 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44538
+#EXTINF:-1,US: ESPN 2 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29266
+#EXTINF:-1,US: ESPN 2 FHD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19413
+#EXTINF:-1,US: ESPN 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19412
+#EXTINF:-1,US: ESPN 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29265
+#EXTINF:-1,US: ESPN 2 VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19411
+#EXTINF:-1,US: ESPN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29264
+#EXTINF:-1,US: ESPN U HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19410
+#EXTINF:-1,US: ESPN News HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44533
+#EXTINF:-1,US: FOX 43
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29257
+#EXTINF:-1,US: FX HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29241
+#EXTINF:-1,US: GRIT HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19388
+#EXTINF:-1,US: Fine Living HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29260
+#EXTINF:-1,US: Food Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29259
+#EXTINF:-1,US: FAMILY GUY
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44528
+#EXTINF:-1,US: Food Network FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44520
+#EXTINF:-1,US: Food Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29258
+#EXTINF:-1,US: Fox HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29256
+#EXTINF:-1,US: Fox News HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29255
+#EXTINF:-1,US: Fox Deportes HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19401
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29254
+#EXTINF:-1,US: Fox Sports 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29252
+#EXTINF:-1,US: Fox Sports 1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19398
+#EXTINF:-1,US: Fox Sports 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29251
+#EXTINF:-1,US: Fox Sports 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29249
+#EXTINF:-1,US: Fox Sports Carolina HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19396
+#EXTINF:-1,US: Fox Sports Cincinnati HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19395
+#EXTINF:-1,US: Fox Sports (Detroit) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19394
+#EXTINF:-1,US: Fox Sports (Florida) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19393
+#EXTINF:-1,US: Fox Sports North HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29246
+#EXTINF:-1,US: Fox Sports (North) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29245
+#EXTINF:-1,US: Fox Sports (South) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19390
+#EXTINF:-1,US: FOX 43 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44516
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44501
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44497
+#EXTINF:-1,US: FreeForm HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29243
+#EXTINF:-1,US: Fuel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29242
+#EXTINF:-1,US: The Golf Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44495
+#EXTINF:-1,US: True Movies HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44491
+#EXTINF:-1,US: GSN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29239
+#EXTINF:-1,US: HBO 2 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19386
+#EXTINF:-1,US: HBO 2 West FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19385
+#EXTINF:-1,US: HBO Comedy HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29235
+#EXTINF:-1,US: HBO East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29234
+#EXTINF:-1,US: HBO Signature FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19382
+#EXTINF:-1,US: HBO Signature HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29231
+#EXTINF:-1,US: HBO Signature
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29230
+#EXTINF:-1,US: HBO
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29229
+#EXTINF:-1,US: HBO Zone FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29228
+#EXTINF:-1,US: HBO 2 Comedy
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40684
+#EXTINF:-1,US: HBO 2 East
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44486
+#EXTINF:-1,US: HBO Family FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44485
+#EXTINF:-1,US: HGTV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29227
+#EXTINF:-1,US: HGTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29226
+#EXTINF:-1,US: HIFI
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29225
+#EXTINF:-1,US: Hallmark Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29237
+#EXTINF:-1,US: History Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29224
+#EXTINF:-1,US: IFC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29222
+#EXTINF:-1,US: Investigation Discovery HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29221
+#EXTINF:-1,US: IndiePlex HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19377
+#EXTINF:-1,US: Lifetime HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29220
+#EXTINF:-1,US: MLB Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29218
+#EXTINF:-1,US: MSNBC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29216
+#EXTINF:-1,US: MTV Base HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29215
+#EXTINF:-1,US: MTV Rocks
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29214
+#EXTINF:-1,US: MoreMax FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19373
+#EXTINF:-1,US: MoviePlex HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19371
+#EXTINF:-1,US: Max West
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44475
+#EXTINF:-1,US: MSG (match time)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44464
+#EXTINF:-1,US: MTV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44459
+#EXTINF:-1,US: Music Choice - Dance
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44455
+#EXTINF:-1,US: Music Choice - Metal
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44453
+#EXTINF:-1,US: Music Choice - Mexican
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44452
+#EXTINF:-1,US: Music Choice - Pop Hits
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44450
+#EXTINF:-1,US: Music Choice - R&B/Soul
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44449
+#EXTINF:-1,US: Music Choice - Rap
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44448
+#EXTINF:-1,US: Music Choice Rap 2K
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44447
+#EXTINF:-1,US: Sportsnet 360 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19350
+#EXTINF:-1,US: Sportsnet East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19349
+#EXTINF:-1,US: Sportsnet Ontario HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19348
+#EXTINF:-1,US: Sportsnet West HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19347
+#EXTINF:-1,US: NBA TV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50177
+#EXTINF:-1,US: NBC Golf FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29201
+#EXTINF:-1,US: NBC Golf HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29200
+#EXTINF:-1,US: NBC News HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29198
+#EXTINF:-1,US: NBC
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29196
+#EXTINF:-1,US: NBCSN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29195
+#EXTINF:-1,US: NBCSN HD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19367
+#EXTINF:-1,US: NESN
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57804
+#EXTINF:-1,US: NESN Boston
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57803
+#EXTINF:-1,US: NESN Plus
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57802
+#EXTINF:-1,US: NFL Network 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29194
+#EXTINF:-1,US: NFL Network FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29193
+#EXTINF:-1,US: NFL Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29192
+#EXTINF:-1,US: NFL Red Zone (Match time only)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49285
+#EXTINF:-1,US: NFL Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29191
+#EXTINF:-1,US: NFL Now HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29190
+#EXTINF:-1,US: NFL Now HD VIP
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19365
+#EXTINF:-1,US: NHL Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19364
+#EXTINF:-1,US: Nat geo wild
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29211
+#EXTINF:-1,US: NBCSN (North West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44437
+#EXTINF:-1,US: NBCSN FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44435
+#EXTINF:-1,US: NICK JR
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44422
+#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/60595
+#EXTINF:-1,US: Outdoor Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29186
+#EXTINF:-1,US: CineMax OuterMax HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19360
+#EXTINF:-1,US: Oprah Winfrey Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44416
+#EXTINF:-1,US: CineMax OuterMax FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44415
+#EXTINF:-1,US: OWN FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44414
+#EXTINF:-1,US: PAC-12 Arizona
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29185
+#EXTINF:-1,US: PAC-12 Bay Area
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29184
+#EXTINF:-1,US: PAC-12 Los Angeles FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29183
+#EXTINF:-1,US: PAC-12 Oregon FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29182
+#EXTINF:-1,US: PAC-12 Washington FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29181
+#EXTINF:-1,US: PAG HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44411
+#EXTINF:-1,US: PARAMOUNT
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44410
+#EXTINF:-1,US: PRISON BREAK
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44402
+#EXTINF:-1,US: RED BULL TV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44396
+#EXTINF:-1,US: Reelz Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44395
+#EXTINF:-1,US: RT America HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44392
+#EXTINF:-1,US: RT DOCUMENTARY
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44391
+#EXTINF:-1,US: Showtime Extreme FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44385
+#EXTINF:-1,US: SEC Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29178
+#EXTINF:-1,US: Science HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29179
+#EXTINF:-1,US: Showtime East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29175
+#EXTINF:-1,US: Showtime FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29174
+#EXTINF:-1,US: Showtime Showcase FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29173
+#EXTINF:-1,US: Showtime West HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29172
+#EXTINF:-1,US: Starz Black FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19346
+#EXTINF:-1,US: Starz Encore Action HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19336
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19334
+#EXTINF:-1,US: Starz Encore East FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19333
+#EXTINF:-1,US: Starz Encore FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19332
+#EXTINF:-1,US: Starz Encore HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29164
+#EXTINF:-1,US: Starz Encore Suspense FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19329
+#EXTINF:-1,US: Starz Encore
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29163
+#EXTINF:-1,US: Starz Encore Western FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19327
+#EXTINF:-1,US: Starz Family FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19325
+#EXTINF:-1,US: Starz FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19326
+#EXTINF:-1,US: Starz West FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19323
+#EXTINF:-1,US: Starz West
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19322
+#EXTINF:-1,US: Starz Black
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44370
+#EXTINF:-1,US: Starz Kids & Family 24/7 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44356
+#EXTINF:-1,US: Starz West HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44354
+#EXTINF:-1,US: Sundance TV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19357
+#EXTINF:-1,US: Smile Of A Child
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29171
+#EXTINF:-1,US: Spike HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29170
+#EXTINF:-1,US: Spike TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29169
+#EXTINF:-1,US: Starz Cinema East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19345
+#EXTINF:-1,US: Starz Cinema FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19344
+#EXTINF:-1,US: Starz Cinema West HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19343
+#EXTINF:-1,US: Starz Comedy FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19342
+#EXTINF:-1,US: Starz Comedy
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29167
+#EXTINF:-1,US: Starz East FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19341
+#EXTINF:-1,US: Starz Edge FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19340
+#EXTINF:-1,US: Starz Edge HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29166
+#EXTINF:-1,US: Starz Edge
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29165
+#EXTINF:-1,US: Starz Edge West FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19338
+#EXTINF:-1,US: SyFy
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29161
+#EXTINF:-1,US: SyFy HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29162
+#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44340
+#EXTINF:-1,US: THE JETSONS
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44339
+#EXTINF:-1,US: THE PUNISHER
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44338
+#EXTINF:-1,US: THE SPORTSMAN CHANNEL
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44336
+#EXTINF:-1,US: THE WEATHER CHANNEL HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44335
+#EXTINF:-1,US: Toonami Aftermath
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44327
+#EXTINF:-1,US: Travel Channel FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44326
+#EXTINF:-1,US: TV Land
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44321
+#EXTINF:-1,US: TV ONE FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44320
+#EXTINF:-1,US: TV ONE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43372
+#EXTINF:-1,US: TBS HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29160
+#EXTINF:-1,US: TNT East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29159
+#EXTINF:-1,US: Travel Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29158
+#EXTINF:-1,US: UC TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44319
+#EXTINF:-1,US: UFC TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44314
+#EXTINF:-1,US: UNIVERSAL KIDS HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43376
+#EXTINF:-1,US: UFC Fight Pass
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29156
+#EXTINF:-1,US: Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29154
+#EXTINF:-1,US: USA Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29152
+#EXTINF:-1,US: Univision FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29155
+#EXTINF:-1,US: VEVO FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44305
+#EXTINF:-1,US: VH1 (West)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44303
+#EXTINF:-1,US: VH1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44302
+#EXTINF:-1,US: VH1 Classic
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29151
+#EXTINF:-1,US: WWE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29150
+#EXTINF:-1,US: WWE Network FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29149
+#EXTINF:-1,US: WWE
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29148
+#EXTINF:-1,US: truTV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/29157
+#EXTINF:-1,US: TLC East HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19319
+#EXTINF:-1,US: Sportsnet One
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40660
+#EXTINF:-1,US: Sportsnet Ontario
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40658
+#EXTINF:-1,US: Sportsnet World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40657
+#EXTINF:-1,US: Tennis Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40650
+#EXTINF:-1,US: ABC NY HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43038
+#EXTINF:-1,US: AFN Movie HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42535
+#EXTINF:-1,US: AFN Sports 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43039
+#EXTINF:-1,US: AFN Sports 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43040
+#EXTINF:-1,US: Bounce TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42524
+#EXTINF:-1,US: CBS 2 New York FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43045
+#EXTINF:-1,US: CBS News
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42527
+#EXTINF:-1,US: Cinema 01 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43048
+#EXTINF:-1,US: Cinema 02 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43049
+#EXTINF:-1,US: Cinema 03 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43050
+#EXTINF:-1,US: Cinema 04 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43051
+#EXTINF:-1,US: Cinema 05 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43052
+#EXTINF:-1,US: Cinema 06 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43053
+#EXTINF:-1,US: Cinema 07 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43054
+#EXTINF:-1,US: Cinema 08 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43055
+#EXTINF:-1,US: Cinema 09 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43056
+#EXTINF:-1,US: Cinema 10 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43057
+#EXTINF:-1,US: Cinema 11 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43058
+#EXTINF:-1,US: Cinema 12 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43059
+#EXTINF:-1,US: Cinema 13 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43060
+#EXTINF:-1,US: Cinema 14 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43061
+#EXTINF:-1,US: Cinema 15 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43062
+#EXTINF:-1,US: Cinema 16 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43063
+#EXTINF:-1,US: Cinema 17 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43064
+#EXTINF:-1,US: Cinema 18 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43065
+#EXTINF:-1,US: Cinema 19 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43066
+#EXTINF:-1,US: Cinema 20 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43067
+#EXTINF:-1,US: Cinema 21 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43068
+#EXTINF:-1,US: Cinema 22 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43069
+#EXTINF:-1,US: Cinema 23 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43070
+#EXTINF:-1,US: Cinema 24 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43071
+#EXTINF:-1,US: Cinema 25 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43072
+#EXTINF:-1,US: Cinema 26 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43073
+#EXTINF:-1,US: Cinema 27 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43074
+#EXTINF:-1,US: Cinema 28 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43075
+#EXTINF:-1,US: Cinema 29 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43076
+#EXTINF:-1,US: Cinema 30 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43077
+#EXTINF:-1,US: Cinema 32 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43079
+#EXTINF:-1,US: Cinema 33 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43080
+#EXTINF:-1,US: Cinema 34 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43082
+#EXTINF:-1,US: Cinema 35 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43085
+#EXTINF:-1,US: Cinema 36 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43086
+#EXTINF:-1,US: Cinema 38 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43087
+#EXTINF:-1,US: Cinema 39 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43088
+#EXTINF:-1,US: Cinema 40 PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43089
+#EXTINF:-1,US: CNN INTERNATIONAL HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42529
+#EXTINF:-1,US: COUNTRY NETWORK
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43092
+#EXTINF:-1,US: Crime & Investigation FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43093
+#EXTINF:-1,US: EPIX FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43096
+#EXTINF:-1,US: Fight Box HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43099
+#EXTINF:-1,US: Fox Business HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43108
+#EXTINF:-1,US: Fox Sports College Pacific HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43111
+#EXTINF:-1,US: Fox Sports (Arizona) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43112
+#EXTINF:-1,US: Fox Sports (College Atlantic) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43113
+#EXTINF:-1,US: Fox Sports (College Central) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43114
+#EXTINF:-1,US: Fox Sports (Mid West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43309
+#EXTINF:-1,US: Fox Sports (Ohio) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43310
+#EXTINF:-1,US: Fox Sports (South East) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43311
+#EXTINF:-1,US: Fox Sports (South West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43312
+#EXTINF:-1,US: Fox Sports (Sun) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43314
+#EXTINF:-1,US: Fox Sports (West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43316
+#EXTINF:-1,US: FOX SPORTS ASIA HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43318
+#EXTINF:-1,US: Fox Sports Tennessee HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43320
+#EXTINF:-1,US: FUSE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43322
+#EXTINF:-1,US: FUSION
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43323
+#EXTINF:-1,US: FX (West)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43324
+#EXTINF:-1,US: FXX HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43327
+#EXTINF:-1,US: FXX WEST
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43328
+#EXTINF:-1,US: GALAVISION
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43330
+#EXTINF:-1,US: HSN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43336
+#EXTINF:-1,US: lifetime movies FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43353
+#EXTINF:-1,US: MLB Live HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43354
+#EXTINF:-1,US: NBC (EAST)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42525
+#EXTINF:-1,US: NBC 4 (NY)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43356
+#EXTINF:-1,US: NBCSN North West HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42521
+#EXTINF:-1,US: NBCSN Philly HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/42522
+#EXTINF:-1,US: PBS HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43361
+#EXTINF:-1,US: PBS KIDS HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43362
+#EXTINF:-1,US: POP TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43363
+#EXTINF:-1,US: REVOLT HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43364
+#EXTINF:-1,US: WAPA America HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44299
+#EXTINF:-1,US: WCBD-TV NEWS 2 CHARLESTON
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44297
+#EXTINF:-1,US: WE TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43378
+#EXTINF:-1,US: WGN America HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44291
+#EXTINF:-1,US: WGN News Chicago
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44290
+#EXTINF:-1,US: Wild HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44288
+#EXTINF:-1,US: WPIX 11 NY
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/43379
+#EXTINF:-1,US: WWE 24/7 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44281
+#EXTINF:-1,US: WWE PPV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44279
+#EXTINF:-1,US: Yes Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/44275
+#EXTINF:-1,US: MAV TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/54436
+#EXTINF:-1,US: NBA League Pass Live 750 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57844
+#EXTINF:-1,US: NBA League Pass Live 751 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57843
+#EXTINF:-1,US: NBA League Pass Live 752 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57842
+#EXTINF:-1,US: NBA League Pass Live 753 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57841
+#EXTINF:-1,US: NBA League Pass Live 754 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57840
+#EXTINF:-1,US: NBA League Pass Live 755 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57839
+#EXTINF:-1,US: NBA League Pass Live 756 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57838
+#EXTINF:-1,US: NBA League Pass Live 757 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57837
+#EXTINF:-1,US: NBA League Pass Live 758 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57836
+#EXTINF:-1,US: NBA League Pass Live 759 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57835
+#EXTINF:-1,US: NBA League Pass Live 760 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57834
+#EXTINF:-1,US: NBA League Pass Live 761 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57833
+#EXTINF:-1,US: NBA League Pass Live 762 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57832
+#EXTINF:-1,US: NBA League Pass Live 763 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57831
+#EXTINF:-1,US: NBA League Pass Live 764 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57830
+#EXTINF:-1,US: NBA League Pass Live 765 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57829
+#EXTINF:-1,US: NBA League Pass Live 766 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57828
+#EXTINF:-1,US: NBA League Pass Live 767 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57827
+#EXTINF:-1,US: NBA League Pass Live 768 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57826
+#EXTINF:-1,US: NBA League Pass Live 769 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57825
+#EXTINF:-1,US: MTV LIVE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68815
+#EXTINF:-1,US: NAT GEO HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68816
+#EXTINF:-1,US: NBC Sports Network HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68817
+#EXTINF:-1,US: NICKELODEON HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68818
+#EXTINF:-1,US: CBS (EAST)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68822
+#EXTINF:-1,US: CBS (West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68823
+#EXTINF:-1,US: GAME SHOW NETWORK (GSN) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68821
+#EXTINF:-1,US: Willow Cricket HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68819
+#EXTINF:-1,US: WORLD FISHING NETWORK
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68820
+#EXTINF:-1,US: Bein Sports HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68989
+#EXTINF:-1,US: TNT (West) HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68988
