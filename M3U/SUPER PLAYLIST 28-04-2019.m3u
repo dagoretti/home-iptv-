@@ -1,7 +1,4 @@
 ﻿#EXTM3U
- https://www.iptvition.com/2018/12/iptv-usa-m3u-channels-list-update-25-12.html
- https://www.iptvition.com/2018/12/iptv-england-m3u-channels-list-update_24.html
- https://www.iptvition.com/2018/12/iptv-sport-m3u-channels-list-update-25.html
 #EXTINF:-1,|AR| BEIN SPORTS
 http://npro.one-iptv.com:25443/Salvatore_Guido/ZoiqDKrZRm/9156
 #EXTINF:-1,|AR| Bein Sport 1SD
@@ -887,3 +884,7 @@ http://spot-1.spotv.me:8080/media_new/ptv2_new/8691
 http://spot-1.spotv.me:8080/media_new/ptv2_new/11511
 #EXTINF:-1,USA: WWE NETWORK
 http://spot-1.spotv.me:8080/media_new/ptv2_new/12602
+
+ https://www.iptvition.com/2018/12/iptv-usa-m3u-channels-list-update-25-12.html
+ https://www.iptvition.com/2018/12/iptv-england-m3u-channels-list-update_24.html
+ https://www.iptvition.com/2018/12/iptv-sport-m3u-channels-list-update-25.html
