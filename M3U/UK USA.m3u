@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0,Marvels.Agents.of.S.H.I.E.L.D.S06E04
-https://str09.vidoza.net/x4lfpct6ybzpvjumxapuovav5zidgpndkfuf2frydhx2ehs474krpaehpysa/v.mp4
+#EXTINF:-1, Marvels.Agents.of.S.H.I.E.L.D.S06E04
+#EXTVLCOPT:http-referrer=https://vidoza.net/embed-svk75b7mdzbx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+https://str09.vidoza.net/x4lfpct6ybzpvjumxapuovav5zidgpndkfuf2frydhx2ehs474kr37mhpysa/v.mp4
