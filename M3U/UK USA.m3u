@@ -12,3 +12,9 @@ https://ul.cdn946.net:8443/hls/vcc7c6ncs.m3u8?s=YE4QynQuLfsHx2tiLFZsmg&e=1560105
 https://ul.cdn946.net:8443/hls/7f3btlq41xn.m3u8?s=4BhiafJslQa9sTe5_Q45jw&e=1560105012
 #EXTINF:0,switzerland-vs-england-live-stream
 https://ul.cdn946.net:8443/hls/e7o61xsd3sj.m3u8?s=Tt0iRs7iF0OX_ppY6ufvAQ&e=1560104829
+#EXTINF:0,switzerland-vs-england-live-stream
+http://31.220.0.196:8081/live/spstream1/chunks.m3u8?nimblesessionid=179947&wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTkgMTA6MTQ6MDcgQU0maGFzaF92YWx1ZT1meThUWWdxUHkyOHE4VTJybGYvajdBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,switzerland-vs-england-live-stream
+http://tv.pkcast.com/tv/MMx06H2LOL20180321/chunklist_w636720660_tkaGxzZW5kdGltZT0xNTYwMDg3NjAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9c0NWdS1EMHBtVWRBX1dWeVIzS0hXLVp6QU5vWVFZb29XMXhxY0RkcHdVaz0=.m3u8
+#EXTINF:0,switzerland-vs-england-live-stream
+https://x-live-espn-stgec.uplynk.com/auso/slices/0b4/d09b16c953aa40c98dd8c513526aca5a/0b4d2e9ab9a54faaa520904b61bf51f9/F0000001B.ts?pbs=195f0e20bdec4d7088a812083587d2f9&_jt=l&euid=SEC_VDMS&chid=da4bad1d50c64efa93266fc7de244a5e&ptid=ESPN_tvOS_VDMS&si=1025
