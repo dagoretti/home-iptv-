@@ -1,19 +1,7 @@
 ﻿#EXTM3U
-https://www.iptvvlc.com/search/label/iptv%20uk
-https://en.iptv4m3u.com/iptv-m3u-uk-england-links-tv-hd-list-26-05-2019/
+https://iptvvlc.com/iptv-links-uk-england-m3u-playlist-13-06-2019/
+https://en.iptv4m3u.com/iptv-m3u-uk-england-links-tv-hd-list-13-06-2019/
 
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
-http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
-http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
-http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="lifetime.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
-http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
-http://163.172.112.225:80/live.ts?channelId=70&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
-http://163.172.112.225:80/live.ts?channelId=75&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
 http://62.210.27.219:80/live.ts?channelId=1&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
@@ -416,3 +404,1179 @@ http://163.172.118.212:80/live.ts?channelId=565&deviceMac=00:1A:79:BE:2F:F6&uid=
 http://163.172.118.212:80/live.ts?channelId=566&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="Fox News" tvg-link="" tvg-name="Fox News" tvg-logo="" group-title="News Channels",Fox News - Fox News
 http://163.172.118.212:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+-----------
+#EXTINF:-1,Uk- Sky 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11120
+#EXTINF:-1,Uk- Sky 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11119
+#EXTINF:-1,UK- Sky BBC News
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8589
+#EXTINF:-1,Uk- Sky BBC One HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8587
+#EXTINF:-1,Uk- Sky BBC Two HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8585
+#EXTINF:-1,Uk- Sky BBC Three HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8586
+#EXTINF:-1,Uk- Sky BBC Four HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8588
+#EXTINF:-1,Uk- Sky ITV 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8552
+#EXTINF:-1,Uk- Sky ITV 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8551
+#EXTINF:-1,Uk- Sky ITV 3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8550
+#EXTINF:-1,Uk- Sky ITV 4
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8549
+#EXTINF:-1,Uk- Sky True Movies 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8510
+#EXTINF:-1,Uk- Sky True Movies 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8509
+#EXTINF:-1,Uk- Sky MUTV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8536
+#EXTINF:-1,Uk- Sky More 4 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8547
+#EXTINF:-1,Uk- Sky Movies 24
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8546
+#EXTINF:-1,Uk- Sky Movies Action HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8545
+#EXTINF:-1,Uk- Sky Movies Crime
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8543
+#EXTINF:-1,Uk- Sky Movies Disney
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8542
+#EXTINF:-1,Uk- Sky Movies Drama HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8541
+#EXTINF:-1,Uk- Sky Movies Family HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8540
+#EXTINF:-1,Uk- Sky Movies Greats
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8539
+#EXTINF:-1,Uk- Sky Movies Premiere HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8538
+#EXTINF:-1,Uk- Sky Movies Select HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8537
+#EXTINF:-1,Uk- Sky Quest
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8529
+#EXTINF:-1,Uk- Sky Racing
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8528
+#EXTINF:-1,Uk- Sky Really
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8527
+#EXTINF:-1,Uk- Sky RTE One
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8525
+#EXTINF:-1,Uk- Sky RTE Two
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8524
+#EXTINF:-1,Uk- Sky Travel Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8508
+#EXTINF:-1,Uk- Sky YourTV HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11114
+#EXTINF:-1,Uk- Sky Gold
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8557
+#EXTINF:-1,Uk- Sky Good Food HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8556
+#EXTINF:-1,Uk- Sky Home & Health
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8554
+#EXTINF:-1,Uk- Sky Horse & Country
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8553
+#EXTINF:-1,Uk- Sky Living HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11116
+#EXTINF:-1,Uk- Sky 5 USA
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8594
+#EXTINF:-1,Uk- Sky 4 Music
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8595
+#EXTINF:-1,Uk- Sky Arts 1 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8592
+#EXTINF:-1,Uk- Sky Atlantic
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8591
+#EXTINF:-1,Uk- Sky Chelsea TV HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8572
+#EXTINF:-1,Uk- Sky Cbs Action
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8575
+#EXTINF:-1,Uk- Sky Cbs Drama
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8574
+#EXTINF:-1,Uk- Sky CBS Reality
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8573
+#EXTINF:-1,Uk- Sky Ci
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8571
+#EXTINF:-1,Uk- Sky Comedy Central
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8569
+#EXTINF:-1,Uk- Sky Animal Planet HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8593
+#EXTINF:-1,Uk- Sky Baby
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8590
+#EXTINF:-1,Uk- Sky Bloomberg HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8584
+#EXTINF:-1,Uk- Sky Cartoon Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8576
+#EXTINF:-1,Uk- Sky Discovery
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8568
+#EXTINF:-1,Uk- Sky Discovery History
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8567
+#EXTINF:-1,Uk- Sky Discovery Science
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8566
+#EXTINF:-1,Uk- Sky Discovery Shed
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8565
+#EXTINF:-1,Uk- Sky Discovery Turbo
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8564
+#EXTINF:-1,Uk- Sky Disney Chaneel HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8563
+#EXTINF:-1,Uk- Sky Disney Junior HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8562
+#EXTINF:-1,Uk- Sky Disney XD HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8561
+#EXTINF:-1,Uk- Sky Food Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8558
+#EXTINF:-1,Uk- Sky History HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8555
+#EXTINF:-1,Uk- Sky Nat Geo Wild HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8535
+#EXTINF:-1,Uk- Sky National Geographic HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8534
+#EXTINF:-1,UK- Sky News HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8533
+#EXTINF:-1,Uk- Sky Nickelodeon
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8532
+#EXTINF:-1,Uk- Sky Nickelodeon JR
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8531
+#EXTINF:-1,Uk- Sky NickToons
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8530
+------------
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SKY UK ☆▆ ▅ ▄ ▂ ▁
+http://
+#EXTINF:-1,==============  UK SPORT   ==============
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73842
+#EXTINF:-1,AL: Alb UK Movie
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/59238
+#EXTINF:-1,AL: ALB UK TV
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/59237
+#EXTINF:-1,AL: Dukagjini TV
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/59217
+#EXTINF:-1,PK: ARY DIGITAL UK
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/53139
+#EXTINF:-1,PK: ARY NEWS UK
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/53135
+#EXTINF:-1,UK: 3e
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73850
+#EXTINF:-1,UK: 4Music
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73784
+#EXTINF:-1,UK: 5 Usa
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73849
+#EXTINF:-1,UK: 5 Usa Plus
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73848
+#EXTINF:-1,UK: 5Star
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73869
+#EXTINF:-1,UK: Animal Planet   1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73802
+#EXTINF:-1,UK: Animal Planet HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73803
+#EXTINF:-1,UK: Baby TV
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73814
+#EXTINF:-1,UK: BBC 1 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73781
+#EXTINF:-1,UK: BBC 2 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73780
+#EXTINF:-1,UK: BBC 3
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73779
+#EXTINF:-1,UK: BBC 4 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73778
+#EXTINF:-1,UK: BBC Earth HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73777
+#EXTINF:-1,UK: BBC News
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73776
+#EXTINF:-1,UK: BOX NATION
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73826
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73884
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73883
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73882
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73881
+#EXTINF:-1,UK: Cartoon network HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73818
+#EXTINF:-1,UK: Cartoonito
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73809
+#EXTINF:-1,UK: Challenge   1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73793
+#EXTINF:-1,UK: Channel 4 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73855
+#EXTINF:-1,UK: Channel 4 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73856
+#EXTINF:-1,UK: Channel 4 Plus
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73854
+#EXTINF:-1,UK: Channel 5 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73852
+#EXTINF:-1,UK: Channel 5 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73853
+#EXTINF:-1,UK: Channel 5 Plus
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73851
+#EXTINF:-1,UK: CHELSEA TV
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73827
+#EXTINF:-1,UK: CNBC Europe
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73775
+#EXTINF:-1,UK: Comedy Central HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73887
+#EXTINF:-1,UK: Crime & Investigiation
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73870
+#EXTINF:-1,UK: Dave
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73847
+#EXTINF:-1,============== UK DOCUMENTARY ==============
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73805
+#EXTINF:-1,UK: Nat Geo Graphic
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73800
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73792
+#EXTINF:-1,UK: NATGEO WILD HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73791
+#EXTINF:-1,UK: Discovery History
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73801
+#EXTINF:-1,UK: Discovery History  1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73799
+#EXTINF:-1,UK: Discovery Science HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73798
+#EXTINF:-1,UK: Discovery Shed
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73797
+#EXTINF:-1,UK: Discovery Turbo
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73796
+#EXTINF:-1,UK: Disney
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73817
+#EXTINF:-1,UK: Disney Channel HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73808
+#EXTINF:-1,UK: Disney Junior
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73816
+#EXTINF:-1,UK: Disney XD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73815
+#EXTINF:-1,UK: Disney XD HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73807
+#EXTINF:-1,UK: DMAX
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73868
+#EXTINF:-1,UK: E!
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73846
+#EXTINF:-1,UK: E4
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73845
+#EXTINF:-1,UK: Eir Sports 1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73822
+#EXTINF:-1,UK: Eir Sports 2
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73821
+#EXTINF:-1,UK: Euronews
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73774
+#EXTINF:-1,UK: Film 4 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73888
+#EXTINF:-1,UK: FOX HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73873
+#EXTINF:-1,UK: Gold
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73794
+#EXTINF:-1,UK: H2 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73804
+#EXTINF:-1,UK: HBO 2
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73877
+#EXTINF:-1,UK: HBO HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73878
+#EXTINF:-1,UK: History HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73790
+#EXTINF:-1,UK: Home & Health
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73789
+#EXTINF:-1,UK: Investigation Discovery
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73795
+#EXTINF:-1,UK: ITV 2 Plus
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73865
+#EXTINF:-1,UK: ITV 3   HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73864
+#EXTINF:-1,UK: ITV 4 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73863
+#EXTINF:-1,UK: ITV Be
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73859
+#EXTINF:-1,UK: ITV Be  1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73858
+#EXTINF:-1,UK: ITV1 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73867
+#EXTINF:-1,UK: ITV2 FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73866
+#EXTINF:-1,UK: Life time
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73874
+#EXTINF:-1,UK: Manchester United TV
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73828
+#EXTINF:-1,UK: More 4 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73844
+#EXTINF:-1,UK: MTV Base
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73785
+#EXTINF:-1,UK: MTV HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73786
+#EXTINF:-1,UK: MTV LIVE HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73770
+#EXTINF:-1,=======>   SKY UK KIDS   <=======
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73819
+#EXTINF:-1,UK: Nick Jr  1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73813
+#EXTINF:-1,UK: Nick Jr Too
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73812
+#EXTINF:-1,UK: Nick@niteHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73810
+#EXTINF:-1,UK: Nickelodeon FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73811
+#EXTINF:-1,UK: Racing UK FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73824
+#EXTINF:-1,UK: Racing UK HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73823
+#EXTINF:-1,UK: RTE Junior
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73806
+#EXTINF:-1,UK: RTE NEWS
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73772
+#EXTINF:-1,UK: RTE News Now
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73773
+#EXTINF:-1,UK: RTE One HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73861
+#EXTINF:-1,UK: RTE Two HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73860
+#EXTINF:-1,UK: Sky Arts HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73862
+#EXTINF:-1,==============   UNITED KINGDOM CINEMA  ==============
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73904
+#EXTINF:-1,UK: SKY Atlantic HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73879
+#EXTINF:-1,UK: Sky Box Nation (PPV Events Only)
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73825
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73903
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73902
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73901
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73900
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73899
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73898
+#EXTINF:-1,UK: Sky Cinema Hits
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73895
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73897
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73896
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73894
+#EXTINF:-1,UK: Sky Living FHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73893
+#EXTINF:-1,UK: Sky Movies Select HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73892
+#EXTINF:-1,UK: SKY NEWS HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73783
+#EXTINF:-1,UK: SKY One
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73876
+#EXTINF:-1,UK: Sky Two
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73875
+#EXTINF:-1,UK: Sony Channel HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73886
+#EXTINF:-1,UK: Sony Movie
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73885
+#EXTINF:-1,UK: Syfy
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73872
+#EXTINF:-1,UK: TCM HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73871
+#EXTINF:-1,UK: TG4
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73771
+#EXTINF:-1,UK: True Movies 1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73890
+#EXTINF:-1,UK: True Movies 2
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73889
+#EXTINF:-1,UK: TV 3
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73857
+#EXTINF:-1,UK: Universal TV HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73891
+#EXTINF:-1,UK: VH1
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73788
+#EXTINF:-1,UK: VIVA
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73787
+#EXTINF:-1,UK: W
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/73843
+------------
+#EXTINF:-1,VIP: UK - Alibi HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/201189
+#EXTINF:-1,VIP: UK - ALJAZEERA HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206214
+#EXTINF:-1,VIP: UK - AMC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206189
+#EXTINF:-1,VIP: UK - ANIMAL PLANET HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198514
+#EXTINF:-1,VIP: UK - BBC Earth
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198516
+#EXTINF:-1,VIP: UK - BBC Entertainment HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198515
+#EXTINF:-1,VIP: UK - BOX OFFICE 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206190
+#EXTINF:-1,VIP: UK - BOX OFFICE 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206192
+#EXTINF:-1,VIP: UK - BOX OFFICE 3 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206193
+#EXTINF:-1,VIP: UK - BOX OFFICE 4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206194
+#EXTINF:-1,VIP: UK - BOX OFFICE 5 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206195
+#EXTINF:-1,VIP: UK - Challenge HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/202741
+#EXTINF:-1,VIP: UK - CHANNEL 5 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206203
+#EXTINF:-1,VIP: UK - CNN News
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204345
+#EXTINF:-1,VIP: UK - COMEDY CENTRAL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198500
+#EXTINF:-1,VIP: UK - Crime & Investigation FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204608
+#EXTINF:-1,VIP: UK - Discovery Channel HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204731
+#EXTINF:-1,VIP: UK - Discovery H&H
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204793
+#EXTINF:-1,VIP: UK - Discovery HISTORY CHANNEL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198511
+#EXTINF:-1,VIP: UK - Discovery TURBO HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204896
+#EXTINF:-1,VIP: UK - DMAX HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198501
+#EXTINF:-1,VIP: UK - E! HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198502
+#EXTINF:-1,VIP: UK - FOX FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/205519
+#EXTINF:-1,VIP: UK - Fox News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/205550
+#EXTINF:-1,VIP: UK - GOLD FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198507
+#EXTINF:-1,VIP: UK - GOOD FOOD HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198505
+#EXTINF:-1,VIP: UK - HBO Comedy HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198509
+#EXTINF:-1,VIP: UK - HBO HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198508
+#EXTINF:-1,VIP: UK - High Street TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206209
+#EXTINF:-1,VIP: UK - Home
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198512
+#EXTINF:-1,VIP: UK - Investigation Discovery FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206205
+#EXTINF:-1,VIP: UK - ITV 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198517
+#EXTINF:-1,VIP: UK - ITV 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198518
+#EXTINF:-1,VIP: UK - ITV 3 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198519
+#EXTINF:-1,VIP: UK - ITV 4 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198520
+#EXTINF:-1,VIP: UK - MOVIES 4 MEN
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198521
+#EXTINF:-1,VIP: UK - MOVIES 24
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206097
+#EXTINF:-1,VIP: UK - NAT GEO WILD HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198636
+#EXTINF:-1,VIP: UK - Sky Atlantic HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206106
+#EXTINF:-1,VIP: UK - Sky Cinema Crime & Thriller FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198524
+#EXTINF:-1,VIP: UK - Sky Cinema Drama & Romance FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198525
+#EXTINF:-1,VIP: UK - Sky Cinema Premier FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198528
+#EXTINF:-1,VIP: UK - Sky Cinema Sci-Fi & Horror FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198529
+#EXTINF:-1,VIP: UK - Sky Cinema Select FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198530
+#EXTINF:-1,VIP: UK - Sky Cinema Showcase HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198531
+#EXTINF:-1,VIP: UK - TCM FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198533
+#EXTINF:-1,VIP: UK - TLC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198532
+#EXTINF:-1,VIP: UK - VH1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206200
+#EXTINF:-1,VIP: UK - Watch HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198534
+#EXTINF:-1,###### UK VIP ######
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216534
+#EXTINF:-1,UK: BBC News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65183
+#EXTINF:-1,UK: BE3 Ireland
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/199162
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206466
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92581
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206465
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/108416
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74500
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74772
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92608
+#EXTINF:-1,UK: Sky Sports Football HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74491
+#EXTINF:-1,###### UK ######
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216533
+#EXTINF:-1,UK: 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65175
+#EXTINF:-1,UK: 4 MUSIC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74604
+#EXTINF:-1,UK: 5 Select
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217871
+#EXTINF:-1,UK: 5 SPIKE
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74588
+#EXTINF:-1,UK: 5 Star
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217856
+#EXTINF:-1,UK: 5 USA
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/113745
+#EXTINF:-1,UK: 92 NEWS
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/133394
+#EXTINF:-1,UK: ABC News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/96992
+#EXTINF:-1,UK: ABN TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/133396
+#EXTINF:-1,UK: Alibi HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137150
+#EXTINF:-1,UK: ALJAZEERA HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/131284
+#EXTINF:-1,UK: AMC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63034
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65023
+#EXTINF:-1,UK: Baby TV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65125
+#EXTINF:-1,UK: BBC 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86279
+#EXTINF:-1,UK: BBC 1 Wales
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137159
+#EXTINF:-1,UK: BBC 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74074
+#EXTINF:-1,UK: BBC 3 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65184
+#EXTINF:-1,UK: BBC 4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65182
+#EXTINF:-1,UK: BBC Alba HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74735
+#EXTINF:-1,UK: BBC Brit
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/118194
+#EXTINF:-1,UK: BBC Earth
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/143751
+#EXTINF:-1,UK: BBC Entertainment HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86281
+#EXTINF:-1,UK: BBC Parliament
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137160
+#EXTINF:-1,UK: BBC Red Button
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74714
+#EXTINF:-1,UK: BBC TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209079
+#EXTINF:-1,UK: BET HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74589
+#EXTINF:-1,UK: Blaze HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75740
+#EXTINF:-1,UK: Bloomberg HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74743
+#EXTINF:-1,UK: BOOMERANG HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65126
+#EXTINF:-1,UK: BOX HITS HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65056
+#EXTINF:-1,UK: BOX NATION FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74518
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74550
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74551
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74697
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74552
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159104
+#EXTINF:-1,UK: BOX OFFICE 6 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159105
+#EXTINF:-1,UK: BOX OFFICE 7 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159106
+#EXTINF:-1,UK: BOX OFFICE 8 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159107
+#EXTINF:-1,UK: BOX OFFICE 9 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159108
+#EXTINF:-1,UK: Bravo FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75739
+#EXTINF:-1,UK: British Muslim
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139564
+#EXTINF:-1,UK: BT Sport 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216112
+#EXTINF:-1,UK: BT Sport 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92580
+#EXTINF:-1,UK: BT Sport 2
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216114
+#EXTINF:-1,UK: BT Sport 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206334
+#EXTINF:-1,UK: BT Sport 3 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93484
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/107282
+#EXTINF:-1,UK: BT Sport Extra 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/145466
+#EXTINF:-1,UK: BT Sport Extra 2
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/175406
+#EXTINF:-1,UK: BT Sport Extra 3
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99947
+#EXTINF:-1,UK: BT Sport Extra 4
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/96511
+#EXTINF:-1,UK: BT Sport Extra 5
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93902
+#EXTINF:-1,UK: C ITV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74590
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74786
+#EXTINF:-1,UK: Cartoonito HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74593
+#EXTINF:-1,UK: CBBC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74569
+#EXTINF:-1,UK: CBeebies HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/94696
+#EXTINF:-1,UK: CBS Action HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216711
+#EXTINF:-1,UK: CBS Drama
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/155440
+#EXTINF:-1,UK: CBS justice
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/155441
+#EXTINF:-1,UK: CBS Reality
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150861
+#EXTINF:-1,UK: CGTN News
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137270
+#EXTINF:-1,UK: Challenge HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74722
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74789
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74790
+#EXTINF:-1,UK: Channel 5 Star
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/134144
+#EXTINF:-1,UK: CHART SHOW TV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65054
+#EXTINF:-1,UK: CHELSEA TV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65020
+#EXTINF:-1,UK: Club MTV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139650
+#EXTINF:-1,UK: Clubland TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139572
+#EXTINF:-1,UK: CNBC
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104258
+#EXTINF:-1,UK: CNN News
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159466
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65160
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74596
+#EXTINF:-1,UK: Culao 4
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209482
+#EXTINF:-1,UK: DAVE FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92585
+#EXTINF:-1,UK: Discovery Channel HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102159
+#EXTINF:-1,UK: Discovery H&H
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159471
+#EXTINF:-1,UK: Discovery HISTORY CHANNEL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74802
+#EXTINF:-1,UK: Discovery SCIENCE HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63598
+#EXTINF:-1,UK: Discovery Shed HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74794
+#EXTINF:-1,UK: Discovery TURBO HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137265
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74594
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65133
+#EXTINF:-1,UK: DISNEY XD HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65134
+#EXTINF:-1,UK: DMAX HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74573
+#EXTINF:-1,UK: Drama
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74796
+#EXTINF:-1,UK: E! HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65174
+#EXTINF:-1,UK: E4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74576
+#EXTINF:-1,UK: Eden
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/153935
+#EXTINF:-1,UK: EIR SPORTS 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217861
+#EXTINF:-1,UK: EIR SPORTS 2
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217862
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209484
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/124390
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137212
+#EXTINF:-1,UK: ESPN
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99082
+#EXTINF:-1,UK: euronews HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74609
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65014
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93240
+#EXTINF:-1,UK: Fightbox HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99955
+#EXTINF:-1,UK: Film 4 +1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75673
+#EXTINF:-1,UK: Film 4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137208
+#EXTINF:-1,UK: Fine Living Network
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86312
+#EXTINF:-1,UK: Food Network
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75720
+#EXTINF:-1,UK: Forces TV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65584
+#EXTINF:-1,UK: FOX FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137173
+#EXTINF:-1,UK: Fox News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74608
+#EXTINF:-1,UK: FRANCE 24
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209491
+#EXTINF:-1,UK: Free Sports TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/108660
+#EXTINF:-1,UK: GINXeSports TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217863
+#EXTINF:-1,UK: GOLD FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63548
+#EXTINF:-1,UK: GOOD FOOD HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65040
+#EXTINF:-1,UK: h&h
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/213345
+#EXTINF:-1,UK: H2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74597
+#EXTINF:-1,UK: HBO 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/212642
+#EXTINF:-1,UK: HBO Comedy HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65139
+#EXTINF:-1,UK: HBO HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91383
+#EXTINF:-1,UK: High Street TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65165
+#EXTINF:-1,UK: Hillsong
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139665
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216224
+#EXTINF:-1,UK: Home
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75717
+#EXTINF:-1,UK: HORROR CHANNEL
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/153919
+#EXTINF:-1,UK: Horse Country
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208308
+#EXTINF:-1,UK: HUM Europe
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209487
+#EXTINF:-1,UK: HUM Masala
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209486
+#EXTINF:-1,UK: ID
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218265
+#EXTINF:-1,UK: Ideal Extra
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139667
+#EXTINF:-1,UK: Ideal World
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139668
+#EXTINF:-1,UK: Investigation Discovery FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65102
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/105062
+#EXTINF:-1,UK: ITV 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92590
+#EXTINF:-1,UK: ITV 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92591
+#EXTINF:-1,UK: ITV 3 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92592
+#EXTINF:-1,UK: ITV 4 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92593
+#EXTINF:-1,UK: ITV Be FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217864
+#EXTINF:-1,UK: Keep It Country TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/94189
+#EXTINF:-1,UK: Kerrang
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65051
+#EXTINF:-1,UK: KISS
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65058
+#EXTINF:-1,UK: L TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216717
+#EXTINF:-1,UK: LFC TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209476
+#EXTINF:-1,UK: Lifetime HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65161
+#EXTINF:-1,UK: Little be HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65036
+#EXTINF:-1,UK: Living
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98217
+#EXTINF:-1,UK: London Live
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139594
+#EXTINF:-1,UK: Magic TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65050
+#EXTINF:-1,UK: Manchester United TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/214213
+#EXTINF:-1,UK: More 4 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150870
+#EXTINF:-1,UK: Motorsport TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137217
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65124
+#EXTINF:-1,UK: MOVIES 24
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139597
+#EXTINF:-1,UK: Movies Action
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217875
+#EXTINF:-1,UK: MTV Base HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65090
+#EXTINF:-1,UK: MTV Classic HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137278
+#EXTINF:-1,UK: MTV Club
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218268
+#EXTINF:-1,UK: MTV Dance
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/100942
+#EXTINF:-1,UK: MTV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99105
+#EXTINF:-1,UK: MTV Hits
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104291
+#EXTINF:-1,UK: MTV Live FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218270
+#EXTINF:-1,UK: MTV Music HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65095
+#EXTINF:-1,UK: MTV OMG HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/147221
+#EXTINF:-1,UK: MTV ONE
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159496
+#EXTINF:-1,UK: MTV Rocks HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65099
+#EXTINF:-1,UK: MUTV HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/64982
+#EXTINF:-1,UK: My TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139681
+#EXTINF:-1,UK: My5
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217866
+#EXTINF:-1,UK: NAT GEO
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217867
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74807
+#EXTINF:-1,UK: Nick Junior
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65128
+#EXTINF:-1,UK: Nick Junior TOO
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74592
+#EXTINF:-1,UK: Nick Toons HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65129
+#EXTINF:-1,UK: Nickelodeon
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92597
+#EXTINF:-1,UK: PBS America
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75613
+#EXTINF:-1,UK: Pick TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91965
+#EXTINF:-1,UK: Pop Max
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74706
+#EXTINF:-1,UK: POP TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75569
+#EXTINF:-1,UK: PTC Punjabi
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218355
+#EXTINF:-1,UK: QUEST
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218272
+#EXTINF:-1,UK: Quest Red
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217869
+#EXTINF:-1,UK: QVC Beauty HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74950
+#EXTINF:-1,UK: QVC Style
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86329
+#EXTINF:-1,UK: Racing HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209466
+#EXTINF:-1,UK: RACING UK HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65019
+#EXTINF:-1,UK: REAL LIVES
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74582
+#EXTINF:-1,UK: Really
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65037
+#EXTINF:-1,UK: Revelation
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139690
+#EXTINF:-1,UK: RISHTEY EUROPE
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209465
+#EXTINF:-1,UK: ROK TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102185
+#EXTINF:-1,UK: RTE 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65177
+#EXTINF:-1,UK: RTE 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65178
+#EXTINF:-1,UK: RTE Junior
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65176
+#EXTINF:-1,UK: RTE NEWS
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65179
+#EXTINF:-1,UK: RTE ONE
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217870
+#EXTINF:-1,UK: S4C
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137189
+#EXTINF:-1,UK: SAB TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102186
+#EXTINF:-1,UK: Setanta Sports +
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74761
+#EXTINF:-1,UK: Sky 1 FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74564
+#EXTINF:-1,UK: Sky 2 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99603
+#EXTINF:-1,UK: SKY ARTS 1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65113
+#EXTINF:-1,UK: Sky Arts HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/134176
+#EXTINF:-1,UK: Sky Atlantic HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/175822
+#EXTINF:-1,UK: Sky Box Office
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206500
+#EXTINF:-1,UK: SKY CIENMA ACTION HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209453
+#EXTINF:-1,UK: SKY CIENMA COMEDY HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209452
+#EXTINF:-1,UK: SKY CIENMA Family HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209450
+#EXTINF:-1,UK: SKY CIENMA Greats HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209449
+#EXTINF:-1,UK: SKY CIENMA HITS HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209448
+#EXTINF:-1,UK: SKY CIENMA PREMIER HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209447
+#EXTINF:-1,UK: SKY CIENMA SELECT HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209446
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98204
+#EXTINF:-1,UK: Sky Cinema Box Office 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99117
+#EXTINF:-1,UK: Sky Cinema Box Office 2
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99118
+#EXTINF:-1,UK: Sky Cinema Box Office 3
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99119
+#EXTINF:-1,UK: Sky Cinema Box Office 4
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99120
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92599
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65144
+#EXTINF:-1,UK: Sky Cinema Disney
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217899
+#EXTINF:-1,UK: Sky Cinema Drama
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92601
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65146
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92602
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/213979
+#EXTINF:-1,UK: Sky Cinema Modern Greats
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217901
+#EXTINF:-1,UK: Sky Cinema Premier FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74535
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92603
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74545
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65140
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65151
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92606
+#EXTINF:-1,UK: SKY LIVING FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/126445
+#EXTINF:-1,UK: Sky Living UK
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217897
+#EXTINF:-1,UK: Sky News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65042
+#EXTINF:-1,UK: Sky One
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92607
+#EXTINF:-1,UK: Sky Sports 1 Main Events
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216272
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/128428
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217893
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198820
+#EXTINF:-1,UK: Sky Sports Action
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217896
+#EXTINF:-1,UK: Sky Sports ACTION HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92609
+#EXTINF:-1,UK: Sky Sports Arena
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217895
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74495
+#EXTINF:-1,UK: Sky Sports F1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218256
+#EXTINF:-1,UK: Sky Sports Football
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137214
+#EXTINF:-1,UK: Sky Sports GOLF
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217873
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74770
+#EXTINF:-1,UK: Sky Sports Main Event
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137222
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98196
+#EXTINF:-1,UK: Sky Sports News HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74481
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216707
+#EXTINF:-1,UK: Sky Sports RACING
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208091
+#EXTINF:-1,UK: SKY THRILLER HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/212959
+#EXTINF:-1,UK: Sky Witness HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139625
+#EXTINF:-1,UK: SONY Max
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209462
+#EXTINF:-1,UK: Sony Movies
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65106
+#EXTINF:-1,UK: Sony TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208276
+#EXTINF:-1,UK: STAR BHARAT
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91458
+#EXTINF:-1,UK: STAR GOLD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159520
+#EXTINF:-1,UK: STAR PLUS
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209461
+#EXTINF:-1,UK: STV FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98263
+#EXTINF:-1,UK: Syfy FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218275
+#EXTINF:-1,UK: TBN UK
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75692
+#EXTINF:-1,UK: TCM FHD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65162
+#EXTINF:-1,UK: The Box
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65057
+#EXTINF:-1,UK: The Vault
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65052
+#EXTINF:-1,UK: Tiny POP
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74591
+#EXTINF:-1,UK: TLC HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137193
+#EXTINF:-1,UK: Travel Channel
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65045
+#EXTINF:-1,UK: True Entertainment
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198412
+#EXTINF:-1,UK: True Movies 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150899
+#EXTINF:-1,UK: TV 3
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137295
+#EXTINF:-1,UK: TV3 Plus 1
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99134
+#EXTINF:-1,UK: TV5 Monde
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139701
+#EXTINF:-1,UK: Universal Channel HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74574
+#EXTINF:-1,UK: UTV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208271
+#EXTINF:-1,UK: VENUS TV
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137249
+#EXTINF:-1,UK: VH 1 CLASSIC
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/163362
+#EXTINF:-1,UK: VH1 HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65097
+#EXTINF:-1,UK: Viceland HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104929
+#EXTINF:-1,UK: Watch HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65168
+#EXTINF:-1,UK: World Fight Channel
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99138
+#EXTINF:-1,UK: WWE Raw Network HD
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93245
+#EXTINF:-1,UK: ZEE CINEMA
+http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208268
+-----------
+#EXTINF:-1,### MIX ###
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/28044
+#EXTINF:-1,UK: 4 HD.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34489
+#EXTINF:-1,UK: 4Music.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34485
+#EXTINF:-1,UK: 4Seven HD.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34484
+#EXTINF:-1,UK: 4seven.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34483
+#EXTINF:-1,UK: 5 HD.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34479
+#EXTINF:-1,UK: 5 Spike.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34474
+#EXTINF:-1,UK: 5 STAR.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34476
+#EXTINF:-1,UK: 5 USA.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34475
+#EXTINF:-1,UK: BBC 1 HD
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37177
+#EXTINF:-1,UK: BBC 2 HD
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37178
+#EXTINF:-1,UK: BBC 3 HD
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37179
+#EXTINF:-1,UK: BBC 4 HD
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37180
+#EXTINF:-1,UK: ITV 1
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37181
+#EXTINF:-1,UK: ITV 2
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37182
+#EXTINF:-1,UK: ITV 3
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37183
+#EXTINF:-1,UK: ITV 4
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37184
+#EXTINF:-1,UK: Sky1.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34453
+#EXTINF:-1,UK: Sky2.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34450
+#EXTINF:-1,UK: SkyAction.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34413
+#EXTINF:-1,UK: SkyArts.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34449
+#EXTINF:-1,UK: SkyAtlantic.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34451
+#EXTINF:-1,UK: SkyBet.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34333
+#EXTINF:-1,UK: SkyComedy.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34417
+#EXTINF:-1,UK: SkyCrimeThriller.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34416
+#EXTINF:-1,UK: SkyDisney.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34415
+#EXTINF:-1,UK: SkyDrama.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34414
+#EXTINF:-1,UK: SkyFamily.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34412
+#EXTINF:-1,UK: SkyGreats.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34411
+#EXTINF:-1,UK: SkyHits.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34407
+#EXTINF:-1,UK: SkyLiving.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34452
+#EXTINF:-1,UK: SkyNews.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34445
+#EXTINF:-1,UK: SkyPremiere.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34410
+#EXTINF:-1,UK: SkySciFiHorror.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34409
+#EXTINF:-1,UK: SkySelect.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34408
+#EXTINF:-1,UK: SNY
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34312
+#EXTINF:-1,UK: Sony Crime Channel.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34455
+#EXTINF:-1,UK: Sony ESPN
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34194
+#EXTINF:-1,UK: Sony Movie Channel.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34454
+#EXTINF:-1,UK: Sony Six
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34195
+#EXTINF:-1,UK: STV HD.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34505
+#EXTINF:-1,UK: Syfy.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34442
+#EXTINF:-1,UK: TG4.ie
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34492
+#EXTINF:-1,UK: TLC.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34444
+#EXTINF:-1,UK: TSN 1 SD
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34303
+#EXTINF:-1,UK: Universal.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34447
+#EXTINF:-1,UK: Univision Deportes
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34310
+#EXTINF:-1,UK: UTV.ie
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34495
+#EXTINF:-1,UK: VirginMediaOne.ie
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34490
+#EXTINF:-1,UK: W.uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34440
+#EXTINF:-1,UK: William Hill TV. uk
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34332
+#EXTINF:-1,UK: YES Network
+http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34308
