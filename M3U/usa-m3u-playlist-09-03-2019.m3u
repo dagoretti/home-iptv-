@@ -1,1467 +1,2050 @@
 #EXTM3U
-iptvgratuit.com https://iptvgratuit.com/2019/05/usa-iptv-links-usa-tv-chaines-usa-m3u-playlist-12-05-2019/
+iptvgratuit.com https://iptvgratuit.com/2019/05/usa-iptv-links-usa-tv-chaines-usa-m3u-playlist-19-06-2019/
      https://m3u-list.com/usa-m3u-playlist-22-05-2019-new-2/
-#EXTINF:-1,ABC EAST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38699
-#EXTINF:-1,CBS EAST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36594
-#EXTINF:-1,NBC EAST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36592
-#EXTINF:-1,FOX EAST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36593
-#EXTINF:-1,ABC WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/34340
-#EXTINF:-1,NBC WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/31643
-#EXTINF:-1,CBS WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/31644
-#EXTINF:-1,FOX WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/31645
-#EXTINF:-1,ABC EAST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77487
-#EXTINF:-1,CBS EAST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77486
-#EXTINF:-1,FOX EAST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77484
-#EXTINF:-1,NBC EAST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77485
-#EXTINF:-1,ABC WEST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77483
-#EXTINF:-1,CBS WEST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77481
-#EXTINF:-1,FOX WEST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77480
-#EXTINF:-1,NBC WEST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77482
-#EXTINF:-1,SportsMix
-http://primestreams.tv:826/jamesfamily/jamesfamily/84671
-#EXTINF:-1,ESPN Local (East Server)
-http://primestreams.tv:826/jamesfamily/jamesfamily/1262
-#EXTINF:-1,ESPN Local (West Server)
-http://primestreams.tv:826/jamesfamily/jamesfamily/86502
-#EXTINF:-1,ESPN Backup
-http://primestreams.tv:826/jamesfamily/jamesfamily/1709
-#EXTINF:-1,ESPN Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/77479
-#EXTINF:-1,ESPN2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95868
-#EXTINF:-1,ESPN2 Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/95869
-#EXTINF:-1,ESPN NEWS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1275
-#EXTINF:-1,ESPN U Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1274
-#EXTINF:-1,FOX SPORTS 1 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1367
-#EXTINF:-1,FOX SPORTS 2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38483
-#EXTINF:-1,FOX SOCCER PLUS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33472
-#EXTINF:-1,NFL NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1402
-#EXTINF:-1,NBA TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/29485
-#EXTINF:-1,MLB NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1389
-#EXTINF:-1,NHL NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/1612
-#EXTINF:-1,ELEVEN SPORTS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86505
-#EXTINF:-1,FANTASY SPORTS NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/40033
-#EXTINF:-1,TVG
-http://primestreams.tv:826/jamesfamily/jamesfamily/35449
-#EXTINF:-1,UFC FIGHT PASS
-http://primestreams.tv:826/jamesfamily/jamesfamily/95860
-#EXTINF:-1,UFC TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/33843
-#EXTINF:-1,WWE
-http://primestreams.tv:826/jamesfamily/jamesfamily/36372
-#EXTINF:-1,STADIUM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89136
-#EXTINF:-1,STADIUM 1 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89137
-#EXTINF:-1,STADIUM 2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89138
-#EXTINF:-1,STADIUM 3 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89139
-#EXTINF:-1,GOLF CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1479
-#EXTINF:-1,NBCSN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1396
-#EXTINF:-1,BIG TEN NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1467
-#EXTINF:-1,BTN 2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86541
-#EXTINF:-1,BTN 3 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86542
-#EXTINF:-1,BTN 4 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86543
-#EXTINF:-1,LONGHORN NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/34341
-#EXTINF:-1,SEC NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1419
-#EXTINF:-1,ESPN CLASSIC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95883
-#EXTINF:-1,ESPN College Sports Extra 1
-http://primestreams.tv:826/jamesfamily/jamesfamily/85262
-#EXTINF:-1,ESPN College Sports Extra 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/85263
-#EXTINF:-1,ESPN College Sports Extra 3
-http://primestreams.tv:826/jamesfamily/jamesfamily/85264
-#EXTINF:-1,ESPN College Sports Extra 4
-http://primestreams.tv:826/jamesfamily/jamesfamily/85265
-#EXTINF:-1,ESPN College Sports Extra 5
-http://primestreams.tv:826/jamesfamily/jamesfamily/85266
-#EXTINF:-1,ESPN College Sports Extra 6
-http://primestreams.tv:826/jamesfamily/jamesfamily/85267
-#EXTINF:-1,ESPN College Sports Extra 7
-http://primestreams.tv:826/jamesfamily/jamesfamily/85268
-#EXTINF:-1,ESPN College Sports Extra 8
-http://primestreams.tv:826/jamesfamily/jamesfamily/85269
-#EXTINF:-1,FOX COLLEGE ATLANTIC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33483
-#EXTINF:-1,FOX COLLEGE CENTRAL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33484
-#EXTINF:-1,FOX COLLEGE PACIFIC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36266
-#EXTINF:-1,FOX SPORTS ARIZONA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33761
-#EXTINF:-1,FOX SPORTS CAROLINAS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36274
-#EXTINF:-1,FOX SPORTS DETROIT Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33759
-#EXTINF:-1,FOX SPORTS INDIANA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/88267
-#EXTINF:-1,FOX SPORTS FLORIDA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33758
-#EXTINF:-1,FOX SPORTS MID WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33756
-#EXTINF:-1,FOX SPORTS NEW ORLEANS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36272
-#EXTINF:-1,FOX SPORTS NORTH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33755
-#EXTINF:-1,FOX SPORTS OHIO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33754
-#EXTINF:-1,FOX SPORTS OHIO PLUS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84649
-#EXTINF:-1,FOX SPORTS TIME OHIO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91157
-#EXTINF:-1,FOX SPORTS OKLAHOMA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89131
-#EXTINF:-1,FOX SPORTS PRIME TICKET Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36570
-#EXTINF:-1,FOX SPORTS RACING
-http://primestreams.tv:826/jamesfamily/jamesfamily/95859
-#EXTINF:-1,FOX SPORTS SAN DIEGO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36279
-#EXTINF:-1,FOX SPORTS SOUTH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33751
-#EXTINF:-1,FOX SPORTS SE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33750
-#EXTINF:-1,FOX SPORTS SW  Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33749
-#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
-http://primestreams.tv:826/jamesfamily/jamesfamily/36277
-#EXTINF:-1,FOX SPORTS SUN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33748
-#EXTINF:-1,FOX SPORTS WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33746
-#EXTINF:-1,FOX SPORTS WISCONSIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33745
-#EXTINF:-1,FOX SPORTS YES NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33762
-#EXTINF:-1,FOX DEPORTES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36267
-#EXTINF:-1,MSG
-http://primestreams.tv:826/jamesfamily/jamesfamily/33474
-#EXTINF:-1,MSG +
-http://primestreams.tv:826/jamesfamily/jamesfamily/38593
-#EXTINF:-1,SNY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38440
-#EXTINF:-1,NESN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/35508
-#EXTINF:-1,NESN PLUS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95016
-#EXTINF:-1,Pac-12 NETWORK (US)
-http://primestreams.tv:826/jamesfamily/jamesfamily/1413
-#EXTINF:-1,Pac-12 ARIZONA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1409
-#EXTINF:-1,Pac-12 WASHINGTON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1415
-#EXTINF:-1,Pac-12 OREGON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1414
-#EXTINF:-1,Pac-12 LOS ANGELES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1411
-#EXTINF:-1,Pac-12 BAY AREA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1410
-#EXTINF:-1,PAC-12 MOUNTAIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1596
-#EXTINF:-1,SPECTRUM SPORTSNET
-http://primestreams.tv:826/jamesfamily/jamesfamily/89362
-#EXTINF:-1,SPORTSNET L.A.
-http://primestreams.tv:826/jamesfamily/jamesfamily/59601
-#EXTINF:-1,NBCSN BAY AREA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1730
-#EXTINF:-1,NBCSN BOSTON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1732
-#EXTINF:-1,NBCSN CALIFORNIA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/35437
-#EXTINF:-1,NBCSN CHICAGO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1731
-#EXTINF:-1,NBCSN NORTH WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1733
-#EXTINF:-1,NBCSN PHILLY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1734
-#EXTINF:-1,NBCSN PHILLY +
-http://primestreams.tv:826/jamesfamily/jamesfamily/1735
-#EXTINF:-1,NBCSN Washington Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81822
-#EXTINF:-1,CBS SPORTS NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1281
-#EXTINF:-1,TENNIS CHANNEL
-http://primestreams.tv:826/jamesfamily/jamesfamily/31209
-#EXTINF:-1,FIGHT NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/29193
-#EXTINF:-1,Box Nation HD (UK)
-http://primestreams.tv:826/jamesfamily/jamesfamily/1380
-#EXTINF:-1,Bee T SPORTS 1 FHD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89214
-#EXTINF:-1,Bee T SPORTS 2 FHD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89213
-#EXTINF:-1,Bee T SPORTS 3 FHD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89212
-#EXTINF:-1,Bee T SPORTS EPSN FHD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89211
-#EXTINF:-1,SKEYE SPORTS ACTION
-http://primestreams.tv:826/jamesfamily/jamesfamily/1590
-#EXTINF:-1,SKEYE SPORTS ARENA
-http://primestreams.tv:826/jamesfamily/jamesfamily/27173
-#EXTINF:-1,SKEYE SPORTS CRICKET
-http://primestreams.tv:826/jamesfamily/jamesfamily/89940
-#EXTINF:-1,SKEYE SPORTS F1
-http://primestreams.tv:826/jamesfamily/jamesfamily/92188
-#EXTINF:-1,SKEYE SPORTS FOOTBALL
-http://primestreams.tv:826/jamesfamily/jamesfamily/1591
-#EXTINF:-1,SKEYE SPORTS GOLF
-http://primestreams.tv:826/jamesfamily/jamesfamily/1592
-#EXTINF:-1,SKEYE SPORTS MAIN EVENT
-http://primestreams.tv:826/jamesfamily/jamesfamily/27209
-#EXTINF:-1,SKEYE SPORTS NEWS
-http://primestreams.tv:826/jamesfamily/jamesfamily/2405
-#EXTINF:-1,SKEYE SPORTS PR3MIER LEAGUE
-http://primestreams.tv:826/jamesfamily/jamesfamily/1650
-#EXTINF:-1,EUROSPORT 1
-http://primestreams.tv:826/jamesfamily/jamesfamily/31459
-#EXTINF:-1,EUROSPORT 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/31460
-#EXTINF:-1,TSN 1
-http://primestreams.tv:826/jamesfamily/jamesfamily/1621
-#EXTINF:-1,TSN 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/1622
-#EXTINF:-1,TSN 3
-http://primestreams.tv:826/jamesfamily/jamesfamily/1623
-#EXTINF:-1,TSN 4
-http://primestreams.tv:826/jamesfamily/jamesfamily/1624
-#EXTINF:-1,TSN 5
-http://primestreams.tv:826/jamesfamily/jamesfamily/1625
-#EXTINF:-1,SPORTSNET WORLD
-http://primestreams.tv:826/jamesfamily/jamesfamily/1619
-#EXTINF:-1,SPORTSNET ONTARIO
-http://primestreams.tv:826/jamesfamily/jamesfamily/25999
-#EXTINF:-1,SPORTSNET 360
-http://primestreams.tv:826/jamesfamily/jamesfamily/26000
-#EXTINF:-1,SPORTSNET ONE
-http://primestreams.tv:826/jamesfamily/jamesfamily/26001
-#EXTINF:-1,SPORTSNET PACIFIC
-http://primestreams.tv:826/jamesfamily/jamesfamily/26002
-#EXTINF:-1,BEIN SPORTS ESP (US)
-http://primestreams.tv:826/jamesfamily/jamesfamily/27685
-#EXTINF:-1,BEIN SPORT LA LIGA esp
-http://primestreams.tv:826/jamesfamily/jamesfamily/28014
-#EXTINF:-1,BEIN SPORT esp
-http://primestreams.tv:826/jamesfamily/jamesfamily/36412
-#EXTINF:-1,BEIN SPORTS USA
-http://primestreams.tv:826/jamesfamily/jamesfamily/1501
-#EXTINF:-1,BEIN CONNECT 4 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38455
-#EXTINF:-1,BEIN CONNECT 5 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38456
-#EXTINF:-1,BEIN CONNECT 6 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38457
-#EXTINF:-1,BEIN CONNECT 7 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38458
-#EXTINF:-1,BEIN CONNECT 8 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38459
-#EXTINF:-1,Bee n Sport 1 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89210
-#EXTINF:-1,Bee n Sport 2 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89209
-#EXTINF:-1,Bee N Sport 3 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89208
-#EXTINF:-1,Bee N Sport 4 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89207
-#EXTINF:-1,Bee n Sports 5
-http://primestreams.tv:826/jamesfamily/jamesfamily/89206
-#EXTINF:-1,Bee n Sports 6
-http://primestreams.tv:826/jamesfamily/jamesfamily/89205
-#EXTINF:-1,Bee n Sports 7
-http://primestreams.tv:826/jamesfamily/jamesfamily/89204
-#EXTINF:-1,Bee N Sport 8 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89203
-#EXTINF:-1,Bee N Sport 9 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89202
-#EXTINF:-1,Bee N Sport 10 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89201
-#EXTINF:-1,Bee N Sport 11 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89200
-#EXTINF:-1,Bee n Sport 12 HD
-http://primestreams.tv:826/jamesfamily/jamesfamily/89199
-#EXTINF:-1,OSN CRICKET
-http://primestreams.tv:826/jamesfamily/jamesfamily/95012
-#EXTINF:-1,WILLOW 1
-http://primestreams.tv:826/jamesfamily/jamesfamily/92900
-#EXTINF:-1,WILLOW 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/92899
-#EXTINF:-1,WILLOW 3
-http://primestreams.tv:826/jamesfamily/jamesfamily/92898
-#EXTINF:-1,WILLOW 4
-http://primestreams.tv:826/jamesfamily/jamesfamily/92897
-#EXTINF:-1,WILLOW 5
-http://primestreams.tv:826/jamesfamily/jamesfamily/92896
-#EXTINF:-1,MOTOGP: (EVENTS ONLY)
-http://primestreams.tv:826/jamesfamily/jamesfamily/35101
-#EXTINF:-1,MOTOGP: ATMOS
-http://primestreams.tv:826/jamesfamily/jamesfamily/95808
-#EXTINF:-1,MOTOGP: HELICOPTER
-http://primestreams.tv:826/jamesfamily/jamesfamily/95807
-#EXTINF:-1,MOTOGP: ON BOARD CAMERA 1
-http://primestreams.tv:826/jamesfamily/jamesfamily/95806
-#EXTINF:-1,MOTOGP: ON BOARD CAMERA 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/95805
-#EXTINF:-1,MOTOGP: ON BOARD CAMERA 3
-http://primestreams.tv:826/jamesfamily/jamesfamily/95804
-#EXTINF:-1,MOTOGP: ON BOARD CAMERA 4
-http://primestreams.tv:826/jamesfamily/jamesfamily/95803
-#EXTINF:-1,MOTOGP MOVISTAR (ES)
-http://primestreams.tv:826/jamesfamily/jamesfamily/35099
-#EXTINF:-1,MAVTV
-http://primestreams.tv:826/jamesfamily/jamesfamily/1267
-#EXTINF:-1,MOTORSPORT TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/31458
-#EXTINF:-1,SPORTSMAN CHANNEL
-http://primestreams.tv:826/jamesfamily/jamesfamily/36070
-#EXTINF:-1,OUTDOOR CHANNEL
-http://primestreams.tv:826/jamesfamily/jamesfamily/26029
-#EXTINF:-1,World Fishing Network
-http://primestreams.tv:826/jamesfamily/jamesfamily/30261
-#EXTINF:-1,OUTSIDE TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38436
-#EXTINF:-1,MOTORTREND Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1452
-#EXTINF:-1,MOTORTREND Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86534
-#EXTINF:-1,RED BULL TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/1757
-#EXTINF:-1,A&E Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1307
-#EXTINF:-1,A&E BACKUP
-http://primestreams.tv:826/jamesfamily/jamesfamily/33265
-#EXTINF:-1,AMC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1317
-#EXTINF:-1,AMC Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86492
-#EXTINF:-1,AMERICAN HEROES CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1681
-#EXTINF:-1,AMERICAN HEROES CHANNEL Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87594
-#EXTINF:-1,ANIMAL PLANET Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1466
-#EXTINF:-1,ANIMAL PLANET Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87593
-#EXTINF:-1,ANIMAL PLANET WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86531
-#EXTINF:-1,ANTENNA TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/39211
-#EXTINF:-1,AWE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89531
-#EXTINF:-1,AXS TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36608
-#EXTINF:-1,BABY FIRST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95776
-#EXTINF:-1,BABY FIRST Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/95777
-#EXTINF:-1,BABY TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38435
-#EXTINF:-1,BBC AMERICA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1329
-#EXTINF:-1,BET Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1330
-#EXTINF:-1,BET Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89162
-#EXTINF:-1,BET HER
-http://primestreams.tv:826/jamesfamily/jamesfamily/35193
-#EXTINF:-1,BLOOMBERG TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/30274
-#EXTINF:-1,BOOMERANG Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1683
-#EXTINF:-1,BOOMERANG Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87592
-#EXTINF:-1,BOUNCE TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95884
-#EXTINF:-1,BRAVO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1379
-#EXTINF:-1,BRAVO Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87599
-#EXTINF:-1,BTRN Classics Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95790
-#EXTINF:-1,BYU TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92947
-#EXTINF:-1,C-SPAN
-http://primestreams.tv:826/jamesfamily/jamesfamily/30039
-#EXTINF:-1,C-SPAN 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/30038
-#EXTINF:-1,C-SPAN 3
-http://primestreams.tv:826/jamesfamily/jamesfamily/30037
-#EXTINF:-1,CARTOON NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1378
-#EXTINF:-1,CARTOON NETWORK Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87598
-#EXTINF:-1,CARTOON NETWORK WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38628
-#EXTINF:-1,CBS Action
-http://primestreams.tv:826/jamesfamily/jamesfamily/1654
-#EXTINF:-1,CBS DRAMA
-http://primestreams.tv:826/jamesfamily/jamesfamily/1655
-#EXTINF:-1,CBS REALITY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1656
-#EXTINF:-1,CHEDDAR BIG NEWS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90396
-#EXTINF:-1,CHEDDAR NEWS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90395
-#EXTINF:-1,CMT Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1345
-#EXTINF:-1,CMT Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89059
-#EXTINF:-1,CNBC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1346
-#EXTINF:-1,CNBC WORLD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91153
-#EXTINF:-1,CNN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1347
-#EXTINF:-1,COMEDY CENTRAL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1679
-#EXTINF:-1,COOKING CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1259
-#EXTINF:-1,COMET Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91152
-#EXTINF:-1,COWBOY CHANNEL
-http://primestreams.tv:826/jamesfamily/jamesfamily/90060
-#EXTINF:-1,COZI TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38429
-#EXTINF:-1,CW (CINCI) Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95870
-#EXTINF:-1,CW (MY50) Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1350
-#EXTINF:-1,DESTINATION AMERICA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1462
-#EXTINF:-1,DISCOVERY CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/39638
-#EXTINF:-1,DISCOVERY CHANNEL Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86501
-#EXTINF:-1,DISCOVERY CHANNEL WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1443
-#EXTINF:-1,DISCOVERY FAMILY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38619
-#EXTINF:-1,DISCOVERY LIFE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38620
-#EXTINF:-1,DISCOVERY SCIENCE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1687
-#EXTINF:-1,DISCOVERY TURBO
-http://primestreams.tv:826/jamesfamily/jamesfamily/1692
-#EXTINF:-1,DISNEY CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1358
-#EXTINF:-1,DISNEY CHANNEL Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87586
-#EXTINF:-1,DISNEY JR Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1261
-#EXTINF:-1,DISNEY JR Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86497
-#EXTINF:-1,DISNEY XD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1672
-#EXTINF:-1,DISNEY XD Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87590
-#EXTINF:-1,DISNEY CHANNEL WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38627
-#EXTINF:-1,DISNEY JR WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38626
-#EXTINF:-1,DISNEY XD WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38625
-#EXTINF:-1,DIY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1463
-#EXTINF:-1,DOG TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/92292
-#EXTINF:-1,E! Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1653
-#EXTINF:-1,E! Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87591
-#EXTINF:-1,EL REY
-http://primestreams.tv:826/jamesfamily/jamesfamily/29176
-#EXTINF:-1,ESCAPE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/39212
-#EXTINF:-1,FOOD NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/29480
-#EXTINF:-1,FOOD NETWORK Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86494
-#EXTINF:-1,FREE SPEECH TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90394
-#EXTINF:-1,FREEFORM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1677
-#EXTINF:-1,FX Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1364
-#EXTINF:-1,FX WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85209
-#EXTINF:-1,FX MOVIE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/29312
-#EXTINF:-1,FXX Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1671
-#EXTINF:-1,FOX BUSINESS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/27167
-#EXTINF:-1,FOX NEWS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/31684
-#EXTINF:-1,FUSE
-http://primestreams.tv:826/jamesfamily/jamesfamily/29989
-#EXTINF:-1,FUSION Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/29988
-#EXTINF:-1,FYI
-http://primestreams.tv:826/jamesfamily/jamesfamily/31451
-#EXTINF:-1,GAME SHOW NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/1369
-#EXTINF:-1,GINX eSPORTS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91154
-#EXTINF:-1,BUZZR
-http://primestreams.tv:826/jamesfamily/jamesfamily/26760
-#EXTINF:-1,PopTV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1264
-#EXTINF:-1,GRIT Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1371
-#EXTINF:-1,HALLMARK CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1375
-#EXTINF:-1,HALLMARK CHANNEL Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86496
-#EXTINF:-1,HALLMARK DRAMA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38591
-#EXTINF:-1,HALLMARK MOVIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1611
-#EXTINF:-1,HGTV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1589
-#EXTINF:-1,HGTV Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86493
-#EXTINF:-1,HGTV WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86533
-#EXTINF:-1,HISTORY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1386
-#EXTINF:-1,HLN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38633
-#EXTINF:-1,iBATTLE TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95793
-#EXTINF:-1,IFC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1579
-#EXTINF:-1,INVESTIGATION DISCOVERY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/35716
-#EXTINF:-1,INVESTIGATION DISCOVERY Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86500
-#EXTINF:-1,INVESTIGATION DISCOVERY West Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1594
-#EXTINF:-1,ION TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/28901
-#EXTINF:-1,LAFF TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84190
-#EXTINF:-1,LAW & CRIME Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92837
-#EXTINF:-1,LIFETIME
-http://primestreams.tv:826/jamesfamily/jamesfamily/1446
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/2514
-#EXTINF:-1,ME TV EAST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38431
-#EXTINF:-1,MSNBC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/30001
-#EXTINF:-1,MTV
-http://primestreams.tv:826/jamesfamily/jamesfamily/1657
-#EXTINF:-1,MY64 (CINCI) Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92834
-#EXTINF:-1,NAT GEO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1403
-#EXTINF:-1,NAT GEO WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77223
-#EXTINF:-1,NAT GEO WILD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1784
-#EXTINF:-1,NECN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89012
-#EXTINF:-1,NEWSMAX 2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90393
-#EXTINF:-1,NEWSMAX 3 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90392
-#EXTINF:-1,NICKELODEON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1445
-#EXTINF:-1,NICK JR
-http://primestreams.tv:826/jamesfamily/jamesfamily/1268
-#EXTINF:-1,NICKTOONS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1407
-#EXTINF:-1,ONE AMERICA NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/36607
-#EXTINF:-1,OWN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1488
-#EXTINF:-1,OXYGEN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1489
-#EXTINF:-1,PARAMOUNT NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/1434
-#EXTINF:-1,PBS East
-http://primestreams.tv:826/jamesfamily/jamesfamily/75496
-#EXTINF:-1,PBS KIDS
-http://primestreams.tv:826/jamesfamily/jamesfamily/41008
-#EXTINF:-1,PEOPLE TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/40051
-#EXTINF:-1,PETS TV
-http://primestreams.tv:826/jamesfamily/jamesfamily/91126
-#EXTINF:-1,QVC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/35468
-#EXTINF:-1,RECOIL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95789
-#EXTINF:-1,REVOLT
-http://primestreams.tv:826/jamesfamily/jamesfamily/29310
-#EXTINF:-1,RIDE TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92982
-#EXTINF:-1,RODEO CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90181
-#EXTINF:-1,SMITHSONIAN CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/35461
-#EXTINF:-1,SONY MOVIE CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38701
-#EXTINF:-1,START TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/41306
-#EXTINF:-1,SUNDANCETV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1435
-#EXTINF:-1,SYFY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1270
-#EXTINF:-1,TASTEMADE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95075
-#EXTINF:-1,TBS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1272
-#EXTINF:-1,TBS Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87589
-#EXTINF:-1,TBS WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38621
-#EXTINF:-1,TCM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/33103
-#EXTINF:-1,TEEN NICK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92681
-#EXTINF:-1,THE COUNTRY NETWORK
-http://primestreams.tv:826/jamesfamily/jamesfamily/30035
-#EXTINF:-1,TLC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1667
-#EXTINF:-1,TLC WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86532
-#EXTINF:-1,TNT Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1448
-#EXTINF:-1,TNT Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87588
-#EXTINF:-1,TNT WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38622
-#EXTINF:-1,TRAVEL CHANNEL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/2028
-#EXTINF:-1,TRU TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1587
-#EXTINF:-1,TUFF TV HD (DIRECT)
-http://primestreams.tv:826/jamesfamily/jamesfamily/30036
-#EXTINF:-1,TV LAND (VLC)
-http://primestreams.tv:826/jamesfamily/jamesfamily/1676
-#EXTINF:-1,TV ONE
-http://primestreams.tv:826/jamesfamily/jamesfamily/29307
-#EXTINF:-1,USA NETWORK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1449
-#EXTINF:-1,USA NETWORK Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/86495
-#EXTINF:-1,USA NETWORK WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38623
-#EXTINF:-1,UNIVERSAL KIDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38434
-#EXTINF:-1,VH1 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1586
-#EXTINF:-1,VH1 Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89060
-#EXTINF:-1,WE TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1593
-#EXTINF:-1,VICELAND
-http://primestreams.tv:826/jamesfamily/jamesfamily/1457
-#EXTINF:-1,WEATHER CHANNEL
-http://primestreams.tv:826/jamesfamily/jamesfamily/1454
-#EXTINF:-1,WEATHER NATION Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90389
-#EXTINF:-1,WGN 9 (CHI) Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95011
-#EXTINF:-1,WGN AMERICA
-http://primestreams.tv:826/jamesfamily/jamesfamily/35509
-#EXTINF:-1,HBO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1265
-#EXTINF:-1,GAME OF THRONES
-http://primestreams.tv:826/jamesfamily/jamesfamily/94786
-#EXTINF:-1,HBO Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87596
-#EXTINF:-1,GAME OF THRONES LowBW
-http://primestreams.tv:826/jamesfamily/jamesfamily/94787
-#EXTINF:-1,HBO WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77224
-#EXTINF:-1,HBO COMEDY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1465
-#EXTINF:-1,HBO FAMILY
-http://primestreams.tv:826/jamesfamily/jamesfamily/37652
-#EXTINF:-1,HBO SIGNATURE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/2515
-#EXTINF:-1,HBO SIGNATURE Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89058
-#EXTINF:-1,HBO ZONE
-http://primestreams.tv:826/jamesfamily/jamesfamily/1674
-#EXTINF:-1,CINEMAX Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1282
-#EXTINF:-1,CINEMAX Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87597
-#EXTINF:-1,CINEMAX WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38700
-#EXTINF:-1,CINEMAX 5STAR MAX Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89057
-#EXTINF:-1,CINEMAX 5STAR MAX Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89056
-#EXTINF:-1,CINEMAX ACTIONMAX
-http://primestreams.tv:826/jamesfamily/jamesfamily/90707
-#EXTINF:-1,CINEMAX MOREMAX
-http://primestreams.tv:826/jamesfamily/jamesfamily/28009
-#EXTINF:-1,CINEMAX MOVIEMAX Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90706
-#EXTINF:-1,CINEMAX OUTERMAX
-http://primestreams.tv:826/jamesfamily/jamesfamily/90705
-#EXTINF:-1,CINEMAX THRILLERMAX
-http://primestreams.tv:826/jamesfamily/jamesfamily/28010
-#EXTINF:-1,REELZ
-http://primestreams.tv:826/jamesfamily/jamesfamily/1277
-#EXTINF:-1,SHOWTIME Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1580
-#EXTINF:-1,SHOWTIME Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/87595
-#EXTINF:-1,SHOWTIME WEST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/39223
-#EXTINF:-1,SHOWTIME 2
-http://primestreams.tv:826/jamesfamily/jamesfamily/31685
-#EXTINF:-1,SHOWTIME BEYOND
-http://primestreams.tv:826/jamesfamily/jamesfamily/90710
-#EXTINF:-1,SHOWTIME EXTREME
-http://primestreams.tv:826/jamesfamily/jamesfamily/36605
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://primestreams.tv:826/jamesfamily/jamesfamily/90709
-#EXTINF:-1,SHOWTIME NEXT
-http://primestreams.tv:826/jamesfamily/jamesfamily/89082
-#EXTINF:-1,SHOWTIME SHOWCASE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/1421
-#EXTINF:-1,SHOWTIME SHOWCASE Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89061
-#EXTINF:-1,SHOWTIME WOMEN
-http://primestreams.tv:826/jamesfamily/jamesfamily/90708
-#EXTINF:-1,STARZ
-http://primestreams.tv:826/jamesfamily/jamesfamily/1271
-#EXTINF:-1,STARZ COMEDY
-http://primestreams.tv:826/jamesfamily/jamesfamily/95017
-#EXTINF:-1,STARZ EDGE
-http://primestreams.tv:826/jamesfamily/jamesfamily/31223
-#EXTINF:-1,STARZ ENCORE
-http://primestreams.tv:826/jamesfamily/jamesfamily/94991
-#EXTINF:-1,STARZ ENCORE ACTION Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95801
-#EXTINF:-1,STARZ ENCORE CLASSIC Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95873
-#EXTINF:-1,STARZ ENCORE WESTERNS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92315
-#EXTINF:-1,STARZ ENCORE SUSPENSE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95802
-#EXTINF:-1,STARZ IN BLACK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89055
-#EXTINF:-1,STARZ IN BLACK Low BW
-http://primestreams.tv:826/jamesfamily/jamesfamily/89054
-#EXTINF:-1,STARZ KIDS & FAMILY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1838
-#EXTINF:-1,EPIX
-http://primestreams.tv:826/jamesfamily/jamesfamily/1360
-#EXTINF:-1,EPIX 2 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95872
-#EXTINF:-1,EPIX HITS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38629
-#EXTINF:-1,SKY ARTS
-http://primestreams.tv:826/jamesfamily/jamesfamily/2408
-#EXTINF:-1,SKY CINEMA ACTION
-http://primestreams.tv:826/jamesfamily/jamesfamily/1581
-#EXTINF:-1,SKY CINEMA COMEDY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1582
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER
-http://primestreams.tv:826/jamesfamily/jamesfamily/1666
-#EXTINF:-1,SKY CINEMA DISNEY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1583
-#EXTINF:-1,SKY CINEMA DRAMA ROMANCE
-http://primestreams.tv:826/jamesfamily/jamesfamily/1584
-#EXTINF:-1,SKY CINEMA FAMILY
-http://primestreams.tv:826/jamesfamily/jamesfamily/1585
-#EXTINF:-1,SKY CINEMA GREATS
-http://primestreams.tv:826/jamesfamily/jamesfamily/1773
-#EXTINF:-1,SKY CINEMA HITS
-http://primestreams.tv:826/jamesfamily/jamesfamily/27212
-#EXTINF:-1,SKY CINEMA PREMIER
-http://primestreams.tv:826/jamesfamily/jamesfamily/1663
-#EXTINF:-1,SKY CINEMA SELECT
-http://primestreams.tv:826/jamesfamily/jamesfamily/1665
-#EXTINF:-1,SKY CINEMA SCI-FI & HORROR
-http://primestreams.tv:826/jamesfamily/jamesfamily/1664
-#EXTINF:-1,RELATIONSHIP TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/95787
-#EXTINF:-1,US - A&E HD
+#EXTINF:-1, links-iptv.com-US - A&E HD
 http://voxtv.dynns.com:8000/USA/USA/2247
-#EXTINF:-1,US - US ABC HD
+#EXTINF:-1, links-iptv.com-US - US ABC HD
 http://voxtv.dynns.com:8000/USA/USA/2248
-#EXTINF:-1,US - ABC NEWS HD
+#EXTINF:-1, links-iptv.com-US - ABC NEWS HD
 http://voxtv.dynns.com:8000/USA/USA/2249
-#EXTINF:-1,US - AFN SPORTS 1
+#EXTINF:-1, links-iptv.com-US - AFN SPORTS 1
 http://voxtv.dynns.com:8000/USA/USA/2250
-#EXTINF:-1,US - AFN SPORTS 2
+#EXTINF:-1, links-iptv.com-US - AFN SPORTS 2
 http://voxtv.dynns.com:8000/USA/USA/2251
-#EXTINF:-1,US - AMAZING DISCOVERIES HD
+#EXTINF:-1, links-iptv.com-US - AMAZING DISCOVERIES HD
 http://voxtv.dynns.com:8000/USA/USA/2253
-#EXTINF:-1,US - AMC HD
+#EXTINF:-1, links-iptv.com-US - AMC HD
 http://voxtv.dynns.com:8000/USA/USA/2252
-#EXTINF:-1,US - ANIMAL PLANET HD
+#EXTINF:-1, links-iptv.com-US - ANIMAL PLANET HD
 http://voxtv.dynns.com:8000/USA/USA/2254
-#EXTINF:-1,US - BEIN SPORTS HD
+#EXTINF:-1, links-iptv.com-US - BEIN SPORTS HD
 http://voxtv.dynns.com:8000/USA/USA/2352
-#EXTINF:-1,US - BLOOMBERG EUROPE
+#EXTINF:-1, links-iptv.com-US - BLOOMBERG EUROPE
 http://voxtv.dynns.com:8000/USA/USA/2256
-#EXTINF:-1,US - BLOOMBERG TV
+#EXTINF:-1, links-iptv.com-US - BLOOMBERG TV
 http://voxtv.dynns.com:8000/USA/USA/2257
-#EXTINF:-1,US - Boomerang
+#EXTINF:-1, links-iptv.com-US - Boomerang
 http://voxtv.dynns.com:8000/USA/USA/2258
-#EXTINF:-1,US - BRAVO HD
+#EXTINF:-1, links-iptv.com-US - BRAVO HD
 http://voxtv.dynns.com:8000/USA/USA/2259
-#EXTINF:-1,US - BYU TV
+#EXTINF:-1, links-iptv.com-US - BYU TV
 http://voxtv.dynns.com:8000/USA/USA/2255
-#EXTINF:-1,US - C-SPAN 1
+#EXTINF:-1, links-iptv.com-US - C-SPAN 1
 http://voxtv.dynns.com:8000/USA/USA/2260
-#EXTINF:-1,US - C-SPAN 2
+#EXTINF:-1, links-iptv.com-US - C-SPAN 2
 http://voxtv.dynns.com:8000/USA/USA/2261
-#EXTINF:-1,US - C-SPAN 3
+#EXTINF:-1, links-iptv.com-US - C-SPAN 3
 http://voxtv.dynns.com:8000/USA/USA/2262
-#EXTINF:-1,US - CA SPORTSNET 360 HD
+#EXTINF:-1, links-iptv.com-US - CA SPORTSNET 360 HD
 http://voxtv.dynns.com:8000/USA/USA/2263
-#EXTINF:-1,US - CARTOON NETWORK
+#EXTINF:-1, links-iptv.com-US - CARTOON NETWORK
 http://voxtv.dynns.com:8000/USA/USA/2270
-#EXTINF:-1,US - CBS
+#EXTINF:-1, links-iptv.com-US - CBS
 http://voxtv.dynns.com:8000/USA/USA/2264
-#EXTINF:-1,US - CBSN  HD
+#EXTINF:-1, links-iptv.com-US - CBSN  HD
 http://voxtv.dynns.com:8000/USA/USA/2265
-#EXTINF:-1,US - CINEMAX 5
+#EXTINF:-1, links-iptv.com-US - CINEMAX 5
 http://voxtv.dynns.com:8000/USA/USA/2271
-#EXTINF:-1,US - CINEMAX ACTION HD
+#EXTINF:-1, links-iptv.com-US - CINEMAX ACTION HD
 http://voxtv.dynns.com:8000/USA/USA/2272
-#EXTINF:-1,US - CINEMAX ACTIONMAX EAST
+#EXTINF:-1, links-iptv.com-US - CINEMAX ACTIONMAX EAST
 http://voxtv.dynns.com:8000/USA/USA/2273
-#EXTINF:-1,US - CINEMAX EAST
+#EXTINF:-1, links-iptv.com-US - CINEMAX EAST
 http://voxtv.dynns.com:8000/USA/USA/2274
-#EXTINF:-1,US - CINEMAX MOREMAX
+#EXTINF:-1, links-iptv.com-US - CINEMAX MOREMAX
 http://voxtv.dynns.com:8000/USA/USA/2275
-#EXTINF:-1,US - C N B C
+#EXTINF:-1, links-iptv.com-US - C N B C
 http://voxtv.dynns.com:8000/USA/USA/2266
-#EXTINF:-1,US - CNN HD
+#EXTINF:-1, links-iptv.com-US - CNN HD
 http://voxtv.dynns.com:8000/USA/USA/2267
-#EXTINF:-1,UK - COMEDY CENTRAL HD
+#EXTINF:-1, links-iptv.com-UK - COMEDY CENTRAL HD
 http://voxtv.dynns.com:8000/USA/USA/2276
-#EXTINF:-1,US - CW HD
+#EXTINF:-1, links-iptv.com-US - CW HD
 http://voxtv.dynns.com:8000/USA/USA/2268
-#EXTINF:-1,US - CW11
+#EXTINF:-1, links-iptv.com-US - CW11
 http://voxtv.dynns.com:8000/USA/USA/2269
-#EXTINF:-1,US - DISCOVERY HD
+#EXTINF:-1, links-iptv.com-US - DISCOVERY HD
 http://voxtv.dynns.com:8000/USA/USA/2280
-#EXTINF:-1,US - DISCOVERY HD SHOWCASE
+#EXTINF:-1, links-iptv.com-US - DISCOVERY HD SHOWCASE
 http://voxtv.dynns.com:8000/USA/USA/2279
-#EXTINF:-1,US - DISCOVERY SCIENCE HD
+#EXTINF:-1, links-iptv.com-US - DISCOVERY SCIENCE HD
 http://voxtv.dynns.com:8000/USA/USA/2281
-#EXTINF:-1,US - DISCOVERY VELOCITY
+#EXTINF:-1, links-iptv.com-US - DISCOVERY VELOCITY
 http://voxtv.dynns.com:8000/USA/USA/2282
-#EXTINF:-1,US - DIY NETWORK
+#EXTINF:-1, links-iptv.com-US - DIY NETWORK
 http://voxtv.dynns.com:8000/USA/USA/2277
-#EXTINF:-1,US - DW
+#EXTINF:-1, links-iptv.com-US - DW
 http://voxtv.dynns.com:8000/USA/USA/2278
-#EXTINF:-1,US - ESPN  1
+#EXTINF:-1, links-iptv.com-US - ESPN  1
 http://voxtv.dynns.com:8000/USA/USA/2283
-#EXTINF:-1,US - ESPN 2
+#EXTINF:-1, links-iptv.com-US - ESPN 2
 http://voxtv.dynns.com:8000/USA/USA/2284
-#EXTINF:-1,US - ESPN HD
+#EXTINF:-1, links-iptv.com-US - ESPN HD
 http://voxtv.dynns.com:8000/USA/USA/2285
-#EXTINF:-1,US - FASHION ONE HD
+#EXTINF:-1, links-iptv.com-US - FASHION ONE HD
 http://voxtv.dynns.com:8000/USA/USA/2290
-#EXTINF:-1,US - FIGHT HD
+#EXTINF:-1, links-iptv.com-US - FIGHT HD
 http://voxtv.dynns.com:8000/USA/USA/2291
-#EXTINF:-1,US - FIGHT SPORTS
+#EXTINF:-1, links-iptv.com-US - FIGHT SPORTS
 http://voxtv.dynns.com:8000/USA/USA/2292
-#EXTINF:-1,US - FINE LIVING
+#EXTINF:-1, links-iptv.com-US - FINE LIVING
 http://voxtv.dynns.com:8000/USA/USA/2293
-#EXTINF:-1,US - FOOD NETWORK HD
+#EXTINF:-1, links-iptv.com-US - FOOD NETWORK HD
 http://voxtv.dynns.com:8000/USA/USA/2294
-#EXTINF:-1,US - FOX 43
+#EXTINF:-1, links-iptv.com-US - FOX 43
 http://voxtv.dynns.com:8000/USA/USA/2286
-#EXTINF:-1,US - FOX HD
+#EXTINF:-1, links-iptv.com-US - FOX HD
 http://voxtv.dynns.com:8000/USA/USA/2299
-#EXTINF:-1,US - FOX NEWS HD
+#EXTINF:-1, links-iptv.com-US - FOX NEWS HD
 http://voxtv.dynns.com:8000/USA/USA/2295
-#EXTINF:-1,US - FOX SPORTS 1 HD
+#EXTINF:-1, links-iptv.com-US - FOX SPORTS 1 HD
 http://voxtv.dynns.com:8000/USA/USA/2296
-#EXTINF:-1,US - FOX SPORTS 2 HD
+#EXTINF:-1, links-iptv.com-US - FOX SPORTS 2 HD
 http://voxtv.dynns.com:8000/USA/USA/2297
-#EXTINF:-1,US - FOX SPORTS 506 HD
+#EXTINF:-1, links-iptv.com-US - FOX SPORTS 506 HD
 http://voxtv.dynns.com:8000/USA/USA/2298
-#EXTINF:-1,US - FREE FORM HD
+#EXTINF:-1, links-iptv.com-US - FREE FORM HD
 http://voxtv.dynns.com:8000/USA/USA/2300
-#EXTINF:-1,US - FUEL HD
+#EXTINF:-1, links-iptv.com-US - FUEL HD
 http://voxtv.dynns.com:8000/USA/USA/2301
-#EXTINF:-1,US - FX HD
+#EXTINF:-1, links-iptv.com-US - FX HD
 http://voxtv.dynns.com:8000/USA/USA/2289
-#EXTINF:-1,US - H 2
+#EXTINF:-1, links-iptv.com-US - H 2
 http://voxtv.dynns.com:8000/USA/USA/2302
-#EXTINF:-1,US - HALLMARK
+#EXTINF:-1, links-iptv.com-US - HALLMARK
 http://voxtv.dynns.com:8000/USA/USA/2311
-#EXTINF:-1,US - HBO COMEDY
+#EXTINF:-1, links-iptv.com-US - HBO COMEDY
 http://voxtv.dynns.com:8000/USA/USA/2303
-#EXTINF:-1,US - HBO EAST
+#EXTINF:-1, links-iptv.com-US - HBO EAST
 http://voxtv.dynns.com:8000/USA/USA/2304
-#EXTINF:-1,US - HBO HD
+#EXTINF:-1, links-iptv.com-US - HBO HD
 http://voxtv.dynns.com:8000/USA/USA/2305
-#EXTINF:-1,US - HBO SIGNATURE
+#EXTINF:-1, links-iptv.com-US - HBO SIGNATURE
 http://voxtv.dynns.com:8000/USA/USA/2306
-#EXTINF:-1,US - HBO ZONE
+#EXTINF:-1, links-iptv.com-US - HBO ZONE
 http://voxtv.dynns.com:8000/USA/USA/2307
-#EXTINF:-1,US - HGTV HD
+#EXTINF:-1, links-iptv.com-US - HGTV HD
 http://voxtv.dynns.com:8000/USA/USA/2308
-#EXTINF:-1,US - HIFI
+#EXTINF:-1, links-iptv.com-US - HIFI
 http://voxtv.dynns.com:8000/USA/USA/2309
-#EXTINF:-1,US - HISTORY HD
+#EXTINF:-1, links-iptv.com-US - HISTORY HD
 http://voxtv.dynns.com:8000/USA/USA/2312
-#EXTINF:-1,US - HSN YT LIVE 1080P HD
+#EXTINF:-1, links-iptv.com-US - HSN YT LIVE 1080P HD
 http://voxtv.dynns.com:8000/USA/USA/2310
-#EXTINF:-1,US - MBL HD
+#EXTINF:-1, links-iptv.com-US - MBL HD
 http://voxtv.dynns.com:8000/USA/USA/2313
-#EXTINF:-1,US - MLB NETWORK
+#EXTINF:-1, links-iptv.com-US - MLB NETWORK
 http://voxtv.dynns.com:8000/USA/USA/2314
-#EXTINF:-1,US - MSNBC HD
+#EXTINF:-1, links-iptv.com-US - MSNBC HD
 http://voxtv.dynns.com:8000/USA/USA/2315
-#EXTINF:-1,US - MTV ROCKS
+#EXTINF:-1, links-iptv.com-US - MTV ROCKS
 http://voxtv.dynns.com:8000/USA/USA/2316
-#EXTINF:-1,US - NATIONAL GEOGRAPHIC
+#EXTINF:-1, links-iptv.com-US - NATIONAL GEOGRAPHIC
 http://voxtv.dynns.com:8000/USA/USA/2323
-#EXTINF:-1,US - NBA HD
+#EXTINF:-1, links-iptv.com-US - NBA HD
 http://voxtv.dynns.com:8000/USA/USA/2317
-#EXTINF:-1,US - NBC
+#EXTINF:-1, links-iptv.com-US - NBC
 http://voxtv.dynns.com:8000/USA/USA/2318
-#EXTINF:-1,US - CBSN HD
+#EXTINF:-1, links-iptv.com-US - CBSN HD
 http://voxtv.dynns.com:8000/USA/USA/2319
-#EXTINF:-1,US - USA Network HD
+#EXTINF:-1, links-iptv.com-US - USA Network HD
 http://voxtv.dynns.com:8000/USA/USA/2324
-#EXTINF:-1,US - NFL NETWORK 1
+#EXTINF:-1, links-iptv.com-US - NFL NETWORK 1
 http://voxtv.dynns.com:8000/USA/USA/2353
-#EXTINF:-1,US - NFL NETWORK 1080i
+#EXTINF:-1, links-iptv.com-US - NFL NETWORK 1080i
 http://voxtv.dynns.com:8000/USA/USA/2320
-#EXTINF:-1,US - NFL NETWORK HD
+#EXTINF:-1, links-iptv.com-US - NFL NETWORK HD
 http://voxtv.dynns.com:8000/USA/USA/2321
-#EXTINF:-1,US - NHL NETWORK
+#EXTINF:-1, links-iptv.com-US - NHL NETWORK
 http://voxtv.dynns.com:8000/USA/USA/2322
-#EXTINF:-1,US - OUTDOOR CHANNEL HD
+#EXTINF:-1, links-iptv.com-US - OUTDOOR CHANNEL HD
 http://voxtv.dynns.com:8000/USA/USA/2325
-#EXTINF:-1,US - PAC-12 ARIZONA
+#EXTINF:-1, links-iptv.com-US - PAC-12 ARIZONA
 http://voxtv.dynns.com:8000/USA/USA/2326
-#EXTINF:-1,US - PAC-12 BAY AREA
+#EXTINF:-1, links-iptv.com-US - PAC-12 BAY AREA
 http://voxtv.dynns.com:8000/USA/USA/2327
-#EXTINF:-1,US - PAC-12 LOS ANGELES
+#EXTINF:-1, links-iptv.com-US - PAC-12 LOS ANGELES
 http://voxtv.dynns.com:8000/USA/USA/2328
-#EXTINF:-1,US - PAC-12 OREGON
+#EXTINF:-1, links-iptv.com-US - PAC-12 OREGON
 http://voxtv.dynns.com:8000/USA/USA/2329
-#EXTINF:-1,US - PAC-12 WASHINGTON
+#EXTINF:-1, links-iptv.com-US - PAC-12 WASHINGTON
 http://voxtv.dynns.com:8000/USA/USA/2330
-#EXTINF:-1,US - SHOWTIME 2
+#EXTINF:-1, links-iptv.com-US - SHOWTIME 2
 http://voxtv.dynns.com:8000/USA/USA/2332
-#EXTINF:-1,US - SHOW TIME HD
+#EXTINF:-1, links-iptv.com-US - SHOW TIME HD
 http://voxtv.dynns.com:8000/USA/USA/2333
-#EXTINF:-1,US - SHOWTIME WEST
+#EXTINF:-1, links-iptv.com-US - SHOWTIME WEST
 http://voxtv.dynns.com:8000/USA/USA/2334
-#EXTINF:-1,US - SMILE OF A CHILD
+#EXTINF:-1, links-iptv.com-US - SMILE OF A CHILD
 http://voxtv.dynns.com:8000/USA/USA/2335
-#EXTINF:-1,US - SPIKE HD
+#EXTINF:-1, links-iptv.com-US - SPIKE HD
 http://voxtv.dynns.com:8000/USA/USA/2336
-#EXTINF:-1,US - STARZ CINEMA
+#EXTINF:-1, links-iptv.com-US - STARZ CINEMA
 http://voxtv.dynns.com:8000/USA/USA/2337
-#EXTINF:-1,US - STARZ COMEDY
+#EXTINF:-1, links-iptv.com-US - STARZ COMEDY
 http://voxtv.dynns.com:8000/USA/USA/2338
-#EXTINF:-1,US - STARZ EDGE HD
+#EXTINF:-1, links-iptv.com-US - STARZ EDGE HD
 http://voxtv.dynns.com:8000/USA/USA/2339
-#EXTINF:-1,US - STARZ ENCORE
+#EXTINF:-1, links-iptv.com-US - STARZ ENCORE
 http://voxtv.dynns.com:8000/USA/USA/2340
-#EXTINF:-1,US - SyFy HD
+#EXTINF:-1, links-iptv.com-US - SyFy HD
 http://voxtv.dynns.com:8000/USA/USA/2341
-#EXTINF:-1,US - TBS HD
+#EXTINF:-1, links-iptv.com-US - TBS HD
 http://voxtv.dynns.com:8000/USA/USA/2342
-#EXTINF:-1,US - TNT HD
+#EXTINF:-1, links-iptv.com-US - TNT HD
 http://voxtv.dynns.com:8000/USA/USA/2343
-#EXTINF:-1,US - TSN 1 HD
+#EXTINF:-1, links-iptv.com-US - TSN 1 HD
 http://voxtv.dynns.com:8000/USA/USA/2344
-#EXTINF:-1,US - TSN 2 HD
+#EXTINF:-1, links-iptv.com-US - TSN 2 HD
 http://voxtv.dynns.com:8000/USA/USA/2345
-#EXTINF:-1,US - TSN 3 HD
+#EXTINF:-1, links-iptv.com-US - TSN 3 HD
 http://voxtv.dynns.com:8000/USA/USA/2346
-#EXTINF:-1,US - TSN 4 HD
+#EXTINF:-1, links-iptv.com-US - TSN 4 HD
 http://voxtv.dynns.com:8000/USA/USA/2347
-#EXTINF:-1,US - Network HD
+#EXTINF:-1, links-iptv.com-US - Network HD
 http://voxtv.dynns.com:8000/USA/USA/2349
-#EXTINF:-1,US - VH1 CLASSIC
+#EXTINF:-1, links-iptv.com-US - VH1 CLASSIC
 http://voxtv.dynns.com:8000/USA/USA/2350
-#EXTINF:-1,US - WWE HD
+#EXTINF:-1, links-iptv.com-US - WWE HD
 http://voxtv.dynns.com:8000/USA/USA/2351
-#EXTINF:-1,US - Nick
+#EXTINF:-1, links-iptv.com-US - Nick
 http://voxtv.dynns.com:8000/USA/USA/6101
-#EXTINF:-1,US - Travel Channel
+#EXTINF:-1, links-iptv.com-US - Travel Channel
 http://voxtv.dynns.com:8000/USA/USA/6100
-#EXTINF:-1,24/7 MIKE TYSON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92323
-#EXTINF:-1,24/7 SUPERBOWLS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/80392
-#EXTINF:-1,24/7 247RETRO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91808
-#EXTINF:-1,24/7 A DIFFERENT WORLD
-http://primestreams.tv:826/jamesfamily/jamesfamily/88819
-#EXTINF:-1,24/7 A NIGHTMARE ON ELM ST Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92322
-#EXTINF:-1,24/7 ADVENTURES OF PETE & PETE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81829
-#EXTINF:-1,24/7 ALADDIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89375
-#EXTINF:-1,24/7 AMERICAN DAD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91805
-#EXTINF:-1,24/7 AMERICAN HORROR STORY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84564
-#EXTINF:-1,24/7 AMERICAN PICKERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84373
-#EXTINF:-1,24/7 AMERICAN PIE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92975
-#EXTINF:-1,24/7 ANCIENT ALIENS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38689
-#EXTINF:-1,24/7 ANDY GRIFFITH SHOW Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73957
-#EXTINF:-1,24/7 ANIMANIACS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90749
-#EXTINF:-1,24/7 ARE YOU AFRAID OF THE DARK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/75597
-#EXTINF:-1,24/7 ARNOLD SCHWARZENEGGER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89371
-#EXTINF:-1,24/7 ARROW Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83627
-#EXTINF:-1,24/7 AUSTIN POWERS MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/88818
-#EXTINF:-1,24/7 BACK TO THE FUTURE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/89369
-#EXTINF:-1,24/7 BANSHEE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82290
-#EXTINF:-1,24/7 BATMAN
-http://primestreams.tv:826/jamesfamily/jamesfamily/38657
-#EXTINF:-1,24/7 BATMAN THE ANIMATED SERIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90835
-#EXTINF:-1,24/7 BAYWATCH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92276
-#EXTINF:-1,24/7 BERNIE MAC SHOW Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73958
-#EXTINF:-1,24/7 BIG BANG THEORY
-http://primestreams.tv:826/jamesfamily/jamesfamily/38683
-#EXTINF:-1,24/7 BLAZE AND THE MONSTER MACHINES
-http://primestreams.tv:826/jamesfamily/jamesfamily/38691
-#EXTINF:-1,24/7 BOBS BURGERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92359
-#EXTINF:-1,24/7 BONANZA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92285
-#EXTINF:-1,24/7 BOY MEETS WORLD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73959
-#EXTINF:-1,24/7 BRUCE LEE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90179
-#EXTINF:-1,24/7 BRUCE WILLIS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90367
-#EXTINF:-1,24/7 BUGS BUNNY CLASSICS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38680
-#EXTINF:-1,24/7 CAPTAIN N THE GAME MASTER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90868
-#EXTINF:-1,24/7 CAPTAIN PLANET
-http://primestreams.tv:826/jamesfamily/jamesfamily/38679
-#EXTINF:-1,24/7 CHARMED
-http://primestreams.tv:826/jamesfamily/jamesfamily/38472
-#EXTINF:-1,24/7 CHIP N DALE RESCUE RANGERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90869
-#EXTINF:-1,24/7 COLUMBO
-http://primestreams.tv:826/jamesfamily/jamesfamily/35155
-#EXTINF:-1,24/7 COPS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84217
-#EXTINF:-1,24/7 CRIMINAL MINDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84166
-#EXTINF:-1,24/7 CSI Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73965
-#EXTINF:-1,24/7 CSI MIAMI Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77220
-#EXTINF:-1,24/7 CURB YOUR ENTHUSIASM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73982
-#EXTINF:-1,24/7 DALLAS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73980
-#EXTINF:-1,24/7 DARKWING DUCK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90870
-#EXTINF:-1,24/7 DAWSONS CREEK Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82122
-#EXTINF:-1,24/7 DENZEL WASHINGTON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90173
-#EXTINF:-1,24/7 DESPERATE HOUSEWIVES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77457
-#EXTINF:-1,24/7 DIFF'RENT STROKES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85271
-#EXTINF:-1,24/7 DINERS DRIVE INS & DIVES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77101
-#EXTINF:-1,24/7 DOOGIE HOWSER M.D. Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/75648
-#EXTINF:-1,24/7 DOUG Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81931
-#EXTINF:-1,24/7 DUCKTALES
-http://primestreams.tv:826/jamesfamily/jamesfamily/38655
-#EXTINF:-1,24/7 DYNASTY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77219
-#EXTINF:-1,24/7 EASTBOUND & DOWN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77488
-#EXTINF:-1,24/7 EVERYBODY HATES CHRIS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85272
-#EXTINF:-1,24/7 Everybody Loves Raymond
-http://primestreams.tv:826/jamesfamily/jamesfamily/75500
-#EXTINF:-1,24/7 FAMILY MATTERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73961
-#EXTINF:-1,24/7 FAST N FURIOUS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91786
-#EXTINF:-1,24/7 FAST N LOUD
-http://primestreams.tv:826/jamesfamily/jamesfamily/38676
-#EXTINF:-1,24/7 FLINTSTONES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91787
-#EXTINF:-1,24/7 FRAGGLE ROCK
-http://primestreams.tv:826/jamesfamily/jamesfamily/38654
-#EXTINF:-1,24/7 FRIDAY THE 13TH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86689
-#EXTINF:-1,24/7 FRIENDS
-http://primestreams.tv:826/jamesfamily/jamesfamily/31228
-#EXTINF:-1,24/7 FRINGE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83159
-#EXTINF:-1,24/7 FULL HOUSE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83782
-#EXTINF:-1,24/7 FUTURAMA
-http://primestreams.tv:826/jamesfamily/jamesfamily/38675
-#EXTINF:-1,24/7 GAME OF THRONES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/88154
-#EXTINF:-1,24/7 GARFIELD & FRIENDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90871
-#EXTINF:-1,24/7 GILLIGANS ISLAND Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73966
-#EXTINF:-1,24/7 GIRLFRIENDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82102
-#EXTINF:-1,24/7  GOLDEN GIRLS
-http://primestreams.tv:826/jamesfamily/jamesfamily/35154
-#EXTINF:-1,24/7 GOOFY CLASSICS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38653
-#EXTINF:-1,24/7 GOMER PYLE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77770
-#EXTINF:-1,24/7 GREYS ANATOMY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73968
-#EXTINF:-1,24/7 HALLOWEEN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92312
-#EXTINF:-1,24/7 HAPPY DAYS
-http://primestreams.tv:826/jamesfamily/jamesfamily/58713
-#EXTINF:-1,24/7 HARRISON FORD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90688
-#EXTINF:-1,24/7 HARRY POTTER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73960
-#EXTINF:-1,24/7 HE-MAN
-http://primestreams.tv:826/jamesfamily/jamesfamily/38652
-#EXTINF:-1,24/7 HE-MAN & THE MASTERS OF THE UNIVERSE
-http://primestreams.tv:826/jamesfamily/jamesfamily/38651
-#EXTINF:-1,24/7 HEY DUDE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81932
-#EXTINF:-1,24/7 HERCULES THE LEGENDARY JOURNEYS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/80644
-#EXTINF:-1,24/7 HOBBIT LOTR Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90178
-#EXTINF:-1,24/7  HOGAN'S HEROERS
-http://primestreams.tv:826/jamesfamily/jamesfamily/35153
-#EXTINF:-1,24/7 HOMELAND Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83182
-#EXTINF:-1,24/7 HOUSE MD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73954
-#EXTINF:-1,24/7 IMAX DOCUMENTARY COLLECTION Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85277
-#EXTINF:-1,24/7 IMPRACTICAL JOKERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85257
-#EXTINF:-1,24/7 INK MASTER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77221
-#EXTINF:-1,24/7 INSPECTOR GADGET
-http://primestreams.tv:826/jamesfamily/jamesfamily/38650
-#EXTINF:-1,24/7 JAMIE FOXX SHOW Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73962
-#EXTINF:-1,24/7 JURASSIC PARK MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/88171
-#EXTINF:-1,24/7 KEANU REEVES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90839
-#EXTINF:-1,24/7 KEVIN COSTNER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90362
-#EXTINF:-1,24/7 KING OF QUEENS
-http://primestreams.tv:826/jamesfamily/jamesfamily/59559
-#EXTINF:-1,24/7 LAS VEGAS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73964
-#EXTINF:-1,24/7 LAST MAN STANDING Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84954
-#EXTINF:-1,24/7 LEONARDO DiCAPRIO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90172
-#EXTINF:-1,24/7 LETHAL WEAPON MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41468
-#EXTINF:-1,24/7  LITTLE HOUSE ON THE PRAIRIE
-http://primestreams.tv:826/jamesfamily/jamesfamily/35152
-#EXTINF:-1,24/7 LIVE PD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73955
-#EXTINF:-1,24/7 LIVING SINGLE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73775
-#EXTINF:-1,24/7 LOONEY TUNES
-http://primestreams.tv:826/jamesfamily/jamesfamily/38673
-#EXTINF:-1,24/7 LONGMIRE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84039
-#EXTINF:-1,24/7 MACGYVER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/80532
-#EXTINF:-1,24/7 MAGNUM P.I. Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77575
-#EXTINF:-1,24/7 MAJOR LEAGUE MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41467
-#EXTINF:-1,24/7 MALCOLM IN THE MIDDLE
-http://primestreams.tv:826/jamesfamily/jamesfamily/38672
-#EXTINF:-1,24/7 MARRIED WITH CHILDREN
-http://primestreams.tv:826/jamesfamily/jamesfamily/38421
-#EXTINF:-1,24/7 MARTIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73263
-#EXTINF:-1,24/7 MARVEL INFINITY WARS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90689
-#EXTINF:-1,24/7 MASH
-http://primestreams.tv:826/jamesfamily/jamesfamily/35121
-#EXTINF:-1,24/7 MIAMI VICE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77577
-#EXTINF:-1,24/7 MINNIE BOWTIQUE
-http://primestreams.tv:826/jamesfamily/jamesfamily/38649
-#EXTINF:-1,24/7 MISTER ED Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73975
-#EXTINF:-1,24/7 MOESHA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73978
-#EXTINF:-1,24/7 MR ROBOT Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91754
-#EXTINF:-1,24/7 MUPPET BABIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92752
-#EXTINF:-1,24/7 MY GHOST STORYS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38671
-#EXTINF:-1,24/7 MY WIFE AND KIDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85273
-#EXTINF:-1,24/7 Night Court
-http://primestreams.tv:826/jamesfamily/jamesfamily/89366
-#EXTINF:-1,24/7 NORTHERN EXPOSURE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82392
-#EXTINF:-1,24/7 PAW Patrol
-http://primestreams.tv:826/jamesfamily/jamesfamily/26762
-#EXTINF:-1,24/7 PAWN STARS
-http://primestreams.tv:826/jamesfamily/jamesfamily/85201
-#EXTINF:-1,24/7 PEPPA PIG
-http://primestreams.tv:826/jamesfamily/jamesfamily/28908
-#EXTINF:-1,24/7 PERFECT STRANGERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/92382
-#EXTINF:-1,24/7 PJ MASKS
-http://primestreams.tv:826/jamesfamily/jamesfamily/41465
-#EXTINF:-1,24/7 PLANET OF THE APES MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/88808
-#EXTINF:-1,24/7 POWER
-http://primestreams.tv:826/jamesfamily/jamesfamily/28907
-#EXTINF:-1,24/7 PREDATOR / ALIEN MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41464
-#EXTINF:-1,24/7 PRISON BREAK
-http://primestreams.tv:826/jamesfamily/jamesfamily/58712
-#EXTINF:-1,24/7 PROPERTY BROTHERS
-http://primestreams.tv:826/jamesfamily/jamesfamily/88807
-#EXTINF:-1,24/7 PUPPY DOGS PAL SHOW
-http://primestreams.tv:826/jamesfamily/jamesfamily/41463
-#EXTINF:-1,24/7 QUANTUM LEAP Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73967
-#EXTINF:-1,24/7 RAY DONOVAN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82692
-#EXTINF:-1,24/7 RICK & MORTY
-http://primestreams.tv:826/jamesfamily/jamesfamily/38670
-#EXTINF:-1,24/7 RIDICULOUSNESS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85433
-#EXTINF:-1,24/7 Bar Rescue
-http://primestreams.tv:826/jamesfamily/jamesfamily/59565
-#EXTINF:-1,24/7  ROSEANNE
-http://primestreams.tv:826/jamesfamily/jamesfamily/35151
-#EXTINF:-1,24/7 SABRINA THE TEENAGE WITCH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/80305
-#EXTINF:-1,24/7 SALUTE YOUR SHORTS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81828
-#EXTINF:-1,24/7 SANFORD & SON Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73788
-#EXTINF:-1,24/7 SAVED BY THE BELL Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73969
-#EXTINF:-1,24/7 SAW Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86675
-#EXTINF:-1,24/7 SCOOBY DOO Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90886
-#EXTINF:-1,24/7 SCOOBY DOO MOVIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90885
-#EXTINF:-1,24/7 SCREAM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/86707
-#EXTINF:-1,24/7 SEINFELD
-http://primestreams.tv:826/jamesfamily/jamesfamily/38419
-#EXTINF:-1,24/7 SEX AND THE CITY
-http://primestreams.tv:826/jamesfamily/jamesfamily/38420
-#EXTINF:-1,24/7 SCRUBS
-http://primestreams.tv:826/jamesfamily/jamesfamily/58715
-#EXTINF:-1,24/7 SGU STARGATE UNIVERSE
-http://primestreams.tv:826/jamesfamily/jamesfamily/38669
-#EXTINF:-1,24/7 SIMPSONS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38688
-#EXTINF:-1,24/7 SOUTH PARK
-http://primestreams.tv:826/jamesfamily/jamesfamily/38687
-#EXTINF:-1,24/7 SMALLVILLE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82950
-#EXTINF:-1,24/7 SPONGEBOB SQUAREPANTS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38668
-#EXTINF:-1,24/7 ST ELSEWHERE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85278
-#EXTINF:-1,24/7  STAR TREK
-http://primestreams.tv:826/jamesfamily/jamesfamily/35150
-#EXTINF:-1,24/7 STAR WARS MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41461
-#EXTINF:-1,24/7 STARGATE ATLANTIS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38667
-#EXTINF:-1,24/7 STARSKY & HUTCH
-http://primestreams.tv:826/jamesfamily/jamesfamily/73262
-#EXTINF:-1,24/7 STEP BY STEP Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/81821
-#EXTINF:-1,24/7 STEPHEN KING MOVIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84652
-#EXTINF:-1,24/7 STREET OUTLAWS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85436
-#EXTINF:-1,24/7 SUPER MARIO BROS  Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90887
-#EXTINF:-1,24/7 TALES FROM THE CRYPT
-http://primestreams.tv:826/jamesfamily/jamesfamily/38648
-#EXTINF:-1,24/7 TALESPIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90750
-#EXTINF:-1,24/7 TAXI Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85276
-#EXTINF:-1,24/7  THE BEVERLY HILLBILLIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/35149
-#EXTINF:-1,24/7 THE CARE BEARS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38647
-#EXTINF:-1,24/7 THE CURSE OF OAK ISLAND Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83393
-#EXTINF:-1,24/7 THE FIRST 48 Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/79949
-#EXTINF:-1,24/7 THE FLASH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83395
-#EXTINF:-1,24/7 THE FRESH PRINCE OF BEL-AIR
-http://primestreams.tv:826/jamesfamily/jamesfamily/38666
-#EXTINF:-1,24/7  THE JEFFERSONS
-http://primestreams.tv:826/jamesfamily/jamesfamily/35148
-#EXTINF:-1,24/7 THE JETSONS
-http://primestreams.tv:826/jamesfamily/jamesfamily/38645
-#EXTINF:-1,24/7 THE LEAGUE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82688
-#EXTINF:-1,24/7 THE MUMMY MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41459
-#EXTINF:-1,24/7 THE NANNY Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85261
-#EXTINF:-1,24/7 THE OFFICE
-http://primestreams.tv:826/jamesfamily/jamesfamily/35506
-#EXTINF:-1,24/7 THE REAL GHOSTBUSTERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/91827
-#EXTINF:-1,24/7 THE VAMPIRE DIARIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84035
-#EXTINF:-1,24/7 THE WALKING DEAD
-http://primestreams.tv:826/jamesfamily/jamesfamily/38665
-#EXTINF:-1,24/7 THE WAYANS BROS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73976
-#EXTINF:-1,24/7 THE WIRE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84105
-#EXTINF:-1,24/7 THE WONDER YEARS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/73977
-#EXTINF:-1,24/7 THOMAS THE TANK ENGINE & FRIENDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90884
-#EXTINF:-1,24/7 THREE STOOGES
-http://primestreams.tv:826/jamesfamily/jamesfamily/32669
-#EXTINF:-1,24/7 THREE'S COMPANY
-http://primestreams.tv:826/jamesfamily/jamesfamily/35505
-#EXTINF:-1,24/7 THUNDERCATS
-http://primestreams.tv:826/jamesfamily/jamesfamily/1693
-#EXTINF:-1,24/7 TMNT 1987
-http://primestreams.tv:826/jamesfamily/jamesfamily/38646
-#EXTINF:-1,24/7 TOM CRUISE Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90177
-#EXTINF:-1,24/7 TOM & JERRY
-http://primestreams.tv:826/jamesfamily/jamesfamily/38664
-#EXTINF:-1,24/7 TOM & JERRY TALES
-http://primestreams.tv:826/jamesfamily/jamesfamily/38644
-#EXTINF:-1,24/7 TOP CAT
-http://primestreams.tv:826/jamesfamily/jamesfamily/38643
-#EXTINF:-1,24/7 TOP GEAR
-http://primestreams.tv:826/jamesfamily/jamesfamily/38663
-#EXTINF:-1,24/7 TRANSFORMERS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90358
-#EXTINF:-1,24/7 TRUE BLOOD Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/84036
-#EXTINF:-1,24/7 TWILIGHT ZONE
-http://primestreams.tv:826/jamesfamily/jamesfamily/38662
-#EXTINF:-1,24/7 VAN DAMM MOVIES
-http://primestreams.tv:826/jamesfamily/jamesfamily/41456
-#EXTINF:-1,24/7 VICE PRINCIPALS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77576
-#EXTINF:-1,24/7 WAGON TRAIN Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85434
-#EXTINF:-1,24/7 WEBSTER Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85270
-#EXTINF:-1,24/7 WEEDS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/83780
-#EXTINF:-1,24/7 WESTERNS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82292
-#EXTINF:-1,24/7 WESTWORLD
-http://primestreams.tv:826/jamesfamily/jamesfamily/38658
-#EXTINF:-1,24/7 WHATS HAPPENING Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85274
-#EXTINF:-1,24/7 WHOS THE BOSS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/82104
-#EXTINF:-1,24/7 WILL & GRACE
-http://primestreams.tv:826/jamesfamily/jamesfamily/58714
-#EXTINF:-1,24/7 WILL SMITH Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90450
-#EXTINF:-1,24/7 WKRP IN CINCINNATI
-http://primestreams.tv:826/jamesfamily/jamesfamily/85198
-#EXTINF:-1,24/7 WWE SUMMER SLAM Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/80142
-#EXTINF:-1,24/7 WWE WRESTLEMANIA Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/85437
-#EXTINF:-1,24/7 X-MEN ANIMATED SERIES Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/90748
-#EXTINF:-1,24/7 XENA WARRIOR PRINCESS Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/77218
-#EXTINF:-1,XITE Music TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38594
-#EXTINF:-1,XITE Rock Music TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38596
-#EXTINF:-1,XITE Vibe Music TV Local
-http://primestreams.tv:826/jamesfamily/jamesfamily/38595
+-----------
+#EXTINF:-1, links-iptv.com-Us- ABC
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20645
+#EXTINF:-1, links-iptv.com-Us- ABC News
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20644
+#EXTINF:-1, links-iptv.com-US- ABC wews cla
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20617
+#EXTINF:-1, links-iptv.com-US- CBS Canada
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20599
+#EXTINF:-1, links-iptv.com-US- CHEDDAR
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20598
+#EXTINF:-1, links-iptv.com-US- Cheddar Buisness
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20597
+#EXTINF:-1, links-iptv.com-US- Cheddar News
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20596
+#EXTINF:-1, links-iptv.com-US- CNBC
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20593
+#EXTINF:-1, links-iptv.com-US- HLNHD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20558
+#EXTINF:-1, links-iptv.com-US- CNN International
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20592
+#EXTINF:-1, links-iptv.com-US- Hallmark
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20566
+#EXTINF:-1, links-iptv.com-US- Hallmark Drama
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20565
+#EXTINF:-1, links-iptv.com-US- Hallmark Movies
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20564
+#EXTINF:-1, links-iptv.com-US- HBO
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20563
+#EXTINF:-1, links-iptv.com-US- HBO2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20559
+#EXTINF:-1, links-iptv.com-US- HBO East
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20562
+#EXTINF:-1, links-iptv.com-US- HBO Family
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20561
+#EXTINF:-1, links-iptv.com-US- HBO Signature
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20560
+#EXTINF:-1, links-iptv.com-US- AETV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20616
+#EXTINF:-1, links-iptv.com-US- AMC
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20615
+#EXTINF:-1, links-iptv.com-US- American Heroes
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20614
+#EXTINF:-1, links-iptv.com-US- ATT SportsNet Southwest
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20613
+#EXTINF:-1, links-iptv.com-US- AXS
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20612
+#EXTINF:-1, links-iptv.com-US- BBC America
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20611
+#EXTINF:-1, links-iptv.com-US- BeIN Sports
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20610
+#EXTINF:-1, links-iptv.com-US- BeIN2 Sports
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20609
+#EXTINF:-1, links-iptv.com-US- BET
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20608
+#EXTINF:-1, links-iptv.com-US- Big Ten Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20607
+#EXTINF:-1, links-iptv.com-US- Bravo
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20606
+#EXTINF:-1, links-iptv.com-US- BTN2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20605
+#EXTINF:-1, links-iptv.com-US- BTN3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20604
+#EXTINF:-1, links-iptv.com-US- BTN4
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20603
+#EXTINF:-1, links-iptv.com-US- Cartoon Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20602
+#EXTINF:-1, links-iptv.com-US- Catch1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20601
+#EXTINF:-1, links-iptv.com-US- Catch2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20600
+#EXTINF:-1, links-iptv.com-US- Cinemax
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20595
+#EXTINF:-1, links-iptv.com-US- Cinemax East
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20594
+#EXTINF:-1, links-iptv.com-US- Comedy Central
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20591
+#EXTINF:-1, links-iptv.com-US- Cooking Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20590
+#EXTINF:-1, links-iptv.com-US- Destination America
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20589
+#EXTINF:-1, links-iptv.com-US- Discovery Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20588
+#EXTINF:-1, links-iptv.com-US- Discovery ID
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20587
+#EXTINF:-1, links-iptv.com-US- Disney Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20586
+#EXTINF:-1, links-iptv.com-US- Disney XD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20585
+#EXTINF:-1, links-iptv.com-US- DIY Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20584
+#EXTINF:-1, links-iptv.com-US- EE
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20583
+#EXTINF:-1, links-iptv.com-US- Epix
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20582
+#EXTINF:-1, links-iptv.com-US- Epix Hits
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20581
+#EXTINF:-1, links-iptv.com-US- Paramount
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20547
+#EXTINF:-1, links-iptv.com-US- PBS 13
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20546
+#EXTINF:-1, links-iptv.com-US- PBS Kids
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20545
+#EXTINF:-1, links-iptv.com-US- PeopleTV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20544
+#EXTINF:-1, links-iptv.com-US- Revolt
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20541
+#EXTINF:-1, links-iptv.com-US- Showtime
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20540
+#EXTINF:-1, links-iptv.com-US- Showtime Extreme
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20539
+#EXTINF:-1, links-iptv.com-US- Showtime Pacific
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20538
+#EXTINF:-1, links-iptv.com-US- Sony Movies
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20536
+#EXTINF:-1, links-iptv.com-US- Start TV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20530
+#EXTINF:-1, links-iptv.com-US- Starz
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20529
+#EXTINF:-1, links-iptv.com-US- Starz Pacific
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20528
+#EXTINF:-1, links-iptv.com-US- SUNDANCE
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20527
+#EXTINF:-1, links-iptv.com-US- SYFY
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20526
+#EXTINF:-1, links-iptv.com-US- Tastemade
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20525
+#EXTINF:-1, links-iptv.com-US- TBSHD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20524
+#EXTINF:-1, links-iptv.com-US- Tennis Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20523
+#EXTINF:-1, links-iptv.com-US- TNT HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20522
+#EXTINF:-1, links-iptv.com-US- TRU TV HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20521
+#EXTINF:-1, links-iptv.com-US- Turner Classic Movies
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20520
+#EXTINF:-1, links-iptv.com-US- TyC Sports
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20519
+#EXTINF:-1, links-iptv.com-US- Universal Kids
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20518
+#EXTINF:-1, links-iptv.com-US- USA Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20517
+#EXTINF:-1, links-iptv.com-US- VICELAND
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20516
+#EXTINF:-1, links-iptv.com-Us- 5 Star Max
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20646
+#EXTINF:-1, links-iptv.com-Us- Action Max HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20643
+#EXTINF:-1, links-iptv.com-Us- Animal Planet
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20642
+#EXTINF:-1, links-iptv.com-Us- Bloomberg
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20641
+#EXTINF:-1, links-iptv.com-Us- Discovery Science HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20640
+#EXTINF:-1, links-iptv.com-Us- E!
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20639
+#EXTINF:-1, links-iptv.com-Us- FOX Business Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20638
+#EXTINF:-1, links-iptv.com-Us- Fox Deportes
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20637
+#EXTINF:-1, links-iptv.com-Us- FX
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20636
+#EXTINF:-1, links-iptv.com-Us- FXX
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20635
+#EXTINF:-1, links-iptv.com-Us- HGTV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20634
+#EXTINF:-1, links-iptv.com-Us- MoreMax HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20633
+#EXTINF:-1, links-iptv.com-Us- National Geographic
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20632
+#EXTINF:-1, links-iptv.com-Us- NBA HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20631
+#EXTINF:-1, links-iptv.com-Us- NHL Network HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20630
+#EXTINF:-1, links-iptv.com-Us- NickToons
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20629
+#EXTINF:-1, links-iptv.com-Us- TLC HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20628
+#EXTINF:-1, links-iptv.com-US- NBC Golf Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20557
+#EXTINF:-1, links-iptv.com-US- NBC Sports Northeast
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20556
+#EXTINF:-1, links-iptv.com-US- NFL Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20555
+#EXTINF:-1, links-iptv.com-US- PAC12 Arizona
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20554
+#EXTINF:-1, links-iptv.com-US- PAC12 BayArea
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20553
+#EXTINF:-1, links-iptv.com-US- PAC12 LosAngeles
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20552
+#EXTINF:-1, links-iptv.com-US- PAC12 Mountain
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20551
+#EXTINF:-1, links-iptv.com-US- PAC12 Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20550
+#EXTINF:-1, links-iptv.com-US- PAC12 Oregon
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20549
+#EXTINF:-1, links-iptv.com-US- PAC12 Washington
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20548
+#EXTINF:-1, links-iptv.com-US- ESPN 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20580
+#EXTINF:-1, links-iptv.com-US- ESPN 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20579
+#EXTINF:-1, links-iptv.com-US- ESPN Baseball Regionals
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20578
+#EXTINF:-1, links-iptv.com-US- ESPN Longhorn Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20577
+#EXTINF:-1, links-iptv.com-US- ESPN News
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20576
+#EXTINF:-1, links-iptv.com-US- ESPN SEC Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20575
+#EXTINF:-1, links-iptv.com-US- ESPNU College Sports
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20574
+#EXTINF:-1, links-iptv.com-US- Fight Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20573
+#EXTINF:-1, links-iptv.com-US- FNTSY Sports Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20572
+#EXTINF:-1, links-iptv.com-Us- UFC TV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20622
+#EXTINF:-1, links-iptv.com-Us- Willow Cricket HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20621
+#EXTINF:-1, links-iptv.com-Us- WWE Network HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20620
+#EXTINF:-1, links-iptv.com-US- Fox College Sports Atlantic
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20571
+#EXTINF:-1, links-iptv.com-US- Fox College Sports Central
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20570
+#EXTINF:-1, links-iptv.com-US- Fox College Sports Pacific
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20569
+#EXTINF:-1, links-iptv.com-US- Fox Sports 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20568
+#EXTINF:-1, links-iptv.com-US- Fox Sports 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20567
+#EXTINF:-1, links-iptv.com-Us- TSN 1 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20627
+#EXTINF:-1, links-iptv.com-Us- TSN 2 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20626
+#EXTINF:-1, links-iptv.com-Us- TSN 3 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20625
+#EXTINF:-1, links-iptv.com-Us- TSN 4 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20624
+#EXTINF:-1, links-iptv.com-Us- TSN 5 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20623
+#EXTINF:-1, links-iptv.com-US- SI Sports Illustrated
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20537
+#EXTINF:-1, links-iptv.com-US- Sports man Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20535
+#EXTINF:-1, links-iptv.com-US- Stadium
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20534
+#EXTINF:-1, links-iptv.com-US- Stadium1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20533
+#EXTINF:-1, links-iptv.com-US- Stadium2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20532
+#EXTINF:-1, links-iptv.com-US- Stadium3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20531
+------------
+#EXTINF:-1, links-iptv.com-•●★-----CANADA-Anglais -----★●•
+http://topiptv.net:5890/zina/zina/26814
+#EXTINF:-1, links-iptv.com-CA| HBO
+http://topiptv.net:5890/zina/zina/26758
+#EXTINF:-1, links-iptv.com-CA| HGTV
+http://topiptv.net:5890/zina/zina/26749
+#EXTINF:-1, links-iptv.com-CA| A & E
+http://topiptv.net:5890/zina/zina/26743
+#EXTINF:-1, links-iptv.com-CA| ABC
+http://topiptv.net:5890/zina/zina/26798
+#EXTINF:-1, links-iptv.com-CA| BBC CANADA
+http://topiptv.net:5890/zina/zina/26756
+#EXTINF:-1, links-iptv.com-CA| BNN
+http://topiptv.net:5890/zina/zina/26812
+#EXTINF:-1, links-iptv.com-CA| BRAVO
+http://topiptv.net:5890/zina/zina/26755
+#EXTINF:-1, links-iptv.com-CA| ABC SPARK
+http://topiptv.net:5890/zina/zina/26799
+#EXTINF:-1, links-iptv.com-CA| CARTOON NETWORK
+http://topiptv.net:5890/zina/zina/26738
+#EXTINF:-1, links-iptv.com-CA| CBC MONTREAL
+http://topiptv.net:5890/zina/zina/26797
+#EXTINF:-1, links-iptv.com-CA| CBC NEWS
+http://topiptv.net:5890/zina/zina/26811
+#EXTINF:-1, links-iptv.com-CA| CBC OTTAWA
+http://topiptv.net:5890/zina/zina/26796
+#EXTINF:-1, links-iptv.com-CA| CBC TORONTO
+http://topiptv.net:5890/zina/zina/26795
+#EXTINF:-1, links-iptv.com-CA| CBC VANCOUVER
+http://topiptv.net:5890/zina/zina/26794
+#EXTINF:-1, links-iptv.com-CA| CBS EAST
+http://topiptv.net:5890/zina/zina/26793
+#EXTINF:-1, links-iptv.com-CA| AMC
+http://topiptv.net:5890/zina/zina/26768
+#EXTINF:-1, links-iptv.com-CA| ANIMAL PLANET
+http://topiptv.net:5890/zina/zina/26742
+#EXTINF:-1, links-iptv.com-CA| CHCH
+http://topiptv.net:5890/zina/zina/26813
+#EXTINF:-1, links-iptv.com-CA| CITY HD
+http://topiptv.net:5890/zina/zina/26792
+#EXTINF:-1, links-iptv.com-CA| CITY VANCOUVER
+http://topiptv.net:5890/zina/zina/26791
+#EXTINF:-1, links-iptv.com-CA| CMT CANADA
+http://topiptv.net:5890/zina/zina/26790
+#EXTINF:-1, links-iptv.com-CA| CNBC WORLD HD
+http://topiptv.net:5890/zina/zina/26810
+#EXTINF:-1, links-iptv.com-CA| CNN
+http://topiptv.net:5890/zina/zina/26809
+#EXTINF:-1, links-iptv.com-CA| COMEDY GOLD
+http://topiptv.net:5890/zina/zina/26754
+#EXTINF:-1, links-iptv.com-CA| COTTAGE LIFE
+http://topiptv.net:5890/zina/zina/26753
+#EXTINF:-1, links-iptv.com-CA| CRIME  INVEST
+http://topiptv.net:5890/zina/zina/26741
+#EXTINF:-1, links-iptv.com-CA| CTV
+http://topiptv.net:5890/zina/zina/26788
+#EXTINF:-1, links-iptv.com-CA| CTV 2
+http://topiptv.net:5890/zina/zina/26789
+#EXTINF:-1, links-iptv.com-CA| CTV NEWS NETWORK
+http://topiptv.net:5890/zina/zina/26806
+#EXTINF:-1, links-iptv.com-CA| CTV TORONTO
+http://topiptv.net:5890/zina/zina/26787
+#EXTINF:-1, links-iptv.com-CA| CTV VANCOUVER
+http://topiptv.net:5890/zina/zina/26786
+#EXTINF:-1, links-iptv.com-CA| DISCOVERY  VELOCITY
+http://topiptv.net:5890/zina/zina/26740
+#EXTINF:-1, links-iptv.com-CA| DISCOVERY ID
+http://topiptv.net:5890/zina/zina/26731
+#EXTINF:-1, links-iptv.com-CA| DISCOVERY SCIENCE CANADA
+http://topiptv.net:5890/zina/zina/26739
+#EXTINF:-1, links-iptv.com-CA| DISNEY CANADA
+http://topiptv.net:5890/zina/zina/26733
+#EXTINF:-1, links-iptv.com-CA| FYI
+http://topiptv.net:5890/zina/zina/26750
+#EXTINF:-1, links-iptv.com-CA| GameSHOW TV
+http://topiptv.net:5890/zina/zina/26728
+#EXTINF:-1, links-iptv.com-CA| GLOBAL
+http://topiptv.net:5890/zina/zina/26785
+#EXTINF:-1, links-iptv.com-CA| CP24 HD
+http://topiptv.net:5890/zina/zina/26808
+#EXTINF:-1, links-iptv.com-CA| DISNEY JR
+http://topiptv.net:5890/zina/zina/26732
+#EXTINF:-1, links-iptv.com-CA| DIY NETWORK
+http://topiptv.net:5890/zina/zina/26752
+#EXTINF:-1, links-iptv.com-CA| E! CANADA
+http://topiptv.net:5890/zina/zina/26751
+#EXTINF:-1, links-iptv.com-CA| FOX NEWS
+http://topiptv.net:5890/zina/zina/26805
+#EXTINF:-1, links-iptv.com-CA| ENCORE 2 EAST
+http://topiptv.net:5890/zina/zina/26767
+#EXTINF:-1, links-iptv.com-CA| MSNBC
+http://topiptv.net:5890/zina/zina/26804
+#EXTINF:-1, links-iptv.com-CA| MTV2
+http://topiptv.net:5890/zina/zina/26747
+#EXTINF:-1, links-iptv.com-CA| CPAC
+http://topiptv.net:5890/zina/zina/26807
+#EXTINF:-1, links-iptv.com-CA| KNOWLEDGE KIDS
+http://topiptv.net:5890/zina/zina/26729
+#EXTINF:-1, links-iptv.com-CA| LIFETIME
+http://topiptv.net:5890/zina/zina/26766
+#EXTINF:-1, links-iptv.com-CA| LOVE NATURE
+http://topiptv.net:5890/zina/zina/26735
+#EXTINF:-1, links-iptv.com-CA| MAX
+http://topiptv.net:5890/zina/zina/26748
+#EXTINF:-1, links-iptv.com-CA| THE WEATHER NETWORK
+http://topiptv.net:5890/zina/zina/26800
+#EXTINF:-1, links-iptv.com-CA| TLC
+http://topiptv.net:5890/zina/zina/26737
+#EXTINF:-1, links-iptv.com-CA| TMN 1
+http://topiptv.net:5890/zina/zina/26762
+#EXTINF:-1, links-iptv.com-CA| TMN 2
+http://topiptv.net:5890/zina/zina/26761
+#EXTINF:-1, links-iptv.com-CA| TMN 3
+http://topiptv.net:5890/zina/zina/26760
+#EXTINF:-1, links-iptv.com-CA| TMN 4
+http://topiptv.net:5890/zina/zina/26759
+#EXTINF:-1, links-iptv.com-CA| TREEHOUSE
+http://topiptv.net:5890/zina/zina/26744
+#EXTINF:-1, links-iptv.com-CA| TSN  3HD
+http://topiptv.net:5890/zina/zina/26779
+#EXTINF:-1, links-iptv.com-CA| TSN 1HD
+http://topiptv.net:5890/zina/zina/26781
+#EXTINF:-1, links-iptv.com-CA| TSN 2HD
+http://topiptv.net:5890/zina/zina/26780
+#EXTINF:-1, links-iptv.com-CA| TSN 4HD
+http://topiptv.net:5890/zina/zina/26778
+#EXTINF:-1, links-iptv.com-CA| TSN 5HD
+http://topiptv.net:5890/zina/zina/26777
+#EXTINF:-1, links-iptv.com-CA| SPORTNET 360
+http://topiptv.net:5890/zina/zina/26775
+#EXTINF:-1, links-iptv.com-CA| SPORTNET ONE
+http://topiptv.net:5890/zina/zina/26774
+#EXTINF:-1, links-iptv.com-CA| SPORTNET ONTARIO
+http://topiptv.net:5890/zina/zina/26773
+#EXTINF:-1, links-iptv.com-CA| SPORTSNET PACIFIC
+http://topiptv.net:5890/zina/zina/26771
+#EXTINF:-1, links-iptv.com-CA| SPORTSNET WEST
+http://topiptv.net:5890/zina/zina/26772
+#EXTINF:-1, links-iptv.com-CA| SPORTSNET WORLD
+http://topiptv.net:5890/zina/zina/26770
+#EXTINF:-1, links-iptv.com-CA| SUPER CHANNEL 1
+http://topiptv.net:5890/zina/zina/26765
+#EXTINF:-1, links-iptv.com-CA| SUPER CHANNEL 2
+http://topiptv.net:5890/zina/zina/26764
+#EXTINF:-1, links-iptv.com-CA| SUPER CHANNEL VAULT
+http://topiptv.net:5890/zina/zina/26763
+#EXTINF:-1, links-iptv.com-CA| MUCH MUSIC
+http://topiptv.net:5890/zina/zina/26727
+#EXTINF:-1, links-iptv.com-CA| NAT GEO WILD
+http://topiptv.net:5890/zina/zina/26736
+#EXTINF:-1, links-iptv.com-CA| NBA TV
+http://topiptv.net:5890/zina/zina/26776
+#EXTINF:-1, links-iptv.com-CA| NBC FHD
+http://topiptv.net:5890/zina/zina/26803
+#EXTINF:-1, links-iptv.com-CA| NBC WEST
+http://topiptv.net:5890/zina/zina/26802
+#EXTINF:-1, links-iptv.com-CA| NICK JR
+http://topiptv.net:5890/zina/zina/26730
+#EXTINF:-1, links-iptv.com-CA| OWN
+http://topiptv.net:5890/zina/zina/26784
+#EXTINF:-1, links-iptv.com-CA| PEACH TREE
+http://topiptv.net:5890/zina/zina/26783
+#EXTINF:-1, links-iptv.com-CA| SHOWCASE
+http://topiptv.net:5890/zina/zina/26757
+#EXTINF:-1, links-iptv.com-CA| SLICE
+http://topiptv.net:5890/zina/zina/26746
+#EXTINF:-1, links-iptv.com-CA| SPACE
+http://topiptv.net:5890/zina/zina/26745
+#EXTINF:-1, links-iptv.com-CA| WORLD FISHING NET
+http://topiptv.net:5890/zina/zina/26734
+#EXTINF:-1, links-iptv.com-CA| YES TV
+http://topiptv.net:5890/zina/zina/26782
+#EXTINF:-1, links-iptv.com-CA| ACTION
+http://topiptv.net:5890/zina/zina/26769
+#EXTINF:-1, links-iptv.com-•●★-----CANADA-Francais -----★●•
+http://topiptv.net:5890/zina/zina/26726
+#EXTINF:-1, links-iptv.com-|CA| ADDIK TV
+http://topiptv.net:5890/zina/zina/26720
+#EXTINF:-1, links-iptv.com-|CA| ALJALEYA TV
+http://topiptv.net:5890/zina/zina/26672
+#EXTINF:-1, links-iptv.com-|CA| YOOPA
+http://topiptv.net:5890/zina/zina/26677
+#EXTINF:-1, links-iptv.com-|CA| ZESTE
+http://topiptv.net:5890/zina/zina/26676
+#EXTINF:-1, links-iptv.com-|CA| ZTELE
+http://topiptv.net:5890/zina/zina/26675
+#EXTINF:-1, links-iptv.com-|CA| ARTV
+http://topiptv.net:5890/zina/zina/26719
+#EXTINF:-1, links-iptv.com-|CA| TV5 QUEBEC
+http://topiptv.net:5890/zina/zina/26679
+#EXTINF:-1, links-iptv.com-|CA| ASSEMBLEE NATIONALE
+http://topiptv.net:5890/zina/zina/26718
+#EXTINF:-1, links-iptv.com-|CA| CANADIAN ARAB TV
+http://topiptv.net:5890/zina/zina/26671
+#EXTINF:-1, links-iptv.com-|CA| CANAL D HD
+http://topiptv.net:5890/zina/zina/26717
+#EXTINF:-1, links-iptv.com-|CA| CANAL SAVOIR
+http://topiptv.net:5890/zina/zina/26716
+#EXTINF:-1, links-iptv.com-|CA| CANAL VIE
+http://topiptv.net:5890/zina/zina/26715
+#EXTINF:-1, links-iptv.com-|CA| CANALSAVOIR
+http://topiptv.net:5890/zina/zina/26714
+#EXTINF:-1, links-iptv.com-|CA| CASA
+http://topiptv.net:5890/zina/zina/26713
+#EXTINF:-1, links-iptv.com-|CA| CINEPOP
+http://topiptv.net:5890/zina/zina/26685
+#EXTINF:-1, links-iptv.com-|CA| COOKING CHANNEL
+http://topiptv.net:5890/zina/zina/26712
+#EXTINF:-1, links-iptv.com-|CA| CPAC FRENCH
+http://topiptv.net:5890/zina/zina/26711
+#EXTINF:-1, links-iptv.com-|CA| DISNEY FRENCH
+http://topiptv.net:5890/zina/zina/26710
+#EXTINF:-1, links-iptv.com-|CA| EVASION
+http://topiptv.net:5890/zina/zina/26709
+#EXTINF:-1, links-iptv.com-|CA| FRISSONS
+http://topiptv.net:5890/zina/zina/26686
+#EXTINF:-1, links-iptv.com-|CA| GOLF HD
+http://topiptv.net:5890/zina/zina/26708
+#EXTINF:-1, links-iptv.com-|CA| HISTORIA
+http://topiptv.net:5890/zina/zina/26707
+#EXTINF:-1, links-iptv.com-|CA| ICI MONTREAL
+http://topiptv.net:5890/zina/zina/26706
+#EXTINF:-1, links-iptv.com-|CA| ICI TELE
+http://topiptv.net:5890/zina/zina/26704
+#EXTINF:-1, links-iptv.com-|CA| ICI VANCOUVER
+http://topiptv.net:5890/zina/zina/26705
+#EXTINF:-1, links-iptv.com-|CA| LCN
+http://topiptv.net:5890/zina/zina/26703
+#EXTINF:-1, links-iptv.com-|CA| METEO
+http://topiptv.net:5890/zina/zina/26702
+#EXTINF:-1, links-iptv.com-|CA| MOI & CIE
+http://topiptv.net:5890/zina/zina/26701
+#EXTINF:-1, links-iptv.com-|CA| MUSIQUE PLUS
+http://topiptv.net:5890/zina/zina/26700
+#EXTINF:-1, links-iptv.com-|CA| PRISE 2
+http://topiptv.net:5890/zina/zina/26699
+#EXTINF:-1, links-iptv.com-|CA| RDI
+http://topiptv.net:5890/zina/zina/26698
+#EXTINF:-1, links-iptv.com-|CA| RDS
+http://topiptv.net:5890/zina/zina/26697
+#EXTINF:-1, links-iptv.com-|CA| RDS 2
+http://topiptv.net:5890/zina/zina/26696
+#EXTINF:-1, links-iptv.com-|CA| RDS INFO
+http://topiptv.net:5890/zina/zina/26695
+#EXTINF:-1, links-iptv.com-|CA| SERIES
+http://topiptv.net:5890/zina/zina/26692
+#EXTINF:-1, links-iptv.com-|CA| SPIKE TV
+http://topiptv.net:5890/zina/zina/26691
+#EXTINF:-1, links-iptv.com-|CA| SUPER ECRAN 1
+http://topiptv.net:5890/zina/zina/26690
+#EXTINF:-1, links-iptv.com-|CA| SUPER ECRAN 2
+http://topiptv.net:5890/zina/zina/26689
+#EXTINF:-1, links-iptv.com-|CA| SUPER ECRAN 3
+http://topiptv.net:5890/zina/zina/26688
+#EXTINF:-1, links-iptv.com-|CA| SUPER ECRAN 4
+http://topiptv.net:5890/zina/zina/26687
+#EXTINF:-1, links-iptv.com-|CA| TELE QUEBEC
+http://topiptv.net:5890/zina/zina/26684
+#EXTINF:-1, links-iptv.com-|CA| TELE TOON
+http://topiptv.net:5890/zina/zina/26683
+#EXTINF:-1, links-iptv.com-|CA| TELEMAGINO
+http://topiptv.net:5890/zina/zina/26682
+#EXTINF:-1, links-iptv.com-|CA| TELETOON
+http://topiptv.net:5890/zina/zina/26681
+#EXTINF:-1, links-iptv.com-|CA| TFO
+http://topiptv.net:5890/zina/zina/26680
+#EXTINF:-1, links-iptv.com-|CA| TVA
+http://topiptv.net:5890/zina/zina/26724
+#EXTINF:-1, links-iptv.com-|CA| TVA  3  WEST
+http://topiptv.net:5890/zina/zina/26723
+#EXTINF:-1, links-iptv.com-|CA| TVA HD
+http://topiptv.net:5890/zina/zina/26725
+#EXTINF:-1, links-iptv.com-|CA| TVA SPORTS 1 HD
+http://topiptv.net:5890/zina/zina/26694
+#EXTINF:-1, links-iptv.com-|CA| TVA SPORTS 2 HD
+http://topiptv.net:5890/zina/zina/26693
+#EXTINF:-1, links-iptv.com-|CA| UNIS TV
+http://topiptv.net:5890/zina/zina/26678
+#EXTINF:-1, links-iptv.com-|CA| VRAK TV
+http://topiptv.net:5890/zina/zina/26722
+#EXTINF:-1, links-iptv.com-|CA| VTELE HD
+http://topiptv.net:5890/zina/zina/26721
+#EXTINF:-1, links-iptv.com-|CA|Assemblée Nationale Québec
+http://topiptv.net:5890/zina/zina/26674
+#EXTINF:-1, links-iptv.com-|CA|TV-Francophonie
+http://topiptv.net:5890/zina/zina/26673
+#EXTINF:-1, links-iptv.com-««------USA VIP------»»
+http://topiptv.net:5890/zina/zina/1771
+#EXTINF:-1, links-iptv.com-5 Star Max-US
+http://topiptv.net:5890/zina/zina/15029
+#EXTINF:-1, links-iptv.com-A&E FHD-US
+http://topiptv.net:5890/zina/zina/15028
+#EXTINF:-1, links-iptv.com-A&E-US
+http://topiptv.net:5890/zina/zina/15027
+#EXTINF:-1, links-iptv.com-ABC News-US
+http://topiptv.net:5890/zina/zina/15026
+#EXTINF:-1, links-iptv.com-ABC-US
+http://topiptv.net:5890/zina/zina/15025
+#EXTINF:-1, links-iptv.com-Action Max FHD-US
+http://topiptv.net:5890/zina/zina/15024
+#EXTINF:-1, links-iptv.com-Action Max HD-US
+http://topiptv.net:5890/zina/zina/15023
+#EXTINF:-1, links-iptv.com-AMC HD-US
+http://topiptv.net:5890/zina/zina/15022
+#EXTINF:-1, links-iptv.com-American Hero Channel HD-US
+http://topiptv.net:5890/zina/zina/15021
+#EXTINF:-1, links-iptv.com-Animal Planet FHD-US
+http://topiptv.net:5890/zina/zina/15020
+#EXTINF:-1, links-iptv.com-Animal Planet-US
+http://topiptv.net:5890/zina/zina/15019
+#EXTINF:-1, links-iptv.com-Bein Sports  FHD-US
+http://topiptv.net:5890/zina/zina/15018
+#EXTINF:-1, links-iptv.com-Bein Sports HD-US
+http://topiptv.net:5890/zina/zina/15017
+#EXTINF:-1, links-iptv.com-BET HD-US
+http://topiptv.net:5890/zina/zina/15016
+#EXTINF:-1, links-iptv.com-Bloomberg-US
+http://topiptv.net:5890/zina/zina/15015
+#EXTINF:-1, links-iptv.com-Bravo FHD-US
+http://topiptv.net:5890/zina/zina/15014
+#EXTINF:-1, links-iptv.com-Cartoon Network-US
+http://topiptv.net:5890/zina/zina/15013
+#EXTINF:-1, links-iptv.com-CBS FHD-US
+http://topiptv.net:5890/zina/zina/15012
+#EXTINF:-1, links-iptv.com-CBS HD-US
+http://topiptv.net:5890/zina/zina/15011
+#EXTINF:-1, links-iptv.com-CBS Sports Network HD-US
+http://topiptv.net:5890/zina/zina/15010
+#EXTINF:-1, links-iptv.com-Cinemax FHD-US
+http://topiptv.net:5890/zina/zina/15009
+#EXTINF:-1, links-iptv.com-Cinemax HD-US
+http://topiptv.net:5890/zina/zina/15008
+#EXTINF:-1, links-iptv.com-CNBC-US
+http://topiptv.net:5890/zina/zina/15007
+#EXTINF:-1, links-iptv.com-CNN HD-US
+http://topiptv.net:5890/zina/zina/15006
+#EXTINF:-1, links-iptv.com-Comedy Central-US
+http://topiptv.net:5890/zina/zina/15005
+#EXTINF:-1, links-iptv.com-Crime Investigation Discovery FHD-US
+http://topiptv.net:5890/zina/zina/15004
+#EXTINF:-1, links-iptv.com-Crime Investigation Discovery HD-US
+http://topiptv.net:5890/zina/zina/15003
+#EXTINF:-1, links-iptv.com-CW HD-US
+http://topiptv.net:5890/zina/zina/15002
+#EXTINF:-1, links-iptv.com-Discovery HD-US
+http://topiptv.net:5890/zina/zina/15049
+#EXTINF:-1, links-iptv.com-Discovery Science HD-US
+http://topiptv.net:5890/zina/zina/15048
+#EXTINF:-1, links-iptv.com-Disney Channel FHD-US
+http://topiptv.net:5890/zina/zina/15047
+#EXTINF:-1, links-iptv.com-DIY Network FHD-US
+http://topiptv.net:5890/zina/zina/15046
+#EXTINF:-1, links-iptv.com-EL Rey Network FHD-US
+http://topiptv.net:5890/zina/zina/15045
+#EXTINF:-1, links-iptv.com-ESPN 2 FHD-US
+http://topiptv.net:5890/zina/zina/15044
+#EXTINF:-1, links-iptv.com-ESPN 2 HD-US
+http://topiptv.net:5890/zina/zina/15043
+#EXTINF:-1, links-iptv.com-ESPN Deportes-US
+http://topiptv.net:5890/zina/zina/15042
+#EXTINF:-1, links-iptv.com-ESPN News HD-US
+http://topiptv.net:5890/zina/zina/15041
+#EXTINF:-1, links-iptv.com-ESPN U HD-US
+http://topiptv.net:5890/zina/zina/15040
+#EXTINF:-1, links-iptv.com-ESPN USA FHD-US
+http://topiptv.net:5890/zina/zina/15039
+#EXTINF:-1, links-iptv.com-ESPN USA HD-US
+http://topiptv.net:5890/zina/zina/15038
+#EXTINF:-1, links-iptv.com-Fight Network-US
+http://topiptv.net:5890/zina/zina/15037
+#EXTINF:-1, links-iptv.com-FOX Business Network  -US
+http://topiptv.net:5890/zina/zina/15036
+#EXTINF:-1, links-iptv.com-Fox Deportes-US
+http://topiptv.net:5890/zina/zina/15035
+#EXTINF:-1, links-iptv.com-Fox HD-US
+http://topiptv.net:5890/zina/zina/15034
+#EXTINF:-1, links-iptv.com-Fox News HD-US
+http://topiptv.net:5890/zina/zina/15033
+#EXTINF:-1, links-iptv.com-Fox Sports 1 FHD-US
+http://topiptv.net:5890/zina/zina/15032
+#EXTINF:-1, links-iptv.com-Fox Sports 1 HD-US
+http://topiptv.net:5890/zina/zina/15031
+#EXTINF:-1, links-iptv.com-Fox Sports 2 HD-US
+http://topiptv.net:5890/zina/zina/15030
+#EXTINF:-1, links-iptv.com-FX-US
+http://topiptv.net:5890/zina/zina/15093
+#EXTINF:-1, links-iptv.com-FXX FHD-US
+http://topiptv.net:5890/zina/zina/15092
+#EXTINF:-1, links-iptv.com-FXX-US
+http://topiptv.net:5890/zina/zina/15091
+#EXTINF:-1, links-iptv.com-Golf FHD-US
+http://topiptv.net:5890/zina/zina/15090
+#EXTINF:-1, links-iptv.com-Golf HD-US
+http://topiptv.net:5890/zina/zina/15089
+#EXTINF:-1, links-iptv.com-GSN FHD-US
+http://topiptv.net:5890/zina/zina/15088
+#EXTINF:-1, links-iptv.com-Hallmark Channel FHD-US
+http://topiptv.net:5890/zina/zina/15087
+#EXTINF:-1, links-iptv.com-HBO Comedy-US
+http://topiptv.net:5890/zina/zina/15086
+#EXTINF:-1, links-iptv.com-HBO Family FHD-US
+http://topiptv.net:5890/zina/zina/15085
+#EXTINF:-1, links-iptv.com-HBO FHD-US
+http://topiptv.net:5890/zina/zina/15084
+#EXTINF:-1, links-iptv.com-HBO Signature FHD-US
+http://topiptv.net:5890/zina/zina/15083
+#EXTINF:-1, links-iptv.com-HBO Signature-US
+http://topiptv.net:5890/zina/zina/15082
+#EXTINF:-1, links-iptv.com-HBO Zone FHD-US
+http://topiptv.net:5890/zina/zina/15081
+#EXTINF:-1, links-iptv.com-HBO Zone-US
+http://topiptv.net:5890/zina/zina/15080
+#EXTINF:-1, links-iptv.com-HBO-US
+http://topiptv.net:5890/zina/zina/15079
+#EXTINF:-1, links-iptv.com-HGTV-US
+http://topiptv.net:5890/zina/zina/15078
+#EXTINF:-1, links-iptv.com-History FHD-US
+http://topiptv.net:5890/zina/zina/15077
+#EXTINF:-1, links-iptv.com-History-US
+http://topiptv.net:5890/zina/zina/15076
+#EXTINF:-1, links-iptv.com-LifeTime FHD-US
+http://topiptv.net:5890/zina/zina/15075
+#EXTINF:-1, links-iptv.com-MLB Network HD-US
+http://topiptv.net:5890/zina/zina/15074
+#EXTINF:-1, links-iptv.com-MoreMax HD-US
+http://topiptv.net:5890/zina/zina/15073
+#EXTINF:-1, links-iptv.com-MSNBC FHD-US
+http://topiptv.net:5890/zina/zina/15072
+#EXTINF:-1, links-iptv.com-MTV FHD-US
+http://topiptv.net:5890/zina/zina/15071
+#EXTINF:-1, links-iptv.com-Nat Geo Wild FHD-US
+http://topiptv.net:5890/zina/zina/15070
+#EXTINF:-1, links-iptv.com-National Geographic-US
+http://topiptv.net:5890/zina/zina/15069
+#EXTINF:-1, links-iptv.com-NBA HD-US
+http://topiptv.net:5890/zina/zina/15068
+#EXTINF:-1, links-iptv.com-NBC Sports Network FHD-US
+http://topiptv.net:5890/zina/zina/15067
+#EXTINF:-1, links-iptv.com-NBC Sports Network HD-US
+http://topiptv.net:5890/zina/zina/15066
+#EXTINF:-1, links-iptv.com-NBC-US
+http://topiptv.net:5890/zina/zina/15065
+#EXTINF:-1, links-iptv.com-NEW ENGLAND SPORTS NETWORK HD -US
+http://topiptv.net:5890/zina/zina/15064
+#EXTINF:-1, links-iptv.com-NFL Channel HD-US
+http://topiptv.net:5890/zina/zina/15063
+#EXTINF:-1, links-iptv.com-NFL Network FHD -US
+http://topiptv.net:5890/zina/zina/15062
+#EXTINF:-1, links-iptv.com-NHL Network HD-US
+http://topiptv.net:5890/zina/zina/15061
+#EXTINF:-1, links-iptv.com-NickToons -US
+http://topiptv.net:5890/zina/zina/15058
+#EXTINF:-1, links-iptv.com-PAC-12 Arizona HD-US
+http://topiptv.net:5890/zina/zina/15056
+#EXTINF:-1, links-iptv.com-PAC-12 Bay Area HD-US
+http://topiptv.net:5890/zina/zina/15055
+#EXTINF:-1, links-iptv.com-PAC-12 Los Angeles HD-US
+http://topiptv.net:5890/zina/zina/15054
+#EXTINF:-1, links-iptv.com-PAC-12 Mountain HD-US
+http://topiptv.net:5890/zina/zina/15053
+#EXTINF:-1, links-iptv.com-PAC-12 Oregon HD-US
+http://topiptv.net:5890/zina/zina/15052
+#EXTINF:-1, links-iptv.com-PAC-12 Washington HD-US
+http://topiptv.net:5890/zina/zina/15051
+#EXTINF:-1, links-iptv.com-Paramount Network HD-US
+http://topiptv.net:5890/zina/zina/15050
+#EXTINF:-1, links-iptv.com-Reelz FHD-US
+http://topiptv.net:5890/zina/zina/15119
+#EXTINF:-1, links-iptv.com-Showtime FHD-US
+http://topiptv.net:5890/zina/zina/15118
+#EXTINF:-1, links-iptv.com-Showtime-US
+http://topiptv.net:5890/zina/zina/15117
+#EXTINF:-1, links-iptv.com-Sports Net One HD-US
+http://topiptv.net:5890/zina/zina/15116
+#EXTINF:-1, links-iptv.com-Sports Net Ontario HD-US
+http://topiptv.net:5890/zina/zina/15115
+#EXTINF:-1, links-iptv.com-Sports Net World HD-US
+http://topiptv.net:5890/zina/zina/15114
+#EXTINF:-1, links-iptv.com-Starz Cinema HD-US
+http://topiptv.net:5890/zina/zina/15113
+#EXTINF:-1, links-iptv.com-Starz Encore West FHD-US
+http://topiptv.net:5890/zina/zina/15112
+#EXTINF:-1, links-iptv.com-Starz HD-US
+http://topiptv.net:5890/zina/zina/15111
+#EXTINF:-1, links-iptv.com-Syfy HD-US
+http://topiptv.net:5890/zina/zina/15110
+#EXTINF:-1, links-iptv.com-TBS HD-US
+http://topiptv.net:5890/zina/zina/15109
+#EXTINF:-1, links-iptv.com-Tennis Channel FHD-US
+http://topiptv.net:5890/zina/zina/15108
+#EXTINF:-1, links-iptv.com-Tennis Channel HD-US
+http://topiptv.net:5890/zina/zina/15107
+#EXTINF:-1, links-iptv.com-TLC FHD-US
+http://topiptv.net:5890/zina/zina/15106
+#EXTINF:-1, links-iptv.com-TLC HD-US
+http://topiptv.net:5890/zina/zina/15105
+#EXTINF:-1, links-iptv.com-TNT HD-US
+http://topiptv.net:5890/zina/zina/15104
+#EXTINF:-1, links-iptv.com-UFC TV-US
+http://topiptv.net:5890/zina/zina/15103
+#EXTINF:-1, links-iptv.com-USA Network-US
+http://topiptv.net:5890/zina/zina/15102
+#EXTINF:-1, links-iptv.com-Velocity  FHD-US
+http://topiptv.net:5890/zina/zina/15101
+#EXTINF:-1, links-iptv.com-VH 1 FHD-US
+http://topiptv.net:5890/zina/zina/15100
+#EXTINF:-1, links-iptv.com-VH1 HD-US
+http://topiptv.net:5890/zina/zina/15099
+#EXTINF:-1, links-iptv.com-Viceland FHD-US
+http://topiptv.net:5890/zina/zina/15098
+#EXTINF:-1, links-iptv.com-Viceland-US
+http://topiptv.net:5890/zina/zina/15097
+#EXTINF:-1, links-iptv.com-WEATHER CHANNEL -US
+http://topiptv.net:5890/zina/zina/15096
+#EXTINF:-1, links-iptv.com-Willow Cricket HD-US
+http://topiptv.net:5890/zina/zina/15095
+#EXTINF:-1, links-iptv.com-WWE Network HD-US
+http://topiptv.net:5890/zina/zina/15094
+------------
+#EXTINF:-1, links-iptv.com-======= USA ======
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5152
+#EXTINF:-1, links-iptv.com-=== USA & Canada News ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112814
+#EXTINF:-1, links-iptv.com-US: MSNBC FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7846
+#EXTINF:-1, links-iptv.com-US: MSNBC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15097
+#EXTINF:-1, links-iptv.com-US: CNN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15407
+#EXTINF:-1, links-iptv.com-US: CNN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3159
+#EXTINF:-1, links-iptv.com-US: ABC News HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3473
+#EXTINF:-1, links-iptv.com-US: CNBC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16780
+#EXTINF:-1, links-iptv.com-US: CNBC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2624
+#EXTINF:-1, links-iptv.com-US: CBSN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5349
+#EXTINF:-1, links-iptv.com-US: CBN News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/12831
+#EXTINF:-1, links-iptv.com-US: Bloomberg HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2833
+#EXTINF:-1, links-iptv.com-US: Fox News HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10954
+#EXTINF:-1, links-iptv.com-US: Fox Business Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15308
+#EXTINF:-1, links-iptv.com-US: BBC America HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15406
+#EXTINF:-1, links-iptv.com-US: RT America HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3644
+#EXTINF:-1, links-iptv.com-US: RT Documentary
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2836
+#EXTINF:-1, links-iptv.com-US: The Weather Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15285
+#EXTINF:-1, links-iptv.com-US: Weather Nation
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2883
+#EXTINF:-1, links-iptv.com-US: C-Span1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3602
+#EXTINF:-1, links-iptv.com-CA: CTV News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11074
+#EXTINF:-1, links-iptv.com-CA: CTV Vancouver
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15428
+#EXTINF:-1, links-iptv.com-CA: CTV 2 Vancouver
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5328
+#EXTINF:-1, links-iptv.com-CA: CTV Ottawa
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112843
+#EXTINF:-1, links-iptv.com-CA: CTV 2 Ottawa
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112842
+#EXTINF:-1, links-iptv.com-CA: CBC News HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5327
+#EXTINF:-1, links-iptv.com-=== USA & Canada Locals ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112815
+#EXTINF:-1, links-iptv.com-US: ABC 6 Philly HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28483
+#EXTINF:-1, links-iptv.com-US: ABC 2 Atlanta HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5310
+#EXTINF:-1, links-iptv.com-US: ABC 7 (Los Angeles) HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/18431
+#EXTINF:-1, links-iptv.com-US: ABC 7 Chicago HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112603
+#EXTINF:-1, links-iptv.com-US: ABC 7 LA HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112602
+#EXTINF:-1, links-iptv.com-US: ABC 7 NYC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112601
+#EXTINF:-1, links-iptv.com-US: ABC 10 Miami HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112600
+#EXTINF:-1, links-iptv.com-US: Fox 50
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17995
+#EXTINF:-1, links-iptv.com-US: CBS NY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8595
+#EXTINF:-1, links-iptv.com-US: Atlanta Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112598
+#EXTINF:-1, links-iptv.com-US: The Florida Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3530
+#EXTINF:-1, links-iptv.com-US: Miami TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3529
+#EXTINF:-1, links-iptv.com-US: Fox 59 News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3651
+#EXTINF:-1, links-iptv.com-US: WGN News Chicago HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3600
+#EXTINF:-1, links-iptv.com-CA: City TV Toronto
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3653
+#EXTINF:-1, links-iptv.com-US: News 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5348
+#EXTINF:-1, links-iptv.com-US: KTVZ News Channel 21
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3631
+#EXTINF:-1, links-iptv.com-CA: CTV MONTREAL
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44157
+#EXTINF:-1, links-iptv.com-=== USA Entertainment ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112816
+#EXTINF:-1, links-iptv.com-US: ABC HD ( West )
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5848
+#EXTINF:-1, links-iptv.com-US: CBS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8975
+#EXTINF:-1, links-iptv.com-US: NBC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8976
+#EXTINF:-1, links-iptv.com-US: NBC East HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112608
+#EXTINF:-1, links-iptv.com-US: Fox HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5879
+#EXTINF:-1, links-iptv.com-US: Fox HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15092
+#EXTINF:-1, links-iptv.com-US: Fox 5 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8974
+#EXTINF:-1, links-iptv.com-US: Fox 19 Now HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112614
+#EXTINF:-1, links-iptv.com-US: HBO HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15086
+#EXTINF:-1, links-iptv.com-US: HBO HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5323
+#EXTINF:-1, links-iptv.com-US: HBO 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15091
+#EXTINF:-1, links-iptv.com-US: CW HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16781
+#EXTINF:-1, links-iptv.com-US: PBS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16787
+#EXTINF:-1, links-iptv.com-US: Sundance HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16788
+#EXTINF:-1, links-iptv.com-US: Comedy Central HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16782
+#EXTINF:-1, links-iptv.com-US: Comedy Central HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3660
+#EXTINF:-1, links-iptv.com-US: SYFY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15293
+#EXTINF:-1, links-iptv.com-US: E! HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15301
+#EXTINF:-1, links-iptv.com-US: E!
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3663
+#EXTINF:-1, links-iptv.com-US: FX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15291
+#EXTINF:-1, links-iptv.com-US: FXX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3646
+#EXTINF:-1, links-iptv.com-US: USA Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15272
+#EXTINF:-1, links-iptv.com-US: USA Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5309
+#EXTINF:-1, links-iptv.com-US: Bravo HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3664
+#EXTINF:-1, links-iptv.com-US: Bravo HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15460
+#EXTINF:-1, links-iptv.com-US: Spike/Paramount HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15310
+#EXTINF:-1, links-iptv.com-US: Lifetime HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15295
+#EXTINF:-1, links-iptv.com-US: A&E HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15282
+#EXTINF:-1, links-iptv.com-US: Freeform HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15303
+#EXTINF:-1, links-iptv.com-US: CBN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15271
+#EXTINF:-1, links-iptv.com-US: AMC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15299
+#EXTINF:-1, links-iptv.com-US: HGTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15287
+#EXTINF:-1, links-iptv.com-US: Outdoor HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15268
+#EXTINF:-1, links-iptv.com-US: OWN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15294
+#EXTINF:-1, links-iptv.com-US: TLC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15311
+#EXTINF:-1, links-iptv.com-US: TRU TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15305
+#EXTINF:-1, links-iptv.com-US: TV Land HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15312
+#EXTINF:-1, links-iptv.com-US: Reelz HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15270
+#EXTINF:-1, links-iptv.com-US: WE TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112584
+#EXTINF:-1, links-iptv.com-US: TBS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15292
+#EXTINF:-1, links-iptv.com-US: The Blaze
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11045
+#EXTINF:-1, links-iptv.com-US: Big Ten Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15290
+#EXTINF:-1, links-iptv.com-US: Big Ten Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3652
+#EXTINF:-1, links-iptv.com-US: Fuse HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112613
+#EXTINF:-1, links-iptv.com-US: Fusion HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112593
+#EXTINF:-1, links-iptv.com-US: PBS America
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3603
+#EXTINF:-1, links-iptv.com-US: Oxygen
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3654
+#EXTINF:-1, links-iptv.com-US: Bounce Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112586
+#EXTINF:-1, links-iptv.com-US: Buzzr HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112616
+#EXTINF:-1, links-iptv.com-US: Fox Premium Movies HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112543
+#EXTINF:-1, links-iptv.com-US: El Rey HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112587
+#EXTINF:-1, links-iptv.com-US: IFC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112589
+#EXTINF:-1, links-iptv.com-US: Ion TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112611
+#EXTINF:-1, links-iptv.com-US: Movee 4U HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112542
+#EXTINF:-1, links-iptv.com-US: Me TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112599
+#EXTINF:-1, links-iptv.com-US: Smithsonian Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112606
+#EXTINF:-1, links-iptv.com-US: RetroPlex HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112592
+#EXTINF:-1, links-iptv.com-US: The Longhorn Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112591
+#EXTINF:-1, links-iptv.com-US: TV One HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112583
+#EXTINF:-1, links-iptv.com-US: Adult Swim HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112618
+#EXTINF:-1, links-iptv.com-US: Southeastern Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112595
+#EXTINF:-1, links-iptv.com-US: Universal Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112605
+#EXTINF:-1, links-iptv.com-US: CBS FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5351
+#EXTINF:-1, links-iptv.com-US: FX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3662
+#EXTINF:-1, links-iptv.com-US: O.W.N HD (oprah winfrey network)
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5330
+#EXTINF:-1, links-iptv.com-US: HGTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5318
+#EXTINF:-1, links-iptv.com-US: TBS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5333
+#EXTINF:-1, links-iptv.com-US: AMC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7645
+#EXTINF:-1, links-iptv.com-US: Freeform HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3747
+#EXTINF:-1, links-iptv.com-US: TLC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4530
+#EXTINF:-1, links-iptv.com-US: Fuel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3945
+#EXTINF:-1, links-iptv.com-US: Spike HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5332
+#EXTINF:-1, links-iptv.com-US: TV Land
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/9585
+#EXTINF:-1, links-iptv.com-US: HIFI
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4564
+#EXTINF:-1, links-iptv.com-US: World Fashion HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3592
+#EXTINF:-1, links-iptv.com-US: Amazing Facts TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3647
+#EXTINF:-1, links-iptv.com-US: TSC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3528
+#EXTINF:-1, links-iptv.com-US: CBN
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/12832
+#EXTINF:-1, links-iptv.com-US: AMG TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3601
+#EXTINF:-1, links-iptv.com-US: Smile Of A Child
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3745
+#EXTINF:-1, links-iptv.com-US: Cpac
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3632
+#EXTINF:-1, links-iptv.com-US: HSN 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3526
+#EXTINF:-1, links-iptv.com-US: HSN 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3527
+#EXTINF:-1, links-iptv.com-US: NBC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3174
+#EXTINF:-1, links-iptv.com-US: Cozi TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5339
+#EXTINF:-1, links-iptv.com-=== Canada Entertainment ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112817
+#EXTINF:-1, links-iptv.com-CA: HBO 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15425
+#EXTINF:-1, links-iptv.com-CA: HBO 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15424
+#EXTINF:-1, links-iptv.com-CA: CHCH HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28247
+#EXTINF:-1, links-iptv.com-CA: CBC Montreal
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15412
+#EXTINF:-1, links-iptv.com-US: CBS East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15413
+#EXTINF:-1, links-iptv.com-CA: CITY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15414
+#EXTINF:-1, links-iptv.com-CA: CP 24 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15421
+#EXTINF:-1, links-iptv.com-CA: CTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15415
+#EXTINF:-1, links-iptv.com-CA: CW
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15416
+#EXTINF:-1, links-iptv.com-CA: GLOBAL HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15417
+#EXTINF:-1, links-iptv.com-CA: HLN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15426
+#EXTINF:-1, links-iptv.com-CA: ME TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15418
+#EXTINF:-1, links-iptv.com-CA: Peach Tree HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15419
+#EXTINF:-1, links-iptv.com-CA: FOX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15423
+#EXTINF:-1, links-iptv.com-CA: NBC East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15420
+#EXTINF:-1, links-iptv.com-CA: OWN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15427
+#EXTINF:-1, links-iptv.com-CA: Slice HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15429
+#EXTINF:-1, links-iptv.com-CA: E! HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15422
+#EXTINF:-1, links-iptv.com-CA: TLC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15430
+#EXTINF:-1, links-iptv.com-CA: Comedy Gold
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15431
+#EXTINF:-1, links-iptv.com-CA: GSN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15273
+#EXTINF:-1, links-iptv.com-CA: ABC Spark HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15269
+#EXTINF:-1, links-iptv.com-CA: RDS (FR)
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11040
+#EXTINF:-1, links-iptv.com-CA: Lifetime HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5326
+#EXTINF:-1, links-iptv.com-CA: Space
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/9582
+#EXTINF:-1, links-iptv.com-CA: BNN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/9584
+#EXTINF:-1, links-iptv.com-CA: AMC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/9583
+#EXTINF:-1, links-iptv.com-CA: CPAC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10711
+#EXTINF:-1, links-iptv.com-CA: ABC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10714
+#EXTINF:-1, links-iptv.com-CA: RDS 2 (FR)
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10717
+#EXTINF:-1, links-iptv.com-CA: FXX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10718
+#EXTINF:-1, links-iptv.com-CA: FX HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10719
+#EXTINF:-1, links-iptv.com-CA: Casa
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10720
+#EXTINF:-1, links-iptv.com-CA: HGTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10721
+#EXTINF:-1, links-iptv.com-CA: Addik TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10722
+#EXTINF:-1, links-iptv.com-CA: Bravo HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10723
+#EXTINF:-1, links-iptv.com-CA: Bet
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10724
+#EXTINF:-1, links-iptv.com-CA: OLN
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10729
+#EXTINF:-1, links-iptv.com-CA: Family Chrgd
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10730
+#EXTINF:-1, links-iptv.com-CA FR: Z Tele
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44167
+#EXTINF:-1, links-iptv.com-CA FR: Historio
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44166
+#EXTINF:-1, links-iptv.com-CA FR: ICI ARTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44160
+#EXTINF:-1, links-iptv.com-CA FR: Ici Radio Canada Tele Acadie HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44162
+#EXTINF:-1, links-iptv.com-CA FR: ICI Montreal
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44163
+#EXTINF:-1, links-iptv.com-CA FR: ICI Vancouver
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44165
+#EXTINF:-1, links-iptv.com-CA FR: TVA Montreal
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44164
+#EXTINF:-1, links-iptv.com-CA FR: Evasion
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44161
+#EXTINF:-1, links-iptv.com-=== USA & Canada Movies ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112818
+#EXTINF:-1, links-iptv.com-US: HBO Signature HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15087
+#EXTINF:-1, links-iptv.com-US: HBO Zone HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15089
+#EXTINF:-1, links-iptv.com-US: HBO Comedy HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15088
+#EXTINF:-1, links-iptv.com-US: HBO Family HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15090
+#EXTINF:-1, links-iptv.com-US: HBO Siignature
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5320
+#EXTINF:-1, links-iptv.com-US: HBO ZONE
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5319
+#EXTINF:-1, links-iptv.com-US: HBO Comedy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5321
+#EXTINF:-1, links-iptv.com-US: HBO Family
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5322
+#EXTINF:-1, links-iptv.com-US: Starz HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89229
+#EXTINF:-1, links-iptv.com-US: Starz East HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15314
+#EXTINF:-1, links-iptv.com-US: Starz Edge HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89231
+#EXTINF:-1, links-iptv.com-US: Starz Edge
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5338
+#EXTINF:-1, links-iptv.com-US: Starz Encore HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89230
+#EXTINF:-1, links-iptv.com-US: Starz Kids & Family HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89232
+#EXTINF:-1, links-iptv.com-US: Starz Cinema HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5335
+#EXTINF:-1, links-iptv.com-US: Starz Comedy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10738
+#EXTINF:-1, links-iptv.com-US: Starz Suspense HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112594
+#EXTINF:-1, links-iptv.com-US: Showtime HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3533
+#EXTINF:-1, links-iptv.com-US: Showtime HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15404
+#EXTINF:-1, links-iptv.com-US: Showtime 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10733
+#EXTINF:-1, links-iptv.com-US: Showtime Showcase HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15405
+#EXTINF:-1, links-iptv.com-US: Showtime Extreme HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112590
+#EXTINF:-1, links-iptv.com-US: Showtime West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5337
+#EXTINF:-1, links-iptv.com-US: Epix HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15280
+#EXTINF:-1, links-iptv.com-US: Epix 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15281
+#EXTINF:-1, links-iptv.com-US: Epix Hits HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112620
+#EXTINF:-1, links-iptv.com-US: Cinemax HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5336
+#EXTINF:-1, links-iptv.com-US: CineMax HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15302
+#EXTINF:-1, links-iptv.com-US: Cinemax East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3628
+#EXTINF:-1, links-iptv.com-US: Cinemax Moremax HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3629
+#EXTINF:-1, links-iptv.com-US: Cinemax Action Max
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3658
+#EXTINF:-1, links-iptv.com-US: ThrillerMax HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15306
+#EXTINF:-1, links-iptv.com-US: MoreMax HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15297
+#EXTINF:-1, links-iptv.com-US: TNT HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15304
+#EXTINF:-1, links-iptv.com-US: TNT HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5352
+#EXTINF:-1, links-iptv.com-US: Paramount Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112607
+#EXTINF:-1, links-iptv.com-US: FX Movie Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112612
+#EXTINF:-1, links-iptv.com-US: Lifetime Movies HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112610
+#EXTINF:-1, links-iptv.com-US: Sony Movies HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112582
+#EXTINF:-1, links-iptv.com-US: Hallmark
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5324
+#EXTINF:-1, links-iptv.com-US: Hallmark Movies & Mysteries HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/19693
+#EXTINF:-1, links-iptv.com-US: Antenna TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114087
+#EXTINF:-1, links-iptv.com-=== USA & Canada Doc ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112819
+#EXTINF:-1, links-iptv.com-US: Discovery Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15296
+#EXTINF:-1, links-iptv.com-US: Discovery Velocity HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15289
+#EXTINF:-1, links-iptv.com-US: Discovery Velocity
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11075
+#EXTINF:-1, links-iptv.com-US: Discovery Science HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3750
+#EXTINF:-1, links-iptv.com-US: Discovery Life HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112541
+#EXTINF:-1, links-iptv.com-US: Discovery Family HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15267
+#EXTINF:-1, links-iptv.com-US: History Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5317
+#EXTINF:-1, links-iptv.com-CA: H2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5325
+#EXTINF:-1, links-iptv.com-US: National Geographic HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16785
+#EXTINF:-1, links-iptv.com-US: National Geographic Wild HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3634
+#EXTINF:-1, links-iptv.com-US: Investigation Discovery HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3748
+#EXTINF:-1, links-iptv.com-US: Crime & Investigation HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15213
+#EXTINF:-1, links-iptv.com-US: Animal Planet HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15298
+#EXTINF:-1, links-iptv.com-US: Animal Planet
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4529
+#EXTINF:-1, links-iptv.com-US: Destination America HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15307
+#EXTINF:-1, links-iptv.com-US: Travel Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2625
+#EXTINF:-1, links-iptv.com-US: DIY Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15403
+#EXTINF:-1, links-iptv.com-US: Viceland HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112604
+#EXTINF:-1, links-iptv.com-US: Food Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15135
+#EXTINF:-1, links-iptv.com-US: Food Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5312
+#EXTINF:-1, links-iptv.com-US: Cooking Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11081
+#EXTINF:-1, links-iptv.com-US: Nasa TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2830
+#EXTINF:-1, links-iptv.com-CA: Discovery Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10732
+#EXTINF:-1, links-iptv.com-CA: National Geo Wild HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10713
+#EXTINF:-1, links-iptv.com-CA: National Geo HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10716
+#EXTINF:-1, links-iptv.com-CA: History HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10726
+#EXTINF:-1, links-iptv.com-CA: Food Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10725
+#EXTINF:-1, links-iptv.com-=== USA & Canada Kids ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112820
+#EXTINF:-1, links-iptv.com-US: Disney HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15288
+#EXTINF:-1, links-iptv.com-US: Disney XD HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3661
+#EXTINF:-1, links-iptv.com-US: Disney Junior HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/18432
+#EXTINF:-1, links-iptv.com-US: Cartoon Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15300
+#EXTINF:-1, links-iptv.com-US: Nick HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16786
+#EXTINF:-1, links-iptv.com-US: Nick Jr HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15317
+#EXTINF:-1, links-iptv.com-US: Nicketoons HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5331
+#EXTINF:-1, links-iptv.com-US: Boomerang HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112617
+#EXTINF:-1, links-iptv.com-CA: Cartoon Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10715
+#EXTINF:-1, links-iptv.com-CA: Disney Junior
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10728
+#EXTINF:-1, links-iptv.com-CA: Disney Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11073
+#EXTINF:-1, links-iptv.com-CA: Disney XD HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10731
+#EXTINF:-1, links-iptv.com-=== USA & Canada Music ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112821
+#EXTINF:-1, links-iptv.com-US: MTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15309
+#EXTINF:-1, links-iptv.com-US: VH1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15315
+#EXTINF:-1, links-iptv.com-US: VH1 Classic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17340
+#EXTINF:-1, links-iptv.com-US: Bet HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15284
+#EXTINF:-1, links-iptv.com-US: Pop & Country
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/13977
+#EXTINF:-1, links-iptv.com-US: California Music Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28255
+#EXTINF:-1, links-iptv.com-US: Country Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112615
+#EXTINF:-1, links-iptv.com-CA: CMT Canada
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11076
+#EXTINF:-1, links-iptv.com---------- US Sports ---------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4132
+#EXTINF:-1, links-iptv.com-US: NBC Sports Chicago HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89224
+#EXTINF:-1, links-iptv.com-US: NBC Sports Plus Chicago HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89226
+#EXTINF:-1, links-iptv.com-US SP: CBS Sports Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10709
+#EXTINF:-1, links-iptv.com-US: ESPN News HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10710
+#EXTINF:-1, links-iptv.com-US SP: ESPN FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16783
+#EXTINF:-1, links-iptv.com-US: ESPN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3532
+#EXTINF:-1, links-iptv.com-US SP: ESPN 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/6319
+#EXTINF:-1, links-iptv.com-US SP: ESPN U HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/13938
+#EXTINF:-1, links-iptv.com-US SP: ESPN Sec Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15286
+#EXTINF:-1, links-iptv.com-US SP: ESPN Deportes HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28243
+#EXTINF:-1, links-iptv.com-US SP: Fox Sports 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15459
+#EXTINF:-1, links-iptv.com-US: Fox Sport 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3918
+#EXTINF:-1, links-iptv.com-US SP: Fox Sports 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15458
+#EXTINF:-1, links-iptv.com-US: Fox Sport 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3609
+#EXTINF:-1, links-iptv.com-US SP: Fox Sports Soccer Plus HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11180
+#EXTINF:-1, links-iptv.com-US SP: Fox Deportes HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10953
+#EXTINF:-1, links-iptv.com-US SP: beIN Sports USA FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28249
+#EXTINF:-1, links-iptv.com-US: beIN Sports HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3671
+#EXTINF:-1, links-iptv.com-US: FNTSY Sports Network FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89225
+#EXTINF:-1, links-iptv.com-US: Sportsman HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89227
+#EXTINF:-1, links-iptv.com-US: Stadium HD Original
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/89228
+#EXTINF:-1, links-iptv.com-US: Wow Sport HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/56571
+#EXTINF:-1, links-iptv.com-US SP: BTN Sports HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5315
+#EXTINF:-1, links-iptv.com-US SP: NHL Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8662
+#EXTINF:-1, links-iptv.com-US SP: NFL Network FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7842
+#EXTINF:-1, links-iptv.com-US: NFL Redzone HD [Live Events Only]
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7847
+#EXTINF:-1, links-iptv.com-US: NFL Now HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11179
+#EXTINF:-1, links-iptv.com-US SP: GSN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111057
+#EXTINF:-1, links-iptv.com-US: SportsNet New York HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112585
+#EXTINF:-1, links-iptv.com-US: NBC Sports Bay Area HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111078
+#EXTINF:-1, links-iptv.com-US: NBC Sports Boston FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111251
+#EXTINF:-1, links-iptv.com-US: NBC Sports California FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111250
+#EXTINF:-1, links-iptv.com-US: NBC Sports Northwest FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111249
+#EXTINF:-1, links-iptv.com-US: NBC Sports Philadelphia FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111248
+#EXTINF:-1, links-iptv.com-US: NBC Sports Philadelphia Plus FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111247
+#EXTINF:-1, links-iptv.com-US: NBC Sports Washington FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111246
+#EXTINF:-1, links-iptv.com-US: MSG HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111245
+#EXTINF:-1, links-iptv.com-US SP: NESN HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111077
+#EXTINF:-1, links-iptv.com-US: NFL Mix HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111244
+#EXTINF:-1, links-iptv.com-US: World Fight Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8007
+#EXTINF:-1, links-iptv.com-US: Fight Sport
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7920
+#EXTINF:-1, links-iptv.com-VIP: Fightbox HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3626
+#EXTINF:-1, links-iptv.com-US: Fight Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17338
+#EXTINF:-1, links-iptv.com-US: Fight
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5313
+#EXTINF:-1, links-iptv.com-US: WWE Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4693
+#EXTINF:-1, links-iptv.com-US: WWE PPV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111242
+#EXTINF:-1, links-iptv.com-US SP: NBA FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11790
+#EXTINF:-1, links-iptv.com-US: NBA HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5855
+#EXTINF:-1, links-iptv.com-US SP: MLB HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/19695
+#EXTINF:-1, links-iptv.com-US: MLB Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11038
+#EXTINF:-1, links-iptv.com-US: MLB Extra Inning HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111046
+#EXTINF:-1, links-iptv.com-US: Tennis Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10941
+#EXTINF:-1, links-iptv.com-US SP: Golf Channel FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/21045
+#EXTINF:-1, links-iptv.com-US: NBC Golf HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3542
+#EXTINF:-1, links-iptv.com-US: BYU TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3630
+#EXTINF:-1, links-iptv.com-US: LMN
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5329
+#EXTINF:-1, links-iptv.com-US: Fox Soccer Sun HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8663
+#EXTINF:-1, links-iptv.com-US: Fox College Sports Atlantic HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111061
+#EXTINF:-1, links-iptv.com-US: Fox College Sports Central HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111062
+#EXTINF:-1, links-iptv.com-US: Fox Sports Arizona HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111058
+#EXTINF:-1, links-iptv.com-US: Fox Sports Carolina HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111059
+#EXTINF:-1, links-iptv.com-US: Fox Sports Cincinnati HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111060
+#EXTINF:-1, links-iptv.com-US: Fox Sports Florida HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111063
+#EXTINF:-1, links-iptv.com-US: Fox Sports Midwest HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111064
+#EXTINF:-1, links-iptv.com-US: Fox Sports North HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111065
+#EXTINF:-1, links-iptv.com-US: Fox Sports Ohio HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111066
+#EXTINF:-1, links-iptv.com-US: NBC Sports Philadelphia
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5314
+#EXTINF:-1, links-iptv.com-US: Fox Sports Plus HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111067
+#EXTINF:-1, links-iptv.com-US: Fox Sports Prime Ticket HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111068
+#EXTINF:-1, links-iptv.com-US: Fox Sports San Diego HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111069
+#EXTINF:-1, links-iptv.com-US: Fox Sports South East HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111070
+#EXTINF:-1, links-iptv.com-US: Fox Sports South HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111071
+#EXTINF:-1, links-iptv.com-US: Fox Sports South West HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111072
+#EXTINF:-1, links-iptv.com-US: Fox Sports Sun HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111073
+#EXTINF:-1, links-iptv.com-US: Fox Sports Tennessee HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111074
+#EXTINF:-1, links-iptv.com-US: Fox Sports West HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111075
+#EXTINF:-1, links-iptv.com-US: Fox Sports Wisconsin HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111076
+#EXTINF:-1, links-iptv.com-US: Eleven Sports 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114776
+#EXTINF:-1, links-iptv.com-US: Eleven Sports 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114777
+#EXTINF:-1, links-iptv.com-US: Redbull TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3605
+#EXTINF:-1, links-iptv.com-US: NBA TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2834
+#EXTINF:-1, links-iptv.com-US: Motor Sports 7 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3153
+#EXTINF:-1, links-iptv.com-US SP: Yes Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111045
+#EXTINF:-1, links-iptv.com-US: Fox Sports 506 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3152
+#EXTINF:-1, links-iptv.com-US: UFC Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111243
+#EXTINF:-1, links-iptv.com-US SP: bein Sports Espagnol HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111056
+#EXTINF:-1, links-iptv.com-US: beIN Sports 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111047
+#EXTINF:-1, links-iptv.com-US: beIN Sports 3 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111048
+#EXTINF:-1, links-iptv.com-US: beIN Sports 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111049
+#EXTINF:-1, links-iptv.com-US: beIN Sports 5 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111050
+#EXTINF:-1, links-iptv.com-US: beIN Sports 6 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111051
+#EXTINF:-1, links-iptv.com-US: beIN Sports 7 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111052
+#EXTINF:-1, links-iptv.com-US: beIN Sports 8 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111053
+#EXTINF:-1, links-iptv.com-US: beIN Sports 9 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111054
+#EXTINF:-1, links-iptv.com-US: beIN Sports 10 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111055
+#EXTINF:-1, links-iptv.com-US: ESPN Plus HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111241
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 01HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111240
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 02 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111239
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 03 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111238
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 04 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111237
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 05 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111236
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 06 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111235
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 07 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111234
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 08 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111233
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 09 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111232
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 10 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111231
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 11 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111230
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 12 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111229
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 13 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111228
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 14 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111227
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 15 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111226
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 16 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111225
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 17 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111224
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 18 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111223
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 19 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111222
+#EXTINF:-1, links-iptv.com-US: ESPN Plus 20 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/111221
+#EXTINF:-1, links-iptv.com-CA SP: TSN 1 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7785
+#EXTINF:-1, links-iptv.com-CA: TSN 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3175
+#EXTINF:-1, links-iptv.com-CA SP: TSN 2 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7786
+#EXTINF:-1, links-iptv.com-CA: TSN 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3469
+#EXTINF:-1, links-iptv.com-CA SP: TSN 3 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7787
+#EXTINF:-1, links-iptv.com-CA: TSN 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3470
+#EXTINF:-1, links-iptv.com-CA SP: TSN 4 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7788
+#EXTINF:-1, links-iptv.com-CA: TSN 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3471
+#EXTINF:-1, links-iptv.com-CA SP: TSN 5 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7971
+#EXTINF:-1, links-iptv.com-CA: TSN 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3472
+#EXTINF:-1, links-iptv.com-VIP: Pac12 Area HD US
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8000
+#EXTINF:-1, links-iptv.com-US: Pac12 Arizona HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7999
+#EXTINF:-1, links-iptv.com-US: Pac12 Los Angeles HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8001
+#EXTINF:-1, links-iptv.com-US: Pac12 Oregon HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8003
+#EXTINF:-1, links-iptv.com-US: Pac12 Network HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8004
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet 360 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15446
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet East FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15433
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet One FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15434
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet Ontario FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15435
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet Pacific FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15436
+#EXTINF:-1, links-iptv.com-CA: Sportsnet West FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15437
+#EXTINF:-1, links-iptv.com-CA SP: Sportsnet World FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15438
+#EXTINF:-1, links-iptv.com-CA: Sportsnet One HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7851
+#EXTINF:-1, links-iptv.com-CA: Sportnet Pacific HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7849
+#EXTINF:-1, links-iptv.com-CA: Sportsnet 360 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7852
+#EXTINF:-1, links-iptv.com-CA: Sportsnet West HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/7850
+#EXTINF:-1, links-iptv.com-CA SP: TVA Sports 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44159
+#EXTINF:-1, links-iptv.com-CA SP: TVA Sports 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/44158
+#EXTINF:-1, links-iptv.com-CA: TVA Sports HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10727
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42795
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42803
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42802
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42801
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42800
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42799
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42798
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42797
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42796
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42810
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 11
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42809
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42808
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 13
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42807
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 14
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42806
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 15
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42805
+#EXTINF:-1, links-iptv.com-US: MLB PASS HD 16
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/42804
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30178
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30174
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30173
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30172
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30171
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30170
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30169
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30168
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30167
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30177
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 11
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30176
+#EXTINF:-1, links-iptv.com-US: NBA LEAGUE PASS LIVE 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30175
+#EXTINF:-1, links-iptv.com-US: NBA PASS 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30141
+#EXTINF:-1, links-iptv.com-US: NBA PASS 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30137
+#EXTINF:-1, links-iptv.com-US: NBA PASS 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30136
+#EXTINF:-1, links-iptv.com-US: NBA PASS 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30135
+#EXTINF:-1, links-iptv.com-US: NBA PASS 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30134
+#EXTINF:-1, links-iptv.com-US: NBA PASS 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30133
+#EXTINF:-1, links-iptv.com-US: NBA PASS 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30132
+#EXTINF:-1, links-iptv.com-US: NBA PASS 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30131
+#EXTINF:-1, links-iptv.com-US: NBA PASS 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30130
+#EXTINF:-1, links-iptv.com-US: NBA PASS 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30140
+#EXTINF:-1, links-iptv.com-US: NBA PASS 11
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30139
+#EXTINF:-1, links-iptv.com-US: NBA PASS 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30138
+#EXTINF:-1, links-iptv.com-US: NFL Sun Games
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113633
+#EXTINF:-1, links-iptv.com-US: NFL Sunday Night Football
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113619
+#EXTINF:-1, links-iptv.com-US: NFL Fox Sunday
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113616
+#EXTINF:-1, links-iptv.com-US: NFL Monday Night Football
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113618
+#EXTINF:-1, links-iptv.com-US: NFL Thursday Night Football
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113617
+#EXTINF:-1, links-iptv.com-US: NFL Network 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113615
+#EXTINF:-1, links-iptv.com-US: NFL Network 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113614
+#EXTINF:-1, links-iptv.com-US: NFL Redzone 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113613
+#EXTINF:-1, links-iptv.com-US: NFL Redzone 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113612
+#EXTINF:-1, links-iptv.com-US: NFL Arena 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30156
+#EXTINF:-1, links-iptv.com-US: NFL Arena 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30149
+#EXTINF:-1, links-iptv.com-US: NFL Arena 3 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30148
+#EXTINF:-1, links-iptv.com-US: NFL Arena 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30147
+#EXTINF:-1, links-iptv.com-US: NFL Arena 5 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30146
+#EXTINF:-1, links-iptv.com-US: NFL Arena 6 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30145
+#EXTINF:-1, links-iptv.com-US: NFL Arena 7 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30144
+#EXTINF:-1, links-iptv.com-US: NFL Arena 8 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30143
+#EXTINF:-1, links-iptv.com-US: NFL Arena 9 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30142
+#EXTINF:-1, links-iptv.com-US: NFL Arena 10 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30155
+#EXTINF:-1, links-iptv.com-US: NFL Arena 11 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30154
+#EXTINF:-1, links-iptv.com-US: NFL Arena 12 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30153
+#EXTINF:-1, links-iptv.com-US: NFL Arena 13 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30152
+#EXTINF:-1, links-iptv.com-US: NFL Arena 14 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30151
+#EXTINF:-1, links-iptv.com-US: NFL Arena 15 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30150
+#EXTINF:-1, links-iptv.com-US: NFL 705
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113632
+#EXTINF:-1, links-iptv.com-US: NFL 706
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113631
+#EXTINF:-1, links-iptv.com-US: NFL 707
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113630
+#EXTINF:-1, links-iptv.com-US: NFL 708
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113629
+#EXTINF:-1, links-iptv.com-US: NFL 709
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113628
+#EXTINF:-1, links-iptv.com-US: NFL 710
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113627
+#EXTINF:-1, links-iptv.com-US: NFL 711
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113626
+#EXTINF:-1, links-iptv.com-US: NFL 712
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113625
+#EXTINF:-1, links-iptv.com-US: NFL 713
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113624
+#EXTINF:-1, links-iptv.com-US: NFL 714
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113623
+#EXTINF:-1, links-iptv.com-US: NFL 715
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113622
+#EXTINF:-1, links-iptv.com-US: NFL 716
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113621
+#EXTINF:-1, links-iptv.com-US: NFL 717
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/113620
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30166
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30164
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30163
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30162
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30161
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30160
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30159
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30158
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30157
+#EXTINF:-1, links-iptv.com-US: NHL GAMECENTRE LIVE 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30165
+#EXTINF:-1, links-iptv.com-US: NHL HD 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30101
+#EXTINF:-1, links-iptv.com-US: NHL HD 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30096
+#EXTINF:-1, links-iptv.com-US: NHL HD 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30095
+#EXTINF:-1, links-iptv.com-US: NHL HD 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30094
+#EXTINF:-1, links-iptv.com-US: NHL HD 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30093
+#EXTINF:-1, links-iptv.com-US: NHL HD 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30092
+#EXTINF:-1, links-iptv.com-US: NHL HD 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30091
+#EXTINF:-1, links-iptv.com-US: NHL HD 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30090
+#EXTINF:-1, links-iptv.com-US: NHL HD 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30089
+#EXTINF:-1, links-iptv.com-US: NHL HD 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30100
+#EXTINF:-1, links-iptv.com-US: NHL HD 11
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30099
+#EXTINF:-1, links-iptv.com-US: NHL HD 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30098
+#EXTINF:-1, links-iptv.com-US: NHL HD 13
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30097
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30129
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30124
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30123
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30122
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30121
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 6
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30120
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 7
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30119
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 8
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30118
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30117
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 10
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30128
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 11
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30127
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 12
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30126
+#EXTINF:-1, links-iptv.com-US: NHL PASS HD 13
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/30125
