@@ -1,6 +1,340 @@
 ﻿#EXTM3U
 https://iptvvlc.com/iptv-links-uk-england-m3u-playlist-16-06-2019/
 https://en.iptv4m3u.com/iptv-m3u-uk-england-links-tv-hd-list-16-06-2019/
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
+http://163.172.112.225:80/live.ts?channelId=70&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA DISNEY HD" tvg-logo="" group-title="Movie Channels",CINEMA DISNEY HD - CINEMA DISNEY HD
+http://163.172.112.225:80/live.ts?channelId=71&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA DRAMA AND ROMANCE HD" tvg-logo="" group-title="Movie Channels",CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
+http://163.172.112.225:80/live.ts?channelId=72&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA FAMILY HD" tvg-logo="" group-title="Movie Channels",CINEMA FAMILY HD - CINEMA FAMILY HD
+http://163.172.112.225:80/live.ts?channelId=73&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA HITS HD" tvg-logo="" group-title="Movie Channels",CINEMA HITS HD - CINEMA HITS HD
+http://163.172.112.225:80/live.ts?channelId=74&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
+http://163.172.112.225:80/live.ts?channelId=75&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA PREMIERE HD" tvg-logo="" group-title="Movie Channels",CINEMA PREMIERE HD - CINEMA PREMIERE HD
+http://163.172.112.225:80/live.ts?channelId=76&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA SCI-FI & HORROR HD" tvg-logo="" group-title="Movie Channels",CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
+http://163.172.112.225:80/live.ts?channelId=77&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA SELECT HD" tvg-logo="" group-title="Movie Channels",CINEMA SELECT HD - CINEMA SELECT HD
+http://163.172.112.225:80/live.ts?channelId=78&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA THRILLER HD" tvg-logo="" group-title="Movie Channels",CINEMA THRILLER HD - CINEMA THRILLER HD
+http://163.172.112.225:80/live.ts?channelId=79&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="Movie Channels",Sky Movies Action & Adventure - Sky Movies Action & Adventure
+http://163.172.112.225:80/live.ts?channelId=80&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="Movie Channels",Sky Movies Comedy - Sky Movies Comedy
+http://163.172.112.225:80/live.ts?channelId=81&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Disney" tvg-logo="" group-title="Movie Channels",Sky Movies Disney - Sky Movies Disney
+http://163.172.112.225:80/live.ts?channelId=82&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Drama & Romance" tvg-logo="" group-title="Movie Channels",Sky Movies Drama & Romance - Sky Movies Drama & Romance
+http://163.172.112.225:80/live.ts?channelId=83&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Family" tvg-logo="" group-title="Movie Channels",Sky Movies Family - Sky Movies Family
+http://163.172.112.225:80/live.ts?channelId=84&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Greats" tvg-logo="" group-title="Movie Channels",Sky Movies Greats - Sky Movies Greats
+http://163.172.112.225:80/live.ts?channelId=85&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="Movie Channels",Sky Movies Premiere - Sky Movies Premiere
+http://163.172.112.225:80/live.ts?channelId=86&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="" group-title="Movie Channels",Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
+http://163.172.112.225:80/live.ts?channelId=87&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Select" tvg-logo="" group-title="Movie Channels",Sky Movies Select - Sky Movies Select
+http://163.172.112.225:80/live.ts?channelId=88&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Thriller" tvg-logo="" group-title="Movie Channels",Sky Movies Thriller - Sky Movies Thriller
+http://163.172.112.225:80/live.ts?channelId=89&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="babytv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
+http://163.172.112.225:80/live.ts?channelId=90&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
+http://163.172.112.225:80/live.ts?channelId=91&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
+http://163.172.112.225:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
+http://163.172.112.225:80/live.ts?channelId=93&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
+http://163.172.112.225:80/live.ts?channelId=94&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
+http://163.172.112.225:80/live.ts?channelId=95&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="disneyxd.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
+http://163.172.112.225:80/live.ts?channelId=96&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
+http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
+http://163.172.112.225:80/live.ts?channelId=98&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
+http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
+http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
+http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Base" tvg-logo="" group-title="Music Channels",MTV Base - MTV Base
+http://163.172.112.225:80/live.ts?channelId=102&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Classic" tvg-logo="" group-title="Music Channels",MTV Classic - MTV Classic
+http://163.172.112.225:80/live.ts?channelId=103&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
+http://163.172.112.225:80/live.ts?channelId=104&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Hits" tvg-logo="" group-title="Music Channels",MTV Hits - MTV Hits
+http://163.172.112.225:80/live.ts?channelId=105&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Music" tvg-logo="" group-title="Music Channels",MTV Music - MTV Music
+http://163.172.112.225:80/live.ts?channelId=106&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Rocks" tvg-logo="" group-title="Music Channels",MTV Rocks - MTV Rocks
+http://163.172.112.225:80/live.ts?channelId=107&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One Northern Ireland" tvg-logo="" group-title="Regional Channels",BBC One Northern Ireland - BBC One Northern Ireland
+http://163.172.112.225:80/live.ts?channelId=108&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One Scotland" tvg-logo="" group-title="Regional Channels",BBC One Scotland - BBC One Scotland
+http://163.172.112.225:80/live.ts?channelId=109&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BBCTwoScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC Two Scotland" tvg-logo="" group-title="Regional Channels",BBC Two Scotland - BBC Two Scotland
+http://163.172.112.225:80/live.ts?channelId=110&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BBCTwoScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC Two Wales" tvg-logo="" group-title="Regional Channels",BBC Two Wales - BBC Two Wales
+http://163.172.112.225:80/live.ts?channelId=111&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="3e.ie" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="3e" tvg-logo="" group-title="Regional Channels",3e - 3e
+http://163.172.112.225:80/live.ts?channelId=112&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="RTE one" tvg-logo="" group-title="Regional Channels",RTE one - RTE one
+http://163.172.112.225:80/live.ts?channelId=113&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="RTETwo.ie" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="RTE two" tvg-logo="" group-title="Regional Channels",RTE two - RTE two
+http://163.172.112.225:80/live.ts?channelId=114&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="S4C.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="S4C" tvg-logo="" group-title="Regional Channels",S4C - S4C
+http://163.172.112.225:80/live.ts?channelId=115&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="STV" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="STV" tvg-logo="" group-title="Regional Channels",STV - STV
+http://163.172.112.225:80/live.ts?channelId=116&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="STV2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="STV2" tvg-logo="" group-title="Regional Channels",STV2 - STV2
+http://163.172.112.225:80/live.ts?channelId=117&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="TG4.ie" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TG4" tvg-logo="" group-title="Regional Channels",TG4 - TG4
+http://163.172.112.225:80/live.ts?channelId=118&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 1" tvg-logo="" group-title="Entertainment Channels",SKYNET 1
+http://62.210.70.237:80/live.ts?channelId=382&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 2" tvg-logo="" group-title="Entertainment Channels",SKYNET 2
+http://62.210.70.237:80/live.ts?channelId=383&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 3" tvg-logo="" group-title="Entertainment Channels",SKYNET 3
+http://62.210.70.237:80/live.ts?channelId=384&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 4" tvg-logo="" group-title="Entertainment Channels",SKYNET 4
+http://62.210.70.237:80/live.ts?channelId=385&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 5" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 5" tvg-logo="" group-title="Entertainment Channels",SKYNET 5
+http://62.210.70.237:80/live.ts?channelId=386&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SKYNET 6" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKYNET 6" tvg-logo="" group-title="Entertainment Channels",SKYNET 6
+http://62.210.70.237:80/live.ts?channelId=387&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BEin Football 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Football 1" tvg-logo="" group-title="Extra EPL Channels",BEin Football 1
+http://163.172.118.212:80/live.ts?channelId=391&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BEin Football 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Football 2" tvg-logo="" group-title="Extra EPL Channels",BEin Football 2
+http://163.172.118.212:80/live.ts?channelId=392&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BEin Football 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Football 3" tvg-logo="" group-title="Extra EPL Channels",BEin Football 3
+http://163.172.118.212:80/live.ts?channelId=393&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="film4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Film 4" tvg-logo="" group-title="Movie Channels",Film 4
+http://62.210.70.237:80/live.ts?channelId=413&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sony Movies" tvg-logo="" group-title="Movie Channels",Sony Movies
+http://62.210.70.237:80/live.ts?channelId=414&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="tcm.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TCM" tvg-logo="" group-title="Movie Channels",TCM
+http://62.210.70.237:80/live.ts?channelId=415&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="movies4men.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Movies4men" tvg-logo="" group-title="Movie Channels",Movies4men
+http://62.210.70.237:80/live.ts?channelId=416&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="truemovies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="True Christmas" tvg-logo="" group-title="Movie Channels",True Christmas
+http://62.210.70.237:80/live.ts?channelId=417&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 American Dad" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 American Dad" tvg-logo="" group-title="24-7 VOD",24/7 American Dad
+http://62.210.70.119:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Big Bang" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24-7 VOD",24/7 Big Bang
+http://62.210.70.119:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Ben and Holly" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Ben and Holly" tvg-logo="" group-title="24-7 VOD",24/7 Ben and Holly
+http://62.210.70.119:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Bobs Burgers" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Bobs Burgers" tvg-logo="" group-title="24-7 VOD",24/7 Bobs Burgers
+http://62.210.70.119:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24-7 VOD",24/7 Disney Movies
+http://62.210.70.119:80/live.ts?channelId=422&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Doc Mcstuffins" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Doc Mcstuffins" tvg-logo="" group-title="24-7 VOD",24/7 Doc Mcstuffins
+http://62.210.70.119:80/live.ts?channelId=423&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Family Guy" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Family Guy" tvg-logo="" group-title="24-7 VOD",24/7 Family Guy
+http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Friends" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Friends" tvg-logo="" group-title="24-7 VOD",24/7 Friends
+http://62.210.70.119:80/live.ts?channelId=425&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 In The Night Garden" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 In The Night Garden" tvg-logo="" group-title="24-7 VOD",24/7 In The Night Garden
+http://62.210.70.119:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Only Fools And Horses" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Only Fools And Horses" tvg-logo="" group-title="24-7 VOD",24/7 Only Fools And Horses
+http://62.210.70.119:80/live.ts?channelId=427&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24-7 VOD",24/7 PawPatrol
+http://62.210.70.119:80/live.ts?channelId=428&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 The Inbetweeners" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 The Inbetweeners" tvg-logo="" group-title="24-7 VOD",24/7 The Inbetweeners
+http://62.210.70.119:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Blaze And The Monster Machines" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Blaze And The Monster Machines" tvg-logo="" group-title="24-7 VOD",24/7 Blaze And The Monster Machines
+http://62.210.70.119:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Peppa Pig" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="24-7 VOD",24/7 Peppa Pig
+http://62.210.70.119:80/live.ts?channelId=431&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="24/7 Benidorm" tvg-link="" tvg-name="24/7 Benidorm" tvg-logo="" group-title="24-7 VOD",24/7 Benidorm
+http://62.210.70.119:80/live.ts?channelId=432&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="AKAAL CHANNEL (UK)" tvg-link="" tvg-name="AKAAL CHANNEL (UK)" tvg-logo="" group-title="India Channels",AKAAL CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=493&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="B4U MOVIES (UK)" tvg-link="" tvg-name="B4U MOVIES (UK)" tvg-logo="" group-title="India Channels",B4U MOVIES (UK)
+http://163.172.118.212:80/live.ts?channelId=494&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="B4U MUSIC (UK)" tvg-link="" tvg-name="B4U MUSIC (UK)" tvg-logo="" group-title="India Channels",B4U MUSIC (UK)
+http://163.172.118.212:80/live.ts?channelId=495&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BRIT ASIA TV (UK)" tvg-link="" tvg-name="BRIT ASIA TV (UK)" tvg-logo="" group-title="India Channels",BRIT ASIA TV (UK)
+http://163.172.118.212:80/live.ts?channelId=496&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="COLORS (UK)" tvg-link="" tvg-name="COLORS (UK)" tvg-logo="" group-title="India Channels",COLORS (UK)
+http://163.172.118.212:80/live.ts?channelId=497&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="Islam TV (TV)" tvg-link="" tvg-name="Islam TV (TV)" tvg-logo="" group-title="India Channels",Islam TV (TV)
+http://163.172.118.212:80/live.ts?channelId=498&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="JUS PUNJABI (UK)" tvg-link="" tvg-name="JUS PUNJABI (UK)" tvg-logo="" group-title="India Channels",JUS PUNJABI (UK)
+http://163.172.118.212:80/live.ts?channelId=499&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="MADANI CHANNEL (UK)" tvg-link="" tvg-name="MADANI CHANNEL (UK)" tvg-logo="" group-title="India Channels",MADANI CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=500&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="PTC PUNJABI (UK)" tvg-link="" tvg-name="PTC PUNJABI (UK)" tvg-logo="" group-title="India Channels",PTC PUNJABI (UK)
+http://163.172.118.212:80/live.ts?channelId=501&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SIKH CHANNEL (UK)" tvg-link="" tvg-name="SIKH CHANNEL (UK)" tvg-logo="" group-title="India Channels",SIKH CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=502&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SONY MAX (UK)" tvg-link="" tvg-name="SONY MAX (UK)" tvg-logo="" group-title="India Channels",SONY MAX (UK)
+http://163.172.118.212:80/live.ts?channelId=503&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="SONY TV (UK)" tvg-link="" tvg-name="SONY TV (UK)" tvg-logo="" group-title="India Channels",SONY TV (UK)
+http://163.172.118.212:80/live.ts?channelId=504&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="STAR BAHARAT (UK)" tvg-link="" tvg-name="STAR BAHARAT (UK)" tvg-logo="" group-title="India Channels",STAR BAHARAT (UK)
+http://163.172.118.212:80/live.ts?channelId=505&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="STAR GOLD (UK)" tvg-link="" tvg-name="STAR GOLD (UK)" tvg-logo="" group-title="India Channels",STAR GOLD (UK)
+http://163.172.118.212:80/live.ts?channelId=506&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="STAR PLUS (UK)" tvg-link="" tvg-name="STAR PLUS (UK)" tvg-logo="" group-title="India Channels",STAR PLUS (UK)
+http://163.172.118.212:80/live.ts?channelId=507&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="ZEE CINEMA (UK)" tvg-link="" tvg-name="ZEE CINEMA (UK)" tvg-logo="" group-title="India Channels",ZEE CINEMA (UK)
+http://163.172.118.212:80/live.ts?channelId=508&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="ZEE TV (UK)" tvg-link="" tvg-name="ZEE TV (UK)" tvg-logo="" group-title="India Channels",ZEE TV (UK)
+http://163.172.118.212:80/live.ts?channelId=509&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="ZING (UK)" tvg-link="" tvg-name="ZING (UK)" tvg-logo="" group-title="India Channels",ZING (UK)
+http://163.172.118.212:80/live.ts?channelId=510&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+
+#EXTINF:-1 tvg-id="Kerrang" tvg-link="" tvg-name="Kerrang" tvg-logo="" group-title="Music Channels",Kerrang - Kerrang
+http://163.172.118.212:80/live.ts?channelId=565&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="BBC 2 N.I" tvg-link="" tvg-name="BBC 2 N.I" tvg-logo="" group-title="Regional Channels",BBC 2 N.I - BBC 2 N.I
+http://163.172.118.212:80/live.ts?channelId=566&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 tvg-id="Fox News" tvg-link="" tvg-name="Fox News" tvg-logo="" group-title="News Channels",Fox News - Fox News
+http://163.172.118.212:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+-----------
+#EXTINF:-1,Uk- Sky 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11120
+#EXTINF:-1,Uk- Sky 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11119
+#EXTINF:-1,UK- Sky BBC News
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8589
+#EXTINF:-1,Uk- Sky BBC One HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8587
+#EXTINF:-1,Uk- Sky BBC Two HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8585
+#EXTINF:-1,Uk- Sky BBC Three HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8586
+#EXTINF:-1,Uk- Sky BBC Four HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8588
+#EXTINF:-1,Uk- Sky ITV 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8552
+#EXTINF:-1,Uk- Sky ITV 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8551
+#EXTINF:-1,Uk- Sky ITV 3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8550
+#EXTINF:-1,Uk- Sky ITV 4
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8549
+#EXTINF:-1,Uk- Sky True Movies 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8510
+#EXTINF:-1,Uk- Sky True Movies 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8509
+#EXTINF:-1,Uk- Sky MUTV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8536
+#EXTINF:-1,Uk- Sky More 4 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8547
+#EXTINF:-1,Uk- Sky Movies 24
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8546
+#EXTINF:-1,Uk- Sky Movies Action HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8545
+#EXTINF:-1,Uk- Sky Movies Crime
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8543
+#EXTINF:-1,Uk- Sky Movies Disney
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8542
+#EXTINF:-1,Uk- Sky Movies Drama HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8541
+#EXTINF:-1,Uk- Sky Movies Family HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8540
+#EXTINF:-1,Uk- Sky Movies Greats
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8539
+#EXTINF:-1,Uk- Sky Movies Premiere HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8538
+#EXTINF:-1,Uk- Sky Movies Select HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8537
+#EXTINF:-1,Uk- Sky Quest
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8529
+#EXTINF:-1,Uk- Sky Racing
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8528
+#EXTINF:-1,Uk- Sky Really
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8527
+#EXTINF:-1,Uk- Sky RTE One
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8525
+#EXTINF:-1,Uk- Sky RTE Two
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8524
+#EXTINF:-1,Uk- Sky Travel Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8508
+#EXTINF:-1,Uk- Sky YourTV HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11114
+#EXTINF:-1,Uk- Sky Gold
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8557
+#EXTINF:-1,Uk- Sky Good Food HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8556
+#EXTINF:-1,Uk- Sky Home & Health
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8554
+#EXTINF:-1,Uk- Sky Horse & Country
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8553
+#EXTINF:-1,Uk- Sky Living HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11116
+#EXTINF:-1,Uk- Sky 5 USA
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8594
+#EXTINF:-1,Uk- Sky 4 Music
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8595
+#EXTINF:-1,Uk- Sky Arts 1 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8592
+#EXTINF:-1,Uk- Sky Atlantic
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8591
+#EXTINF:-1,Uk- Sky Chelsea TV HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8572
+#EXTINF:-1,Uk- Sky Cbs Action
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8575
+#EXTINF:-1,Uk- Sky Cbs Drama
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8574
+#EXTINF:-1,Uk- Sky CBS Reality
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8573
+#EXTINF:-1,Uk- Sky Ci
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8571
+#EXTINF:-1,Uk- Sky Comedy Central
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8569
+#EXTINF:-1,Uk- Sky Animal Planet HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8593
+#EXTINF:-1,Uk- Sky Baby
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8590
+#EXTINF:-1,Uk- Sky Bloomberg HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8584
+#EXTINF:-1,Uk- Sky Cartoon Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8576
+#EXTINF:-1,Uk- Sky Discovery
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8568
+#EXTINF:-1,Uk- Sky Discovery History
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8567
+#EXTINF:-1,Uk- Sky Discovery Science
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8566
+#EXTINF:-1,Uk- Sky Discovery Shed
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8565
+#EXTINF:-1,Uk- Sky Discovery Turbo
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8564
+#EXTINF:-1,Uk- Sky Disney Chaneel HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8563
+#EXTINF:-1,Uk- Sky Disney Junior HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8562
+#EXTINF:-1,Uk- Sky Disney XD HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8561
+#EXTINF:-1,Uk- Sky Food Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8558
+#EXTINF:-1,Uk- Sky History HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8555
+#EXTINF:-1,Uk- Sky Nat Geo Wild HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8535
+#EXTINF:-1,Uk- Sky National Geographic HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8534
+#EXTINF:-1,UK- Sky News HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8533
+#EXTINF:-1,Uk- Sky Nickelodeon
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8532
+#EXTINF:-1,Uk- Sky Nickelodeon JR
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8531
+#EXTINF:-1,Uk- Sky NickToons
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8530
+------------
+#EXTM3U
 
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
 http://62.210.27.219:80/live.ts?channelId=1&deviceMac=00:1A:79:BE:2F:F6&uid=1615
@@ -405,1240 +739,1355 @@ http://163.172.118.212:80/live.ts?channelId=566&deviceMac=00:1A:79:BE:2F:F6&uid=
 #EXTINF:-1 tvg-id="Fox News" tvg-link="" tvg-name="Fox News" tvg-logo="" group-title="News Channels",Fox News - Fox News
 http://163.172.118.212:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 -----------
-#EXTINF:-1,Uk- Sky 1
+#EXTINF:-1, links-iptv.com-Uk- Sky 1
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11120
-#EXTINF:-1,Uk- Sky 2
+#EXTINF:-1, links-iptv.com-Uk- Sky 2
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11119
-#EXTINF:-1,UK- Sky BBC News
+#EXTINF:-1, links-iptv.com-UK- Sky BBC News
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8589
-#EXTINF:-1,Uk- Sky BBC One HD
+#EXTINF:-1, links-iptv.com-Uk- Sky BBC One HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8587
-#EXTINF:-1,Uk- Sky BBC Two HD
+#EXTINF:-1, links-iptv.com-Uk- Sky BBC Two HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8585
-#EXTINF:-1,Uk- Sky BBC Three HD
+#EXTINF:-1, links-iptv.com-Uk- Sky BBC Three HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8586
-#EXTINF:-1,Uk- Sky BBC Four HD
+#EXTINF:-1, links-iptv.com-Uk- Sky BBC Four HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8588
-#EXTINF:-1,Uk- Sky ITV 1
+#EXTINF:-1, links-iptv.com-Uk- Sky ITV 1
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8552
-#EXTINF:-1,Uk- Sky ITV 2
+#EXTINF:-1, links-iptv.com-Uk- Sky ITV 2
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8551
-#EXTINF:-1,Uk- Sky ITV 3
+#EXTINF:-1, links-iptv.com-Uk- Sky ITV 3
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8550
-#EXTINF:-1,Uk- Sky ITV 4
+#EXTINF:-1, links-iptv.com-Uk- Sky ITV 4
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8549
-#EXTINF:-1,Uk- Sky True Movies 1
+#EXTINF:-1, links-iptv.com-Uk- Sky True Movies 1
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8510
-#EXTINF:-1,Uk- Sky True Movies 2
+#EXTINF:-1, links-iptv.com-Uk- Sky True Movies 2
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8509
-#EXTINF:-1,Uk- Sky MUTV
+#EXTINF:-1, links-iptv.com-Uk- Sky MUTV
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8536
-#EXTINF:-1,Uk- Sky More 4 HD
+#EXTINF:-1, links-iptv.com-Uk- Sky More 4 HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8547
-#EXTINF:-1,Uk- Sky Movies 24
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies 24
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8546
-#EXTINF:-1,Uk- Sky Movies Action HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Action HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8545
-#EXTINF:-1,Uk- Sky Movies Crime
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Crime
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8543
-#EXTINF:-1,Uk- Sky Movies Disney
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Disney
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8542
-#EXTINF:-1,Uk- Sky Movies Drama HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Drama HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8541
-#EXTINF:-1,Uk- Sky Movies Family HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Family HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8540
-#EXTINF:-1,Uk- Sky Movies Greats
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Greats
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8539
-#EXTINF:-1,Uk- Sky Movies Premiere HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Premiere HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8538
-#EXTINF:-1,Uk- Sky Movies Select HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Movies Select HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8537
-#EXTINF:-1,Uk- Sky Quest
+#EXTINF:-1, links-iptv.com-Uk- Sky Quest
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8529
-#EXTINF:-1,Uk- Sky Racing
+#EXTINF:-1, links-iptv.com-Uk- Sky Racing
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8528
-#EXTINF:-1,Uk- Sky Really
+#EXTINF:-1, links-iptv.com-Uk- Sky Really
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8527
-#EXTINF:-1,Uk- Sky RTE One
+#EXTINF:-1, links-iptv.com-Uk- Sky RTE One
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8525
-#EXTINF:-1,Uk- Sky RTE Two
+#EXTINF:-1, links-iptv.com-Uk- Sky RTE Two
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8524
-#EXTINF:-1,Uk- Sky Travel Channel
+#EXTINF:-1, links-iptv.com-Uk- Sky Travel Channel
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8508
-#EXTINF:-1,Uk- Sky YourTV HD
+#EXTINF:-1, links-iptv.com-Uk- Sky YourTV HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11114
-#EXTINF:-1,Uk- Sky Gold
+#EXTINF:-1, links-iptv.com-Uk- Sky Gold
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8557
-#EXTINF:-1,Uk- Sky Good Food HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Good Food HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8556
-#EXTINF:-1,Uk- Sky Home & Health
+#EXTINF:-1, links-iptv.com-Uk- Sky Home & Health
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8554
-#EXTINF:-1,Uk- Sky Horse & Country
+#EXTINF:-1, links-iptv.com-Uk- Sky Horse & Country
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8553
-#EXTINF:-1,Uk- Sky Living HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Living HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/11116
-#EXTINF:-1,Uk- Sky 5 USA
+#EXTINF:-1, links-iptv.com-Uk- Sky 5 USA
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8594
-#EXTINF:-1,Uk- Sky 4 Music
+#EXTINF:-1, links-iptv.com-Uk- Sky 4 Music
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8595
-#EXTINF:-1,Uk- Sky Arts 1 HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Arts 1 HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8592
-#EXTINF:-1,Uk- Sky Atlantic
+#EXTINF:-1, links-iptv.com-Uk- Sky Atlantic
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8591
-#EXTINF:-1,Uk- Sky Chelsea TV HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Chelsea TV HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8572
-#EXTINF:-1,Uk- Sky Cbs Action
+#EXTINF:-1, links-iptv.com-Uk- Sky Cbs Action
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8575
-#EXTINF:-1,Uk- Sky Cbs Drama
+#EXTINF:-1, links-iptv.com-Uk- Sky Cbs Drama
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8574
-#EXTINF:-1,Uk- Sky CBS Reality
+#EXTINF:-1, links-iptv.com-Uk- Sky CBS Reality
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8573
-#EXTINF:-1,Uk- Sky Ci
+#EXTINF:-1, links-iptv.com-Uk- Sky Ci
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8571
-#EXTINF:-1,Uk- Sky Comedy Central
+#EXTINF:-1, links-iptv.com-Uk- Sky Comedy Central
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8569
-#EXTINF:-1,Uk- Sky Animal Planet HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Animal Planet HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8593
-#EXTINF:-1,Uk- Sky Baby
+#EXTINF:-1, links-iptv.com-Uk- Sky Baby
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8590
-#EXTINF:-1,Uk- Sky Bloomberg HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Bloomberg HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8584
-#EXTINF:-1,Uk- Sky Cartoon Network
+#EXTINF:-1, links-iptv.com-Uk- Sky Cartoon Network
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8576
-#EXTINF:-1,Uk- Sky Discovery
+#EXTINF:-1, links-iptv.com-Uk- Sky Discovery
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8568
-#EXTINF:-1,Uk- Sky Discovery History
+#EXTINF:-1, links-iptv.com-Uk- Sky Discovery History
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8567
-#EXTINF:-1,Uk- Sky Discovery Science
+#EXTINF:-1, links-iptv.com-Uk- Sky Discovery Science
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8566
-#EXTINF:-1,Uk- Sky Discovery Shed
+#EXTINF:-1, links-iptv.com-Uk- Sky Discovery Shed
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8565
-#EXTINF:-1,Uk- Sky Discovery Turbo
+#EXTINF:-1, links-iptv.com-Uk- Sky Discovery Turbo
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8564
-#EXTINF:-1,Uk- Sky Disney Chaneel HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Disney Chaneel HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8563
-#EXTINF:-1,Uk- Sky Disney Junior HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Disney Junior HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8562
-#EXTINF:-1,Uk- Sky Disney XD HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Disney XD HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8561
-#EXTINF:-1,Uk- Sky Food Network
+#EXTINF:-1, links-iptv.com-Uk- Sky Food Network
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8558
-#EXTINF:-1,Uk- Sky History HD
+#EXTINF:-1, links-iptv.com-Uk- Sky History HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8555
-#EXTINF:-1,Uk- Sky Nat Geo Wild HD
+#EXTINF:-1, links-iptv.com-Uk- Sky Nat Geo Wild HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8535
-#EXTINF:-1,Uk- Sky National Geographic HD
+#EXTINF:-1, links-iptv.com-Uk- Sky National Geographic HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8534
-#EXTINF:-1,UK- Sky News HD
+#EXTINF:-1, links-iptv.com-UK- Sky News HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8533
-#EXTINF:-1,Uk- Sky Nickelodeon
+#EXTINF:-1, links-iptv.com-Uk- Sky Nickelodeon
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8532
-#EXTINF:-1,Uk- Sky Nickelodeon JR
+#EXTINF:-1, links-iptv.com-Uk- Sky Nickelodeon JR
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8531
-#EXTINF:-1,Uk- Sky NickToons
+#EXTINF:-1, links-iptv.com-Uk- Sky NickToons
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/8530
 ------------
-#EXTINF:-1,***** ENGLAND *****
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/3880
-#EXTINF:-1,UK:BBC 1 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1495
-#EXTINF:-1,UK:BBC 2 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1496
-#EXTINF:-1,UK:BBC 3 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1497
-#EXTINF:-1,UK:BBC 4 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1498
-#EXTINF:-1,UK:BBC News
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6922
-#EXTINF:-1,UK | BBC Parliament
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/22991
-#EXTINF:-1,UK:CBBC
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6920
-#EXTINF:-1,UK:ITV 1 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1505
-#EXTINF:-1,UK:ITV 2 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1506
-#EXTINF:-1,UK:ITV 3 HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1507
-#EXTINF:-1,UK:ITV 4
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6923
-#EXTINF:-1,UK:ITV BE HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1508
-#EXTINF:-1,UK:E4
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6928
-#EXTINF:-1,UK:UTV
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6930
-#EXTINF:-1,UK:5 USA
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6929
-#EXTINF:-1,UK | 5 SPIKE
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/32702
-#EXTINF:-1,UK:FILM 4
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6927
-#EXTINF:-1,UK:MORE 4
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6926
-#EXTINF:-1,UK:COMEDY CENTRAL
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6950
-#EXTINF:-1,UK:MOVIE 4 MEN
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6944
-#EXTINF:-1,UK:UNIVERSAL
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6943
-#EXTINF:-1,UK:LONDON LIVE
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6935
-#EXTINF:-1,UK:CHANNEL 4
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6924
-#EXTINF:-1,UK:CHANNEL 5
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6925
-#EXTINF:-1,UK:ALIBI
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6947
-#EXTINF:-1,UK:DAVE
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6951
-#EXTINF:-1,UK:E!
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6948
-#EXTINF:-1,UK:QUEST
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6962
-#EXTINF:-1,UK:TLC
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6963
-#EXTINF:-1,UK:RTE ONE
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6931
-#EXTINF:-1,UK:RTE TWO
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6932
-#EXTINF:-1,UK:SKY ONE HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/7427
-#EXTINF:-1,UK | CNN INT.
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/32670
-#EXTINF:-1,UK:FOX NEWS
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6933
-#EXTINF:-1,UK | CNBC
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/32697
-#EXTINF:-1,UK:EURONEWS
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6934
-#EXTINF:-1,UK:BLOOMBERG
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6939
-#EXTINF:-1,UK:DISNEY XD HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1504
-#EXTINF:-1,UK:NICKELODEON HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1503
-#EXTINF:-1,UK:CARTOON NETWORK HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1502
-#EXTINF:-1,UK:ANIMAL PLANET
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6959
-#EXTINF:-1,UK:TRAVEL CHANNEL
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6958
-#EXTINF:-1,UK:FOOD NETWORK
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6964
-#EXTINF:-1,UK:HISTORY HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1513
-#EXTINF:-1,UK:NAT GEO WILD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6961
-#EXTINF:-1,UK:NAT GEOGRAPHIC
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6960
-#EXTINF:-1,UK:HOME&HEALTH
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6957
-#EXTINF:-1,UK:DISCOVERY
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6954
-#EXTINF:-1,UK:DISCOVERY SCIENCE
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6952
-#EXTINF:-1,UK:DISCOVERY HISTORY
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6953
-#EXTINF:-1,UK:DISCOVERY TURBO
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6956
-#EXTINF:-1,UK:CRIME & INVERSTIGATION
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6949
-#EXTINF:-1,UK:INVESTIGATION DISCOVERY
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6955
-#EXTINF:-1,UK:SKY ARTS
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6945
-#EXTINF:-1,UK:SKY THRILLER HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1490
-#EXTINF:-1,UK:SKY NEWS HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1499
-#EXTINF:-1,UK:SKY ATLANTIC
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6946
-#EXTINF:-1,UK:SKY LIVING
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/6942
-#EXTINF:-1,UK:CBS REALITY HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1509
-#EXTINF:-1,UK:CBS DRAMA HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1510
-#EXTINF:-1,UK:CBS ACTION JUSTICE HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1511
-#EXTINF:-1,UK:MOVIES THRILLER HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1514
-#EXTINF:-1,UK:MOVIES DRAMA HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1515
-#EXTINF:-1,UK:MOVIES DISNEY HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1516
-#EXTINF:-1,UK:MOVIES COMEDY HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1517
-#EXTINF:-1,UK:MOVIES ACTION HD
-http://ip.tv4k.be:8000/cdO4ihAiyg/2uaVElZsOf/1518
-
-------------
-#EXTINF:-1,VIP: UK - Alibi HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/201189
-#EXTINF:-1,VIP: UK - ALJAZEERA HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206214
-#EXTINF:-1,VIP: UK - AMC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206189
-#EXTINF:-1,VIP: UK - ANIMAL PLANET HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198514
-#EXTINF:-1,VIP: UK - BBC Earth
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198516
-#EXTINF:-1,VIP: UK - BBC Entertainment HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198515
-#EXTINF:-1,VIP: UK - BOX OFFICE 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206190
-#EXTINF:-1,VIP: UK - BOX OFFICE 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206192
-#EXTINF:-1,VIP: UK - BOX OFFICE 3 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206193
-#EXTINF:-1,VIP: UK - BOX OFFICE 4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206194
-#EXTINF:-1,VIP: UK - BOX OFFICE 5 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206195
-#EXTINF:-1,VIP: UK - Challenge HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/202741
-#EXTINF:-1,VIP: UK - CHANNEL 5 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206203
-#EXTINF:-1,VIP: UK - CNN News
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204345
-#EXTINF:-1,VIP: UK - COMEDY CENTRAL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198500
-#EXTINF:-1,VIP: UK - Crime & Investigation FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204608
-#EXTINF:-1,VIP: UK - Discovery Channel HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204731
-#EXTINF:-1,VIP: UK - Discovery H&H
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204793
-#EXTINF:-1,VIP: UK - Discovery HISTORY CHANNEL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198511
-#EXTINF:-1,VIP: UK - Discovery TURBO HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/204896
-#EXTINF:-1,VIP: UK - DMAX HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198501
-#EXTINF:-1,VIP: UK - E! HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198502
-#EXTINF:-1,VIP: UK - FOX FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/205519
-#EXTINF:-1,VIP: UK - Fox News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/205550
-#EXTINF:-1,VIP: UK - GOLD FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198507
-#EXTINF:-1,VIP: UK - GOOD FOOD HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198505
-#EXTINF:-1,VIP: UK - HBO Comedy HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198509
-#EXTINF:-1,VIP: UK - HBO HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198508
-#EXTINF:-1,VIP: UK - High Street TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206209
-#EXTINF:-1,VIP: UK - Home
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198512
-#EXTINF:-1,VIP: UK - Investigation Discovery FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206205
-#EXTINF:-1,VIP: UK - ITV 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198517
-#EXTINF:-1,VIP: UK - ITV 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198518
-#EXTINF:-1,VIP: UK - ITV 3 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198519
-#EXTINF:-1,VIP: UK - ITV 4 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198520
-#EXTINF:-1,VIP: UK - MOVIES 4 MEN
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198521
-#EXTINF:-1,VIP: UK - MOVIES 24
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206097
-#EXTINF:-1,VIP: UK - NAT GEO WILD HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198636
-#EXTINF:-1,VIP: UK - Sky Atlantic HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206106
-#EXTINF:-1,VIP: UK - Sky Cinema Crime & Thriller FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198524
-#EXTINF:-1,VIP: UK - Sky Cinema Drama & Romance FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198525
-#EXTINF:-1,VIP: UK - Sky Cinema Premier FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198528
-#EXTINF:-1,VIP: UK - Sky Cinema Sci-Fi & Horror FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198529
-#EXTINF:-1,VIP: UK - Sky Cinema Select FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198530
-#EXTINF:-1,VIP: UK - Sky Cinema Showcase HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198531
-#EXTINF:-1,VIP: UK - TCM FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198533
-#EXTINF:-1,VIP: UK - TLC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198532
-#EXTINF:-1,VIP: UK - VH1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206200
-#EXTINF:-1,VIP: UK - Watch HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198534
-#EXTINF:-1,###### UK VIP ######
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216534
-#EXTINF:-1,UK: BBC News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65183
-#EXTINF:-1,UK: BE3 Ireland
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/199162
-#EXTINF:-1,UK: BT Sport 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206466
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92581
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206465
-#EXTINF:-1,UK: EIR SPORTS 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/108416
-#EXTINF:-1,UK: Sky Sports Golf FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74500
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74772
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92608
-#EXTINF:-1,UK: Sky Sports Football HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74491
-#EXTINF:-1,###### UK ######
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216533
-#EXTINF:-1,UK: 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65175
-#EXTINF:-1,UK: 4 MUSIC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74604
-#EXTINF:-1,UK: 5 Select
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217871
-#EXTINF:-1,UK: 5 SPIKE
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74588
-#EXTINF:-1,UK: 5 Star
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217856
-#EXTINF:-1,UK: 5 USA
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/113745
-#EXTINF:-1,UK: 92 NEWS
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/133394
-#EXTINF:-1,UK: ABC News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/96992
-#EXTINF:-1,UK: ABN TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/133396
-#EXTINF:-1,UK: Alibi HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137150
-#EXTINF:-1,UK: ALJAZEERA HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/131284
-#EXTINF:-1,UK: AMC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63034
-#EXTINF:-1,UK: ANIMAL PLANET HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65023
-#EXTINF:-1,UK: Baby TV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65125
-#EXTINF:-1,UK: BBC 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86279
-#EXTINF:-1,UK: BBC 1 Wales
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137159
-#EXTINF:-1,UK: BBC 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74074
-#EXTINF:-1,UK: BBC 3 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65184
-#EXTINF:-1,UK: BBC 4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65182
-#EXTINF:-1,UK: BBC Alba HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74735
-#EXTINF:-1,UK: BBC Brit
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/118194
-#EXTINF:-1,UK: BBC Earth
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/143751
-#EXTINF:-1,UK: BBC Entertainment HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86281
-#EXTINF:-1,UK: BBC Parliament
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137160
-#EXTINF:-1,UK: BBC Red Button
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74714
-#EXTINF:-1,UK: BBC TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209079
-#EXTINF:-1,UK: BET HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74589
-#EXTINF:-1,UK: Blaze HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75740
-#EXTINF:-1,UK: Bloomberg HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74743
-#EXTINF:-1,UK: BOOMERANG HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65126
-#EXTINF:-1,UK: BOX HITS HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65056
-#EXTINF:-1,UK: BOX NATION FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74518
-#EXTINF:-1,UK: BOX OFFICE 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74550
-#EXTINF:-1,UK: BOX OFFICE 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74551
-#EXTINF:-1,UK: BOX OFFICE 3 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74697
-#EXTINF:-1,UK: BOX OFFICE 4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74552
-#EXTINF:-1,UK: BOX OFFICE 5 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159104
-#EXTINF:-1,UK: BOX OFFICE 6 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159105
-#EXTINF:-1,UK: BOX OFFICE 7 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159106
-#EXTINF:-1,UK: BOX OFFICE 8 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159107
-#EXTINF:-1,UK: BOX OFFICE 9 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159108
-#EXTINF:-1,UK: Bravo FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75739
-#EXTINF:-1,UK: British Muslim
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139564
-#EXTINF:-1,UK: BT Sport 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216112
-#EXTINF:-1,UK: BT Sport 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92580
-#EXTINF:-1,UK: BT Sport 2
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216114
-#EXTINF:-1,UK: BT Sport 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206334
-#EXTINF:-1,UK: BT Sport 3 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93484
-#EXTINF:-1,UK: BT Sport ESPN FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/107282
-#EXTINF:-1,UK: BT Sport Extra 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/145466
-#EXTINF:-1,UK: BT Sport Extra 2
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/175406
-#EXTINF:-1,UK: BT Sport Extra 3
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99947
-#EXTINF:-1,UK: BT Sport Extra 4
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/96511
-#EXTINF:-1,UK: BT Sport Extra 5
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93902
-#EXTINF:-1,UK: C ITV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74590
-#EXTINF:-1,UK: CARTOON NETWORK FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74786
-#EXTINF:-1,UK: Cartoonito HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74593
-#EXTINF:-1,UK: CBBC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74569
-#EXTINF:-1,UK: CBeebies HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/94696
-#EXTINF:-1,UK: CBS Action HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216711
-#EXTINF:-1,UK: CBS Drama
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/155440
-#EXTINF:-1,UK: CBS justice
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/155441
-#EXTINF:-1,UK: CBS Reality
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150861
-#EXTINF:-1,UK: CGTN News
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137270
-#EXTINF:-1,UK: Challenge HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74722
-#EXTINF:-1,UK: CHANNEL 4 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74789
-#EXTINF:-1,UK: CHANNEL 5 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74790
-#EXTINF:-1,UK: Channel 5 Star
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/134144
-#EXTINF:-1,UK: CHART SHOW TV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65054
-#EXTINF:-1,UK: CHELSEA TV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65020
-#EXTINF:-1,UK: Club MTV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139650
-#EXTINF:-1,UK: Clubland TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139572
-#EXTINF:-1,UK: CNBC
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104258
-#EXTINF:-1,UK: CNN News
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159466
-#EXTINF:-1,UK: COMEDY CENTRAL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65160
-#EXTINF:-1,UK: Crime & Investigation FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74596
-#EXTINF:-1,UK: Culao 4
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209482
-#EXTINF:-1,UK: DAVE FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92585
-#EXTINF:-1,UK: Discovery Channel HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102159
-#EXTINF:-1,UK: Discovery H&H
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159471
-#EXTINF:-1,UK: Discovery HISTORY CHANNEL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74802
-#EXTINF:-1,UK: Discovery SCIENCE HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63598
-#EXTINF:-1,UK: Discovery Shed HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74794
-#EXTINF:-1,UK: Discovery TURBO HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137265
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74594
-#EXTINF:-1,UK: DISNEY JUNIOR HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65133
-#EXTINF:-1,UK: DISNEY XD HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65134
-#EXTINF:-1,UK: DMAX HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74573
-#EXTINF:-1,UK: Drama
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74796
-#EXTINF:-1,UK: E! HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65174
-#EXTINF:-1,UK: E4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74576
-#EXTINF:-1,UK: Eden
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/153935
-#EXTINF:-1,UK: EIR SPORTS 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217861
-#EXTINF:-1,UK: EIR SPORTS 2
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217862
-#EXTINF:-1,UK: EIR SPORTS 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209484
-#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/124390
-#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137212
-#EXTINF:-1,UK: ESPN
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99082
-#EXTINF:-1,UK: euronews HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74609
-#EXTINF:-1,UK: EUROSPORT 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65014
-#EXTINF:-1,UK: EUROSPORT 2 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93240
-#EXTINF:-1,UK: Fightbox HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99955
-#EXTINF:-1,UK: Film 4 +1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75673
-#EXTINF:-1,UK: Film 4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137208
-#EXTINF:-1,UK: Fine Living Network
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86312
-#EXTINF:-1,UK: Food Network
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75720
-#EXTINF:-1,UK: Forces TV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65584
-#EXTINF:-1,UK: FOX FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137173
-#EXTINF:-1,UK: Fox News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74608
-#EXTINF:-1,UK: FRANCE 24
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209491
-#EXTINF:-1,UK: Free Sports TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/108660
-#EXTINF:-1,UK: GINXeSports TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217863
-#EXTINF:-1,UK: GOLD FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/63548
-#EXTINF:-1,UK: GOOD FOOD HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65040
-#EXTINF:-1,UK: h&h
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/213345
-#EXTINF:-1,UK: H2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74597
-#EXTINF:-1,UK: HBO 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/212642
-#EXTINF:-1,UK: HBO Comedy HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65139
-#EXTINF:-1,UK: HBO HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91383
-#EXTINF:-1,UK: High Street TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65165
-#EXTINF:-1,UK: Hillsong
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139665
-#EXTINF:-1,UK: HISTORY CHANNEL HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216224
-#EXTINF:-1,UK: Home
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75717
-#EXTINF:-1,UK: HORROR CHANNEL
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/153919
-#EXTINF:-1,UK: Horse Country
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208308
-#EXTINF:-1,UK: HUM Europe
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209487
-#EXTINF:-1,UK: HUM Masala
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209486
-#EXTINF:-1,UK: ID
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218265
-#EXTINF:-1,UK: Ideal Extra
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139667
-#EXTINF:-1,UK: Ideal World
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139668
-#EXTINF:-1,UK: Investigation Discovery FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65102
-#EXTINF:-1,UK: ISLAM CHANNEL
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/105062
-#EXTINF:-1,UK: ITV 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92590
-#EXTINF:-1,UK: ITV 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92591
-#EXTINF:-1,UK: ITV 3 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92592
-#EXTINF:-1,UK: ITV 4 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92593
-#EXTINF:-1,UK: ITV Be FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217864
-#EXTINF:-1,UK: Keep It Country TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/94189
-#EXTINF:-1,UK: Kerrang
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65051
-#EXTINF:-1,UK: KISS
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65058
-#EXTINF:-1,UK: L TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216717
-#EXTINF:-1,UK: LFC TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209476
-#EXTINF:-1,UK: Lifetime HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65161
-#EXTINF:-1,UK: Little be HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65036
-#EXTINF:-1,UK: Living
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98217
-#EXTINF:-1,UK: London Live
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139594
-#EXTINF:-1,UK: Magic TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65050
-#EXTINF:-1,UK: Manchester United TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/214213
-#EXTINF:-1,UK: More 4 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150870
-#EXTINF:-1,UK: Motorsport TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137217
-#EXTINF:-1,UK: MOVIES 4 MEN
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65124
-#EXTINF:-1,UK: MOVIES 24
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139597
-#EXTINF:-1,UK: Movies Action
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217875
-#EXTINF:-1,UK: MTV Base HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65090
-#EXTINF:-1,UK: MTV Classic HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137278
-#EXTINF:-1,UK: MTV Club
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218268
-#EXTINF:-1,UK: MTV Dance
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/100942
-#EXTINF:-1,UK: MTV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99105
-#EXTINF:-1,UK: MTV Hits
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104291
-#EXTINF:-1,UK: MTV Live FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218270
-#EXTINF:-1,UK: MTV Music HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65095
-#EXTINF:-1,UK: MTV OMG HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/147221
-#EXTINF:-1,UK: MTV ONE
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159496
-#EXTINF:-1,UK: MTV Rocks HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65099
-#EXTINF:-1,UK: MUTV HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/64982
-#EXTINF:-1,UK: My TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139681
-#EXTINF:-1,UK: My5
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217866
-#EXTINF:-1,UK: NAT GEO
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217867
-#EXTINF:-1,UK: NAT GEO WILD HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74807
-#EXTINF:-1,UK: Nick Junior
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65128
-#EXTINF:-1,UK: Nick Junior TOO
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74592
-#EXTINF:-1,UK: Nick Toons HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65129
-#EXTINF:-1,UK: Nickelodeon
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92597
-#EXTINF:-1,UK: PBS America
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75613
-#EXTINF:-1,UK: Pick TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91965
-#EXTINF:-1,UK: Pop Max
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74706
-#EXTINF:-1,UK: POP TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75569
-#EXTINF:-1,UK: PTC Punjabi
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218355
-#EXTINF:-1,UK: QUEST
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218272
-#EXTINF:-1,UK: Quest Red
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217869
-#EXTINF:-1,UK: QVC Beauty HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74950
-#EXTINF:-1,UK: QVC Style
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/86329
-#EXTINF:-1,UK: Racing HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209466
-#EXTINF:-1,UK: RACING UK HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65019
-#EXTINF:-1,UK: REAL LIVES
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74582
-#EXTINF:-1,UK: Really
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65037
-#EXTINF:-1,UK: Revelation
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139690
-#EXTINF:-1,UK: RISHTEY EUROPE
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209465
-#EXTINF:-1,UK: ROK TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102185
-#EXTINF:-1,UK: RTE 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65177
-#EXTINF:-1,UK: RTE 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65178
-#EXTINF:-1,UK: RTE Junior
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65176
-#EXTINF:-1,UK: RTE NEWS
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65179
-#EXTINF:-1,UK: RTE ONE
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217870
-#EXTINF:-1,UK: S4C
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137189
-#EXTINF:-1,UK: SAB TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/102186
-#EXTINF:-1,UK: Setanta Sports +
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74761
-#EXTINF:-1,UK: Sky 1 FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74564
-#EXTINF:-1,UK: Sky 2 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99603
-#EXTINF:-1,UK: SKY ARTS 1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65113
-#EXTINF:-1,UK: Sky Arts HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/134176
-#EXTINF:-1,UK: Sky Atlantic HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/175822
-#EXTINF:-1,UK: Sky Box Office
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/206500
-#EXTINF:-1,UK: SKY CIENMA ACTION HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209453
-#EXTINF:-1,UK: SKY CIENMA COMEDY HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209452
-#EXTINF:-1,UK: SKY CIENMA Family HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209450
-#EXTINF:-1,UK: SKY CIENMA Greats HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209449
-#EXTINF:-1,UK: SKY CIENMA HITS HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209448
-#EXTINF:-1,UK: SKY CIENMA PREMIER HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209447
-#EXTINF:-1,UK: SKY CIENMA SELECT HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209446
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98204
-#EXTINF:-1,UK: Sky Cinema Box Office 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99117
-#EXTINF:-1,UK: Sky Cinema Box Office 2
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99118
-#EXTINF:-1,UK: Sky Cinema Box Office 3
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99119
-#EXTINF:-1,UK: Sky Cinema Box Office 4
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99120
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92599
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65144
-#EXTINF:-1,UK: Sky Cinema Disney
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217899
-#EXTINF:-1,UK: Sky Cinema Drama
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92601
-#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65146
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92602
-#EXTINF:-1,UK: Sky Cinema Greats HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/213979
-#EXTINF:-1,UK: Sky Cinema Modern Greats
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217901
-#EXTINF:-1,UK: Sky Cinema Premier FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74535
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92603
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74545
-#EXTINF:-1,UK: Sky Cinema Select FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65140
-#EXTINF:-1,UK: Sky Cinema Showcase HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65151
-#EXTINF:-1,UK: Sky Cinema Thriller FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92606
-#EXTINF:-1,UK: SKY LIVING FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/126445
-#EXTINF:-1,UK: Sky Living UK
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217897
-#EXTINF:-1,UK: Sky News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65042
-#EXTINF:-1,UK: Sky One
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92607
-#EXTINF:-1,UK: Sky Sports 1 Main Events
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216272
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/128428
-#EXTINF:-1,UK: Sky Sports Football FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217893
-#EXTINF:-1,UK: Sky Sports Racing FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198820
-#EXTINF:-1,UK: Sky Sports Action
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217896
-#EXTINF:-1,UK: Sky Sports ACTION HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/92609
-#EXTINF:-1,UK: Sky Sports Arena
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217895
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74495
-#EXTINF:-1,UK: Sky Sports F1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218256
-#EXTINF:-1,UK: Sky Sports Football
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137214
-#EXTINF:-1,UK: Sky Sports GOLF
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/217873
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74770
-#EXTINF:-1,UK: Sky Sports Main Event
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137222
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98196
-#EXTINF:-1,UK: Sky Sports News HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74481
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/216707
-#EXTINF:-1,UK: Sky Sports RACING
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208091
-#EXTINF:-1,UK: SKY THRILLER HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/212959
-#EXTINF:-1,UK: Sky Witness HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139625
-#EXTINF:-1,UK: SONY Max
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209462
-#EXTINF:-1,UK: Sony Movies
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65106
-#EXTINF:-1,UK: Sony TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208276
-#EXTINF:-1,UK: STAR BHARAT
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/91458
-#EXTINF:-1,UK: STAR GOLD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/159520
-#EXTINF:-1,UK: STAR PLUS
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/209461
-#EXTINF:-1,UK: STV FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/98263
-#EXTINF:-1,UK: Syfy FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/218275
-#EXTINF:-1,UK: TBN UK
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/75692
-#EXTINF:-1,UK: TCM FHD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65162
-#EXTINF:-1,UK: The Box
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65057
-#EXTINF:-1,UK: The Vault
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65052
-#EXTINF:-1,UK: Tiny POP
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74591
-#EXTINF:-1,UK: TLC HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137193
-#EXTINF:-1,UK: Travel Channel
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65045
-#EXTINF:-1,UK: True Entertainment
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/198412
-#EXTINF:-1,UK: True Movies 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/150899
-#EXTINF:-1,UK: TV 3
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137295
-#EXTINF:-1,UK: TV3 Plus 1
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99134
-#EXTINF:-1,UK: TV5 Monde
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/139701
-#EXTINF:-1,UK: Universal Channel HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/74574
-#EXTINF:-1,UK: UTV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208271
-#EXTINF:-1,UK: VENUS TV
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/137249
-#EXTINF:-1,UK: VH 1 CLASSIC
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/163362
-#EXTINF:-1,UK: VH1 HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65097
-#EXTINF:-1,UK: Viceland HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/104929
-#EXTINF:-1,UK: Watch HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/65168
-#EXTINF:-1,UK: World Fight Channel
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/99138
-#EXTINF:-1,UK: WWE Raw Network HD
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/93245
-#EXTINF:-1,UK: ZEE CINEMA
-http://qipo.live:8080/gjwTPEQh7p/MwKRPQt0jw/208268
+#EXTINF:-1, links-iptv.com-««------ENGLAND------»»
+http://topiptv.net:5890/zina/zina/1452
+#EXTINF:-1, links-iptv.com-RTÉ One HD UK
+http://topiptv.net:5890/zina/zina/4171
+#EXTINF:-1, links-iptv.com-RTÉ One UK
+http://topiptv.net:5890/zina/zina/922
+#EXTINF:-1, links-iptv.com-RTÉ Two HD UK
+http://topiptv.net:5890/zina/zina/4170
+#EXTINF:-1, links-iptv.com-RTÉ Two UK
+http://topiptv.net:5890/zina/zina/923
+#EXTINF:-1, links-iptv.com-TLC HD UK
+http://topiptv.net:5890/zina/zina/1256
+#EXTINF:-1, links-iptv.com-BBC News HD UK
+http://topiptv.net:5890/zina/zina/4182
+#EXTINF:-1, links-iptv.com-BBC News UK
+http://topiptv.net:5890/zina/zina/301
+#EXTINF:-1, links-iptv.com-BBC One FHD UK
+http://topiptv.net:5890/zina/zina/4181
+#EXTINF:-1, links-iptv.com-BBC One HD UK
+http://topiptv.net:5890/zina/zina/297
+#EXTINF:-1, links-iptv.com-BBC Two FHD UK
+http://topiptv.net:5890/zina/zina/4178
+#EXTINF:-1, links-iptv.com-BBC Two HD UK
+http://topiptv.net:5890/zina/zina/298
+#EXTINF:-1, links-iptv.com-BBC Three HD UK
+http://topiptv.net:5890/zina/zina/299
+#EXTINF:-1, links-iptv.com-BBC Four FHD UK
+http://topiptv.net:5890/zina/zina/4179
+#EXTINF:-1, links-iptv.com-BBC Four UK
+http://topiptv.net:5890/zina/zina/300
+#EXTINF:-1, links-iptv.com-CBBC FHD UK
+http://topiptv.net:5890/zina/zina/4180
+#EXTINF:-1, links-iptv.com-TG4 UK
+http://topiptv.net:5890/zina/zina/1263
+#EXTINF:-1, links-iptv.com-UTV FHD UK
+http://topiptv.net:5890/zina/zina/4166
+#EXTINF:-1, links-iptv.com-ITV FHD UK
+http://topiptv.net:5890/zina/zina/4177
+#EXTINF:-1, links-iptv.com-ITV HD UK
+http://topiptv.net:5890/zina/zina/1080
+#EXTINF:-1, links-iptv.com-ITV2 FHD UK
+http://topiptv.net:5890/zina/zina/4176
+#EXTINF:-1, links-iptv.com-ITV2 HD UK
+http://topiptv.net:5890/zina/zina/1081
+#EXTINF:-1, links-iptv.com-ITV3 FHD UK
+http://topiptv.net:5890/zina/zina/4175
+#EXTINF:-1, links-iptv.com-ITV3 HD UK
+http://topiptv.net:5890/zina/zina/1082
+#EXTINF:-1, links-iptv.com-ITV4 FHD UK
+http://topiptv.net:5890/zina/zina/4174
+#EXTINF:-1, links-iptv.com-ITV4 HD UK
+http://topiptv.net:5890/zina/zina/1083
+#EXTINF:-1, links-iptv.com-ITV Encore UK
+http://topiptv.net:5890/zina/zina/4172
+#EXTINF:-1, links-iptv.com-ITVBe 1 UK
+http://topiptv.net:5890/zina/zina/4173
+#EXTINF:-1, links-iptv.com-Cbs Reality UK
+http://topiptv.net:5890/zina/zina/1209
+#EXTINF:-1, links-iptv.com-Cbs Drama UK
+http://topiptv.net:5890/zina/zina/1210
+#EXTINF:-1, links-iptv.com-Cbs Action UK
+http://topiptv.net:5890/zina/zina/1211
+#EXTINF:-1, links-iptv.com-London Live UK
+http://topiptv.net:5890/zina/zina/1128
+#EXTINF:-1, links-iptv.com-Channel 4 FHD UK
+http://topiptv.net:5890/zina/zina/4169
+#EXTINF:-1, links-iptv.com-Channel 4 HD UK
+http://topiptv.net:5890/zina/zina/270
+#EXTINF:-1, links-iptv.com-Channel 5 FHD UK
+http://topiptv.net:5890/zina/zina/4168
+#EXTINF:-1, links-iptv.com-Channel 5 HD UK
+http://topiptv.net:5890/zina/zina/1079
+#EXTINF:-1, links-iptv.com-GOLD UK
+http://topiptv.net:5890/zina/zina/5709
+#EXTINF:-1, links-iptv.com-Home UK
+http://topiptv.net:5890/zina/zina/1255
+#EXTINF:-1, links-iptv.com-CNN FHD UK
+http://topiptv.net:5890/zina/zina/4165
+#EXTINF:-1, links-iptv.com-CNN HD UK
+http://topiptv.net:5890/zina/zina/4117
+#EXTINF:-1, links-iptv.com-Sky News HD UK
+http://topiptv.net:5890/zina/zina/812
+#EXTINF:-1, links-iptv.com---|UK CINEMA|--
+http://topiptv.net:5890/zina/zina/1448
+#EXTINF:-1, links-iptv.com-Sky 1 FHD UK
+http://topiptv.net:5890/zina/zina/4167
+#EXTINF:-1, links-iptv.com-Sky 1 HD UK
+http://topiptv.net:5890/zina/zina/266
+#EXTINF:-1, links-iptv.com-Sky 2 HD UK
+http://topiptv.net:5890/zina/zina/267
+#EXTINF:-1, links-iptv.com-Film4 HD UK
+http://topiptv.net:5890/zina/zina/1086
+#EXTINF:-1, links-iptv.com-Sky Arts 1 UK
+http://topiptv.net:5890/zina/zina/1254
+#EXTINF:-1, links-iptv.com-Sky Cinema Select HD UK
+http://topiptv.net:5890/zina/zina/257
+#EXTINF:-1, links-iptv.com-Sky Movies Premiere UK
+http://topiptv.net:5890/zina/zina/264
+#EXTINF:-1, links-iptv.com-Sky Movies Great&Modern UK
+http://topiptv.net:5890/zina/zina/1207
+#EXTINF:-1, links-iptv.com-Sky Movies Disney HD UK
+http://topiptv.net:5890/zina/zina/1253
+#EXTINF:-1, links-iptv.com-Sky Movies Drama UK
+http://topiptv.net:5890/zina/zina/258
+#EXTINF:-1, links-iptv.com-Sky Movies Comedy UK
+http://topiptv.net:5890/zina/zina/806
+#EXTINF:-1, links-iptv.com-Sky Atlantic HD UK
+http://topiptv.net:5890/zina/zina/261
+#EXTINF:-1, links-iptv.com-Sky ScFi/HorHD UK
+http://topiptv.net:5890/zina/zina/263
+#EXTINF:-1, links-iptv.com-Sky Movies Showcase UK
+http://topiptv.net:5890/zina/zina/1087
+#EXTINF:-1, links-iptv.com-Sky Movies Family UK
+http://topiptv.net:5890/zina/zina/1088
+#EXTINF:-1, links-iptv.com-Sky Movies Action UK
+http://topiptv.net:5890/zina/zina/1089
+#EXTINF:-1, links-iptv.com-Sky Living UK
+http://topiptv.net:5890/zina/zina/1085
+#EXTINF:-1, links-iptv.com-Sky Movies Thriller UK
+http://topiptv.net:5890/zina/zina/260
+#EXTINF:-1, links-iptv.com-Sky True Movies UK
+http://topiptv.net:5890/zina/zina/271
+#EXTINF:-1, links-iptv.com-Sky True Movies 2 UK
+http://topiptv.net:5890/zina/zina/272
+#EXTINF:-1, links-iptv.com-Dave UK
+http://topiptv.net:5890/zina/zina/269
+#EXTINF:-1, links-iptv.com-FOX HD UK
+http://topiptv.net:5890/zina/zina/1208
+#EXTINF:-1, links-iptv.com-SYFY HD UK
+http://topiptv.net:5890/zina/zina/265
+#EXTINF:-1, links-iptv.com-Good Food UK
+http://topiptv.net:5890/zina/zina/1213
+#EXTINF:-1, links-iptv.com-Food Network UK
+http://topiptv.net:5890/zina/zina/1212
+#EXTINF:-1, links-iptv.com---|UK CULTURE|--
+http://topiptv.net:5890/zina/zina/1450
+#EXTINF:-1, links-iptv.com-Travel Channel UK
+http://topiptv.net:5890/zina/zina/4164
+#EXTINF:-1, links-iptv.com-Nat Geo HD UK
+http://topiptv.net:5890/zina/zina/286
+#EXTINF:-1, links-iptv.com-Nat Geo Wild HD UK
+http://topiptv.net:5890/zina/zina/807
+#EXTINF:-1, links-iptv.com-Discovery History UK
+http://topiptv.net:5890/zina/zina/291
+#EXTINF:-1, links-iptv.com-Discovery SC HD UK
+http://topiptv.net:5890/zina/zina/292
+#EXTINF:-1, links-iptv.com-Discovery Turbo UK
+http://topiptv.net:5890/zina/zina/1106
+#EXTINF:-1, links-iptv.com-Discovery Crime Investi Gation UK
+http://topiptv.net:5890/zina/zina/290
+#EXTINF:-1, links-iptv.com-Discovery HD UK
+http://topiptv.net:5890/zina/zina/289
+#EXTINF:-1, links-iptv.com-Discovery Shed UK
+http://topiptv.net:5890/zina/zina/1260
+#EXTINF:-1, links-iptv.com-Animal Planet UK
+http://topiptv.net:5890/zina/zina/288
+#EXTINF:-1, links-iptv.com---|UK ENFANTS|--
+http://topiptv.net:5890/zina/zina/1451
+#EXTINF:-1, links-iptv.com-Nick Jr UK
+http://topiptv.net:5890/zina/zina/1084
+#EXTINF:-1, links-iptv.com-Baby TV UK
+http://topiptv.net:5890/zina/zina/2707
+#EXTINF:-1, links-iptv.com-Nicktoons UK
+http://topiptv.net:5890/zina/zina/284
+#EXTINF:-1, links-iptv.com-Cartoon Network UK
+http://topiptv.net:5890/zina/zina/813
+#EXTINF:-1, links-iptv.com-Boomerang UK
+http://topiptv.net:5890/zina/zina/4238
+#EXTINF:-1, links-iptv.com-Disney Chaneel UK
+http://topiptv.net:5890/zina/zina/4241
+#EXTINF:-1, links-iptv.com-Disney JR UK
+http://topiptv.net:5890/zina/zina/4240
+#EXTINF:-1, links-iptv.com-Disney XD UK
+http://topiptv.net:5890/zina/zina/4239
+#EXTINF:-1, links-iptv.com-Cartoonito UK
+http://topiptv.net:5890/zina/zina/4242
 ----------
-#EXTINF:-1,««------ENGLAND------»»
-http://satfrog-tv.ddns.net:5890/marc/marc/1452
-#EXTINF:-1,RTÉ One HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4171
-#EXTINF:-1,RTÉ One UK
-http://satfrog-tv.ddns.net:5890/marc/marc/922
-#EXTINF:-1,RTÉ Two HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4170
-#EXTINF:-1,RTÉ Two UK
-http://satfrog-tv.ddns.net:5890/marc/marc/923
-#EXTINF:-1,TLC HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1256
-#EXTINF:-1,BBC News HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4182
-#EXTINF:-1,BBC News UK
-http://satfrog-tv.ddns.net:5890/marc/marc/301
-#EXTINF:-1,BBC One FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4181
-#EXTINF:-1,BBC One HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/297
-#EXTINF:-1,BBC Two FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4178
-#EXTINF:-1,BBC Two HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/298
-#EXTINF:-1,BBC Three HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/299
-#EXTINF:-1,BBC Four FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4179
-#EXTINF:-1,BBC Four UK
-http://satfrog-tv.ddns.net:5890/marc/marc/300
-#EXTINF:-1,CBBC FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4180
-#EXTINF:-1,TG4 UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1263
-#EXTINF:-1,UTV FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4166
-#EXTINF:-1,ITV FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4177
-#EXTINF:-1,ITV HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1080
-#EXTINF:-1,ITV2 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4176
-#EXTINF:-1,ITV2 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1081
-#EXTINF:-1,ITV3 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4175
-#EXTINF:-1,ITV3 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1082
-#EXTINF:-1,ITV4 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4174
-#EXTINF:-1,ITV4 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1083
-#EXTINF:-1,ITV Encore UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4172
-#EXTINF:-1,ITVBe 1 UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4173
-#EXTINF:-1,Cbs Reality UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1209
-#EXTINF:-1,Cbs Drama UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1210
-#EXTINF:-1,Cbs Action UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1211
-#EXTINF:-1,London Live UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1128
-#EXTINF:-1,Channel 4 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4169
-#EXTINF:-1,Channel 4 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/270
-#EXTINF:-1,Channel 5 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4168
-#EXTINF:-1,Channel 5 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1079
-#EXTINF:-1,GOLD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/5709
-#EXTINF:-1,Home UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1255
-#EXTINF:-1,CNN FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4165
-#EXTINF:-1,CNN HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4117
-#EXTINF:-1,Sky News HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/812
-#EXTINF:-1,--|UK CINEMA|--
-http://satfrog-tv.ddns.net:5890/marc/marc/1448
-#EXTINF:-1,Sky 1 FHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4167
-#EXTINF:-1,Sky 1 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/266
-#EXTINF:-1,Sky 2 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/267
-#EXTINF:-1,Film4 HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1086
-#EXTINF:-1,Sky Arts 1 UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1254
-#EXTINF:-1,Sky Cinema Select HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/257
-#EXTINF:-1,Sky Movies Premiere UK
-http://satfrog-tv.ddns.net:5890/marc/marc/264
-#EXTINF:-1,Sky Movies Great&Modern UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1207
-#EXTINF:-1,Sky Movies Disney HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1253
-#EXTINF:-1,Sky Movies Drama UK
-http://satfrog-tv.ddns.net:5890/marc/marc/258
-#EXTINF:-1,Sky Movies Comedy UK
-http://satfrog-tv.ddns.net:5890/marc/marc/806
-#EXTINF:-1,Sky Atlantic HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/261
-#EXTINF:-1,Sky ScFi/HorHD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/263
-#EXTINF:-1,Sky Movies Showcase UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1087
-#EXTINF:-1,Sky Movies Family UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1088
-#EXTINF:-1,Sky Movies Action UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1089
-#EXTINF:-1,Sky Living UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1085
-#EXTINF:-1,Sky Movies Thriller UK
-http://satfrog-tv.ddns.net:5890/marc/marc/260
-#EXTINF:-1,Sky True Movies UK
-http://satfrog-tv.ddns.net:5890/marc/marc/271
-#EXTINF:-1,Sky True Movies 2 UK
-http://satfrog-tv.ddns.net:5890/marc/marc/272
-#EXTINF:-1,Dave UK
-http://satfrog-tv.ddns.net:5890/marc/marc/269
-#EXTINF:-1,FOX HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1208
-#EXTINF:-1,SYFY HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/265
-#EXTINF:-1,Good Food UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1213
-#EXTINF:-1,Food Network UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1212
-#EXTINF:-1,--|UK CULTURE|--
-http://satfrog-tv.ddns.net:5890/marc/marc/1450
-#EXTINF:-1,Travel Channel UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4164
-#EXTINF:-1,Nat Geo HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/286
-#EXTINF:-1,Nat Geo Wild HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/807
-#EXTINF:-1,Discovery History UK
-http://satfrog-tv.ddns.net:5890/marc/marc/291
-#EXTINF:-1,Discovery SC HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/292
-#EXTINF:-1,Discovery Turbo UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1106
-#EXTINF:-1,Discovery Crime Investi Gation UK
-http://satfrog-tv.ddns.net:5890/marc/marc/290
-#EXTINF:-1,Discovery HD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/289
-#EXTINF:-1,Discovery Shed UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1260
-#EXTINF:-1,Animal Planet UK
-http://satfrog-tv.ddns.net:5890/marc/marc/288
-#EXTINF:-1,--|UK ENFANTS|--
-http://satfrog-tv.ddns.net:5890/marc/marc/1451
-#EXTINF:-1,Nick Jr UK
-http://satfrog-tv.ddns.net:5890/marc/marc/1084
-#EXTINF:-1,Baby TV UK
-http://satfrog-tv.ddns.net:5890/marc/marc/2707
-#EXTINF:-1,Nicktoons UK
-http://satfrog-tv.ddns.net:5890/marc/marc/284
-#EXTINF:-1,Cartoon Network UK
-http://satfrog-tv.ddns.net:5890/marc/marc/813
-#EXTINF:-1,Boomerang UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4238
-#EXTINF:-1,Disney Chaneel UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4241
-#EXTINF:-1,Disney JR UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4240
-#EXTINF:-1,Disney XD UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4239
-#EXTINF:-1,Cartoonito UK
-http://satfrog-tv.ddns.net:5890/marc/marc/4242
------------
-#EXTINF:-1,### MIX ###
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/28044
-#EXTINF:-1,UK: 4 HD.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34489
-#EXTINF:-1,UK: 4Music.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34485
-#EXTINF:-1,UK: 4Seven HD.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34484
-#EXTINF:-1,UK: 4seven.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34483
-#EXTINF:-1,UK: 5 HD.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34479
-#EXTINF:-1,UK: 5 Spike.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34474
-#EXTINF:-1,UK: 5 STAR.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34476
-#EXTINF:-1,UK: 5 USA.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34475
-#EXTINF:-1,UK: BBC 1 HD
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37177
-#EXTINF:-1,UK: BBC 2 HD
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37178
-#EXTINF:-1,UK: BBC 3 HD
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37179
-#EXTINF:-1,UK: BBC 4 HD
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37180
-#EXTINF:-1,UK: ITV 1
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37181
-#EXTINF:-1,UK: ITV 2
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37182
-#EXTINF:-1,UK: ITV 3
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37183
-#EXTINF:-1,UK: ITV 4
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/37184
-#EXTINF:-1,UK: Sky1.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34453
-#EXTINF:-1,UK: Sky2.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34450
-#EXTINF:-1,UK: SkyAction.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34413
-#EXTINF:-1,UK: SkyArts.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34449
-#EXTINF:-1,UK: SkyAtlantic.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34451
-#EXTINF:-1,UK: SkyBet.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34333
-#EXTINF:-1,UK: SkyComedy.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34417
-#EXTINF:-1,UK: SkyCrimeThriller.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34416
-#EXTINF:-1,UK: SkyDisney.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34415
-#EXTINF:-1,UK: SkyDrama.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34414
-#EXTINF:-1,UK: SkyFamily.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34412
-#EXTINF:-1,UK: SkyGreats.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34411
-#EXTINF:-1,UK: SkyHits.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34407
-#EXTINF:-1,UK: SkyLiving.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34452
-#EXTINF:-1,UK: SkyNews.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34445
-#EXTINF:-1,UK: SkyPremiere.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34410
-#EXTINF:-1,UK: SkySciFiHorror.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34409
-#EXTINF:-1,UK: SkySelect.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34408
-#EXTINF:-1,UK: SNY
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34312
-#EXTINF:-1,UK: Sony Crime Channel.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34455
-#EXTINF:-1,UK: Sony ESPN
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34194
-#EXTINF:-1,UK: Sony Movie Channel.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34454
-#EXTINF:-1,UK: Sony Six
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34195
-#EXTINF:-1,UK: STV HD.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34505
-#EXTINF:-1,UK: Syfy.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34442
-#EXTINF:-1,UK: TG4.ie
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34492
-#EXTINF:-1,UK: TLC.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34444
-#EXTINF:-1,UK: TSN 1 SD
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34303
-#EXTINF:-1,UK: Universal.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34447
-#EXTINF:-1,UK: Univision Deportes
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34310
-#EXTINF:-1,UK: UTV.ie
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34495
-#EXTINF:-1,UK: VirginMediaOne.ie
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34490
-#EXTINF:-1,UK: W.uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34440
-#EXTINF:-1,UK: William Hill TV. uk
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34332
-#EXTINF:-1,UK: YES Network
-http://live.darkside-iptv.com:8080/i4ysemdvgr/O8H2YeOifF/34308
+#EXTINF:-1, links-iptv.com-======= UK =========
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5060
+#EXTINF:-1, links-iptv.com---------- UK General ----------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3480
+#EXTINF:-1, links-iptv.com-UK: BBC 1 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76153
+#EXTINF:-1, links-iptv.com-UK: BBC 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8681
+#EXTINF:-1, links-iptv.com-UK: BBC 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2872
+#EXTINF:-1, links-iptv.com-UK: BBC 2 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76152
+#EXTINF:-1, links-iptv.com-UK: BBC 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8682
+#EXTINF:-1, links-iptv.com-UK: BBC 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3158
+#EXTINF:-1, links-iptv.com-UK: ITV 1 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76149
+#EXTINF:-1, links-iptv.com-UK: ITV 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8701
+#EXTINF:-1, links-iptv.com-UK: ITV 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2878
+#EXTINF:-1, links-iptv.com-UK: CHANNEL 4 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76142
+#EXTINF:-1, links-iptv.com-UK: Channel 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8687
+#EXTINF:-1, links-iptv.com-UK: Channel 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2874
+#EXTINF:-1, links-iptv.com-UK: CHANNEL 5 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76143
+#EXTINF:-1, links-iptv.com-UK: Channel 5 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8688
+#EXTINF:-1, links-iptv.com-UK: Channel 5
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2875
+#EXTINF:-1, links-iptv.com-UK: ITV +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3139
+#EXTINF:-1, links-iptv.com-UK: ITV 2 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76148
+#EXTINF:-1, links-iptv.com-UK: ITV 2 HD1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8702
+#EXTINF:-1, links-iptv.com-UK: ITV 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2879
+#EXTINF:-1, links-iptv.com-UK: ITV2 +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/33228
+#EXTINF:-1, links-iptv.com-UK: ITV BE FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76145
+#EXTINF:-1, links-iptv.com-UK: ITV BE HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8699
+#EXTINF:-1, links-iptv.com-UK: ITV Be
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2881
+#EXTINF:-1, links-iptv.com-UK: BBC Brit HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114115
+#EXTINF:-1, links-iptv.com-UK: BBC Earth HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114140
+#EXTINF:-1, links-iptv.com-UK: 5 Star
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5306
+#EXTINF:-1, links-iptv.com-UK: 5 USA
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2884
+#EXTINF:-1, links-iptv.com-UK: 5 Select
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10030
+#EXTINF:-1, links-iptv.com-UK: E4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8692
+#EXTINF:-1, links-iptv.com-UK: E4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3137
+#EXTINF:-1, links-iptv.com-UK: More 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3136
+#EXTINF:-1, links-iptv.com-UK: More 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15279
+#EXTINF:-1, links-iptv.com-UK: 4 SEVEN FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76144
+#EXTINF:-1, links-iptv.com-UK: 4 Seven
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5675
+#EXTINF:-1, links-iptv.com-UK: ITV 3 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76147
+#EXTINF:-1, links-iptv.com-UK: ITV 3 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8703
+#EXTINF:-1, links-iptv.com-UK: ITV 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3142
+#EXTINF:-1, links-iptv.com-UK: ITV3 +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/33229
+#EXTINF:-1, links-iptv.com-UK: ITV 4 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76146
+#EXTINF:-1, links-iptv.com-UK: ITV 4 HD1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8704
+#EXTINF:-1, links-iptv.com-UK: ITV 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2880
+#EXTINF:-1, links-iptv.com-UK: ITV4 +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/33230
+#EXTINF:-1, links-iptv.com-UK: BBC 3 FHD/CBBC FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76151
+#EXTINF:-1, links-iptv.com-UK: BBC 3 HD / CBBC HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8683
+#EXTINF:-1, links-iptv.com-UK: BBC 3/CBBC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3172
+#EXTINF:-1, links-iptv.com-UK: BBC 4 FHD/CBEEBIES FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76150
+#EXTINF:-1, links-iptv.com-UK: BBC 4 HD / CBEEBIES HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8684
+#EXTINF:-1, links-iptv.com-UK: BBC 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3135
+#EXTINF:-1, links-iptv.com-=== UK Entertainment ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112748
+#EXTINF:-1, links-iptv.com-UK: Sky 1 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/87632
+#EXTINF:-1, links-iptv.com-UK: SKY 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8712
+#EXTINF:-1, links-iptv.com-UK: Sky 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3248
+#EXTINF:-1, links-iptv.com-UK: Sky 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3183
+#EXTINF:-1, links-iptv.com-UK: Sky Atlantic FHD1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3586
+#EXTINF:-1, links-iptv.com-UK: Sky Atlantic FHD2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15096
+#EXTINF:-1, links-iptv.com-UK: Sky Witness FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69639
+#EXTINF:-1, links-iptv.com-UK: Sky Witness HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8714
+#EXTINF:-1, links-iptv.com-UK: Sky Witness
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2641
+#EXTINF:-1, links-iptv.com-UK: Sky Arts FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/75855
+#EXTINF:-1, links-iptv.com-UK: Sky Arts HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8713
+#EXTINF:-1, links-iptv.com-UK: Sky Arts
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3050
+#EXTINF:-1, links-iptv.com-UK: Pick
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3392
+#EXTINF:-1, links-iptv.com-UK: Fox FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8695
+#EXTINF:-1, links-iptv.com-UK: Fox
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3191
+#EXTINF:-1, links-iptv.com-UK: Comedy Central FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8689
+#EXTINF:-1, links-iptv.com-UK: Comedy Central
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2664
+#EXTINF:-1, links-iptv.com-UK: Comedy Central Extra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3589
+#EXTINF:-1, links-iptv.com-UK: E!
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3591
+#EXTINF:-1, links-iptv.com-UK: AMC FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/40084
+#EXTINF:-1, links-iptv.com-UK: AMC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3580
+#EXTINF:-1, links-iptv.com-UK: Lifetime FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8705
+#EXTINF:-1, links-iptv.com-UK: Lifetime
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29802
+#EXTINF:-1, links-iptv.com-UK: Gold
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3051
+#EXTINF:-1, links-iptv.com-UK: Universal HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11764
+#EXTINF:-1, links-iptv.com-UK: Universal
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8730
+#EXTINF:-1, links-iptv.com-UK: TruTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2654
+#EXTINF:-1, links-iptv.com-UK: Eden FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15277
+#EXTINF:-1, links-iptv.com-UK: Eden
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3138
+#EXTINF:-1, links-iptv.com-UK: DAVE HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8690
+#EXTINF:-1, links-iptv.com-UK: Dave
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3346
+#EXTINF:-1, links-iptv.com-UK: ALIBI HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8678
+#EXTINF:-1, links-iptv.com-UK: Alibi
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3368
+#EXTINF:-1, links-iptv.com-UK: MTV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8707
+#EXTINF:-1, links-iptv.com-UK: MTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5824
+#EXTINF:-1, links-iptv.com-UK: Spike
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3841
+#EXTINF:-1, links-iptv.com-UK: Paramount FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/87630
+#EXTINF:-1, links-iptv.com-UK: BET UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15344
+#EXTINF:-1, links-iptv.com-UK: London Live
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2828
+#EXTINF:-1, links-iptv.com-UK: Challenge
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5673
+#EXTINF:-1, links-iptv.com-UK: TV Warehouse
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/88950
+#EXTINF:-1, links-iptv.com-==== Ireland ====
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112619
+#EXTINF:-1, links-iptv.com-IRL: RTE 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3178
+#EXTINF:-1, links-iptv.com-IRL: RTE 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15057
+#EXTINF:-1, links-iptv.com-IRL: RTE 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3179
+#EXTINF:-1, links-iptv.com-IRL: RTE 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15058
+#EXTINF:-1, links-iptv.com-IRL: Virgin Media 1 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/12829
+#EXTINF:-1, links-iptv.com-IRL: Virgin Media 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17920
+#EXTINF:-1, links-iptv.com-IRL: Virgin Media 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17054
+#EXTINF:-1, links-iptv.com-IRL: Virgin Media 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3590
+#EXTINF:-1, links-iptv.com-IRL: Virgin Media 3 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15130
+#EXTINF:-1, links-iptv.com-IRL: TG4 FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76154
+#EXTINF:-1, links-iptv.com-IRL: TG4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3020
+#EXTINF:-1, links-iptv.com-IRL: RTE News Now
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/1558
+#EXTINF:-1, links-iptv.com-IRL: BBC One NI
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16025
+#EXTINF:-1, links-iptv.com-IRL: BBC Two NI
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16017
+#EXTINF:-1, links-iptv.com-IRL: UTV FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8731
+#EXTINF:-1, links-iptv.com-IRL: UTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5520
+#EXTINF:-1, links-iptv.com---------- UK Kids ------------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3479
+#EXTINF:-1, links-iptv.com-UK: CARTOON NETWORK HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8686
+#EXTINF:-1, links-iptv.com-UK: Cartoon Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2829
+#EXTINF:-1, links-iptv.com-UK: Disney Junior FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/22407
+#EXTINF:-1, links-iptv.com-UK: Disney Junior
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2615
+#EXTINF:-1, links-iptv.com-UK: Disney XD FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/22408
+#EXTINF:-1, links-iptv.com-UK: Disney XD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2650
+#EXTINF:-1, links-iptv.com-UK: Disney Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15275
+#EXTINF:-1, links-iptv.com-UK: Disney Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3588
+#EXTINF:-1, links-iptv.com-UK: Nicktoons
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/13624
+#EXTINF:-1, links-iptv.com-UK: Nick Jr Too
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2643
+#EXTINF:-1, links-iptv.com-UK: Nick Junior
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16001
+#EXTINF:-1, links-iptv.com-UK: Nickelodeon HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8711
+#EXTINF:-1, links-iptv.com-UK: Nickelodeon
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3150
+#EXTINF:-1, links-iptv.com-UK: Zoomoo FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112628
+#EXTINF:-1, links-iptv.com-UK: Cartoonito
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5517
+#EXTINF:-1, links-iptv.com-UK: Boomerang
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2629
+#EXTINF:-1, links-iptv.com-UK: Baby TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2824
+#EXTINF:-1, links-iptv.com-UK: Tiny Pop
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3399
+#EXTINF:-1, links-iptv.com-UK: Pop
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/17056
+#EXTINF:-1, links-iptv.com-UK: Pop Max
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29803
+#EXTINF:-1, links-iptv.com-UK: Cbeebies
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3839
+#EXTINF:-1, links-iptv.com-UK: C ITV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2876
+#EXTINF:-1, links-iptv.com-UK: RTE Jr
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3828
+#EXTINF:-1, links-iptv.com-UK: Peppa Pig
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/139052
+#EXTINF:-1, links-iptv.com----------- UK Docu -----------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3478
+#EXTINF:-1, links-iptv.com-UK: Discovery FHD1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/28487
+#EXTINF:-1, links-iptv.com-UK: Discovery FHD2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8691
+#EXTINF:-1, links-iptv.com-UK: Discovery Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2616
+#EXTINF:-1, links-iptv.com-UK: Discovery Science HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114114
+#EXTINF:-1, links-iptv.com-UK: Discovery Science
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3207
+#EXTINF:-1, links-iptv.com-UK: Discovery Shed
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/6387
+#EXTINF:-1, links-iptv.com-UK: Discovery Turbo
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3205
+#EXTINF:-1, links-iptv.com-UK: Discovery History
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2642
+#EXTINF:-1, links-iptv.com-UK: Discovery HD Showcase
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8698
+#EXTINF:-1, links-iptv.com-UK: National Geo FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8709
+#EXTINF:-1, links-iptv.com-UK: National Geographic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3190
+#EXTINF:-1, links-iptv.com-UK: Nat Geo Wild FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8710
+#EXTINF:-1, links-iptv.com-UK: Nat Geo Wild
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3189
+#EXTINF:-1, links-iptv.com-UK: Animal Planet HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8679
+#EXTINF:-1, links-iptv.com-UK: Animal Planet
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3217
+#EXTINF:-1, links-iptv.com-UK: History FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8697
+#EXTINF:-1, links-iptv.com-UK: History
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3584
+#EXTINF:-1, links-iptv.com-UK: History 2 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3585
+#EXTINF:-1, links-iptv.com-UK: ID
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2663
+#EXTINF:-1, links-iptv.com-UK: ID Xtra HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/9057
+#EXTINF:-1, links-iptv.com-UK: Crime & Investigation FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11780
+#EXTINF:-1, links-iptv.com-UK: Crime & Investigation
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3343
+#EXTINF:-1, links-iptv.com-UK: Quest FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/87628
+#EXTINF:-1, links-iptv.com-UK: Quest
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2873
+#EXTINF:-1, links-iptv.com-UK: Quest Red
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29797
+#EXTINF:-1, links-iptv.com-UK: Yesterday
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3684
+#EXTINF:-1, links-iptv.com-UK: PBS
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15132
+#EXTINF:-1, links-iptv.com-UK: Dmax
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3140
+#EXTINF:-1, links-iptv.com-UK: W FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8732
+#EXTINF:-1, links-iptv.com-UK: W
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4153
+#EXTINF:-1, links-iptv.com-UK: Fast&FunBox HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8706
+#EXTINF:-1, links-iptv.com-UK: Insight UHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8693
+#EXTINF:-1, links-iptv.com-UK: Love Nature FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112625
+#EXTINF:-1, links-iptv.com-UK: BBC Entertainment
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/6388
+#EXTINF:-1, links-iptv.com-UK: Forces TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10032
+#EXTINF:-1, links-iptv.com-UK: DocuBox HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8694
+#EXTINF:-1, links-iptv.com-UK: Vice
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69617
+#EXTINF:-1, links-iptv.com-UK: TLC FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/87629
+#EXTINF:-1, links-iptv.com-UK: TLC Europe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16294
+#EXTINF:-1, links-iptv.com-UK: TLC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3582
+#EXTINF:-1, links-iptv.com-UK: Home
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5801
+#EXTINF:-1, links-iptv.com-UK: Home +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5518
+#EXTINF:-1, links-iptv.com-UK: Home & Health
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2865
+#EXTINF:-1, links-iptv.com-UK: Food Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3398
+#EXTINF:-1, links-iptv.com-UK: Good Food FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8696
+#EXTINF:-1, links-iptv.com-UK: Good Food
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5604
+#EXTINF:-1, links-iptv.com-UK: Real Lives
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2644
+#EXTINF:-1, links-iptv.com-UK: Really
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2656
+#EXTINF:-1, links-iptv.com-UK: Travel Channel HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10951
+#EXTINF:-1, links-iptv.com-UK: Travel Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3746
+#EXTINF:-1, links-iptv.com-UK: Blaze
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29800
+#EXTINF:-1, links-iptv.com-UK: Showcase
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29804
+#EXTINF:-1, links-iptv.com-UK: Smithsonian Channel FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/131184
+#EXTINF:-1, links-iptv.com----------- UK Movies ------------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3477
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA PREMIERE FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76158
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA PREMIERE HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8722
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Premiere HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3403
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA HITS FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76165
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA HITS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8721
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Hits
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/34992
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA GREATS FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76159
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA GREATS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8720
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Greats
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3583
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA DISNEY FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76161
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA DISNEY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8717
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Disney
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3407
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA FAMILY FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76160
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA FAMILY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8719
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Family
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3345
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA ACTION FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76164
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA ACTION HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8715
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Action HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3408
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA COMEDY FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76162
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA COMEDY HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8716
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Comedy HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3409
+#EXTINF:-1, links-iptv.com-UK: Sky CINEMA THRILLER FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76155
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA THRILLER HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8726
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Thriller HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2636
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA DRAMA & ROMANCE HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8718
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Drama & Romance
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3344
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA SCIFI HORROR FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76157
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA SCI-FI/HORROR HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8723
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema SciFi/Horror HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3016
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA SELECT FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76156
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA SELECT HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8724
+#EXTINF:-1, links-iptv.com-UK: Sky Cinema Select
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3405
+#EXTINF:-1, links-iptv.com-UK: SKY CINEMA DRAMA & ROMANCE FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76163
+#EXTINF:-1, links-iptv.com-UK: TCM FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8729
+#EXTINF:-1, links-iptv.com-UK: TCM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3581
+#EXTINF:-1, links-iptv.com-UK: SyFy HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11766
+#EXTINF:-1, links-iptv.com-UK: SyFy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3404
+#EXTINF:-1, links-iptv.com-UK: Film 4 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15278
+#EXTINF:-1, links-iptv.com-UK: Film 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2877
+#EXTINF:-1, links-iptv.com-UK: Sony Movie
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2648
+#EXTINF:-1, links-iptv.com-UK: Drama
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5847
+#EXTINF:-1, links-iptv.com-UK: Horror Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3393
+#EXTINF:-1, links-iptv.com-UK: True Movies +1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11754
+#EXTINF:-1, links-iptv.com-UK: True Movies
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3347
+#EXTINF:-1, links-iptv.com-UK: True Movies 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3390
+#EXTINF:-1, links-iptv.com-UK: True Entertainment
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3396
+#EXTINF:-1, links-iptv.com-UK: Movies4men
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2610
+#EXTINF:-1, links-iptv.com-UK: Movies 24
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20306
+#EXTINF:-1, links-iptv.com-UK: CBS Action
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3187
+#EXTINF:-1, links-iptv.com-UK: CBS Reality
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3141
+#EXTINF:-1, links-iptv.com-UK: CBS Drama
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3186
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids 1 HD - How to Train Your Dragon The Hidden World
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126668
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids 2 HD - The Lego Movie 2 - The Second Part
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126669
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 1 HD - Cold Pursuit
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126657
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 2 HD - The Professor
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126658
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 3 HD - Captain Marvel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126659
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 4 HD - Iron Sky - The Coming Race
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126660
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 5 HD - Gloria Bell
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126665
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 6 HD - Us
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126666
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 7 HD - Wine Country
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126667
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 4K - Isnt It Romantic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126733
+#EXTINF:-1, links-iptv.com-UK: Box Office Movies 4K - Cold Pursuit
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/126735
+#EXTINF:-1, links-iptv.com-UK: Box Office - DC Extended Universe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127593
+#EXTINF:-1, links-iptv.com-UK: Box Office - Marvel Cinematic Universe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127359
+#EXTINF:-1, links-iptv.com-UK: Box Office - Pirates Of The Caribbean Collection
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127603
+#EXTINF:-1, links-iptv.com-UK: Box Office - The Dark Knight Trilogy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127592
+#EXTINF:-1, links-iptv.com-UK: Box Office - The Star Wars Collection
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127594
+#EXTINF:-1, links-iptv.com-UK: Box Office - The Terminator Collection
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127598
+#EXTINF:-1, links-iptv.com-UK: Box Office - The Bourne Collection
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127615
+#EXTINF:-1, links-iptv.com-UK: Box Office - The X-Men Collection
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127616
+#EXTINF:-1, links-iptv.com-UK: Box Office - DC Animated Movie Universe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/138720
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids - Despicable Me Trilogy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127600
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids - Madagascar Trilogy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127602
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids - The Lion King Trilogy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127601
+#EXTINF:-1, links-iptv.com-UK: Box Office Kids - Toy Story Trilogy
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/127599
+#EXTINF:-1, links-iptv.com------ UK International ----
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76082
+#EXTINF:-1, links-iptv.com-UK: Colors FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/75856
+#EXTINF:-1, links-iptv.com-UK: Zee TV FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/75857
+#EXTINF:-1, links-iptv.com-UK: Zee Cinema FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112623
+#EXTINF:-1, links-iptv.com-UK: Star Plus FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112621
+#EXTINF:-1, links-iptv.com-UK: Sony TV FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112627
+#EXTINF:-1, links-iptv.com-UK: Sony Max FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112626
+#EXTINF:-1, links-iptv.com-UK: Living Foodz FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112624
+#EXTINF:-1, links-iptv.com-UK: &TV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16171
+#EXTINF:-1, links-iptv.com-UK: AAJ TAK UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15347
+#EXTINF:-1, links-iptv.com-UK: Aastha
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96154
+#EXTINF:-1, links-iptv.com-UK: ABN
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16002
+#EXTINF:-1, links-iptv.com-UK: ABP NEWS UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15346
+#EXTINF:-1, links-iptv.com-UK: Minhaj TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76080
+#EXTINF:-1, links-iptv.com-AF: AIT International ( Nigeria )
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11946
+#EXTINF:-1, links-iptv.com-UK: Akaal TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96155
+#EXTINF:-1, links-iptv.com-UK: A Plus Europe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5503
+#EXTINF:-1, links-iptv.com-UK: Ary Digital UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15323
+#EXTINF:-1, links-iptv.com-UK: Ary Family UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15330
+#EXTINF:-1, links-iptv.com-UK: Ary News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/6240
+#EXTINF:-1, links-iptv.com-UK: Ary World
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/14136
+#EXTINF:-1, links-iptv.com-UK: B4U Movies
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15345
+#EXTINF:-1, links-iptv.com-UK: B4U Plus
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15320
+#EXTINF:-1, links-iptv.com-UK: Brit Asia TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96153
+#EXTINF:-1, links-iptv.com-UK: British Muslim
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76079
+#EXTINF:-1, links-iptv.com-UK: Colors
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15343
+#EXTINF:-1, links-iptv.com-UK: Dunya News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15342
+#EXTINF:-1, links-iptv.com-UK: Geo Kahani
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96147
+#EXTINF:-1, links-iptv.com-UK: Geo News International
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15341
+#EXTINF:-1, links-iptv.com-UK: Geo TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15340
+#EXTINF:-1, links-iptv.com-UK: Global Sanjh TV UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15319
+#EXTINF:-1, links-iptv.com-UK: Hum Masala
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96148
+#EXTINF:-1, links-iptv.com-UK: Hum TV Europe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96149
+#EXTINF:-1, links-iptv.com-UK: Hidayat TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76077
+#EXTINF:-1, links-iptv.com-UK: Iqra Bangla
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76075
+#EXTINF:-1, links-iptv.com-UK: Iqra  TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76076
+#EXTINF:-1, links-iptv.com-UK: Islam Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11132
+#EXTINF:-1, links-iptv.com-UK: Islam TV Urdu
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76074
+#EXTINF:-1, links-iptv.com-UK: Jus Punjabi
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15339
+#EXTINF:-1, links-iptv.com-UK: Kanshi TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76073
+#EXTINF:-1, links-iptv.com-UK: Madani Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/97923
+#EXTINF:-1, links-iptv.com-UK: mta-Muslim TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76072
+#EXTINF:-1, links-iptv.com-UK: NTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96152
+#EXTINF:-1, links-iptv.com-UK: Nollywood
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/12030
+#EXTINF:-1, links-iptv.com-UK: Noor TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76071
+#EXTINF:-1, links-iptv.com-UK: Peace TV Bangla
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11913
+#EXTINF:-1, links-iptv.com-UK: PTC Punjabi
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/18427
+#EXTINF:-1, links-iptv.com-UK: PTV Global
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15338
+#EXTINF:-1, links-iptv.com-UK: PTV Prime
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/6186
+#EXTINF:-1, links-iptv.com-UK: Rishtey Cineplex
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/83550
+#EXTINF:-1, links-iptv.com-UK: Rishtey Europe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15336
+#EXTINF:-1, links-iptv.com-UK: Safeer TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76070
+#EXTINF:-1, links-iptv.com-UK: Samaa TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96146
+#EXTINF:-1, links-iptv.com-UK: Sikh Channel
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96156
+#EXTINF:-1, links-iptv.com-UK: Sony Max
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15333
+#EXTINF:-1, links-iptv.com-UK: Sony Mix
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3587
+#EXTINF:-1, links-iptv.com-UK: Sony Sab
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15335
+#EXTINF:-1, links-iptv.com-UK: Sony TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10036
+#EXTINF:-1, links-iptv.com-UK: Sony TV Asia
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15334
+#EXTINF:-1, links-iptv.com-UK: Star Bharat UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15322
+#EXTINF:-1, links-iptv.com-UK: Star Gold
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15332
+#EXTINF:-1, links-iptv.com-UK: Star Jalsha
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15331
+#EXTINF:-1, links-iptv.com-UK: Star Mix
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15328
+#EXTINF:-1, links-iptv.com-UK: Star Plus UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15329
+#EXTINF:-1, links-iptv.com-UK: Takbeer TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76069
+#EXTINF:-1, links-iptv.com-UK: Times Now
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15134
+#EXTINF:-1, links-iptv.com-UK: TV 99
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96150
+#EXTINF:-1, links-iptv.com-UK: TV One
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29805
+#EXTINF:-1, links-iptv.com-UK: Urdu 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15327
+#EXTINF:-1, links-iptv.com-UK: Venus TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/96151
+#EXTINF:-1, links-iptv.com-UK: VTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/76068
+#EXTINF:-1, links-iptv.com-UK: ZEE Cinema UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15321
+#EXTINF:-1, links-iptv.com-UK: ZEE Punjabi UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15326
+#EXTINF:-1, links-iptv.com-UK: ZEE TV UK
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15325
+#EXTINF:-1, links-iptv.com-UK: ZING TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15324
+#EXTINF:-1, links-iptv.com-UK: Capital TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3937
+#EXTINF:-1, links-iptv.com-UK: LoveWorld TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/88949
+#EXTINF:-1, links-iptv.com------------ UK News -----------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3481
+#EXTINF:-1, links-iptv.com-UK: Sky News FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8727
+#EXTINF:-1, links-iptv.com-UK: Sky News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2882
+#EXTINF:-1, links-iptv.com-UK: BBC NEWS HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8685
+#EXTINF:-1, links-iptv.com-UK: BBC News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3838
+#EXTINF:-1, links-iptv.com-UK: BBC World News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2620
+#EXTINF:-1, links-iptv.com-UK: Al Jazeera HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8780
+#EXTINF:-1, links-iptv.com-UK: Al Jazeera English
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3453
+#EXTINF:-1, links-iptv.com-UK: RT HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2606
+#EXTINF:-1, links-iptv.com-UK: CNN International Europe
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5674
+#EXTINF:-1, links-iptv.com-UK: Fox News
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5935
+#EXTINF:-1, links-iptv.com-UK: France 24 HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/1458
+#EXTINF:-1, links-iptv.com-UK: DW
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3830
+#EXTINF:-1, links-iptv.com-UK: Euronews
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3026
+#EXTINF:-1, links-iptv.com-UK: NDTV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3401
+#EXTINF:-1, links-iptv.com-UK: NHK World News HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2633
+#EXTINF:-1, links-iptv.com-UK: CNBC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/131290
+#EXTINF:-1, links-iptv.com-UK: Bloomberg HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5934
+#EXTINF:-1, links-iptv.com----------- UK Music --------------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3829
+#EXTINF:-1, links-iptv.com-UK: MTV Live FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8708
+#EXTINF:-1, links-iptv.com-UK: MTV Live HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4128
+#EXTINF:-1, links-iptv.com-UK: MTV Hits
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4562
+#EXTINF:-1, links-iptv.com-UK: MTV Base
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/2619
+#EXTINF:-1, links-iptv.com-UK: MTV Music
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5853
+#EXTINF:-1, links-iptv.com-UK: MTV Dance
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5851
+#EXTINF:-1, links-iptv.com-UK: MTV OMG
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/114141
+#EXTINF:-1, links-iptv.com-UK: MTV Rocks
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/1189
+#EXTINF:-1, links-iptv.com-UK: MTV Classic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/5852
+#EXTINF:-1, links-iptv.com-UK: Scuzz
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/12652
+#EXTINF:-1, links-iptv.com-UK: 4 Music
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3836
+#EXTINF:-1, links-iptv.com-UK: Viva
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3840
+#EXTINF:-1, links-iptv.com-UK: VH1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/4563
+#EXTINF:-1, links-iptv.com-UK: VH1 Classic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/1524
+#EXTINF:-1, links-iptv.com-UK: The Vault
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3835
+#EXTINF:-1, links-iptv.com-UK: Kerrang
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3834
+#EXTINF:-1, links-iptv.com-UK: Kiss TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/3938
+#EXTINF:-1, links-iptv.com-UK: The Box
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20307
+#EXTINF:-1, links-iptv.com-UK: Box Hits
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20308
+#EXTINF:-1, links-iptv.com-UK: Box Upfront
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20309
+#EXTINF:-1, links-iptv.com-UK: Magic
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20310
+#EXTINF:-1, links-iptv.com-UK: Chart Show TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69618
+#EXTINF:-1, links-iptv.com-UK: Chart Show Hits
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69619
+#EXTINF:-1, links-iptv.com-UK: Keep It Country
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/20311
+#EXTINF:-1, links-iptv.com-UK: Starz TV
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/29721
+#EXTINF:-1, links-iptv.com------- UK RADIOS -------
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/13976
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69612
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 1 Xtra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69604
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69611
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 3
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69610
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 4
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69609
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 4 Xtra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69608
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 5 Live
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69607
+#EXTINF:-1, links-iptv.com-UK : BBC Radio 6 Music
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69605
+#EXTINF:-1, links-iptv.com-UK : BBC Radio Asain Network
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69603
+#EXTINF:-1, links-iptv.com-UK : BBC Radio Manchester
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69602
+#EXTINF:-1, links-iptv.com-UK : BBC Radio Scotland
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69601
+#EXTINF:-1, links-iptv.com-UK : BBC Radio Ulster
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69599
+#EXTINF:-1, links-iptv.com-UK : BBC Radio Wales
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69600
+#EXTINF:-1, links-iptv.com-UK : Capital FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69592
+#EXTINF:-1, links-iptv.com-UK : Capital FM XTRA
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69591
+#EXTINF:-1, links-iptv.com-UK : Classic  FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69590
+#EXTINF:-1, links-iptv.com-UK : Heart 106.2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69588
+#EXTINF:-1, links-iptv.com-UK : Heart 80's
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69587
+#EXTINF:-1, links-iptv.com-UK : Pulse 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69586
+#EXTINF:-1, links-iptv.com-UK : Pulse 2
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69585
+#EXTINF:-1, links-iptv.com-UK : Pulse 80's
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69584
+#EXTINF:-1, links-iptv.com-UK : Q Radio Belfast
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69582
+#EXTINF:-1, links-iptv.com-UK : Magic Radio
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/70331
+#EXTINF:-1, links-iptv.com-UK:BBC Coventry And Warwickshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110397
+#EXTINF:-1, links-iptv.com-UK:BBC Hereford/Worcester
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110398
+#EXTINF:-1, links-iptv.com-UK:BBC London 94.9
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110399
+#EXTINF:-1, links-iptv.com-UK:BBC Radio 1 Xtra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110400
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Berkshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110401
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Bristol
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110402
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Cambridgeshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110403
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Cornwall
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110404
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Cumbria
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110405
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Derby
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110406
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Devon
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110407
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Essex
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110408
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Gloucestershire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110409
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Gurnsey
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110410
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Humberside
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110411
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Jersey
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110412
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Kent
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110413
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Lancashire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110414
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Leeds
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110415
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Leicester
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110416
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Lincolnshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110417
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Manchester
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110418
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Merseyside
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110419
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Newcastle
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110420
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Norfolk
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110421
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Northampton
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110422
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Nottingham
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110423
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Oxford
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110424
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Scotland
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110425
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Sheffield
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110426
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Shropshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110427
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Solent
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110428
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Somerset
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110429
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Stoke
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110430
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Suffolk
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110431
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Ulster
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110432
+#EXTINF:-1, links-iptv.com-UK:BBC Radio Wales
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110433
+#EXTINF:-1, links-iptv.com-UK:BBC Radio York
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110434
+#EXTINF:-1, links-iptv.com-UK:BBC Surrey
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110435
+#EXTINF:-1, links-iptv.com-UK:BBC Sussex
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110436
+#EXTINF:-1, links-iptv.com-UK:BBC Tees
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110437
+#EXTINF:-1, links-iptv.com-UK:BBC Wiltshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110438
+#EXTINF:-1, links-iptv.com-UK:BBC World Service
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110439
+#EXTINF:-1, links-iptv.com-UK:Chill FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110442
+#EXTINF:-1, links-iptv.com-UK:Energy FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110440
+#EXTINF:-1, links-iptv.com-UK:Greatest Hits Radio Midlands
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110443
+#EXTINF:-1, links-iptv.com-UK:Power On FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/110441
+#EXTINF:-1, links-iptv.com-MoveDaHouse Radio - House Music
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69533
+#EXTINF:-1, links-iptv.com-NuJungle Radio
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69532
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Radio 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69534
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Radio 1 Extra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69535
+#EXTINF:-1, links-iptv.com-IRL : RTÉ 2FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69536
+#EXTINF:-1, links-iptv.com-IRL : RTÉ 2XM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69539
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Gold
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69540
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Junior
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69541
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Lyric FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69537
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Pulse
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69543
+#EXTINF:-1, links-iptv.com-IRL : RTÉ Raidió Na Gaeltachta
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69538
+#EXTINF:-1, links-iptv.com-IRL : 98FM Dublin
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69544
+#EXTINF:-1, links-iptv.com-IRL : Beat 102-103
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69549
+#EXTINF:-1, links-iptv.com-IRL : Classic Hits 4FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69545
+#EXTINF:-1, links-iptv.com-IRL : Dundalk FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69552
+#EXTINF:-1, links-iptv.com-IRL : EastCoast FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69553
+#EXTINF:-1, links-iptv.com-IRL : Today FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69547
+#EXTINF:-1, links-iptv.com-IRL : FM 104
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69548
+#EXTINF:-1, links-iptv.com-IRL : Nova FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/69546
+#EXTINF:-1, links-iptv.com-IRL : KCLR 96FM
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/70334
+#EXTINF:-1, links-iptv.com-IRL : Newstalk
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/70332
+#EXTINF:-1, links-iptv.com-IRL : Phever IRL
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/70346
+#EXTINF:-1, links-iptv.com-IRL : Kiss FM Eire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/70347
+#EXTINF:-1, links-iptv.com-=== UK Regional & Shopping ===
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/112746
+#EXTINF:-1, links-iptv.com-UK: BBC Scotland FHD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/131183
+#EXTINF:-1, links-iptv.com-UK: BBC One Scotland
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11784
+#EXTINF:-1, links-iptv.com-UK: BBC One London
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11782
+#EXTINF:-1, links-iptv.com-UK: BBC One Cambridge
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16031
+#EXTINF:-1, links-iptv.com-UK: BBC One Wales
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11785
+#EXTINF:-1, links-iptv.com-UK: BBC One Cumbria
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16030
+#EXTINF:-1, links-iptv.com-UK: BBC One East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16029
+#EXTINF:-1, links-iptv.com-UK: BBC One North East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16021
+#EXTINF:-1, links-iptv.com-UK: BBC One East Midlands
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16028
+#EXTINF:-1, links-iptv.com-UK: BBC One Islands
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16027
+#EXTINF:-1, links-iptv.com-UK: BBC One Midlands
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16026
+#EXTINF:-1, links-iptv.com-UK: BBC One North West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16024
+#EXTINF:-1, links-iptv.com-UK: BBC One Oxford
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16023
+#EXTINF:-1, links-iptv.com-UK: BBC One South
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16022
+#EXTINF:-1, links-iptv.com-UK: BBC One South East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/120306
+#EXTINF:-1, links-iptv.com-UK: BBC One West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16020
+#EXTINF:-1, links-iptv.com-UK: BBC One Yorkshire
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16019
+#EXTINF:-1, links-iptv.com-UK: BBC Two England
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16018
+#EXTINF:-1, links-iptv.com-UK: BBC Two Wales
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16016
+#EXTINF:-1, links-iptv.com-UK: BBC Two Scotland
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/11786
+#EXTINF:-1, links-iptv.com-UK: ITV 1 Anglia
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16015
+#EXTINF:-1, links-iptv.com-UK: ITV Border
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16014
+#EXTINF:-1, links-iptv.com-UK: ITV Granada
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16013
+#EXTINF:-1, links-iptv.com-UK: ITV Meridian East
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16012
+#EXTINF:-1, links-iptv.com-UK: ITV Meridian South
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16011
+#EXTINF:-1, links-iptv.com-UK: ITV Westcountry South 1
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16010
+#EXTINF:-1, links-iptv.com-UK: ITV Yorkshire West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16009
+#EXTINF:-1, links-iptv.com-UK: ITV 1 Central West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/128026
+#EXTINF:-1, links-iptv.com-UK: ITV Wales
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/128025
+#EXTINF:-1, links-iptv.com-UK: S4C
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/15133
+#EXTINF:-1, links-iptv.com-UK: STV HD
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/10247
+#EXTINF:-1, links-iptv.com-UK: TV Border Scotland
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16008
+#EXTINF:-1, links-iptv.com-UK: Stv Central West
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16007
+#EXTINF:-1, links-iptv.com-UK: Stv North
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16006
+#EXTINF:-1, links-iptv.com-UK: BBC Alba
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8680
+#EXTINF:-1, links-iptv.com-UK: BBC Parliament
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/16032
+#EXTINF:-1, links-iptv.com-UK: BBC Red Button
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/8857
+#EXTINF:-1, links-iptv.com-UK: QVC
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/32001
+#EXTINF:-1, links-iptv.com-UK: QVC Beauty
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/32004
+#EXTINF:-1, links-iptv.com-UK: QVC Extra
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/32003
+#EXTINF:-1, links-iptv.com-UK: QVC Style
+http://clientbox.tv:80/R3iFUw9egV/uOyijX2ohY/32002
