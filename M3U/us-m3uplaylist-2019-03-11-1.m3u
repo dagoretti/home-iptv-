@@ -1,247 +1,79 @@
 #EXTM3U
-#EXTINF:-1,US- ABC wews cla
-http://linux-app.tv:6204/Reben/Reben/20617
-#EXTINF:-1,US- CBS Canada
-http://linux-app.tv:6204/Reben/Reben/20599
-#EXTINF:-1,US- CHEDDAR
-http://linux-app.tv:6204/Reben/Reben/20598
-#EXTINF:-1,US- Cheddar Buisness
-http://linux-app.tv:6204/Reben/Reben/20597
-#EXTINF:-1,US- Cheddar News
-http://linux-app.tv:6204/Reben/Reben/20596
-#EXTINF:-1,US- CNBC
-http://linux-app.tv:6204/Reben/Reben/20593
-#EXTINF:-1,US- HLNHD
-http://linux-app.tv:6204/Reben/Reben/20558
-#EXTINF:-1,US- CNN International
-http://linux-app.tv:6204/Reben/Reben/20592
-#EXTINF:-1,US- Hallmark
-http://linux-app.tv:6204/Reben/Reben/20566
-#EXTINF:-1,US- Hallmark Drama
-http://linux-app.tv:6204/Reben/Reben/20565
-#EXTINF:-1,US- Hallmark Movies
-http://linux-app.tv:6204/Reben/Reben/20564
-#EXTINF:-1,US- HBO
-http://linux-app.tv:6204/Reben/Reben/20563
-#EXTINF:-1,US- HBO2
-http://linux-app.tv:6204/Reben/Reben/20559
-#EXTINF:-1,US- HBO East
-http://linux-app.tv:6204/Reben/Reben/20562
-#EXTINF:-1,US- HBO Family
-http://linux-app.tv:6204/Reben/Reben/20561
-#EXTINF:-1,US- HBO Signature
-http://linux-app.tv:6204/Reben/Reben/20560
-#EXTINF:-1,US- AETV
-http://linux-app.tv:6204/Reben/Reben/20616
-#EXTINF:-1,US- AMC
-http://linux-app.tv:6204/Reben/Reben/20615
-#EXTINF:-1,US- American Heroes
-http://linux-app.tv:6204/Reben/Reben/20614
-#EXTINF:-1,US- ATT SportsNet Southwest
-http://linux-app.tv:6204/Reben/Reben/20613
-#EXTINF:-1,US- AXS
-http://linux-app.tv:6204/Reben/Reben/20612
-#EXTINF:-1,US- BBC America
-http://linux-app.tv:6204/Reben/Reben/20611
-#EXTINF:-1,US- BeIN Sports
-http://linux-app.tv:6204/Reben/Reben/20610
-#EXTINF:-1,US- BeIN2 Sports
-http://linux-app.tv:6204/Reben/Reben/20609
-#EXTINF:-1,US- BET
-http://linux-app.tv:6204/Reben/Reben/20608
-#EXTINF:-1,US- Big Ten Network
-http://linux-app.tv:6204/Reben/Reben/20607
-#EXTINF:-1,US- Bravo
-http://linux-app.tv:6204/Reben/Reben/20606
-#EXTINF:-1,US- BTN2
-http://linux-app.tv:6204/Reben/Reben/20605
-#EXTINF:-1,US- BTN3
-http://linux-app.tv:6204/Reben/Reben/20604
-#EXTINF:-1,US- BTN4
-http://linux-app.tv:6204/Reben/Reben/20603
-#EXTINF:-1,US- Catch1
-http://linux-app.tv:6204/Reben/Reben/20601
-#EXTINF:-1,US- Catch2
-http://linux-app.tv:6204/Reben/Reben/20600
-#EXTINF:-1,US- Cinemax East
-http://linux-app.tv:6204/Reben/Reben/20594
-#EXTINF:-1,US- Comedy Central
-http://linux-app.tv:6204/Reben/Reben/20591
-#EXTINF:-1,US- Cooking Channel
-http://linux-app.tv:6204/Reben/Reben/20590
-#EXTINF:-1,US- Destination America
-http://linux-app.tv:6204/Reben/Reben/20589
-#EXTINF:-1,US- Discovery Channel
-http://linux-app.tv:6204/Reben/Reben/20588
-#EXTINF:-1,US- Discovery ID
-http://linux-app.tv:6204/Reben/Reben/20587
-#EXTINF:-1,US- Disney Channel
-http://linux-app.tv:6204/Reben/Reben/20586
-#EXTINF:-1,US- Disney XD
-http://linux-app.tv:6204/Reben/Reben/20585
-#EXTINF:-1,US- DIY Network
-http://linux-app.tv:6204/Reben/Reben/20584
-#EXTINF:-1,US- EE
-http://linux-app.tv:6204/Reben/Reben/20583
-#EXTINF:-1,US- Epix
-http://linux-app.tv:6204/Reben/Reben/20582
-#EXTINF:-1,US- Epix Hits
-http://linux-app.tv:6204/Reben/Reben/20581
-#EXTINF:-1,US- Paramount
-http://linux-app.tv:6204/Reben/Reben/20547
-#EXTINF:-1,US- PBS 13
-http://linux-app.tv:6204/Reben/Reben/20546
-#EXTINF:-1,US- PBS Kids
-http://linux-app.tv:6204/Reben/Reben/20545
-#EXTINF:-1,US- PeopleTV
-http://linux-app.tv:6204/Reben/Reben/20544
-#EXTINF:-1,US- Revolt
-http://linux-app.tv:6204/Reben/Reben/20541
-#EXTINF:-1,US- Showtime Extreme
-http://linux-app.tv:6204/Reben/Reben/20539
-#EXTINF:-1,US- Showtime Pacific
-http://linux-app.tv:6204/Reben/Reben/20538
-#EXTINF:-1,US- Sony Movies
-http://linux-app.tv:6204/Reben/Reben/20536
-#EXTINF:-1,US- Start TV
-http://linux-app.tv:6204/Reben/Reben/20530
-#EXTINF:-1,US- Starz Pacific
-http://linux-app.tv:6204/Reben/Reben/20528
-#EXTINF:-1,US- SUNDANCE
-http://linux-app.tv:6204/Reben/Reben/20527
-#EXTINF:-1,US- SYFY
-http://linux-app.tv:6204/Reben/Reben/20526
-#EXTINF:-1,US- Tastemade
-http://linux-app.tv:6204/Reben/Reben/20525
-#EXTINF:-1,US- TBSHD
-http://linux-app.tv:6204/Reben/Reben/20524
-#EXTINF:-1,US- Tennis Channel
-http://linux-app.tv:6204/Reben/Reben/20523
-#EXTINF:-1,US- TNT HD
-http://linux-app.tv:6204/Reben/Reben/20522
-#EXTINF:-1,US- TRU TV HD
-http://linux-app.tv:6204/Reben/Reben/20521
-#EXTINF:-1,US- Turner Classic Movies
-http://linux-app.tv:6204/Reben/Reben/20520
-#EXTINF:-1,US- TyC Sports
-http://linux-app.tv:6204/Reben/Reben/20519
-#EXTINF:-1,US- Universal Kids
-http://linux-app.tv:6204/Reben/Reben/20518
-#EXTINF:-1,US- USA Network
-http://linux-app.tv:6204/Reben/Reben/20517
-#EXTINF:-1,US- VICELAND
-http://linux-app.tv:6204/Reben/Reben/20516
-#EXTINF:-1,US- NBC Golf Channel
-http://linux-app.tv:6204/Reben/Reben/20557
-#EXTINF:-1,US- NBC Sports Northeast
-http://linux-app.tv:6204/Reben/Reben/20556
-#EXTINF:-1,US- NFL Network
-http://linux-app.tv:6204/Reben/Reben/20555
-#EXTINF:-1,US- PAC12 Arizona
-http://linux-app.tv:6204/Reben/Reben/20554
-#EXTINF:-1,US- PAC12 BayArea
-http://linux-app.tv:6204/Reben/Reben/20553
-#EXTINF:-1,US- PAC12 LosAngeles
-http://linux-app.tv:6204/Reben/Reben/20552
-#EXTINF:-1,US- PAC12 Mountain
-http://linux-app.tv:6204/Reben/Reben/20551
-#EXTINF:-1,US- PAC12 Network
-http://linux-app.tv:6204/Reben/Reben/20550
-#EXTINF:-1,US- PAC12 Oregon
-http://linux-app.tv:6204/Reben/Reben/20549
-#EXTINF:-1,US- PAC12 Washington
-http://linux-app.tv:6204/Reben/Reben/20548
-#EXTINF:-1,US- ESPN 1
-http://linux-app.tv:6204/Reben/Reben/20580
-#EXTINF:-1,US- ESPN 2
-http://linux-app.tv:6204/Reben/Reben/20579
-#EXTINF:-1,US- ESPN Baseball Regionals
-http://linux-app.tv:6204/Reben/Reben/20578
-#EXTINF:-1,US- ESPN Longhorn Network
-http://linux-app.tv:6204/Reben/Reben/20577
-#EXTINF:-1,US- ESPN News
-http://linux-app.tv:6204/Reben/Reben/20576
-#EXTINF:-1,US- ESPN SEC Network
-http://linux-app.tv:6204/Reben/Reben/20575
-#EXTINF:-1,US- ESPNU College Sports
-http://linux-app.tv:6204/Reben/Reben/20574
-#EXTINF:-1,US- Fight Network
-http://linux-app.tv:6204/Reben/Reben/20573
-#EXTINF:-1,US- FNTSY Sports Network
-http://linux-app.tv:6204/Reben/Reben/20572
-#EXTINF:-1,US- Fox College Sports Atlantic
-http://linux-app.tv:6204/Reben/Reben/20571
-#EXTINF:-1,US- Fox College Sports Central
-http://linux-app.tv:6204/Reben/Reben/20570
-#EXTINF:-1,US- Fox College Sports Pacific
-http://linux-app.tv:6204/Reben/Reben/20569
-#EXTINF:-1,US- Fox Sports 1
-http://linux-app.tv:6204/Reben/Reben/20568
-#EXTINF:-1,US- Fox Sports 2
-http://linux-app.tv:6204/Reben/Reben/20567
-#EXTINF:-1,US- SI Sports Illustrated
-http://linux-app.tv:6204/Reben/Reben/20537
-#EXTINF:-1,US- Sports man Channel
-http://linux-app.tv:6204/Reben/Reben/20535
-#EXTINF:-1,US- Stadium
-http://linux-app.tv:6204/Reben/Reben/20534
-#EXTINF:-1,US- Stadium1
-http://linux-app.tv:6204/Reben/Reben/20533
-#EXTINF:-1,US- Stadium2
-http://linux-app.tv:6204/Reben/Reben/20532
-#EXTINF:-1,US- Stadium3
-http://linux-app.tv:6204/Reben/Reben/20531
-#EXTINF:-1,Us- ABC
-http://linux-app.tv:6204/Reben/Reben/20645
-#EXTINF:-1,Us- ABC News
-http://linux-app.tv:6204/Reben/Reben/20644
-#EXTINF:-1,Us- 5 Star Max
-http://linux-app.tv:6204/Reben/Reben/20646
-#EXTINF:-1,Us- Action Max HD
-http://linux-app.tv:6204/Reben/Reben/20643
-#EXTINF:-1,Us- Animal Planet
-http://linux-app.tv:6204/Reben/Reben/20642
-#EXTINF:-1,Us- Bloomberg
-http://linux-app.tv:6204/Reben/Reben/20641
-#EXTINF:-1,Us- Discovery Science HD
-http://linux-app.tv:6204/Reben/Reben/20640
-#EXTINF:-1,Us- E!
-http://linux-app.tv:6204/Reben/Reben/20639
-#EXTINF:-1,Us- FOX Business Network
-http://linux-app.tv:6204/Reben/Reben/20638
-#EXTINF:-1,Us- Fox Deportes
-http://linux-app.tv:6204/Reben/Reben/20637
-#EXTINF:-1,Us- FX
-http://linux-app.tv:6204/Reben/Reben/20636
-#EXTINF:-1,Us- FXX
-http://linux-app.tv:6204/Reben/Reben/20635
-#EXTINF:-1,Us- HGTV
-http://linux-app.tv:6204/Reben/Reben/20634
-#EXTINF:-1,Us- MoreMax HD
-http://linux-app.tv:6204/Reben/Reben/20633
-#EXTINF:-1,Us- National Geographic
-http://linux-app.tv:6204/Reben/Reben/20632
-#EXTINF:-1,Us- NBA HD
-http://linux-app.tv:6204/Reben/Reben/20631
-#EXTINF:-1,Us- NHL Network HD
-http://linux-app.tv:6204/Reben/Reben/20630
-#EXTINF:-1,Us- NickToons
-http://linux-app.tv:6204/Reben/Reben/20629
-#EXTINF:-1,Us- TLC HD
-http://linux-app.tv:6204/Reben/Reben/20628
-#EXTINF:-1,Us- UFC TV
-http://linux-app.tv:6204/Reben/Reben/20622
-#EXTINF:-1,Us- Willow Cricket HD
-http://linux-app.tv:6204/Reben/Reben/20621
-#EXTINF:-1,Us- WWE Network HD
-http://linux-app.tv:6204/Reben/Reben/20620
-#EXTINF:-1,Us- TSN 1 HD
-http://linux-app.tv:6204/Reben/Reben/20627
-#EXTINF:-1,Us- TSN 2 HD
-http://linux-app.tv:6204/Reben/Reben/20626
-#EXTINF:-1,Us- TSN 3 HD
-http://linux-app.tv:6204/Reben/Reben/20625
-#EXTINF:-1,Us- TSN 4 HD
-http://linux-app.tv:6204/Reben/Reben/20624
-#EXTINF:-1,Us- TSN 5 HD
-http://linux-app.tv:6204/Reben/Reben/20623
+#EXTINF:-1,(M) USA: A & E
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5353
+#EXTINF:-1,(M) USA: ABC NY FHD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5352
+#EXTINF:-1,(M) USA: AMC
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5351
+#EXTINF:-1,(M) USA: ANIMAL PLANET
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5350
+#EXTINF:-1,(M) USA: ANTENNA TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5349
+#EXTINF:-1,(M) USA: CARTOON NETWORK
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5348
+#EXTINF:-1,(M) USA: CBS NY FHD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5347
+#EXTINF:-1,(M) USA: CINEMAX ACTION MAX EAST
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5346
+#EXTINF:-1,(M) USA: CINEMAX OUTER MAX
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5345
+#EXTINF:-1,(M) USA: CINEMAXX MORE MAXX
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5344
+#EXTINF:-1,(M) USA: CMT HD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5343
+#EXTINF:-1,(M) USA: COZI TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5342
+#EXTINF:-1,(M) USA: DISCOVERY CHANNEL FHD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5341
+#EXTINF:-1,(M) USA: ESPN
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5339
+#EXTINF:-1,(M) USA: ESPN U
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5338
+#EXTINF:-1,(M) USA: FOX 5 HD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5337
+#EXTINF:-1,(M) USA: HEROS & ICONS
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5336
+#EXTINF:-1,(M) USA: HSN
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5335
+#EXTINF:-1,(M) USA: INVESTIGATION DISCOVERY
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5334
+#EXTINF:-1,(M) USA: ION TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5333
+#EXTINF:-1,(M) USA: MAV TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5332
+#EXTINF:-1,(M) USA: MTV 2
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5331
+#EXTINF:-1,(M) USA: NBC 4 NY FHD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5330
+#EXTINF:-1,(M) USA: NHL NETWORK
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5329
+#EXTINF:-1,(M) USA: NICK JR
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5328
+#EXTINF:-1,(M) USA: OWN NETWORK FHD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5327
+#EXTINF:-1,(M) USA: PBS KIDS EAST
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5326
+#EXTINF:-1,(M) USA: SHOWTIME EXTREME
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5325
+#EXTINF:-1,(M) USA: SPORTSNET NY
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5324
+#EXTINF:-1,(M) USA: TCM
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5323
+#EXTINF:-1,(M) USA: TELEMUNDO
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5322
+#EXTINF:-1,(M) USA: TRU TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5321
+#EXTINF:-1,(M) USA: TV LAND HD
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5320
+#EXTINF:-1,(M) USA: TVONE
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5319
+#EXTINF:-1,(M) USA: UNIMAS
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5318
+#EXTINF:-1,(M) USA: UNIVISION
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5317
+#EXTINF:-1,(M) USA: WE TV
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5316
+#EXTINF:-1,(M) USA: WGN AMERICA
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5315
+#EXTINF:-1,(M) USA: WPIX 11 NY
+http://speedtvstars.com:25461/PtJ1mh0hpl/bti4WcevWG/5314
