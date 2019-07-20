@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0,Swamp.Thing.2019.S01E03.He.Speaks
-https://cache10.vidoza.net/x4lfzd2tzzzpvjumxbxuos2j7zgtkedokzlysgqspib3pdfs4wc44lsunlpq/v.mp4
+#EXTINF:-1, Newcastle-West-Ham-live-stream
+#EXTVLCOPT:http-referrer=http://185.39.10.37:8081/secure/latest.php?e=1563613457&st=bTAq_zLPCURfp7q6FM3ETw&ch=skyepllsh&width=640&height=360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+http://185.39.10.37:8081/live/skyepllsh.m3u8?e=1563617457&st=aU70a9DxgNoaymXJ0CNq_A
