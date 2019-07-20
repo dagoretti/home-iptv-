@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Newcastle-West-Ham-live-stream
-#EXTVLCOPT:http-referrer=http://185.39.10.37:8081/secure/latest.php?e=1563613457&st=bTAq_zLPCURfp7q6FM3ETw&ch=skyepllsh&width=640&height=360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
-http://185.39.10.37:8081/live/skyepllsh.m3u8?e=1563617457&st=aU70a9DxgNoaymXJ0CNq_A
+#EXTINF:-1,Manchester Utd - Inter Milan-live-stream
+#EXTVLCOPT:http-referrer=http://emb.aplayer2.me/player/live.php?id=96014
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+http://87.120.36.32:8080/hls/streama96014/index.m3u8?st=Jj36Q2JHGa2OdAiMPVdgsw
