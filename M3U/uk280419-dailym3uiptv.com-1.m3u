@@ -1,379 +1,650 @@
 #EXTM3U
 https://www.dailym3uiptv.com/2019/01/england-channels-playlist-free-iptv-m3u.html
 https://iptv213.blogspot.com/2018/02/free-iptv-uk-channels-m3u-update.html28/06/2019
-#EXTINF:0,Animal Planet
+#EXTINF:-1,UK | Alibi HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2261.m3u8
+#EXTINF:-1,UK | AMC FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13462.m3u8
+#EXTINF:-1,UK | Animal Planet FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2256.m3u8
+#EXTINF:-1,UK | BBC 1 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/3184.m3u8
+#EXTINF:-1,UK | BBC 2 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/3185.m3u8
+#EXTINF:-1,UK | Discovery HD
+http://watch.gotdark.com:80/live/cesar/cesar123/30675.m3u8
+#EXTINF:-1,UK | BBC ONE FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/28617.m3u8
+#EXTINF:-1,UK: BBC One Cambridge | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28616.m3u8
+#EXTINF:-1,UK: BBC One Channel Islands | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28615.m3u8
+#EXTINF:-1,UK: BBC One East | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28612.m3u8
+#EXTINF:-1,UK: BBC One East Yorkshire | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28613.m3u8
+#EXTINF:-1,UK | BBC ONE Scotland FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/30615.m3u8
+#EXTINF:-1,UK: BBC TWO (Northern Ireland) | HD
+http://watch.gotdark.com:80/live/cesar/cesar123/30596.m3u8
+#EXTINF:-1,UK | BBC World News HD
+http://watch.gotdark.com:80/live/cesar/cesar123/13503.m3u8
+#EXTINF:-1,UK | Cartoon Network FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1242.m3u8
+#EXTINF:-1,UK | CBBC FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1241.m3u8
+#EXTINF:-1,UK | CBEEBIES FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1240.m3u8
+#EXTINF:-1,UK: CBS ACTION
+http://watch.gotdark.com:80/live/cesar/cesar123/28608.m3u8
+#EXTINF:-1,UK | Channel 4 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1235.m3u8
+#EXTINF:-1,UK | Channel 5 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1234.m3u8
+#EXTINF:-1,UK | Colors FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/30497.m3u8
+#EXTINF:-1,UK | Crime & Investigation FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1231.m3u8
+#EXTINF:-1,UK | DAVE FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2617.m3u8
+#EXTINF:-1,UK | Discovery Channel FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13502.m3u8
+#EXTINF:-1,UK | DISNEY CHANNEL FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13668.m3u8
+#EXTINF:-1,UK | DISNEY JUNIOR FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13667.m3u8
+#EXTINF:-1,UK | DISNEY XD FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13666.m3u8
+#EXTINF:-1,UK | E4 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/30498.m3u8
+#EXTINF:-1,UK | Eden HD
+http://watch.gotdark.com:80/live/cesar/cesar123/18833.m3u8
+#EXTINF:-1,UK | Film 4 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2266.m3u8
+#EXTINF:-1,UK | FOX HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1211.m3u8
+#EXTINF:-1,UK | Good Food FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1209.m3u8
+#EXTINF:-1,UK | HISTORY 2 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/1208.m3u8
+#EXTINF:-1,UK | H2 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/30499.m3u8
+#EXTINF:-1,UK | Home & Health
+http://watch.gotdark.com:80/live/cesar/cesar123/30739.m3u8
+#EXTINF:-1,UK | ITV 1 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/3195.m3u8
+#EXTINF:-1,UK | ITV 2 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1204.m3u8
+#EXTINF:-1,UK | ITV 3 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1200.m3u8
+#EXTINF:-1,UK | ITV 4 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/3186.m3u8
+#EXTINF:-1,UK | History HD
+http://watch.gotdark.com:80/live/cesar/cesar123/10861.m3u8
+#EXTINF:-1,UK | INVESTIGATION DISCOVERY HD
+http://watch.gotdark.com:80/live/cesar/cesar123/26506.m3u8
+#EXTINF:-1,UK | LFC TV HD
+http://watch.gotdark.com:80/live/cesar/cesar123/30510.m3u8
+#EXTINF:-1,UK | More 4 HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1199.m3u8
+#EXTINF:-1,UK | MTV HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2269.m3u8
+#EXTINF:-1,UK | Nat Geo Wild FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1197.m3u8
+#EXTINF:-1,UK | National Geographic SD
+http://watch.gotdark.com:80/live/cesar/cesar123/1196.m3u8
+#EXTINF:-1,UK | Nick FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1194.m3u8
+#EXTINF:-1,IR | RTE ONE HD
+http://watch.gotdark.com:80/live/cesar/cesar123/13665.m3u8
+#EXTINF:-1,IR | RTE TWO HD
+http://watch.gotdark.com:80/live/cesar/cesar123/13664.m3u8
+#EXTINF:-1,UK | SKY Atlantic FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13805.m3u8
+#EXTINF:-1,UK | SKY ARTS FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2514.m3u8
+#EXTINF:-1,UK | SKY CINEMA ACTION FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13460.m3u8
+#EXTINF:-1,UK | Sky Cinema Comedy FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1187.m3u8
+#EXTINF:-1,UK | Sky Cinema Disney FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1186.m3u8
+#EXTINF:-1,UK | SKY CINEMA DRAMA FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13504.m3u8
+#EXTINF:-1,UK | SKY CINEMA FAMILY FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/26507.m3u8
+#EXTINF:-1,UK | Sky Cinema Greats FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1182.m3u8
+#EXTINF:-1,UK | Sky Cinema Hits FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1183.m3u8
+#EXTINF:-1,UK | Sky Cinema Premier UHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1181.m3u8
+#EXTINF:-1,UK | Sky Cinema Select HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1179.m3u8
+#EXTINF:-1,UK | Sky Cinema SKY-FI HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1180.m3u8
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1178.m3u8
+#EXTINF:-1,UK | SKY NEWS FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1175.m3u8
+#EXTINF:-1,UK | Sky One FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1174.m3u8
+#EXTINF:-1,UK | Sky Witness HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1185.m3u8
+#EXTINF:-1,UK | TCM HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1162.m3u8
+#EXTINF:-1,UK | TG 4 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1161.m3u8
+#EXTINF:-1,UK | TLC FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/13463.m3u8
+#EXTINF:-1,UK | Universal HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1158.m3u8
+#EXTINF:-1,UK | W FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2250.m3u8
+#EXTINF:-1,UK | Syfy FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2280.m3u8
+#EXTINF:-1,UK  | Cartoonito SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2677.m3u8
+#EXTINF:-1,UK | EURO NEWS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2453.m3u8
+#EXTINF:-1,UK | NDTV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2451.m3u8
+#EXTINF:-1,UK | 3E SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2675.m3u8
+#EXTINF:-1,UK | 4 MUSIC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2674.m3u8
+#EXTINF:-1,UK | 4 SEVEN HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2673.m3u8
+#EXTINF:-1,UK | 5 Star SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2672.m3u8
+#EXTINF:-1,UK | 5 USA SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2671.m3u8
+#EXTINF:-1,UK | AIT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2668.m3u8
+#EXTINF:-1,UK | AMC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2664.m3u8
+#EXTINF:-1,UK | ANIMAL PLANET SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2663.m3u8
+#EXTINF:-1,UK | BABY TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2659.m3u8
+#EXTINF:-1,UK | BBC ALBA SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2658.m3u8
+#EXTINF:-1,UK | BBC News FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2657.m3u8
+#EXTINF:-1,UK | BBC ONE SCOTLAND SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2656.m3u8
+#EXTINF:-1,UK | BBC WORLD NEWS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2653.m3u8
+#EXTINF:-1,UK | BBC1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2652.m3u8
+#EXTINF:-1,UK | BBC2 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2651.m3u8
+#EXTINF:-1,UK | BBC3 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2650.m3u8
+#EXTINF:-1,UK | BBC4 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2649.m3u8
+#EXTINF:-1,UK | BET SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2648.m3u8
+#EXTINF:-1,UK | Bloomberg SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2646.m3u8
+#EXTINF:-1,UK | CHANNEL 4 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2630.m3u8
+#EXTINF:-1,UK | Channel 5 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2629.m3u8
+#EXTINF:-1,UK | CHART SHOW TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2627.m3u8
+#EXTINF:-1,UK : CLUBLAND SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2625.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL EXTRA SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2620.m3u8
+#EXTINF:-1,UK | KANSHI TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2619.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2621.m3u8
+#EXTINF:-1,UK | CRIME & INVESTIGATION SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2618.m3u8
+#EXTINF:-1,UK : DISCOVERY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2616.m3u8
+#EXTINF:-1,UK | DISNEY CHANNEL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2610.m3u8
+#EXTINF:-1,UK | DISNEY JUNIOR SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2609.m3u8
+#EXTINF:-1,UK | DISNEY XD SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2608.m3u8
+#EXTINF:-1,UK | DMAX SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2607.m3u8
+#EXTINF:-1,UK | DRAMA SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2606.m3u8
+#EXTINF:-1,UK | E! ENTERTAINMENT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2604.m3u8
+#EXTINF:-1,UK | E4 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2603.m3u8
+#EXTINF:-1,UK | EDEN SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2602.m3u8
+#EXTINF:-1,UK | FOOD NETWORK SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2596.m3u8
+#EXTINF:-1,UK | FORCES TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2595.m3u8
+#EXTINF:-1,UK | FRONT RUNNER SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2590.m3u8
+#EXTINF:-1,UK | GOLD HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2587.m3u8
+#EXTINF:-1,UK | GOOD FOOD SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2586.m3u8
+#EXTINF:-1,UK | HORROR CHANNEL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2581.m3u8
+#EXTINF:-1,UK | ITV BE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2579.m3u8
+#EXTINF:-1,UK | ITV Tyne Tees N SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2578.m3u8
+#EXTINF:-1,UK | ITV1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2577.m3u8
+#EXTINF:-1,UK | ITV2 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2576.m3u8
+#EXTINF:-1,UK | ITV3 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2575.m3u8
+#EXTINF:-1,UK | ITV4 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2574.m3u8
+#EXTINF:-1,UK | KEEP IT COUNTRY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2572.m3u8
+#EXTINF:-1,UK | KERRANG SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2447.m3u8
+#EXTINF:-1,UK | KISS TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2446.m3u8
+#EXTINF:-1,UK | LIFETIME SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2570.m3u8
+#EXTINF:-1,UK | LONDON LIVE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2452.m3u8
+#EXTINF:-1,UK | MAGIC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2445.m3u8
+#EXTINF:-1,UK | MORE 4 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2569.m3u8
+#EXTINF:-1,UK | NTAI SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2568.m3u8
+#EXTINF:-1,UK | MOVIES 24 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2567.m3u8
+#EXTINF:-1,UK | MOVIES 4 MEN SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2566.m3u8
+#EXTINF:-1,UK : MTV BASE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2565.m3u8
+#EXTINF:-1,UK | MTV CLASSIC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2564.m3u8
+#EXTINF:-1,UK | MTV DANCE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2563.m3u8
+#EXTINF:-1,UK | MTV MUSIC UK SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2561.m3u8
+#EXTINF:-1,UK | MTV OMG SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2460.m3u8
+#EXTINF:-1,UK | NAT GEO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2554.m3u8
+#EXTINF:-1,UK | NAT GEO WILD SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2553.m3u8
+#EXTINF:-1,UK : NICK JR TOO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2550.m3u8
+#EXTINF:-1,UK : Nick Jr. SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2549.m3u8
+#EXTINF:-1,UK : Nickelodeon HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2548.m3u8
+#EXTINF:-1,UK : Nicktoons SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2547.m3u8
+#EXTINF:-1,UK : PICK TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2543.m3u8
+#EXTINF:-1,UK | POP SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2542.m3u8
+#EXTINF:-1,UK | QUEST SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2536.m3u8
+#EXTINF:-1,UK | RacingTV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2534.m3u8
+#EXTINF:-1,UK | REAL LIVES SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2533.m3u8
+#EXTINF:-1,UK | REALLY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2532.m3u8
+#EXTINF:-1,UK | RT News SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2528.m3u8
+#EXTINF:-1,UK | RTE NEWS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2526.m3u8
+#EXTINF:-1,UK | RTE ONE HD
+http://watch.gotdark.com:80/live/cesar/cesar123/2525.m3u8
+#EXTINF:-1,UK | RTE TWO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2524.m3u8
+#EXTINF:-1,UK | S4C DIGIDOL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2523.m3u8
+#EXTINF:-1,UK | CHARTSHOW CHRISTMAS HITS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2521.m3u8
+#EXTINF:-1,UK | SHOWCASE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2518.m3u8
+#EXTINF:-1,UK | SKY NEWS IRELAND SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2503.m3u8
+#EXTINF:-1,UK | SKY NEWS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2504.m3u8
+#EXTINF:-1,UK | SKY ONE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2502.m3u8
+#EXTINF:-1,UK | SKY TWO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2490.m3u8
+#EXTINF:-1,UK | SONY MOVIES SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2489.m3u8
+#EXTINF:-1,UK | STARZ TV SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2482.m3u8
+#EXTINF:-1,UK | THE VAULT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2478.m3u8
+#EXTINF:-1,UK | TINY POP SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2476.m3u8
+#EXTINF:-1,UK | TRAVEL CHANNEL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2474.m3u8
+#EXTINF:-1,UK | TRUE ENTERTAINMENT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2471.m3u8
+#EXTINF:-1,UK | TRUE MOVIES SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2470.m3u8
+#EXTINF:-1,UK | TV 3 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2468.m3u8
+#EXTINF:-1,UK | TV ONE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2467.m3u8
+#EXTINF:-1,UK | VENUS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2464.m3u8
+#EXTINF:-1,UK | VH1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2463.m3u8
+#EXTINF:-1,UK | VICE LAND SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2462.m3u8
+#EXTINF:-1,UK | ROK +1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2461.m3u8
+#EXTINF:-1,UK | YESTERDAY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2458.m3u8
+#EXTINF:-1,UK | CITV
+http://watch.gotdark.com:80/live/cesar/cesar123/22625.m3u8
+#EXTINF:-1,UK | SKY ATLANTIC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22629.m3u8
+#EXTINF:-1,UK : BBC RED BUTTON SD
+http://watch.gotdark.com:80/live/cesar/cesar123/23158.m3u8
+#EXTINF:-1,UK | MTV HIts
+http://watch.gotdark.com:80/live/cesar/cesar123/2562.m3u8
+#EXTINF:-1,UK | SKY ACTION SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22655.m3u8
+#EXTINF:-1,UK | SKY CINEMA GREATS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22650.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIER SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22648.m3u8
+#EXTINF:-1,UK | SKY CINEMA SCI-FI SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22647.m3u8
+#EXTINF:-1,UK | SKY COMEDY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22654.m3u8
+#EXTINF:-1,UK | SKY DISNEY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22653.m3u8
+#EXTINF:-1,UK | SKY SELECT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22646.m3u8
+#EXTINF:-1,UK | MTV ROCK
+http://watch.gotdark.com:80/live/cesar/cesar123/23966.m3u8
+#EXTINF:-1,UK | DISCOVERY HISTORY SD
+http://watch.gotdark.com:80/live/cesar/cesar123/24044.m3u8
+#EXTINF:-1,UK | DISCOVERY SCIENCE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/24047.m3u8
+#EXTINF:-1,UK | DISCOVERY SHED SD
+http://watch.gotdark.com:80/live/cesar/cesar123/24045.m3u8
+#EXTINF:-1,UK | DISCOVERY TURBO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/24046.m3u8
+#EXTINF:-1,UK: CBS DRAMA
+http://watch.gotdark.com:80/live/cesar/cesar123/28609.m3u8
+#EXTINF:-1,UK: UTV | HD
+http://watch.gotdark.com:80/live/cesar/cesar123/28620.m3u8
+#EXTINF:-1,UK | QUEST RED +1
+http://watch.gotdark.com:80/live/cesar/cesar123/30187.m3u8
+#EXTINF:-1,IE: VIRGIN MEDIA THREE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/30190.m3u8
+#EXTINF:-1,IE: VIRGIN MEDIA TWO SD
+http://watch.gotdark.com:80/live/cesar/cesar123/30189.m3u8
+#EXTINF:-1,UK: Talking Pictures | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/30432.m3u8
+#EXTINF:-1,UK | CNBC SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2624.m3u8
+#EXTINF:-1,UK | Aberdeen TV
+http://watch.gotdark.com:80/live/cesar/cesar123/30782.m3u8
+#EXTINF:-1,UK | Box Nation HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1253.m3u8
+#EXTINF:-1,UK | BT Sports 1 UHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1245.m3u8
+#EXTINF:-1,UK | BT Sports 2 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1244.m3u8
+#EXTINF:-1,UK | BT Sports 3 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1243.m3u8
+#EXTINF:-1,UK | BT SPORTS 3 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22634.m3u8
+#EXTINF:-1,UK | BT ESPN FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/2263.m3u8
+#EXTINF:-1,UK | Celtic TV (Match time only)
+http://watch.gotdark.com:80/live/cesar/cesar123/30767.m3u8
+#EXTINF:-1,UK | Dundee TV
+http://watch.gotdark.com:80/live/cesar/cesar123/30784.m3u8
+#EXTINF:-1,UK | EIR SPORTS 2 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2600.m3u8
+#EXTINF:-1,UK : ELEVEN LA LIGA HD
+http://watch.gotdark.com:80/live/cesar/cesar123/11094.m3u8
+#EXTINF:-1,UK : ELEVEN SPORTS 2
+http://watch.gotdark.com:80/live/cesar/cesar123/11092.m3u8
+#EXTINF:-1,UK | Eurosport 2 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1213.m3u8
+#EXTINF:-1,UK | Eurosport 1 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1214.m3u8
+#EXTINF:-1,UK | EIR Sports 1 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/18180.m3u8
+#EXTINF:-1,UK | FREESPORTS FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/18178.m3u8
+#EXTINF:-1,UK | Kilmarnock TV
+http://watch.gotdark.com:80/live/cesar/cesar123/30783.m3u8
+#EXTINF:-1,UK: Premier Sport | UHD
+http://watch.gotdark.com:80/live/cesar/cesar123/28331.m3u8
+#EXTINF:-1,UK: Premier Sports 1| UHD*
+http://watch.gotdark.com:80/live/cesar/cesar123/28328.m3u8
+#EXTINF:-1,UK | Racing TV HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1190.m3u8
+#EXTINF:-1,UK | Rangers TV
+http://watch.gotdark.com:80/live/cesar/cesar123/30780.m3u8
+#EXTINF:-1,UK | Sky Sports Action FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1173.m3u8
+#EXTINF:-1,UK | Sky Sports Arena FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1172.m3u8
+#EXTINF:-1,UK | Sky Sports Cricket FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1171.m3u8
+#EXTINF:-1,UK | Sky Sports F1 FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1170.m3u8
+#EXTINF:-1,UK | Sky Sports Football HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1169.m3u8
+#EXTINF:-1,UK | Sky Sports Golf FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1168.m3u8
+#EXTINF:-1,UK | Sky Sports Main Event FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1167.m3u8
+#EXTINF:-1,UK | Sky Sports Mix FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/1166.m3u8
+#EXTINF:-1,UK | Sky Sports News HD
+http://watch.gotdark.com:80/live/cesar/cesar123/1165.m3u8
+#EXTINF:-1,UK | SKY Sports Premier League FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/3203.m3u8
+#EXTINF:-1,UK: SKY SPORTS RACING FHD
+http://watch.gotdark.com:80/live/cesar/cesar123/26963.m3u8
+#EXTINF:-1,UK | LFC TV LOCAL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/2571.m3u8
+#EXTINF:-1,UK: Premier Sport | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28332.m3u8
+#EXTINF:-1,UK: Premier Sports 2 | SD
+http://watch.gotdark.com:80/live/cesar/cesar123/28327.m3u8
+#EXTINF:-1,UK: BT SPORTS 1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/29056.m3u8
+#EXTINF:-1,UK: BT SPORTS 2 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/29055.m3u8
+#EXTINF:-1,UK: PDC Darts (Event Only)
+http://watch.gotdark.com:80/live/cesar/cesar123/30599.m3u8
+#EXTINF:-1,UK | SKY SPORTS ACTION SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22645.m3u8
+#EXTINF:-1,UK | SKY SPORTS ARENA SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22644.m3u8
+#EXTINF:-1,UK | SKY SPORTS CRICKET SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22643.m3u8
+#EXTINF:-1,UK | SKY SPORTS F1 SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22642.m3u8
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22641.m3u8
+#EXTINF:-1,UK | SKY SPORTS GOLF (THE OPEN) SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22640.m3u8
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22639.m3u8
+#EXTINF:-1,UK | SKY SPORTS NEWS SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22638.m3u8
+#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE SD
+http://watch.gotdark.com:80/live/cesar/cesar123/22637.m3u8
+#EXTINF:-1,Animal Planet
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17662
-#EXTINF:0,Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/19808
-#EXTINF:0,Baby TV
+#EXTINF:-1,Baby TV
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17689
-#EXTINF:0,BBC 1
+#EXTINF:-1,BBC 1
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17626
-#EXTINF:0,BBC 2
+#EXTINF:-1,BBC 2
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17624
-#EXTINF:0,BBC 3
+#EXTINF:-1,BBC 3
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17623
-#EXTINF:0,BBC 4
+#EXTINF:-1,BBC 4
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/61295
-#EXTINF:0,BBC News
+#EXTINF:-1,BBC News
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17615
-#EXTINF:0,Boomerang
+#EXTINF:-1,Boomerang
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/20100
-#EXTINF:0,Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17690
-#EXTINF:0,CBBC
+#EXTINF:-1,CBBC
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17688
-#EXTINF:0,CBS Action
+#EXTINF:-1,CBS Action
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17536
-#EXTINF:0,CBS Drama
+#EXTINF:-1,CBS Drama
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17535
-#EXTINF:0,CHANNEL 4
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17622
-#EXTINF:0,CHANNEL 5
+#EXTINF:-1,CHANNEL 5
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17621
-#EXTINF:0,Cnn News
+#EXTINF:-1,Cnn News
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/19814
-#EXTINF:0,Crime Investigation
+#EXTINF:-1,Crime Investigation
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17661
-#EXTINF:0,Discovery
+#EXTINF:-1,Discovery
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17660
-#EXTINF:0,Discovery History
+#EXTINF:-1,Discovery History
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17659
-#EXTINF:0,Discovery Science
+#EXTINF:-1,Discovery Science
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17668
-#EXTINF:0,Discovery Shed
+#EXTINF:-1,Discovery Shed
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17657
-#EXTINF:0,Discovery Turbo
+#EXTINF:-1,Discovery Turbo
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17669
-#EXTINF:0,Disney Chnl
+#EXTINF:-1,Disney Chnl
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17691
-#EXTINF:0,Disney HD
+#EXTINF:-1,Disney HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17703
-#EXTINF:0,Disney Junior
+#EXTINF:-1,Disney Junior
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17687
-#EXTINF:0,Disney XD
+#EXTINF:-1,Disney XD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17686
-#EXTINF:0,Drama
+#EXTINF:-1,Drama
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17557
-#EXTINF:0,Eden
+#EXTINF:-1,Eden
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17613
-#EXTINF:0,GOLD
+#EXTINF:-1,GOLD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17599
-#EXTINF:0,History Channel
+#EXTINF:-1,History Channel
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17679
-#EXTINF:0,Investigation Discovery
+#EXTINF:-1,Investigation Discovery
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17678
-#EXTINF:0,ITV
+#EXTINF:-1,ITV
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17597
-#EXTINF:0,ITV 1
+#EXTINF:-1,ITV 1
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17619
-#EXTINF:0,ITV 2
+#EXTINF:-1,ITV 2
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17618
-#EXTINF:0,ITV 3
+#EXTINF:-1,ITV 3
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17617
-#EXTINF:0,ITV 4
+#EXTINF:-1,ITV 4
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17616
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:-1,Nat Geo Wild HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/19809
-#EXTINF:0,National Geographic HD
+#EXTINF:-1,National Geographic HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/19807
-#EXTINF:0,Nick Jr
+#EXTINF:-1,Nick Jr
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17685
-#EXTINF:0,Pick TV
+#EXTINF:-1,Pick TV
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17610
-#EXTINF:0,Sky 1
+#EXTINF:-1,Sky 1
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17579
-#EXTINF:0,Sky 2
+#EXTINF:-1,Sky 2
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17578
-#EXTINF:0,Sky Action
+#EXTINF:-1,Sky Action
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15947
-#EXTINF:0,Sky Atlantic HD
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17576
-#EXTINF:0,Sky Cinema Action HD
+#EXTINF:-1,Sky Cinema Action HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17256
-#EXTINF:0,Sky Cinema Premiere HD
+#EXTINF:-1,Sky Cinema Premiere HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17254
-#EXTINF:0,Sky Cinema Sci Fi Hor HD
+#EXTINF:-1,Sky Cinema Sci Fi Hor HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17253
-#EXTINF:0,Sky Cinema Select HD
+#EXTINF:-1,Sky Cinema Select HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17252
-#EXTINF:0,Sky Cinema Thriller HD
+#EXTINF:-1,Sky Cinema Thriller HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17251
-#EXTINF:0,Sky Comedy
+#EXTINF:-1,Sky Comedy
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15944
-#EXTINF:0,Sky Crime Thriller
+#EXTINF:-1,Sky Crime Thriller
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15943
-#EXTINF:0,Sky Disney
+#EXTINF:-1,Sky Disney
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15942
-#EXTINF:0,Sky Family
+#EXTINF:-1,Sky Family
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15941
-#EXTINF:0,Sky Movies Modern Great HD
+#EXTINF:-1,Sky Movies Modern Great HD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17250
-#EXTINF:0,Sky Movies Modern Greats
+#EXTINF:-1,Sky Movies Modern Greats
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13766
-#EXTINF:0,Sky Movies SciFi & Horror
+#EXTINF:-1,Sky Movies SciFi & Horror
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13765
-#EXTINF:0,Sky Movies Showcase
+#EXTINF:-1,Sky Movies Showcase
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/13764
-#EXTINF:0,Sky News
+#EXTINF:-1,Sky News
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/19812
-#EXTINF:0,Sky Premiere
+#EXTINF:-1,Sky Premiere
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15937
-#EXTINF:0,Sky Select
+#EXTINF:-1,Sky Select
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/15936
-#EXTINF:0,Sky Wtiness
+#EXTINF:-1,Sky Wtiness
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17575
-#EXTINF:0,Spike
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17574
-#EXTINF:0,Syfy
+#EXTINF:-1,Syfy
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17614
-#EXTINF:0,Tiny Pop
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17694
-#EXTINF:0,TLC
+#EXTINF:-1,TLC
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17570
-#EXTINF:0,UK FHD | Sky Cinema Action FHD
+#EXTINF:-1,UK FHD | Sky Cinema Action FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50390
-#EXTINF:0,UK FHD | Sky Cinema Comedy FHD
+#EXTINF:-1,UK FHD | Sky Cinema Comedy FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50389
-#EXTINF:0,UK FHD | Sky Cinema Disney FHD
+#EXTINF:-1,UK FHD | Sky Cinema Disney FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50388
-#EXTINF:0,UK FHD | Sky Cinema Drama & Romance FHD
+#EXTINF:-1,UK FHD | Sky Cinema Drama & Romance FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50387
-#EXTINF:0,UK FHD | Sky Cinema Family FHD
+#EXTINF:-1,UK FHD | Sky Cinema Family FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50386
-#EXTINF:0,UK FHD | Sky Cinema Hits FHD
+#EXTINF:-1,UK FHD | Sky Cinema Hits FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50385
-#EXTINF:0,UK FHD | Sky Cinema Premiere FHD
+#EXTINF:-1,UK FHD | Sky Cinema Premiere FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50384
-#EXTINF:0,UK FHD | Sky Cinema SciFi FHD
+#EXTINF:-1,UK FHD | Sky Cinema SciFi FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50382
-#EXTINF:0,UK FHD | Sky Cinema Select FHD
+#EXTINF:-1,UK FHD | Sky Cinema Select FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50383
-#EXTINF:0,UK FHD | Sky Cinema Thriller FHD
+#EXTINF:-1,UK FHD | Sky Cinema Thriller FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50381
-#EXTINF:0,Watch
-http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17563
-#EXTINF:0,UK: CBEEBIES
-http://163.172.8.141:8000/test/test/3183
-#EXTINF:0,UK: Crime & Investigiation
-http://163.172.8.141:8000/test/test/3182
-#EXTINF:0,UK: Discovery Shed
-http://163.172.8.141:8000/test/test/3181
-#EXTINF:0,UK: Disney XD
-http://163.172.8.141:8000/test/test/3180
-#EXTINF:0,UK: DMax
-http://163.172.8.141:8000/test/test/3179
-#EXTINF:0,UK: Horror Channel
-http://163.172.8.141:8000/test/test/3178
-#EXTINF:0,UK: HORSE & COUNTRY
-http://163.172.8.141:8000/test/test/3177
-#EXTINF:0,UK: Lifetime HD
-http://163.172.8.141:8000/test/test/3176
-#EXTINF:0,UK: Nick Junior
-http://163.172.8.141:8000/test/test/3173
-#EXTINF:0,UK: Pick
-http://163.172.8.141:8000/test/test/3172
-#EXTINF:0,UK: POP
-http://163.172.8.141:8000/test/test/3171
-#EXTINF:0,UK: RTE 1
-http://163.172.8.141:8000/test/test/3170
-#EXTINF:0,UK: RTE 2
-http://163.172.8.141:8000/test/test/3169
-#EXTINF:0,UK: SKY MOVIES DRAMA & Romance HD
-http://163.172.8.141:8000/test/test/3168
-#EXTINF:0,UK: Sky Sports Main Event
-http://163.172.8.141:8000/test/test/3167
-#EXTINF:0,UK: Sky Sports Main Event HD
-http://163.172.8.141:8000/test/test/3166
-#EXTINF:0,UK:5 STAR
-http://163.172.8.141:8000/test/test/3165
-#EXTINF:0,UK:5 USA
-http://163.172.8.141:8000/test/test/3164
-#EXTINF:0,UK:Alibi
-http://163.172.8.141:8000/test/test/3163
-#EXTINF:0,UK:Animal Planet
-http://163.172.8.141:8000/test/test/3162
-#EXTINF:0,UK:At The Races
-http://163.172.8.141:8000/test/test/3161
-#EXTINF:0,UK:Baby TV
-http://163.172.8.141:8000/test/test/3160
-#EXTINF:0,UK:BBC FOUR HD
-http://163.172.8.141:8000/test/test/3159
-#EXTINF:0,UK:BBC News
-http://163.172.8.141:8000/test/test/3158
-#EXTINF:0,UK:BBC ONE HD
-http://163.172.8.141:8000/test/test/3157
-#EXTINF:0,UK:BBC THREE HD
-http://163.172.8.141:8000/test/test/3156
-#EXTINF:0,UK:BBC TWO HD
-http://163.172.8.141:8000/test/test/3155
-#EXTINF:0,UK:Boomerang
+#EXTINF:-1,UK:Boomerang
 http://163.172.8.141:8000/test/test/3154
-#EXTINF:0,UK:BOX NATION HD
-http://163.172.8.141:8000/test/test/3153
-#EXTINF:0,UK:BT SPORT 1 HD
-http://163.172.8.141:8000/test/test/3152
-#EXTINF:0,UK:BT SPORT 2 HD
-http://163.172.8.141:8000/test/test/3151
-#EXTINF:0,UK:BT SPORT 3 HD
-http://163.172.8.141:8000/test/test/3150
-#EXTINF:0,UK:BT SPORT ESPN HD
-http://163.172.8.141:8000/test/test/3149
-#EXTINF:0,UK:CARTOON NETWORK
-http://163.172.8.141:8000/test/test/3148
-#EXTINF:0,UK:CBS ACTION
-http://163.172.8.141:8000/test/test/3147
-#EXTINF:0,UK:CBS DRAMA
-http://163.172.8.141:8000/test/test/3146
-#EXTINF:0,UK:CBS REALITY
-http://163.172.8.141:8000/test/test/3145
-#EXTINF:0,UK:CHANNEL 4
-http://163.172.8.141:8000/test/test/3144
-#EXTINF:0,UK:CHANNEL 5
-http://163.172.8.141:8000/test/test/3143
-#EXTINF:0,UK:CHELSEA TV HD
-http://163.172.8.141:8000/test/test/3142
-#EXTINF:0,UK:CNN
-http://163.172.8.141:8000/test/test/3141
-#EXTINF:0,UK:COMEDY CENTRAL
-http://163.172.8.141:8000/test/test/3140
-#EXTINF:0,UK:Dave
-http://163.172.8.141:8000/test/test/3139
-#EXTINF:0,UK:DISCOVERY
-http://163.172.8.141:8000/test/test/3138
-#EXTINF:0,UK:DISCOVERY HISTORY
-http://163.172.8.141:8000/test/test/3137
-#EXTINF:0,UK:DISCOVERY SCIENCE
-http://163.172.8.141:8000/test/test/3136
-#EXTINF:0,UK:DISCOVERY TURBO
-http://163.172.8.141:8000/test/test/3135
-#EXTINF:0,UK:DISENY CHANNEL
-http://163.172.8.141:8000/test/test/3134
-#EXTINF:0,UK:DISNEY JUNIOR
-http://163.172.8.141:8000/test/test/3133
-#EXTINF:0,UK:E!
-http://163.172.8.141:8000/test/test/3132
-#EXTINF:0,UK:E4
-http://163.172.8.141:8000/test/test/3131
-#EXTINF:0,UK:Eir Sport 1 HD
-http://163.172.8.141:8000/test/test/3130
-#EXTINF:0,UK:Eir Sport 2
-http://163.172.8.141:8000/test/test/3129
-#EXTINF:0,UK:Eurosport 1
-http://163.172.8.141:8000/test/test/3128
-#EXTINF:0,UK:Eurosport 2
-http://163.172.8.141:8000/test/test/3127
-#EXTINF:0,UK:FILM 4 HD
-http://163.172.8.141:8000/test/test/3126
-#EXTINF:0,UK:Food Network
-http://163.172.8.141:8000/test/test/3125
-#EXTINF:0,UK:Fox
-http://163.172.8.141:8000/test/test/3124
-#EXTINF:0,UK:FOX NEWS
-http://163.172.8.141:8000/test/test/3123
-#EXTINF:0,UK:Gold
-http://163.172.8.141:8000/test/test/3122
-#EXTINF:0,UK:Good Food
-http://163.172.8.141:8000/test/test/3121
-#EXTINF:0,UK:HISTORY
-http://163.172.8.141:8000/test/test/3120
-#EXTINF:0,UK:HISTORY 2
-http://163.172.8.141:8000/test/test/3119
-#EXTINF:0,UK:INVESTIGATION DISCOVERY
-http://163.172.8.141:8000/test/test/3118
-#EXTINF:0,UK:ITV 1
-http://163.172.8.141:8000/test/test/3117
-#EXTINF:0,UK:ITV 2
-http://163.172.8.141:8000/test/test/3116
-#EXTINF:0,UK:ITV 3
-http://163.172.8.141:8000/test/test/3115
-#EXTINF:0,UK:ITV 4
-http://163.172.8.141:8000/test/test/3114
-#EXTINF:0,UK:LIVERPOOL FC
-http://163.172.8.141:8000/test/test/3113
-#EXTINF:0,UK:MORE 4 HD
-http://163.172.8.141:8000/test/test/3112
-#EXTINF:0,UK:Motorsport tv
-http://163.172.8.141:8000/test/test/3111
-#EXTINF:0,UK:MOVIES 4 MEN
-http://163.172.8.141:8000/test/test/3110
-#EXTINF:0,UK:MUTV
-http://163.172.8.141:8000/test/test/3106
-#EXTINF:0,UK:Nat Geo Wild
-http://163.172.8.141:8000/test/test/3105
-#EXTINF:0,UK:NATIONAL GEOGRAPHIC HD
-http://163.172.8.141:8000/test/test/3104
-#EXTINF:0,UK:NICKELODEON
-http://163.172.8.141:8000/test/test/3103
-#EXTINF:0,UK:NICKTOONS
-http://163.172.8.141:8000/test/test/3102
-#EXTINF:0,UK:Racing
-http://163.172.8.141:8000/test/test/3101
-#EXTINF:0,UK:Real Lives
-http://163.172.8.141:8000/test/test/3100
-#EXTINF:0,UK:SKY ARTS
-http://163.172.8.141:8000/test/test/3099
-#EXTINF:0,UK:SKY LIVING
+#EXTINF:-1,UK:SKY LIVING
 http://163.172.8.141:8000/test/test/3098
-#EXTINF:0,UK:SKY MOVIES ACTION HD
-http://163.172.8.141:8000/test/test/3097
-#EXTINF:0,UK:SKY MOVIES ATLANTIC
-http://163.172.8.141:8000/test/test/3096
-#EXTINF:0,UK:SKY MOVIES COMEDY HD
-http://163.172.8.141:8000/test/test/3095
-#EXTINF:0,UK:SKY MOVIES DISNEY
-http://163.172.8.141:8000/test/test/3094
-#EXTINF:0,UK:SKY MOVIES FAMILY HD
-http://163.172.8.141:8000/test/test/3093
-#EXTINF:0,UK:SKY Movies Greats HD
-http://163.172.8.141:8000/test/test/3092
-#EXTINF:0,UK:SKY Movies Hits HD
-http://163.172.8.141:8000/test/test/3091
-#EXTINF:0,UK:SKY MOVIES PREMIERE HD
-http://163.172.8.141:8000/test/test/3090
-#EXTINF:0,UK:SKY MOVIES ScFi HORROR
-http://163.172.8.141:8000/test/test/3089
-#EXTINF:0,UK:SKY MOVIES THRILLER
-http://163.172.8.141:8000/test/test/3088
-#EXTINF:0,UK:Sky News
-http://163.172.8.141:8000/test/test/3087
-#EXTINF:0,UK:SKY ONE HD
-http://163.172.8.141:8000/test/test/3086
-#EXTINF:0,UK:Sky Sports Action
+#EXTINF:-1,UK:Sky Sports Action
 http://163.172.8.141:8000/test/test/3085
-#EXTINF:0,UK:Sky Sports Action HD
-http://163.172.8.141:8000/test/test/3084
-#EXTINF:0,UK:Sky Sports Cricket
+#EXTINF:-1,UK:Sky Sports Cricket
 http://163.172.8.141:8000/test/test/3083
-#EXTINF:0,UK:Sky Sports Cricket HD
+#EXTINF:-1,UK:Sky Sports Cricket HD
 http://163.172.8.141:8000/test/test/3082
-#EXTINF:0,UK:Sky SPORTS F1 HD
+#EXTINF:-1,UK:Sky SPORTS F1 HD
 http://163.172.8.141:8000/test/test/3081
-#EXTINF:0,UK:Sky Sports Golf
+#EXTINF:-1,UK:Sky Sports Golf
 http://163.172.8.141:8000/test/test/3080
-#EXTINF:0,UK:Sky Sports Golf HD
-http://163.172.8.141:8000/test/test/3079
-#EXTINF:0,UK:SKY SPORTS NEWS HQ
-http://163.172.8.141:8000/test/test/3078
-#EXTINF:0,UK:Sky Sports Premiere League
-http://163.172.8.141:8000/test/test/3077
-#EXTINF:0,UK:Sky Sports Premiere League HD
-http://163.172.8.141:8000/test/test/3076
-#EXTINF:0,UK:SKY TWO HD
-http://163.172.8.141:8000/test/test/3075
-#EXTINF:0,UK:Syfy
-http://163.172.8.141:8000/test/test/3074
-#EXTINF:0,UK:TCM
-http://163.172.8.141:8000/test/test/3073
-#EXTINF:0,UK:TG4
-http://163.172.8.141:8000/test/test/3072
-#EXTINF:0,UK:TLC
-http://163.172.8.141:8000/test/test/3071
-#EXTINF:0,UK:TRAVEL CHANNEL
-http://163.172.8.141:8000/test/test/3070
-#EXTINF:0,UK:TRUE MOVIES 1
-http://163.172.8.141:8000/test/test/3069
-#EXTM3U
 #EXTINF:-1,UK-SKY SPORTS NEWS HQ
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/116.ts
 #EXTINF:-1,UK-SKY SPORTS MIX HD
@@ -428,7 +699,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/124.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/125.ts
 #EXTINF:-1,UK-Willow Cricket HD
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/127.ts
-#EXTINF:-1,###### UK-DOC######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/95.ts
 #EXTINF:-1,UK-Home & Health
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/56.ts
@@ -460,7 +731,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/102.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/53.ts
 #EXTINF:-1,UK-YESTERDAY
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/55.ts
-#EXTINF:-1,###### UK-MOVIES######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/3.ts
 #EXTINF:-1,UK-HORROR CHANNEL
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/13.ts
@@ -506,7 +777,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/2475.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/2476.ts
 #EXTINF:-1,UK-MOVIES 24
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/16.ts
-#EXTINF:-1,###### UK-NEWS######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/61.ts
 #EXTINF:-1,UK-SKY NEWS
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/64.ts
@@ -518,7 +789,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/67.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/65.ts
 #EXTINF:-1,UK-AL JaZEEra
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/66.ts
-#EXTINF:-1,###### UK-KIDS######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/71.ts
 #EXTINF:-1,UK-DISNEY XD
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/73.ts
@@ -546,7 +817,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/75.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/84.ts
 #EXTINF:-1,UK-POP-MAX
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/83.ts
-#EXTINF:-1,###### UK-ASIAN######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/141.ts
 #EXTINF:-1,UK-COLORS
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/150.ts
@@ -582,7 +853,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/144.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/143.ts
 #EXTINF:-1,UK-&TV
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/155.ts
-#EXTINF:-1,###### UK-MUSIC######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/85.ts
 #EXTINF:-1,UK-4MUSIC
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/92.ts
@@ -602,7 +873,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/89.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/94.ts
 #EXTINF:-1,UK-VH 1
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/93.ts
-#EXTINF:-1,###### UK-ENTERTAINMENT######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/18.ts
 #EXTINF:-1,UK-TCM HD
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/17.ts
@@ -688,7 +959,7 @@ http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/60.ts
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/59.ts
 #EXTINF:-1,UK-5 SPIKE
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/54.ts
-#EXTINF:-1,###### UK-IRISH######
+#EXTINF:-1,#
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/131.ts
 #EXTINF:-1,UK-IR UTV
 http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/139.ts
