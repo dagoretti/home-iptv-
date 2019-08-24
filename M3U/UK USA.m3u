@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0,Wolves vs Manchester United
-https://mbl2.chessbook.icu/ingest09/25525.m3u8?sf=MjVwczEwU2JE&token=Vhui1siJdVL_xfuxqz4z7w&expires=1566250785&rnd=25525
-#EXTINF:0,Wolves vs Manchester United
-https://p10.quest123.top:8088/live/GrandEN04/playlist.m3u8?id=108127&wowzasessionid=701915654&pk=def598144b7101963c497241d4179de7fe242bae14f372c15ce697a7f21548c5
-#EXTINF:0,Wolves vs Manchester United
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=dLPs9kBl1PvaUdR8N0iV3Q&e=1566265413
+#EXTINF:0,15:00 England Premier League: Manchester United - Crystal Palace
+https://mbl2.chessbook.icu/ingest09/25501.m3u8?sf=MVNwczEwU2JE&token=1SJsmK7eFZqA0LE04iXEnQ&expires=1566657809&rnd=25501
