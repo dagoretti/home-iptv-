@@ -1,258 +1,593 @@
 EXTM3U
-file-up.org/users/haitamjalal1990 sport1906.m3u/sport2006.m3u
+https://www.file-up.org/users/profegy/38455/SPORT%20IPTV
 https://gatachannel.com/iptv-bein-sport/
-
-#EXTINF:-1,Sky Sports Action - Sky Sports Action
-http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Action HD - Sky Sports Action HD
-http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Arena - Sky Sports Arena
-http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Arena HD - Sky Sports Arena HD
-http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Cricket - Sky Sports Cricket
-http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Cricket HD - Sky Sports Cricket HD
-http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Football - Sky Sports Football
-http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Football HD - Sky Sports Football HD
-http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Golf - Sky Sports Golf
-http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Golf HD - Sky Sports Golf HD
-http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Main - Sky Sports Main
-http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Main HD - Sky Sports Main HD
-http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Mix - Sky Sports Mix
-http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Mix HD - Sky Sports Mix HD
-http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports PL - Sky Sports PL
-http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports PL HD - Sky Sports PL HD
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports F1 - Sky Sports F1
-http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports F1 HD - Sky Sports F1 HD
-http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports News - Sky Sports News
-http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports News HD - Sky Sports News HD
-http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Box Office - Sky Sports Box Office
-http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 1 - BT Sport 1
-http://163.172.112.225:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 1 HD - BT Sport 1 HD
-http://163.172.112.225:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 2 - BT Sport 2
-http://163.172.112.225:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 2 HD - BT Sport 2 HD
-http://163.172.112.225:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 3 - BT Sport 3
-http://163.172.112.225:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 3 HD - BT Sport 3 HD
-http://163.172.112.225:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport ESPN - BT Sport ESPN
-http://163.172.112.225:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport ESPN HD - BT Sport ESPN HD
-http://163.172.112.225:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Eurosport 1 - Eurosport 1
-http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Eurosport 2 - Eurosport 2
-http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,FreeSports - FreeSports
-http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,FrontRunner - FrontRunner
-http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,MUTV - MUTV
-http://163.172.112.225:80/live.ts?channelId=162&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,LFC tv - LFC tv
-http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Chelsea Tv - Chelsea Tv
-http://163.172.112.225:80/live.ts?channelId=164&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,MOTOGP LIVE 1 - MOTOGP LIVE 1
-http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,MOTOGP LIVE 2 - MOTOGP LIVE 2
-http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Motorsport TV - Motorsport TV
-http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Premier Sports - Premier Sports
-http://163.172.112.225:80/live.ts?channelId=169&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Premier Sports HD - Premier Sports HD
-http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Racing UK - Racing UK
-http://163.172.112.225:80/live.ts?channelId=171&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Racing UK HD - Racing UK HD
-http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BoxNation - BoxNation
-http://163.172.112.225:80/live.ts?channelId=174&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 1 HD - beINSport 1 HD
-http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 2 HD - beINSport 2 HD
-http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 3 HD - beINSport 3 HD
-http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 4 HD - beINSport 4 HD
-http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 5 HD - beINSport 5 HD
-http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 6 HD - beINSport 6 HD
-http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 7 HD - beINSport 7 HD
-http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 8 HD - beINSport 8 HD
-http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 9 HD - beINSport 9 HD
-http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 10 HD - beINSport 10 HD
-http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 11 HD - beINSport 11 HD
-http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,beINSport 12 HD - beINSport 12 HD
-http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,TSN 1 - TSN 1
-http://62.210.29.65:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,TSN 2 - TSN 2
-http://62.210.29.65:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,TSN 3 - TSN 3
-http://62.210.29.65:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,TSN 4 - TSN 4
-http://62.210.29.65:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,TSN 5 - TSN 5
-http://62.210.29.65:80/live.ts?channelId=221&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET 360 HD - SPORTS NET 360 HD
-http://62.210.29.65:80/live.ts?channelId=222&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET EAST HD - SPORTS NET EAST HD
-http://62.210.29.65:80/live.ts?channelId=223&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET ONE HD - SPORTS NET ONE HD
-http://62.210.29.65:80/live.ts?channelId=224&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
-http://62.210.29.65:80/live.ts?channelId=225&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
-http://62.210.29.65:80/live.ts?channelId=226&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET WEST HD - SPORTS NET WEST HD
-http://62.210.29.65:80/live.ts?channelId=227&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTS NET WORLD HD - SPORTS NET WORLD HD
-http://62.210.29.65:80/live.ts?channelId=228&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SPORTSNET ONE HD - SPORTSNET ONE HD
-http://62.210.29.65:80/live.ts?channelId=232&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,WWE Network - WWE Network
-http://62.210.29.65:80/live.ts?channelId=256&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BBC NEWS - BBC NEWS
-http://62.210.29.65:80/live.ts?channelId=257&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,CNN NEWS - CNN NEWS
-http://62.210.29.65:80/live.ts?channelId=258&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,SKY NEWS - SKY NEWS
-http://62.210.29.65:80/live.ts?channelId=259&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT SPORT BOX OFFICE
-http://62.210.29.65:80/live.ts?channelId=315&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,PPV 1 - PPV 1
-http://62.210.29.65:80/live.ts?channelId=328&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,PPV 2 - PPV 2
-http://163.172.118.212:80/live.ts?channelId=329&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,PPV 3 - PPV 3
-http://163.172.112.225:80/live.ts?channelId=330&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,PPV 4 - PPV 4
-http://62.210.70.119:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:2F:F6&uid=1615
----------
------------
----------------
-----------
-#EXTINF:-1,beINSport 1 HD - beINSport 1 HD
-http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 2 HD - beINSport 2 HD
-http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 3 HD - beINSport 3 HD
-http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 4 HD - beINSport 4 HD
-http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 5 HD - beINSport 5 HD
-http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 6 HD - beINSport 6 HD
-http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 7 HD - beINSport 7 HD
-http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 8 HD - beINSport 8 HD
-http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 9 HD - beINSport 9 HD
-http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 10 HD - beINSport 10 HD
-http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 11 HD - beINSport 11 HD
-http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,beINSport 12 HD - beINSport 12 HD
-http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:3F:E6&uid=1846
-#EXTINF:-1,Sky Sports Action - Sky Sports Action
-http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Action HD - Sky Sports Action HD
-http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Arena - Sky Sports Arena
-http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Arena HD - Sky Sports Arena HD
-http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Cricket - Sky Sports Cricket
-http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Cricket HD - Sky Sports Cricket HD
-http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Football - Sky Sports Football
-http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Football HD - Sky Sports Football HD
-http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Golf - Sky Sports Golf
-http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Golf HD - Sky Sports Golf HD
-http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Main - Sky Sports Main
-http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Main HD - Sky Sports Main HD
-http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Mix - Sky Sports Mix
-http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Mix HD - Sky Sports Mix HD
-http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports PL - Sky Sports PL
-http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports PL HD - Sky Sports PL HD
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports F1 - Sky Sports F1
-http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports F1 HD - Sky Sports F1 HD
-http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports News - Sky Sports News
-http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports News HD - Sky Sports News HD
-http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,Sky Sports Box Office - Sky Sports Box Office
-http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 1 - BT Sport 1
-http://163.172.112.225:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 1 HD - BT Sport 1 HD
-http://163.172.112.225:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 2 - BT Sport 2
-http://163.172.112.225:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 2 HD - BT Sport 2 HD
-http://163.172.112.225:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 3 - BT Sport 3
-http://163.172.112.225:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport 3 HD - BT Sport 3 HD
-http://163.172.112.225:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport ESPN - BT Sport ESPN
-http://163.172.112.225:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1,BT Sport ESPN HD - BT Sport ESPN HD
-http://163.172.112.225:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-
------------
-
-----------
-
-
--------
-
-------------
-
+#EXTINF:0,DESP |Sky Sport Bundesliga 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
+#EXTINF:0,DESP | Sky Bundesliga 2 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
+#EXTINF:0,DESP | Sky Bundesliga 3
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
+#EXTINF:0,DESP | Sky Bundesliga 4
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
+#EXTINF:0,DESP | Sky Bundesliga 5
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
+#EXTINF:0,DESP | Sky Bundesliga 6_FOLLOW : twitter.com/dailyfreeiptv
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
+#EXTINF:0,DESP | Sky Sport 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
+#EXTINF:0,DESP |Sky Sport 2  HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
+#EXTINF:0,DESP | Sport1  HD_FOLLOW : twitter.com/dailyfreeiptv
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
+#EXTINF:0,DESP | Dazn Bar 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
+#EXTINF:0,DESP | Dazn Bar 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
+#EXTINF:0,DESP | Sport Digital HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
+#EXTINF:0,DESP | Sky Sport News HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
+#EXTINF:0,DESP | EuroSport 1 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
+#EXTINF:0,DESP | Eurosport 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
+#EXTINF:0,DESP | Eurosport 2 HD Xtra
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
+#EXTINF:0,SPORT KLUB HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7759
+#EXTINF:0,SPORT KLUB 1 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16663
+#EXTINF:0,SPORT KLUB 2 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16792
+#EXTINF:0,SPORT KLUB 3 FHD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16793
+#EXTINF:0,SPORT KLUB 5
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7419
+#EXTINF:0,SPORT KLUB 6
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/18021
+#EXTINF:0,SPORT KLUB HD HR_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8795
+#EXTINF:0,SK 1 HR FHD/TEST/
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22278
+#EXTINF:0,SK 2HR FHD/TEST/
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22279
+#EXTINF:0,SK 3HR FHD/TEST/
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22280
+#EXTINF:0,SPORT KLUB 1 HR_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3817
+#EXTINF:0,SPORT KLUB 2 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2342
+#EXTINF:0,SPORT KLUB 3 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2344
+#EXTINF:0,SPORT KLUB 4 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/5073
+#EXTINF:0,PLANET SPORT 1_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/15831
+#EXTINF:0,PLANET SPORT 2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16649
+#EXTINF:0,PLANET SPORT 3
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16650
+#EXTINF:0,ARENA SPORT 1 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/21880
+#EXTINF:0,ARENA SPORT 2 FHD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22284
+#EXTINF:0,ARENA SPORT 1 BIH
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4049
+#EXTINF:0,ARENA SPORT 2 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4050
+#EXTINF:0,ARENA SPORT 3 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4260
+#EXTINF:0,ARENA SPORT 4 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4275
+#EXTINF:0,ARENA SPORT 1 SD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3899
+#EXTINF:0,ARENA SPORT 2 SD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3943
+#EXTINF:0,ARENA SPORT 3 SD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3947
+#EXTINF:0,ARENA SPORT 4 SD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3948
+#EXTINF:0,ARENA SPORT 5 SD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/21199
+#EXTINF:0,ARENA SPORT 1 HR FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/13415
+#EXTINF:0,ARENA SPORT 2 HR FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/13416
+#EXTINF:0,ARENA SPORT 3 HR FHD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/13417
+#EXTINF:0,ARENA SPORT 4 HR FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/13418
+#EXTINF:0,ARENA SPORT 1 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2430
+#EXTINF:0,ARENA SPORT 2 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2432
+#EXTINF:0,ARENA SPORT 3 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2984
+#EXTINF:0,ARENA SPORT 4 HR_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2436
+#EXTINF:0,ARENA SPORT 5 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2438
+#EXTINF:0,ARENA SPORT 6 HR
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4653
+#EXTINF:0,EUROSPORT 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17523
+#EXTINF:0,EUROSPORT 1
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2501
+#EXTINF:0,EUROSPORT 2 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2503
+#EXTINF:0,SUPER TENNIS HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/20545
+#EXTINF:0,HNTV_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16570
+#EXTINF:0,MOJA TV SPORT
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/15680
+#EXTINF:0,US| WWE NETWORK HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/20634
+#EXTINF:0,FIGHT CHANNEL
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6739
+#EXTINF:0,NBA TV .HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2981
+#EXTINF:0,HR: SPORTSKA TV
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3685
+#EXTINF:0,BARCA TV
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16632
+#EXTINF:0,REAL MADRID TV_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3025
+#EXTINF:0,SPORT F1  IT
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3586
+#EXTINF:0,Inter Channel
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3352
+#EXTINF:0,AR BEINSPORT 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6748
+#EXTINF:0,AR BEINSPORT 2 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6749
+#EXTINF:0,AR BEINSPORT 3
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6914
+#EXTINF:0,FR-BEiN SPORT-1
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3343
+#EXTINF:0,TR-BEIN SPORT-2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3345
+#EXTINF:0,US: FOX SPORTS 1_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17651
+#EXTINF:0,US: FOX SPORTS 2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17652
+#EXTINF:0,US: NFL NETWORK
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17650
+#EXTINF:0,US: ESPN_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17648
+#EXTINF:0,US: ESPN 2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17649
+#EXTINF:0,BBC TWO-TEST-
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22220
+#EXTINF:0,UK: UFC Fight PASS
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22293
+#EXTINF:0,UK  BT SPORTS 1 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6912
+#EXTINF:0,UK  BT SPORTS 2 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6915
+#EXTINF:0,UK BT SPORTS 3 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6916
+#EXTINF:0,UK: SKY SPORTS F1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7323
+#EXTINF:0,UK: RACING UK HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7255
+#EXTINF:0,MATCH FUDBOL 1 (RU)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7961
+#EXTINF:0,MATCH FUDBOL 2 ( RU)_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7962
+#EXTINF:0,MATCH FUDBOL 3 (RU)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7963
+#EXTINF:0,ELEVEN SPORTS 1 HD (POL)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/20543
+#EXTINF:0,ELEVEN SPORTS 2 HD (POL)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/20544
+#EXTINF:0,RO : DIGI SPORT 1 FHD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8468
+#EXTINF:0,RO : DIGI SPORT 2 FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8469
+#EXTINF:0,RO : DIGI SPORT 3 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8470
+#EXTINF:0,BG:DIEMA SPORT 1_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3510
+#EXTINF:0,BG:DIEMA SPORT 2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3509
+#EXTINF:0,SP:LA LIGA TV 1
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/18313
+#EXTINF:0,SP: MOVISTAR DEPORTES 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8463
+#EXTINF:0,SP: MOVISTAR DEPORTES 2 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8464
+#EXTINF:0,SP: MOVISTAR FUTBOL HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8465
+#EXTINF:0,SP: MOVISTAR FORMULA HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8466
+#EXTINF:0,SP: MOTO GP FHD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/8467
+#EXTINF:0,C MORE SPORT HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3547
+#EXTINF:0,Sky Calcio 1 HD (IT)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3806
+#EXTINF:0,Sky Calcio 2 HD (IT)_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3805
+#EXTINF:0,Sky Calcio 3 HD (IT)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3804
+#EXTINF:0,Sky Calcio 4 HD (IT)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/3803
+#EXTINF:0,DE | DAZN 1  HD Van funkcije
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16633
+#EXTINF:0,DE | DAZN 2  HD vam funkcije_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16634
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17529
+#EXTINF:0,DE:SKY BUNDESLIGA 2 HD (Match day)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17530
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD (Match day)_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17531
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD (Match day)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17532
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD (Match day)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17533
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/22282
+#EXTINF:0,DE:SKY SPORT NEWS HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/2741
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17527
+#EXTINF:0,DE: SKY SPORT 2 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17528
+#EXTINF:0,DE: SKY SPORT 3 HD (Match day)
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/17534
+#EXTINF:0,SKY SPORT AUSTRIA HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/6750
+#EXTINF:0,ORF SPORT +
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/16662
+#EXTINF:0,DE:SPORT 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/14601
+#EXTINF:0,DE: SPORT1+ HD_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/13645
+#EXTINF:0,DE: EUROSPORT 1 HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7406
+#EXTINF:0,DE: EUROSPORT 2
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7407
+#EXTINF:0,DE: EUROSPORT 2 XTRA HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/7408
+#EXTINF:0,DE: MOTORVISON_FOLLOW : twitter.com/dailyfreeiptv
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4177
+#EXTINF:0,DE: AUTO MOTOR SPORT HD
+http://iptvnet-tv.ddns.net:8000/slobodan_pobra/Y9Z0vXGHJx/4176
+#EXTINF:0,Bein Sports La Liga HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16760
+#EXTINF:0,BeIN Sports 1 HD (Arabia)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16771
+#EXTINF:0,BeIN Sports 1 HD (Francia)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16746
+#EXTINF:0,BeIN Sports 2 HD (Arabia)_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16770
+#EXTINF:0,BeIN Sports 2 HD (Francia)_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16745
+#EXTINF:0,BeIN Sports 3 HD (Francia)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16744
+#EXTINF:0,BEIN 3 FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11082
+#EXTINF:0,BEIN 4 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11081
+#EXTINF:0,BEIN 5 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11080
+#EXTINF:0,BEIN 6 FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11079
+#EXTINF:0,BEIN 7 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11078
+#EXTINF:0,BEIN 8 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11077
+#EXTINF:0,BEIN 9 FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11076
+#EXTINF:0,BEIN 10 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11084
+#EXTINF:0,Bein Sports English FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11126
+#EXTINF:0,Bein Sports Ñ [Español] FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11127
+#EXTINF:0,Eleven Sports FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11117
+#EXTINF:0,DirecTV Sports Full HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17429
+#EXTINF:0,DirecTV Sports 2 Full HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17430
+#EXTINF:0,Fight Network FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11115
+#EXTINF:0,Fox Sports 1 FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11227
+#EXTINF:0,Fox Sports 2 FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18499
+#EXTINF:0,Fox Sports 3 FULL HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11225
+#EXTINF:0,Golf Channel Latin America FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11219
+#EXTINF:0,Golf Channel Latin America Full HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17119
+#EXTINF:0,Px Sports FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11201
+#EXTINF:0,Px Sports Full HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17091
+#EXTINF:0,The Golf Channel HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11094
+#EXTINF:0,TNT Sports Full HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14727
+#EXTINF:0,TVC Deportes FULL HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11185
+#EXTINF:0,TVC Deportes Full HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17064
+#EXTINF:0,Win Sports Full HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/13937
+#EXTINF:0,Benfica TV HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11064
+#EXTINF:0,BOX Nation HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16989
+#EXTINF:0,CBS Sports Network HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11060
+#EXTINF:0,CDO Básico HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16180
+#EXTINF:0,CDO Play HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14875
+#EXTINF:0,CDO Premium HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/4896
+#EXTINF:0,Chelsea TV HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11123
+#EXTINF:0,Claro Sports Latinoamerica HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/13984
+#EXTINF:0,DirecTV Sports HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11706
+#EXTINF:0,DirecTV Sports HD *
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17431
+#EXTINF:0,DirecTV Sports 2 HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11707
+#EXTINF:0,DirecTV Sports 2 HD *_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17432
+#EXTINF:0,DirecTV Sports Plus HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11708
+#EXTINF:0,DirecTV Sports Plus HD *
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17433
+#EXTINF:0,ESPN HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/19857
+#EXTINF:0,ESPN 2 HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/12945
+#EXTINF:0,ESPN 3 HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/12946
+#EXTINF:0,ESPN + HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/4751
+#EXTINF:0,Fight Box HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16970
+#EXTINF:0,FIGHT NETWORK HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16969
+#EXTINF:0,FOX Deportes HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11113
+#EXTINF:0,Fox Sports HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14026
+#EXTINF:0,Fox Sports HD |CL|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16958
+#EXTINF:0,Fox Sports 1 HD sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16966
+#EXTINF:0,Fox Sports 2 HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18490
+#EXTINF:0,Fox Sports 2 HD sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16962
+#EXTINF:0,Fox Sports 3 HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14024
+#EXTINF:0,Fox Sports 3 HD sur_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16960
+#EXTINF:0,FS1 HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11110
+#EXTINF:0,FS2 HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11109
+#EXTINF:0,Gol TV English HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11104
+#EXTINF:0,Gol TV HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11105
+#EXTINF:0,Golf Channel Latinoamerica HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/13995
+#EXTINF:0,Sky Sport 1 HD (Alemania)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16765
+#EXTINF:0,Sky Sport 2 HD (Alemania)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16764
+#EXTINF:0,Sky Sport Bundesliga 1 HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16762
+#EXTINF:0,Sky Sport HD (Austria)
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16763
+#EXTINF:0,Sky Sport News HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16761
+#EXTINF:0,Tennis Channel HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14036
+#EXTINF:0,TNT Sports HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18493
+#EXTINF:0,TNT Sports HD |AR|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18495
+#EXTINF:0,TyC Sports Internacional HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14743
+#EXTINF:0,UFC Latinoamérica HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/10407
+#EXTINF:0,UFC TV HD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16946
+#EXTINF:0,Win Sports HD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16448
+#EXTINF:0,Aym Sports HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11342
+#EXTINF:0,DirecTV Sports HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17434
+#EXTINF:0,DirecTV Sports 2 HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17435
+#EXTINF:0,DirecTV Sports Plus HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/17436
+#EXTINF:0,ESPN HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11337
+#EXTINF:0,ESPN 2 HQ_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11336
+#EXTINF:0,ESPN 3 HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11335
+#EXTINF:0,ESPN + HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11282
+#EXTINF:0,ESPN SEC HQ_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11264
+#EXTINF:0,ESPN U HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11263
+#EXTINF:0,Fox Sports 1 HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11334
+#EXTINF:0,Fox Sports 2 HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18497
+#EXTINF:0,Golf Channel Latinoamerica HQ_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11286
+#EXTINF:0,Latin American Sports HQ
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11388
+#EXTINF:0,TVC Deportes HQ_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11343
+#EXTINF:0,ESPN SD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/20168
+#EXTINF:0,ESPN 2 SD_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/20169
+#EXTINF:0,ESPN 3 SD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/20170
+#EXTINF:0,ESPN + SD
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/20171
+#EXTINF:0,Afizzionados (Exclusivo)_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11259
+#EXTINF:0,Bein Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16990
+#EXTINF:0,CDF Básico
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/19559
+#EXTINF:0,CDF Premium_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14224
+#EXTINF:0,CDO Básico
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14223
+#EXTINF:0,Claro Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16983
+#EXTINF:0,CNT Sports |EC|_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16982
+#EXTINF:0,DirecTV Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/20203
+#EXTINF:0,DirecTV Sports 2_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16981
+#EXTINF:0,DirecTV Sports Plus
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16980
+#EXTINF:0,ESPN
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/19858
+#EXTINF:0,ESPN sur_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16972
+#EXTINF:0,ESPN 2
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16978
+#EXTINF:0,ESPN 2 sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14220
+#EXTINF:0,ESPN 3 sur_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16977
+#EXTINF:0,ESPN +
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16973
+#EXTINF:0,Fox Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16968
+#EXTINF:0,Fox Sports |CL|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16967
+#EXTINF:0,Fox Sports sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16965
+#EXTINF:0,Fox Sports VEN_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16956
+#EXTINF:0,Fox Sports 1 Sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11710
+#EXTINF:0,Fox Sports 2
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16963
+#EXTINF:0,Fox Sports 2 Sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11711
+#EXTINF:0,Fox Sports 3_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16959
+#EXTINF:0,Fox Sports 3 Sur
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/11712
+#EXTINF:0,Fox Sports Premium |AR|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/18485
+#EXTINF:0,Golf Latin America_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16954
+#EXTINF:0,GOLPERU |PE|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16953
+#EXTINF:0,Gol TV
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16955
+#EXTINF:0,Movistar Deportes |PE|_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16952
+#EXTINF:0,Px Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16950
+#EXTINF:0,TDN
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16949
+#EXTINF:0,TNT Sports
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/14728
+#EXTINF:0,TyC Sports_By : twitter.com/dailyfreeiptv
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16947
+#EXTINF:0,univision Deportes
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16945
+#EXTINF:0,Win Sports |CO|
+http://iptv.wtf:80/sijwgqtc/lM0U7ho4a4/16942
+#EXTINF:0,Beln-Sport News HD_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20691
+#EXTINF:0,Beln-Sport 1 SD_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20666
+#EXTINF:0,Beln-Sport 2 SD_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20665
+#EXTINF:0,Beln-Sport 3 SD
+http://zinebox.pro:8880/55555/55555/20664
+#EXTINF:0,Beln-Sport 4 SD
+http://zinebox.pro:8880/55555/55555/20663
+#EXTINF:0,Beln-Sport 5 SD
+http://zinebox.pro:8880/55555/55555/20662
+#EXTINF:0,Beln-Sport 6 SD_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20661
+#EXTINF:0,Beln-Sport 7 SD
+http://zinebox.pro:8880/55555/55555/20660
+#EXTINF:0,Beln-Sport 8 SD
+http://zinebox.pro:8880/55555/55555/20659
+#EXTINF:0,Beln-Sport 9 SD
+http://zinebox.pro:8880/55555/55555/20658
+#EXTINF:0,Beln-Sport 10 SD
+http://zinebox.pro:8880/55555/55555/20657
+#EXTINF:0,Beln-Sport 1 HD 720P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20678
+#EXTINF:0,Beln-Sport 2 HD 720P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20677
+#EXTINF:0,Beln-Sport 3 HD 720P
+http://zinebox.pro:8880/55555/55555/20676
+#EXTINF:0,Beln-Sport 4 HD 720P
+http://zinebox.pro:8880/55555/55555/20675
+#EXTINF:0,Beln-Sport 5 HD 720P
+http://zinebox.pro:8880/55555/55555/20674
+#EXTINF:0,Beln-Sport 6 HD 720P
+http://zinebox.pro:8880/55555/55555/20673
+#EXTINF:0,Beln-Sport 7 HD 720P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20672
+#EXTINF:0,Beln-Sport 8 HD 720P
+http://zinebox.pro:8880/55555/55555/20671
+#EXTINF:0,Beln-Sport 9 HD 720P
+http://zinebox.pro:8880/55555/55555/20670
+#EXTINF:0,Beln-Sport 10 HD 720P
+http://zinebox.pro:8880/55555/55555/20669
+#EXTINF:0,Beln-Sport 1 FULL HD 1080P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20690
+#EXTINF:0,Beln-Sport 2 FULL HD 1080P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20689
+#EXTINF:0,Beln-Sport 3 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20688
+#EXTINF:0,Beln-Sport 4 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20687
+#EXTINF:0,Beln-Sport 5 FULL HD 1080P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20686
+#EXTINF:0,Beln-Sport 6 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20685
+#EXTINF:0,Beln-Sport 7 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20684
+#EXTINF:0,Beln-Sport 8 FULL HD 1080P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20683
+#EXTINF:0,Beln-Sport 9 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20682
+#EXTINF:0,Beln-Sport 10 FULL HD 1080P_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20681
+#EXTINF:0,Beln-Sport 11 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20680
+#EXTINF:0,Beln-Sport 12 FULL HD 1080P
+http://zinebox.pro:8880/55555/55555/20679
+#EXTINF:0,Beln-Sport 11 FULL HD
+http://zinebox.pro:8880/55555/55555/20667
+#EXTINF:0,Beln-Sport 12 FULL HD
+http://zinebox.pro:8880/55555/55555/20668
+#EXTINF:0,FR SPOR - RMC SPORT 1 HD_FOLLOW : twitter.com/dailyfreeiptv
+http://zinebox.pro:8880/55555/55555/20906
