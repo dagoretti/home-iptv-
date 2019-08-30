@@ -1,417 +1,2680 @@
+http://free-server.tn/
 #EXTM3U
-https://www.file-up.org/users/sami002  NEW FRESH PLAYLIST FOR TODAY 04-05-2019 ALL PREMUIM.m3u 
-https://iptvkolyoum.blogspot.com/2019/03/iptvm3u-3-09032019.html
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
-http://62.210.27.219:80/live.ts?channelId=4&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
-http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
-http://62.210.27.219:80/live.ts?channelId=6&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
-http://62.210.27.219:80/live.ts?channelId=7&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
-http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
-http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
-http://62.210.27.219:80/live.ts?channelId=10&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
-http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="channel5.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
-http://62.210.27.219:80/live.ts?channelId=12&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
-http://62.210.27.219:80/live.ts?channelId=13&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
-http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
-http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itv4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
-http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="itvbe.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
-http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="4seven.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
-http://62.210.27.219:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="e4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
-http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="more4.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
-http://62.210.27.219:80/live.ts?channelId=20&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="fiveusa.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
-http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="5star.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
-http://62.210.27.219:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="amc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
-http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="sky1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
-http://62.210.27.219:80/live.ts?channelId=25&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="sky1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
-http://62.210.27.219:80/live.ts?channelId=26&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="sky2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
-http://62.210.27.219:80/live.ts?channelId=27&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyliving.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Witness" tvg-logo="" group-title="Entertainment Channels",Sky Witness - Sky Witness
-http://62.210.27.219:80/live.ts?channelId=28&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
-http://62.210.27.219:80/live.ts?channelId=29&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
-http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyarts.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
-http://62.210.27.219:80/live.ts?channelId=31&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
-http://62.210.27.219:80/live.ts?channelId=32&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
-http://62.210.27.219:80/live.ts?channelId=33&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.Science" tvg-logo="" group-title="Entertainment Channels",Disc.Science - Disc.Science
-http://62.210.27.219:80/live.ts?channelId=34&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disc.Turbo" tvg-logo="" group-title="Entertainment Channels",Disc.Turbo - Disc.Turbo
-http://62.210.27.219:80/live.ts?channelId=35&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
-http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
-http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="blaze.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Blaze" tvg-logo="" group-title="Entertainment Channels",Blaze - Blaze
-http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="comedycentral.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
-http://62.210.27.219:80/live.ts?channelId=39&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ComedyXtra" tvg-logo="" group-title="Entertainment Channels",ComedyXtra - ComedyXtra
-http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
-http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="animalplanet.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
-http://62.210.27.219:80/live.ts?channelId=42&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="historychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
-http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="history2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
-http://62.210.27.219:80/live.ts?channelId=44&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
-http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
-http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="tlc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
-http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="syfy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
-http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="lifetime.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
-http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="mtv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
-http://62.210.27.219:80/live.ts?channelId=50&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="dave.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Dave" tvg-logo="" group-title="Entertainment Channels",Dave - Dave
-http://62.210.27.219:80/live.ts?channelId=51&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="davejavu.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Dave ja vu" tvg-logo="" group-title="Entertainment Channels",Dave ja vu - Dave ja vu
-http://62.210.27.219:80/live.ts?channelId=52&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="fox.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
-http://62.210.27.219:80/live.ts?channelId=53&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="horror channel" tvg-logo="" group-title="Entertainment Channels",horror channel - horror channel
-http://62.210.27.219:80/live.ts?channelId=54&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
-http://62.210.27.219:80/live.ts?channelId=55&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="goodfood.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Good Food" tvg-logo="" group-title="Entertainment Channels",Good Food - Good Food
-http://62.210.27.219:80/live.ts?channelId=56&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="home.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Home" tvg-logo="" group-title="Entertainment Channels",Home - Home
-http://62.210.27.219:80/live.ts?channelId=57&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
-http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="alibi.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="alibi" tvg-logo="" group-title="Entertainment Channels",alibi - alibi
-http://62.210.27.219:80/live.ts?channelId=59&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="drama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Drama" tvg-logo="" group-title="Entertainment Channels",Drama - Drama
-http://62.210.27.219:80/live.ts?channelId=60&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eentertainment.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
-http://62.210.27.219:80/live.ts?channelId=61&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eden.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eden" tvg-logo="" group-title="Entertainment Channels",Eden - Eden
-http://62.210.27.219:80/live.ts?channelId=62&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="gold.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="GOLD" tvg-logo="" group-title="Entertainment Channels",GOLD - GOLD
-http://62.210.27.219:80/live.ts?channelId=63&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="picktv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Pick" tvg-logo="" group-title="Entertainment Channels",Pick - Pick
-http://62.210.27.219:80/live.ts?channelId=64&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="really.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Really" tvg-logo="" group-title="Entertainment Channels",Really - Really
-http://62.210.27.219:80/live.ts?channelId=65&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="yesterday.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Yesterday" tvg-logo="" group-title="Entertainment Channels",Yesterday - Yesterday
-http://62.210.27.219:80/live.ts?channelId=66&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="w.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
-http://62.210.27.219:80/live.ts?channelId=67&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="universal.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
-http://62.210.27.219:80/live.ts?channelId=68&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="quest.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="QUEST" tvg-logo="" group-title="Entertainment Channels",QUEST - QUEST
-http://62.210.27.219:80/live.ts?channelId=69&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA ACTION & ADVENTURE HD" tvg-logo="" group-title="Movie Channels",CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
-http://163.172.112.225:80/live.ts?channelId=70&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skydisney.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA DISNEY HD" tvg-logo="" group-title="Movie Channels",CINEMA DISNEY HD - CINEMA DISNEY HD
-http://163.172.112.225:80/live.ts?channelId=71&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA DRAMA AND ROMANCE HD" tvg-logo="" group-title="Movie Channels",CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
-http://163.172.112.225:80/live.ts?channelId=72&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA FAMILY HD" tvg-logo="" group-title="Movie Channels",CINEMA FAMILY HD - CINEMA FAMILY HD
-http://163.172.112.225:80/live.ts?channelId=73&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA HITS HD" tvg-logo="" group-title="Movie Channels",CINEMA HITS HD - CINEMA HITS HD
-http://163.172.112.225:80/live.ts?channelId=74&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA MODERN GREATS HD" tvg-logo="" group-title="Movie Channels",CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
-http://163.172.112.225:80/live.ts?channelId=75&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA PREMIERE HD" tvg-logo="" group-title="Movie Channels",CINEMA PREMIERE HD - CINEMA PREMIERE HD
-http://163.172.112.225:80/live.ts?channelId=76&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA SCI-FI & HORROR HD" tvg-logo="" group-title="Movie Channels",CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
-http://163.172.112.225:80/live.ts?channelId=77&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Sky Movies Select HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA SELECT HD" tvg-logo="" group-title="Movie Channels",CINEMA SELECT HD - CINEMA SELECT HD
-http://163.172.112.225:80/live.ts?channelId=78&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CINEMA THRILLER HD" tvg-logo="" group-title="Movie Channels",CINEMA THRILLER HD - CINEMA THRILLER HD
-http://163.172.112.225:80/live.ts?channelId=79&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Action & Adventure" tvg-logo="" group-title="Movie Channels",Sky Movies Action & Adventure - Sky Movies Action & Adventure
-http://163.172.112.225:80/live.ts?channelId=80&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="Movie Channels",Sky Movies Comedy - Sky Movies Comedy
-http://163.172.112.225:80/live.ts?channelId=81&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skydisney.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Disney" tvg-logo="" group-title="Movie Channels",Sky Movies Disney - Sky Movies Disney
-http://163.172.112.225:80/live.ts?channelId=82&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Drama & Romance" tvg-logo="" group-title="Movie Channels",Sky Movies Drama & Romance - Sky Movies Drama & Romance
-http://163.172.112.225:80/live.ts?channelId=83&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Family" tvg-logo="" group-title="Movie Channels",Sky Movies Family - Sky Movies Family
-http://163.172.112.225:80/live.ts?channelId=84&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Greats" tvg-logo="" group-title="Movie Channels",Sky Movies Greats - Sky Movies Greats
-http://163.172.112.225:80/live.ts?channelId=85&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Premiere" tvg-logo="" group-title="Movie Channels",Sky Movies Premiere - Sky Movies Premiere
-http://163.172.112.225:80/live.ts?channelId=86&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Sci-Fi & Horror" tvg-logo="" group-title="Movie Channels",Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
-http://163.172.112.225:80/live.ts?channelId=87&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SkySelect.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Select" tvg-logo="" group-title="Movie Channels",Sky Movies Select - Sky Movies Select
-http://163.172.112.225:80/live.ts?channelId=88&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Movies Thriller" tvg-logo="" group-title="Movie Channels",Sky Movies Thriller - Sky Movies Thriller
-http://163.172.112.225:80/live.ts?channelId=89&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="babytv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Baby TV" tvg-logo="" group-title="Kids Channels",Baby TV - Baby TV
-http://163.172.112.225:80/live.ts?channelId=90&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="cbbc.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CBBC" tvg-logo="" group-title="Kids Channels",CBBC - CBBC
-http://163.172.112.225:80/live.ts?channelId=91&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Cartoon network" tvg-logo="" group-title="Kids Channels",Cartoon network - Cartoon network
-http://163.172.112.225:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Cbeeies" tvg-logo="" group-title="Kids Channels",Cbeeies - Cbeeies
-http://163.172.112.225:80/live.ts?channelId=93&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="disneychannel.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney Channel" tvg-logo="" group-title="Kids Channels",Disney Channel - Disney Channel
-http://163.172.112.225:80/live.ts?channelId=94&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney Jr" tvg-logo="" group-title="Kids Channels",Disney Jr - Disney Jr
-http://163.172.112.225:80/live.ts?channelId=95&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="disneyxd.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Disney XD" tvg-logo="" group-title="Kids Channels",Disney XD - Disney XD
-http://163.172.112.225:80/live.ts?channelId=96&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nick Jr" tvg-logo="" group-title="Kids Channels",Nick Jr - Nick Jr
-http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="nicktoons.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nick Toons" tvg-logo="" group-title="Kids Channels",Nick Toons - Nick Toons
-http://163.172.112.225:80/live.ts?channelId=98&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids Channels",Nickelodeon - Nickelodeon
-http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="NickJr Too" tvg-logo="" group-title="Kids Channels",NickJr Too - NickJr Too
-http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Boomerang" tvg-logo="" group-title="Kids Channels",Boomerang - Boomerang
-http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Base" tvg-logo="" group-title="Music Channels",MTV Base - MTV Base
-http://163.172.112.225:80/live.ts?channelId=102&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Classic" tvg-logo="" group-title="Music Channels",MTV Classic - MTV Classic
-http://163.172.112.225:80/live.ts?channelId=103&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Dance" tvg-logo="" group-title="Music Channels",MTV Dance - MTV Dance
-http://163.172.112.225:80/live.ts?channelId=104&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Hits" tvg-logo="" group-title="Music Channels",MTV Hits - MTV Hits
-http://163.172.112.225:80/live.ts?channelId=105&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Music" tvg-logo="" group-title="Music Channels",MTV Music - MTV Music
-http://163.172.112.225:80/live.ts?channelId=106&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MTV Rocks" tvg-logo="" group-title="Music Channels",MTV Rocks - MTV Rocks
-http://163.172.112.225:80/live.ts?channelId=107&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One Northern Ireland" tvg-logo="" group-title="Regional Channels",BBC One Northern Ireland - BBC One Northern Ireland
-http://163.172.112.225:80/live.ts?channelId=108&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC One Scotland" tvg-logo="" group-title="Regional Channels",BBC One Scotland - BBC One Scotland
-http://163.172.112.225:80/live.ts?channelId=109&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBCTwoScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC Two Scotland" tvg-logo="" group-title="Regional Channels",BBC Two Scotland - BBC Two Scotland
-http://163.172.112.225:80/live.ts?channelId=110&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBCTwoScotland.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC Two Wales" tvg-logo="" group-title="Regional Channels",BBC Two Wales - BBC Two Wales
-http://163.172.112.225:80/live.ts?channelId=111&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Action" tvg-logo="" group-title="Sky Sports",Sky Sports Action - Sky Sports Action
-http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Action HD" tvg-logo="" group-title="Sky Sports",Sky Sports Action HD - Sky Sports Action HD
-http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Arena" tvg-logo="" group-title="Sky Sports",Sky Sports Arena - Sky Sports Arena
-http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Arena HD" tvg-logo="" group-title="Sky Sports",Sky Sports Arena HD - Sky Sports Arena HD
-http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket - Sky Sports Cricket
-http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket HD - Sky Sports Cricket HD
-http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sky Sports",Sky Sports Football - Sky Sports Football
-http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Football HD" tvg-logo="" group-title="Sky Sports",Sky Sports Football HD - Sky Sports Football HD
-http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportstheopen.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Golf" tvg-logo="" group-title="Sky Sports",Sky Sports Golf - Sky Sports Golf
-http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportstheopen.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Golf HD" tvg-logo="" group-title="Sky Sports",Sky Sports Golf HD - Sky Sports Golf HD
-http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main" tvg-logo="" group-title="Sky Sports",Sky Sports Main - Sky Sports Main
-http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main HD" tvg-logo="" group-title="Sky Sports",Sky Sports Main HD - Sky Sports Main HD
-http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Mix" tvg-logo="" group-title="Sky Sports",Sky Sports Mix - Sky Sports Mix
-http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="Sky Sports",Sky Sports Mix HD - Sky Sports Mix HD
-http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL" tvg-logo="" group-title="Sky Sports",Sky Sports PL - Sky Sports PL
-http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL HD" tvg-logo="" group-title="Sky Sports",Sky Sports PL HD - Sky Sports PL HD
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports F1" tvg-logo="" group-title="Sky Sports",Sky Sports F1 - Sky Sports F1
-http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="Sky Sports",Sky Sports F1 HD - Sky Sports F1 HD
-http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports News" tvg-logo="" group-title="Sky Sports",Sky Sports News - Sky Sports News
-http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports News HD" tvg-logo="" group-title="Sky Sports",Sky Sports News HD - Sky Sports News HD
-http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Box Office" tvg-logo="" group-title="PAY PER VIEW EVENTS",Sky Sports Box Office - Sky Sports Box Office
-http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
-http://163.172.117.134:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
-http://163.172.117.134:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
-http://163.172.117.134:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
-http://163.172.117.134:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
-http://163.172.117.134:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
-http://163.172.117.134:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
-http://163.172.117.134:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
-http://163.172.117.134:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eirsport1.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
-http://163.172.112.225:80/live.ts?channelId=154&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eirsport2.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
-http://163.172.112.225:80/live.ts?channelId=155&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
-http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
-http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="freesports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
-http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Frontrunner" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
-http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="mutv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
-http://163.172.112.225:80/live.ts?channelId=162&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
-http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="chelseatv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
-http://163.172.112.225:80/live.ts?channelId=164&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
-http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
-http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="motorstv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
-http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
-http://163.172.112.225:80/live.ts?channelId=169&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
-http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
-http://163.172.112.225:80/live.ts?channelId=171&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
-http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="attheraces.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
-http://163.172.112.225:80/live.ts?channelId=173&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="boxnation.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
-http://163.172.112.225:80/live.ts?channelId=174&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
-http://163.172.118.212:80/live.ts?channelId=175&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
-http://163.172.118.212:80/live.ts?channelId=176&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
-http://163.172.118.212:80/live.ts?channelId=177&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
-http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
-http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
-http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
-http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
-http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
-http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
-http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
-http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
-http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
-http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
-http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
-http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 1" tvg-logo="" group-title="USA/CA Channels",TSN 1 - TSN 1
-http://62.210.29.65:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 2" tvg-logo="" group-title="USA/CA Channels",TSN 2 - TSN 2
-http://62.210.29.65:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 3" tvg-logo="" group-title="USA/CA Channels",TSN 3 - TSN 3
-http://62.210.29.65:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 4" tvg-logo="" group-title="USA/CA Channels",TSN 4 - TSN 4
-http://62.210.29.65:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 5" tvg-logo="" group-title="USA/CA Channels",TSN 5 - TSN 5
-http://62.210.29.65:80/live.ts?channelId=221&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET 360 HD - SPORTS NET 360 HD
-http://62.210.29.65:80/live.ts?channelId=222&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET EAST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET EAST HD - SPORTS NET EAST HD
-http://62.210.29.65:80/live.ts?channelId=223&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONE HD - SPORTS NET ONE HD
-http://62.210.29.65:80/live.ts?channelId=224&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET ONTARIO HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
-http://62.210.29.65:80/live.ts?channelId=225&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET PACIFIC HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
-http://62.210.29.65:80/live.ts?channelId=226&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET WEST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WEST HD - SPORTS NET WEST HD
-http://62.210.29.65:80/live.ts?channelId=227&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET WORLD HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WORLD HD - SPORTS NET WORLD HD
-http://62.210.29.65:80/live.ts?channelId=228&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE HD - SPORTSNET ONE HD
-http://62.210.29.65:80/live.ts?channelId=232&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="WWE Network" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="WWE Network" tvg-logo="" group-title="USA/CA Channels",WWE Network - WWE Network
-http://62.210.29.65:80/live.ts?channelId=256&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBC NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC NEWS" tvg-logo="" group-title="News Channels",BBC NEWS - BBC NEWS
-http://62.210.29.65:80/live.ts?channelId=257&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="CNN NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CNN NEWS" tvg-logo="" group-title="News Channels",CNN NEWS - CNN NEWS
-http://62.210.29.65:80/live.ts?channelId=258&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SKY NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKY NEWS" tvg-logo="" group-title="News Channels",SKY NEWS - SKY NEWS
-http://62.210.29.65:80/live.ts?channelId=259&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BT SPORT BOX OFFICE" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT SPORT BOX OFFICE" tvg-logo="" group-title="PAY PER VIEW EVENTS",BT SPORT BOX OFFICE
-http://62.210.29.65:80/live.ts?channelId=315&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 1" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 1 - PPV 1
-http://62.210.29.65:80/live.ts?channelId=328&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 2" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 2 - PPV 2
-http://163.172.118.212:80/live.ts?channelId=329&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 3" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 3 - PPV 3
-http://163.172.112.225:80/live.ts?channelId=330&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 4" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 4 - PPV 4
-http://62.210.70.119:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 American Dad" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 American Dad" tvg-logo="" group-title="24-7 VOD",24/7 American Dad
-http://62.210.70.119:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Big Bang" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Big Bang" tvg-logo="" group-title="24-7 VOD",24/7 Big Bang
-http://62.210.70.119:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Ben and Holly" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Ben and Holly" tvg-logo="" group-title="24-7 VOD",24/7 Ben and Holly
-http://62.210.70.119:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Bobs Burgers" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Bobs Burgers" tvg-logo="" group-title="24-7 VOD",24/7 Bobs Burgers
-http://62.210.70.119:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Disney Movies" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Disney Movies" tvg-logo="" group-title="24-7 VOD",24/7 Disney Movies
-http://62.210.70.119:80/live.ts?channelId=422&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Doc Mcstuffins" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Doc Mcstuffins" tvg-logo="" group-title="24-7 VOD",24/7 Doc Mcstuffins
-http://62.210.70.119:80/live.ts?channelId=423&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Family Guy" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Family Guy" tvg-logo="" group-title="24-7 VOD",24/7 Family Guy
-http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Friends" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Friends" tvg-logo="" group-title="24-7 VOD",24/7 Friends
-http://62.210.70.119:80/live.ts?channelId=425&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 In The Night Garden" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 In The Night Garden" tvg-logo="" group-title="24-7 VOD",24/7 In The Night Garden
-http://62.210.70.119:80/live.ts?channelId=426&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Only Fools And Horses" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Only Fools And Horses" tvg-logo="" group-title="24-7 VOD",24/7 Only Fools And Horses
-http://62.210.70.119:80/live.ts?channelId=427&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 PawPatrol" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 PawPatrol" tvg-logo="" group-title="24-7 VOD",24/7 PawPatrol
-http://62.210.70.119:80/live.ts?channelId=428&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 The Inbetweeners" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 The Inbetweeners" tvg-logo="" group-title="24-7 VOD",24/7 The Inbetweeners
-http://62.210.70.119:80/live.ts?channelId=429&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Blaze And The Monster Machines" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Blaze And The Monster Machines" tvg-logo="" group-title="24-7 VOD",24/7 Blaze And The Monster Machines
-http://62.210.70.119:80/live.ts?channelId=430&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="24/7 Peppa Pig" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="24-7 VOD",24/7 Peppa Pig
-
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42529
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42530
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42531
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42532
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42533
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42534
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42535
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42536
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42537
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42538
+#EXTINF:-1,AR: Bein Sport 11
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42539
+#EXTINF:-1,AR: BeIN Sport 12 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/42540
+#EXTINF:-1,AR: MBC 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/327
+#EXTINF:-1,AR: MBC 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/328
+#EXTINF:-1,AR: MBC 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/329
+#EXTINF:-1,AR: MBC 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/330
+#EXTINF:-1,AR: MBC Action HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/331
+#EXTINF:-1,AR: MBC Bollywood HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/332
+#EXTINF:-1,AR: MBC Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/333
+#EXTINF:-1,AR: MBC Masr HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/334
+#EXTINF:-1,AR: MBC Max HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/335
+#EXTINF:-1,AR: MBC+ Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/336
+#EXTINF:-1,AR: MBC+ Variety HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/337
+#EXTINF:-1,AR: Nile Cinema HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/338
+#EXTINF:-1,AR: Nile Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/339
+#EXTINF:-1,AR: Nile Culture HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/340
+#EXTINF:-1,AR: Nile Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/341
+#EXTINF:-1,AR: Nile Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/342
+#EXTINF:-1,AR: Nile News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/343
+#EXTINF:-1,AR: CBC Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/311
+#EXTINF:-1,AR: CBC E HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/312
+#EXTINF:-1,AR: CBC Extra News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/313
+#EXTINF:-1,AR: CBC Sofia HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/314
+#EXTINF:-1,AR: Rotana Aflam HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/416
+#EXTINF:-1,AR: Rotana Cinema HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/417
+#EXTINF:-1,AR: Rotana Classic HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/418
+#EXTINF:-1,AR: Rotana Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/419
+#EXTINF:-1,AR: Rotana Khalijeah HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/420
+#EXTINF:-1,AR: Rotana Music HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/421
+#EXTINF:-1,AR: KTV 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/323
+#EXTINF:-1,AR: KTV 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/324
+#EXTINF:-1,AR: KTV Al Araby HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/325
+#EXTINF:-1,AR: KTV Al Ethraa HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/326
+#EXTINF:-1,AR: Saudi TV 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/424
+#EXTINF:-1,AR: Saudi TV Enjazat HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/425
+#EXTINF:-1,AR: Saudi TV Quran HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/426
+#EXTINF:-1,AR: Saudi TV Sunnah HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/427
+#EXTINF:-1,AR: Sky News Arabia HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/429
+#EXTINF:-1,AR: Al Jazeera Arabic HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/306
+#EXTINF:-1,AR: Al Jazeera Documentary HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/307
+#EXTINF:-1,AR: Al Jazeera Mubasher HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/308
+#EXTINF:-1,AR: Al Jazeera News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/309
+#EXTINF:-1,AR: Quran TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/415
+#EXTINF:-1,AR: Peace TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/344
+#EXTINF:-1,AR: Press TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/345
+#EXTINF:-1,AR: SNTV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/431
+#EXTINF:-1,AR: Universal TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/434
+#EXTINF:-1,AR: Kalsan TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/322
+#EXTINF:-1,AR: Horn Cable TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/319
+#EXTINF:-1,AR: Somali Cable TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/432
+#EXTINF:-1,AR: SLN TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/430
+#EXTINF:-1,AR: Puutland TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/346
+#EXTINF:-1,AR: Bulsho TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/310
+#EXTINF:-1,AR: RTN TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/422
+#EXTINF:-1,AR: Jubbaland TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/321
+#EXTINF:-1,AR: SBC TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/428
+#EXTINF:-1,AR: Saab TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/423
+#EXTINF:-1,AR: Galmudug TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/317
+#EXTINF:-1,AR: SRTV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/433
+#EXTINF:-1,AR: CNA TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/315
+#EXTINF:-1,AR: Goobjoog TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/318
+#EXTINF:-1,AR: Horyaal TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/320
+#EXTINF:-1,AR: Dacwa TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/316
+#EXTINF:-1,UK: BBC One HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/3
+#EXTINF:-1,UK: BBC Two UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/354
+#EXTINF:-1,UK: ITV UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/374
+#EXTINF:-1,UK: Channel 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/357
+#EXTINF:-1,UK: Channel 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/358
+#EXTINF:-1,UK: Sky One UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/395
+#EXTINF:-1,UK: Sky Atlantic UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/393
+#EXTINF:-1,UK: Sky Witness UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/396
+#EXTINF:-1,UK: W UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/406
+#EXTINF:-1,UK: Dave HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/361
+#EXTINF:-1,UK: Gold HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/370
+#EXTINF:-1,UK: Comedy Central UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/359
+#EXTINF:-1,UK: Universal UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/401
+#EXTINF:-1,UK: Syfy UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/397
+#EXTINF:-1,UK: ITV2 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/375
+#EXTINF:-1,UK: ITV3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/376
+#EXTINF:-1,UK: ITV4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/377
+#EXTINF:-1,UK: MTV Live UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/380
+#EXTINF:-1,UK: MTV UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/381
+#EXTINF:-1,UK: RTE One HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/390
+#EXTINF:-1,UK: RTE Two HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/391
+#EXTINF:-1,UK: RTE Jr
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/388
+#EXTINF:-1,UK: RTE News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/389
+#EXTINF:-1,UK: TG4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/399
+#EXTINF:-1,UK: Sky Arts HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/392
+#EXTINF:-1,UK: FOX UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/369
+#EXTINF:-1,UK: TLC UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/400
+#EXTINF:-1,UK: E4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/366
+#EXTINF:-1,UK: Alibi HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/350
+#EXTINF:-1,UK: More4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/379
+#EXTINF:-1,UK: 4Seven HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/349
+#EXTINF:-1,UK: Viceland UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/402
+#EXTINF:-1,UK: Film4 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/368
+#EXTINF:-1,UK: TCM HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/398
+#EXTINF:-1,UK: Paramount UK UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/386
+#EXTINF:-1,UK: Animal Planet HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/351
+#EXTINF:-1,UK: Discovery Channel UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/362
+#EXTINF:-1,UK: Nat Geo UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/382
+#EXTINF:-1,UK: Crime Investigation HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/360
+#EXTINF:-1,UK: History UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/373
+#EXTINF:-1,UK: H2 UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/372
+#EXTINF:-1,UK: Disney Channel UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/363
+#EXTINF:-1,UK: Disney Jr. UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/364
+#EXTINF:-1,UK: Disney XD UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/365
+#EXTINF:-1,UK: Nickelodeon UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/385
+#EXTINF:-1,UK: Nick Jr. UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/384
+#EXTINF:-1,UK: Boomerang HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/355
+#EXTINF:-1,UK: Cartoon Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/356
+#EXTINF:-1,UK: Sky News UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/394
+#EXTINF:-1,UK: BBC News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/352
+#EXTINF:-1,UK: Eden HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/367
+#EXTINF:-1,UK: Lifetime UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/378
+#EXTINF:-1,UK: GoodFood UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/371
+#EXTINF:-1,UK: Quest UK HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/387
+#EXTINF:-1,UK: Virgin Media 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/403
+#EXTINF:-1,UK: Virgin Media 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/404
+#EXTINF:-1,UK: Virgin Media 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/405
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8553
+#EXTINF:-1,US: ABC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/2
+#EXTINF:-1,US: NBC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/348
+#EXTINF:-1,US: CBS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/6
+#EXTINF:-1,US: FOX HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/544
+#EXTINF:-1,US: CW HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/557
+#EXTINF:-1,US: A&E HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/411
+#EXTINF:-1,US: AMC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/545
+#EXTINF:-1,US: Animal Planet HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/743
+#EXTINF:-1,US: Bravo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/776
+#EXTINF:-1,US: MSNBC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/602
+#EXTINF:-1,US: CNBC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/407
+#EXTINF:-1,US: BBC America HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/413
+#EXTINF:-1,US: BET HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/414
+#EXTINF:-1,US: BET Her HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/547
+#EXTINF:-1,US: Boomerang HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/548
+#EXTINF:-1,US: Cartoon Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/550
+#EXTINF:-1,US: POP HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/551
+#EXTINF:-1,US: Cheddar HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/552
+#EXTINF:-1,US: CMT HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/553
+#EXTINF:-1,US: CNN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/408
+#EXTINF:-1,US: Comedy Central HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/409
+#EXTINF:-1,US: Comet HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/410
+#EXTINF:-1,US: Cooking Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/554
+#EXTINF:-1,US: Cozi TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/555
+#EXTINF:-1,US: Destination America HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/570
+#EXTINF:-1,US: Discovery Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/571
+#EXTINF:-1,US: Discovery Family HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/572
+#EXTINF:-1,US: Discovery Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/573
+#EXTINF:-1,US: Discovery Science HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/574
+#EXTINF:-1,US: Disney Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/575
+#EXTINF:-1,US: Disney XD HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/577
+#EXTINF:-1,US: Disney Junior HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/576
+#EXTINF:-1,US: DIY Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/578
+#EXTINF:-1,US: E! HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/579
+#EXTINF:-1,US: Food Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/580
+#EXTINF:-1,US: FOX Business HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/581
+#EXTINF:-1,US: FOX News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/582
+#EXTINF:-1,US: Freeform HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/583
+#EXTINF:-1,US: Fuse HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/584
+#EXTINF:-1,US: Fusion HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/585
+#EXTINF:-1,US: Fyi HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/589
+#EXTINF:-1,US: FX HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/586
+#EXTINF:-1,US: FXX HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/588
+#EXTINF:-1,US: FXM HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/587
+#EXTINF:-1,US: Game Show Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/590
+#EXTINF:-1,US: Hallmark Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/591
+#EXTINF:-1,US: Hallmark Drama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/592
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/593
+#EXTINF:-1,US: HGTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/594
+#EXTINF:-1,US: History Channel UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/595
+#EXTINF:-1,US: HLN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/596
+#EXTINF:-1,US: IFC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/597
+#EXTINF:-1,US: Investigation Discovery HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/598
+#EXTINF:-1,US: Ion HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/599
+#EXTINF:-1,US: Lifetime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/600
+#EXTINF:-1,US: Lifetime Movies HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/601
+#EXTINF:-1,US: MAVS TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28833
+#EXTINF:-1,US: AXS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8593
+#EXTINF:-1,US: MTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/603
+#EXTINF:-1,US: Nat Geo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/604
+#EXTINF:-1,US: Nat Geo Wild HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/605
+#EXTINF:-1,US: Nick HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/606
+#EXTINF:-1,US: Nick Jr.
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/1813
+#EXTINF:-1,US: Nicktoons UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44454
+#EXTINF:-1,US: Outdoor HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/607
+#EXTINF:-1,US: Outside TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/608
+#EXTINF:-1,US: American Hero's Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/546
+#EXTINF:-1,US: OWN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/609
+#EXTINF:-1,US: Oxygen HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/610
+#EXTINF:-1,US: QVC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/613
+#EXTINF:-1,US: Paramount Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/611
+#EXTINF:-1,US: Reelz HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/614
+#EXTINF:-1,US: Revolt HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/615
+#EXTINF:-1,US: RT America UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44455
+#EXTINF:-1,US: Smithsonian Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/616
+#EXTINF:-1,US: Sundance HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/617
+#EXTINF:-1,US: SYFY HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/618
+#EXTINF:-1,US: TBS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/619
+#EXTINF:-1,US: Turner Classic Movies HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/624
+#EXTINF:-1,US: TLC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/621
+#EXTINF:-1,US: TNT HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/347
+#EXTINF:-1,US: Travel Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/622
+#EXTINF:-1,US: Tru TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/623
+#EXTINF:-1,US: TV Land HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/625
+#EXTINF:-1,US: TV One HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/626
+#EXTINF:-1,US: The Weather Channel UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/620
+#EXTINF:-1,US: The Blaze
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44453
+#EXTINF:-1,US: Universal Kids HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/627
+#EXTINF:-1,US: USA Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/628
+#EXTINF:-1,US: VH1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/630
+#EXTINF:-1,US: Viceland HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/631
+#EXTINF:-1,US: Velocity HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/629
+#EXTINF:-1,US: BYU HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/549
+#EXTINF:-1,US: WE TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/632
+#EXTINF:-1,US: WGN America HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/633
+#EXTINF:-1,USR: ABC | Atlanta
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8628
+#EXTINF:-1,USR: CBS | Atlanta
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8676
+#EXTINF:-1,USR: FOX | Atlanta
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8718
+#EXTINF:-1,USR: NBC | Atlanta
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38707
+#EXTINF:-1,USR: ABC | Baltimore
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8629
+#EXTINF:-1,USR: CBS | Baltimore
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8658
+#EXTINF:-1,USR: FOX | Baltimore
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8702
+#EXTINF:-1,USR: NBC | Baltimore
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38708
+#EXTINF:-1,USR: CBS | Boston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8669
+#EXTINF:-1,USR: FOX | Boston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8705
+#EXTINF:-1,USR: NBC | Boston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38710
+#EXTINF:-1,USR: FOX | Buffalo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8708
+#EXTINF:-1,USR: NBC | Buffalo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38709
+#EXTINF:-1,USR: ABC | Charlotte
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8650
+#EXTINF:-1,USR: CBS | Charlotte
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8665
+#EXTINF:-1,USR: FOX | Charlotte
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8729
+#EXTINF:-1,USR: NBC | Charlotte
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38711
+#EXTINF:-1,USR: ABC | Chicago
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8642
+#EXTINF:-1,USR: CBS | Chicago
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8661
+#EXTINF:-1,USR: FOX | Chicago
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8713
+#EXTINF:-1,USR: NBC | Chicago
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38712
+#EXTINF:-1,USR: CBS | Cincinnati
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8657
+#EXTINF:-1,USR: FOX | Cincinnati
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8699
+#EXTINF:-1,USR: NBC | Cincinnati
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38713
+#EXTINF:-1,USR: ABC | Cleveland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8636
+#EXTINF:-1,USR: CBS | Cleveland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8660
+#EXTINF:-1,USR: FOX | Cleveland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8726
+#EXTINF:-1,USR: NBC | Cleveland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38714
+#EXTINF:-1,USR: CBS | Columbus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8652
+#EXTINF:-1,USR: FOX | Columbus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8707
+#EXTINF:-1,USR: NBC | Columbia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38715
+#EXTINF:-1,USR: ABC | Dallas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8649
+#EXTINF:-1,USR: CBS | Dallas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8655
+#EXTINF:-1,USR: FOX | Dallas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8715
+#EXTINF:-1,USR: NBC | Dallas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38716
+#EXTINF:-1,USR: CBS | Denver
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8670
+#EXTINF:-1,USR: FOX | Denver
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8712
+#EXTINF:-1,USR: NBC | Denver
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38717
+#EXTINF:-1,USR: ABC | Detroit
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8643
+#EXTINF:-1,USR: CBS | Detroit
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8685
+#EXTINF:-1,USR: FOX | Detroit
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8701
+#EXTINF:-1,USR: NBC | Detroit
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38718
+#EXTINF:-1,USR: FOX | Green bay
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8728
+#EXTINF:-1,USR: NBC | Greenbay
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38719
+#EXTINF:-1,USR: ABC | Houston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8626
+#EXTINF:-1,USR: CBS | Houston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8656
+#EXTINF:-1,USR: FOX | Houston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8706
+#EXTINF:-1,USR: NBC | Houston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38720
+#EXTINF:-1,USR: FOX | Indianapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8730
+#EXTINF:-1,USR: NBC | Indianapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38721
+#EXTINF:-1,USR: FOX | Jacksonville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8711
+#EXTINF:-1,USR: NBC | Jacksonville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38722
+#EXTINF:-1,USR: ABC | Los Angeles
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8644
+#EXTINF:-1,USR: CBS | Los Angeles
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8662
+#EXTINF:-1,USR: FOX | Los Angeles
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8693
+#EXTINF:-1,USR: NBC | Los Angeles
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38723
+#EXTINF:-1,USR: ABC | Miami
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8612
+#EXTINF:-1,USR: CBS | Miami
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8671
+#EXTINF:-1,USR: FOX | Miami
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8725
+#EXTINF:-1,USR: NBC | Miami
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38724
+#EXTINF:-1,USR: ABC | Milwaukee
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8621
+#EXTINF:-1,USR: CBS | Milwaukee
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8682
+#EXTINF:-1,USR: FOX | Milwaukee
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8703
+#EXTINF:-1,USR: NBC | Milwaukee
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38725
+#EXTINF:-1,USR: ABC | Minneapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8637
+#EXTINF:-1,USR: CBS | Minneapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8672
+#EXTINF:-1,USR: FOX | Minneapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8727
+#EXTINF:-1,USR: NBC | Minneapolis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38726
+#EXTINF:-1,USR: ABC | Minnesota
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8638
+#EXTINF:-1,USR: CBS | Minnesota
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8673
+#EXTINF:-1,USR: ABC | Nashville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8630
+#EXTINF:-1,USR: CBS | Nashville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8678
+#EXTINF:-1,USR: FOX | Nashville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8698
+#EXTINF:-1,USR: NBC | Nashville
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38727
+#EXTINF:-1,USR: CBS | New Orleans
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8674
+#EXTINF:-1,USR: FOX | New Orleans
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8724
+#EXTINF:-1,USR: NBC | New Orleans
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38728
+#EXTINF:-1,USR: ABC | New York
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8646
+#EXTINF:-1,USR: CBS | New York
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8663
+#EXTINF:-1,USR: FOX | New York
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8719
+#EXTINF:-1,USR: NBC | New York
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38729
+#EXTINF:-1,USR: ABC | Orlando
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8651
+#EXTINF:-1,USR: CBS | Orlando
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8684
+#EXTINF:-1,USR: FOX | Orlando
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8714
+#EXTINF:-1,USR: NBC | Orlando
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38730
+#EXTINF:-1,USR: ABC | Philadelphia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8640
+#EXTINF:-1,USR: CBS | Philadelphia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8668
+#EXTINF:-1,USR: FOX | Philadelphia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8709
+#EXTINF:-1,USR: NBC | Philadelphia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38731
+#EXTINF:-1,USR: ABC | Phoenix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8627
+#EXTINF:-1,USR: CBS | Phoenix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8679
+#EXTINF:-1,USR: FOX | Phoenix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8692
+#EXTINF:-1,USR: NBC | Phoenix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38732
+#EXTINF:-1,USR: CBS | Pittsburgh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8664
+#EXTINF:-1,USR: FOX | Pittsburgh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8721
+#EXTINF:-1,USR: NBC | Pittsburgh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38733
+#EXTINF:-1,USR: ABC | Portland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8631
+#EXTINF:-1,USR: FOX | Portland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8694
+#EXTINF:-1,USR: NBC | Portland
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38734
+#EXTINF:-1,USR: ABC | Sacramento
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8614
+#EXTINF:-1,USR: CBS | Sacramento
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8659
+#EXTINF:-1,USR: FOX | Sacramento
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8716
+#EXTINF:-1,USR: NBC | Sacramento
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38735
+#EXTINF:-1,USR: ABC | San Antonio
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8622
+#EXTINF:-1,USR: CBS | San Antonio
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8680
+#EXTINF:-1,USR: FOX | San Antonio
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8710
+#EXTINF:-1,USR: NBC | San Antonio
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38736
+#EXTINF:-1,USR: ABC | San Diego
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8615
+#EXTINF:-1,USR: CBS | San Diego
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8687
+#EXTINF:-1,USR: NBC | San Diego
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38737
+#EXTINF:-1,USR: ABC | San Francisco
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8648
+#EXTINF:-1,USR: CBS | San Francisco
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8681
+#EXTINF:-1,USR: ABC | Seattle
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8635
+#EXTINF:-1,USR: CBS | Seattle
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8686
+#EXTINF:-1,USR: FOX | Seattle
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8695
+#EXTINF:-1,USR: NBC | Seattle
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38738
+#EXTINF:-1,USR: ABC | St Louis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8634
+#EXTINF:-1,USR: CBS | St Louis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8675
+#EXTINF:-1,USR: FOX | St Louis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8700
+#EXTINF:-1,USR: NBC | St Louis
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38739
+#EXTINF:-1,USR: ABC | Tampa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8632
+#EXTINF:-1,USR: CBS | Tampa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8654
+#EXTINF:-1,USR: FOX | Tampa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8697
+#EXTINF:-1,USR: ABC | Washington DC
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8647
+#EXTINF:-1,USR: CBS | Washington DC
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8689
+#EXTINF:-1,USR: FOX | Washington DC
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8720
+#EXTINF:-1,USR: NBC | Washington DC
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38740
+#EXTINF:-1,USR: ABC | Wisconsin
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8609
+#EXTINF:-1,USR: CBS | Wisconsin
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8683
+#EXTINF:-1,USR: FOX | Wisconsin
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8704
+#EXTINF:-1,USR: NBC | Wisconsin
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38741
+#EXTINF:-1,USR: ABC | West
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8611
+#EXTINF:-1,CA: A&E HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/86
+#EXTINF:-1,CA: AMC CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/66
+#EXTINF:-1,CA: BNN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4
+#EXTINF:-1,CA: Bravo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/89
+#EXTINF:-1,CA: CBC Calgary HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/34
+#EXTINF:-1,CA: CBC Charlottetown HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/53
+#EXTINF:-1,CA: CBC Edmonton HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37
+#EXTINF:-1,CA: CBC Federiction HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38
+#EXTINF:-1,CA: CBC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/31
+#EXTINF:-1,CA: CBC Halifax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/52
+#EXTINF:-1,CA: CBC News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/32
+#EXTINF:-1,CA: CBC Ottawa HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/33
+#EXTINF:-1,CA: CBC Regina HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/54
+#EXTINF:-1,CA: CBC St. John HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/55
+#EXTINF:-1,CA: CBC Vancouver HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/56
+#EXTINF:-1,CA: CBC Windsor HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/35
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/36
+#EXTINF:-1,CA: CBC Yellowknife HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/57
+#EXTINF:-1,CA: CITY TV Calgary HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/24
+#EXTINF:-1,CA: CITY TV Toronto HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/22
+#EXTINF:-1,CA: CITY TV Vancouver HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/23
+#EXTINF:-1,CA: CMT CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/60
+#EXTINF:-1,CA: CNN CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/13
+#EXTINF:-1,CA: CP24 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/10
+#EXTINF:-1,CA: CTV 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/17
+#EXTINF:-1,CA: CTV 2 Ottawa HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/19
+#EXTINF:-1,CA: CTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/16
+#EXTINF:-1,CA: CTV News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/18
+#EXTINF:-1,CA: CTV Toronto HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/20
+#EXTINF:-1,CA: City TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/21
+#EXTINF:-1,CA: Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/7
+#EXTINF:-1,CA: Cooking Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/84
+#EXTINF:-1,CA: Disney Channel  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/72
+#EXTINF:-1,CA: Disney JR HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/73
+#EXTINF:-1,CA: Documentary HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/63
+#EXTINF:-1,CA: Family Chrgd HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/71
+#EXTINF:-1,CA: Family HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/69
+#EXTINF:-1,CA: Family Jr. HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/70
+#EXTINF:-1,CA: Food Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/85
+#EXTINF:-1,CA: Game Show Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/77
+#EXTINF:-1,CA: Global BC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/30
+#EXTINF:-1,CA: Global Calgary HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28
+#EXTINF:-1,CA: Global Edmonton HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/27
+#EXTINF:-1,CA: Global HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/25
+#EXTINF:-1,CA: Global Halifax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/29
+#EXTINF:-1,CA: Global Toronto HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/26
+#EXTINF:-1,CA: HGTV CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/83
+#EXTINF:-1,CA: HLN CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/65
+#EXTINF:-1,CA: History 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/61
+#EXTINF:-1,CA: Lifetime CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/9
+#EXTINF:-1,CA: MTV2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/58
+#EXTINF:-1,CA: Much Music HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/59
+#EXTINF:-1,CA: OMNI 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/14
+#EXTINF:-1,CA: OMNI 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/15
+#EXTINF:-1,CA: Outdoor Life Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/64
+#EXTINF:-1,CA: Slice HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/79
+#EXTINF:-1,CA: Smithsonian HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/62
+#EXTINF:-1,CA: Space HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8
+#EXTINF:-1,CA: TVO HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/67
+#EXTINF:-1,CA: Teletoon HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/74
+#EXTINF:-1,CA: The Shopping Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/80
+#EXTINF:-1,CA: The Weather Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/12
+#EXTINF:-1,CA: The Weather Network Toronto HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/11
+#EXTINF:-1,CA: Treehouse HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/75
+#EXTINF:-1,CA: Vision HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/81
+#EXTINF:-1,CA: W Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/76
+#EXTINF:-1,CA: YTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/68
+#EXTINF:-1,CA: Cosmo TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/78
+#EXTINF:-1,CA: ABC Spark HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/87
+#EXTINF:-1,CA: Animal Planet  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/88
+#EXTINF:-1,CA: DTOUR HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/82
+#EXTINF:-1,CA: Cottage Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/90
+#EXTINF:-1,CA: CPAC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/91
+#EXTINF:-1,CA: Crime + Investigation HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/92
+#EXTINF:-1,CA: CHCH HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/740
+#EXTINF:-1,CA: CW CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/93
+#EXTINF:-1,CA: Discovery CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/94
+#EXTINF:-1,CA: Discovery Investigation HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/95
+#EXTINF:-1,CA: Discovery Science HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/96
+#EXTINF:-1,CA: DIY Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/97
+#EXTINF:-1,CA: E! CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/98
+#EXTINF:-1,CA: FX CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/99
+#EXTINF:-1,CA: MTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/100
+#EXTINF:-1,CA: Peachtree TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/101
+#EXTINF:-1,CA: TLC CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/102
+#EXTINF:-1,CA: Wild TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/103
+#EXTINF:-1,CA: World Fishing FHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/104
+#EXTINF:-1,CA: Investigation Discovery CA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/741
+#EXTINF:-1,CA: Love Nature HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/742
+#EXTINF:-1,CA: ABC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/781
+#EXTINF:-1,CA: Al Jazeera News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/783
+#EXTINF:-1,CA: BBC News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/782
+#EXTINF:-1,CA: Cartoon Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/787
+#EXTINF:-1,CA: CBS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/785
+#EXTINF:-1,CA: Lifetime Movie Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/780
+#EXTINF:-1,CA: MSNBC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/788
+#EXTINF:-1,CA: PBS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/784
+#EXTINF:-1,CA: TBS HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/786
+#EXTINF:-1,CA: BBC World News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/790
+#EXTINF:-1,CA: Boomerang HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/791
+#EXTINF:-1,CA: Freeform HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/796
+#EXTINF:-1,CA: Nat Geo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/793
+#EXTINF:-1,CA: OWN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/792
+#EXTINF:-1,CA: Showcase HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/794
+#EXTINF:-1,CA: Travel Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/795
+#EXTINF:-1,CA: CTV Halifax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8550
+#EXTINF:-1,CA: Global Vancouver HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8546
+#EXTINF:-1,CA: Paramount Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8545
+#EXTINF:-1,Hydr0 #1 | DAZN USA
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8624
+#EXTINF:-1,Hydr0 #2 |
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8625
+#EXTINF:-1,UFC #1
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/535
+#EXTINF:-1,UFC #2
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/536
+#EXTINF:-1,UFC #3
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/537
+#EXTINF:-1,UFC #4
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/538
+#EXTINF:-1,UFC #5
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/539
+#EXTINF:-1,UFC #6
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/540
+#EXTINF:-1,PPV #1 | Lomachenko vs. Campbell Press Conference 630AM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/541
+#EXTINF:-1,PPV #2
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/542
+#EXTINF:-1,PPV #3
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/543
+#EXTINF:-1,SP: ESPN UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5
+#EXTINF:-1,SP: ESPN 2 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/533
+#EXTINF:-1,SP: ESPNU HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/559
+#EXTINF:-1,SP: ESPN News HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/558
+#EXTINF:-1,SP: NFL Network UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/693
+#EXTINF:-1,SP: ACC Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44052
+#EXTINF:-1,SP: NBA TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/705
+#EXTINF:-1,SP: NHL Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/692
+#EXTINF:-1,SP: MLB Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/709
+#EXTINF:-1,SP: Longhorn Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/710
+#EXTINF:-1,SP: SEC Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/679
+#EXTINF:-1,SP: Big Ten Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/437
+#EXTINF:-1,SP: FS1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/566
+#EXTINF:-1,SP: FS2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/567
+#EXTINF:-1,SP: FOX Soccer Plus HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/564
+#EXTINF:-1,SP: FOX Sports Mid West HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/729
+#EXTINF:-1,SP: FOX Sports North HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/726
+#EXTINF:-1,SP: FOX Sports South East UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/721
+#EXTINF:-1,SP: FOX Sports South UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/719
+#EXTINF:-1,SP: FOX Sports South West HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/718
+#EXTINF:-1,SP: FOX Sports West HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/715
+#EXTINF:-1,SP: FOX Sports Yes HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/713
+#EXTINF:-1,SP: Spectrum Sportsnet LA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44451
+#EXTINF:-1,SP: Fantasy Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/562
+#EXTINF:-1,SP: NFL Redzone SD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44450
+#EXTINF:-1,SP: WWE Network UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/650
+#EXTINF:-1,SP: Tennis Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/657
+#EXTINF:-1,SP: BeIN Sports US HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/436
+#EXTINF:-1,SP: Box Nation HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/438
+#EXTINF:-1,SP: NESN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/695
+#EXTINF:-1,SP: MSG HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/707
+#EXTINF:-1,SP: MSG 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/708
+#EXTINF:-1,SP: Racing UK UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/683
+#EXTINF:-1,SP: Sportsnet New York HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/663
+#EXTINF:-1,SP: Sportsnet Los Angeles HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/664
+#EXTINF:-1,SP: Sportsman Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/667
+#EXTINF:-1,SP: BT Sport 1 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/439
+#EXTINF:-1,SP: BT Sport 2 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/440
+#EXTINF:-1,SP: BT Sport 3 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/527
+#EXTINF:-1,SP: BT Sport ESPN UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/528
+#EXTINF:-1,SP: CBS Sports Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/529
+#EXTINF:-1,SP: NBC Golf Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/704
+#EXTINF:-1,SP: NBC Sports Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/698
+#EXTINF:-1,SP: Sportsnet One HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/662
+#EXTINF:-1,SP: Sportsnet East HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/665
+#EXTINF:-1,SP: Sportsnet West HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/659
+#EXTINF:-1,SP: Sportsnet Pacific HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/660
+#EXTINF:-1,SP: Sportsnet 360 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/666
+#EXTINF:-1,SP: Sportsnet World HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/658
+#EXTINF:-1,SP: TSN 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/656
+#EXTINF:-1,SP: TSN 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/655
+#EXTINF:-1,SP: TSN 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/654
+#EXTINF:-1,SP: TSN 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/653
+#EXTINF:-1,SP: TSN 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/652
+#EXTINF:-1,SP: RDS 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/682
+#EXTINF:-1,SP: RDS 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/681
+#EXTINF:-1,SP: RDS Info HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/680
+#EXTINF:-1,SP: Astro Supersports 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44417
+#EXTINF:-1,SP: Astro Supersports 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44418
+#EXTINF:-1,SP: Astro Supersports 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44419
+#EXTINF:-1,SP: Astro Supersports 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44420
+#EXTINF:-1,SP: Sky Sports Main Event UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/105
+#EXTINF:-1,SP: Sky Sports Cricket UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8618
+#EXTINF:-1,SP: Sky Sports Action UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/678
+#EXTINF:-1,SP: Sky Sports Arena UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/677
+#EXTINF:-1,SP: Sky Sports Football UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/673
+#EXTINF:-1,SP: Sky Sports Golf UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/672
+#EXTINF:-1,SP: Sky Sports Premier League UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/668
+#EXTINF:-1,SP: Sky Sports F1 UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/674
+#EXTINF:-1,SP: Sky Sports Mix UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/670
+#EXTINF:-1,SP: Sky Sports News UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/669
+#EXTINF:-1,SP: Sky Sports Box Office HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/676
+#EXTINF:-1,SP: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/560
+#EXTINF:-1,SP: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/561
+#EXTINF:-1,SP: Eir Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/531
+#EXTINF:-1,SP: Eir Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/532
+#EXTINF:-1,SP: Premier Sports HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/684
+#EXTINF:-1,SP: Chelsea TV (Live on Matches) UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/530
+#EXTINF:-1,SP: LFC TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/711
+#EXTINF:-1,SP: MUTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/706
+#EXTINF:-1,SP: UFC Fight Pass UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8617
+#EXTINF:-1,SP: UFC Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8616
+#EXTINF:-1,SP: NBC Sports Bay Area HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/703
+#EXTINF:-1,SP: NBC Sports Boston HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/702
+#EXTINF:-1,SP: NBC Sports California HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/701
+#EXTINF:-1,SP: NBC Sports Chicago HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/700
+#EXTINF:-1,SP: NBC Sports Washington HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/699
+#EXTINF:-1,SP: NBC Sports North West HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/697
+#EXTINF:-1,SP: NBC Sports Philadelphia HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/696
+#EXTINF:-1,SP: NBC Sports Washington
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8620
+#EXTINF:-1,SP: PAC-12 Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/687
+#EXTINF:-1,SP: PAC-12 Arizona HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/691
+#EXTINF:-1,SP: PAC-12 Bay-Area HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/690
+#EXTINF:-1,SP: PAC-12 Los Angeles HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/689
+#EXTINF:-1,SP: PAC-12 Mountain HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/688
+#EXTINF:-1,SP: PAC-12 Oregon HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/686
+#EXTINF:-1,SP: PAC-12 Washington HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/685
+#EXTINF:-1,SP: FOX Sports 1 MX
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/828
+#EXTINF:-1,SP: FOX Sports 2 BR
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/829
+#EXTINF:-1,SP: FOX Sports 3 MX
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/830
+#EXTINF:-1,SP: FOX Sports Arizona HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/568
+#EXTINF:-1,SP: FOX Sports Carolinas HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/739
+#EXTINF:-1,SP: FOX Sports Cincinnati HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/738
+#EXTINF:-1,SP: FOX Sports Cleveland HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/737
+#EXTINF:-1,SP: FOX Sports Detroit HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/736
+#EXTINF:-1,SP: FOX Sports Florida HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/735
+#EXTINF:-1,SP: FOX Sports Florida North HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/734
+#EXTINF:-1,SP: FOX Sports Houston HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/733
+#EXTINF:-1,SP: FOX Sports Indiana HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/732
+#EXTINF:-1,SP: FOX Sports Kansas City HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/731
+#EXTINF:-1,SP: FOX Sports New Orleans HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/728
+#EXTINF:-1,SP: FOX Sports North Atlanta HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/727
+#EXTINF:-1,SP: FOX Sports Ohio HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/725
+#EXTINF:-1,SP: FOX Sports Oklahoma HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/724
+#EXTINF:-1,SP: FOX Sports San Antonio HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/723
+#EXTINF:-1,SP: FOX Sports San Diego HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/722
+#EXTINF:-1,SP: FOX Sports South Georgia HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/720
+#EXTINF:-1,SP: FOX Sports Sun HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/717
+#EXTINF:-1,SP: FOX Sports Tennessee HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/716
+#EXTINF:-1,SP: FOX Sports Wisconsin HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/714
+#EXTINF:-1,SP: FOX Sportstime Ohio HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/712
+#EXTINF:-1,LA: A&E Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/106
+#EXTINF:-1,LA: AMC Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/107
+#EXTINF:-1,LA: Animal Planet Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/108
+#EXTINF:-1,LA: Antena 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/109
+#EXTINF:-1,LA: AXN Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/110
+#EXTINF:-1,LA: Az Corazon HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/111
+#EXTINF:-1,LA: Azteca Mundo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/112
+#EXTINF:-1,LA: Cinecanal HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/113
+#EXTINF:-1,LA: CNN Espanol HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/114
+#EXTINF:-1,LA: DHE HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/115
+#EXTINF:-1,LA: Discovery Channel Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/116
+#EXTINF:-1,LA: Disney Channel Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/117
+#EXTINF:-1,LA: El Gourmet HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/118
+#EXTINF:-1,LA: FX Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/122
+#EXTINF:-1,LA: Galavision HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/123
+#EXTINF:-1,LA: HBO Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/125
+#EXTINF:-1,LA: FOX Action Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/119
+#EXTINF:-1,LA: HBO Family Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/124
+#EXTINF:-1,LA: Max Prime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/126
+#EXTINF:-1,LA: Max Up HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/127
+#EXTINF:-1,LA: Nickelodeon Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/129
+#EXTINF:-1,LA: TNT Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/134
+#EXTINF:-1,LA: MTV Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/128
+#EXTINF:-1,LA: Sundance Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/131
+#EXTINF:-1,LA: TBS Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/132
+#EXTINF:-1,LA: Telemundo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/133
+#EXTINF:-1,LA: Universal Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/135
+#EXTINF:-1,LA: Baby TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/764
+#EXTINF:-1,LA: Azteca Mas HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/769
+#EXTINF:-1,LA: Bloomberg Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/765
+#EXTINF:-1,LA: Boomerang Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/767
+#EXTINF:-1,LA: Cartoon Network Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/768
+#EXTINF:-1,LA: Max Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/569
+#EXTINF:-1,LA: Sony Latino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/130
+#EXTINF:-1,LA: Canal Estrelas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/766
+#EXTINF:-1,LA: Unimas HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/771
+#EXTINF:-1,LA: Univision HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/770
+#EXTINF:-1,LA: Telemundo Miami
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/772
+#EXTINF:-1,LA: Cine Dinamita
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/807
+#EXTINF:-1,LA: Cinelatino HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/806
+#EXTINF:-1,LA: Cinemax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/808
+#EXTINF:-1,LA: Comedy Central HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/809
+#EXTINF:-1,LA: Concert Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/810
+#EXTINF:-1,LA: DE Pelicula HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/818
+#EXTINF:-1,LA: Discovery Home and Health HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/817
+#EXTINF:-1,LA: Discovery ID HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/816
+#EXTINF:-1,LA: Discovery Science
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/815
+#EXTINF:-1,LA: Discovery Theater
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/813
+#EXTINF:-1,LA: Discovery TLC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/814
+#EXTINF:-1,LA: Discovery Turbo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/812
+#EXTINF:-1,LA: Discovery World HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/811
+#EXTINF:-1,LA: Disney Jr
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/819
+#EXTINF:-1,LA: E! Entertaiment HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/805
+#EXTINF:-1,LA: FOX CINEMA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/803
+#EXTINF:-1,LA: FOX Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/120
+#EXTINF:-1,LA: FOX Premium Series HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/121
+#EXTINF:-1,LA: PR Mega TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/774
+#EXTINF:-1,LA: FOX Classic
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/826
+#EXTINF:-1,LA: FOX Family
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/827
+#EXTINF:-1,LA: FOX Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/825
+#EXTINF:-1,LA: FOX News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/824
+#EXTINF:-1,LA: FOX Series HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/823
+#EXTINF:-1,LA: FOX Subtitulado
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/822
+#EXTINF:-1,LA: FX Movie
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/831
+#EXTINF:-1,LA: FX Movie Mex
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/832
+#EXTINF:-1,LA: FOX Cinema
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/821
+#EXTINF:-1,LA: HBO
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/834
+#EXTINF:-1,LA: HBO 2
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/835
+#EXTINF:-1,LA: HBO Family
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/836
+#EXTINF:-1,LA: HBO Plus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/837
+#EXTINF:-1,LA: HBO Signature
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/838
+#EXTINF:-1,LA: HTV Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/839
+#EXTINF:-1,LA: Nick Jr HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/840
+#EXTINF:-1,LA: Telemax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/842
+#EXTINF:-1,LA: Space HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/843
+#EXTINF:-1,LA: Cinema Plus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8548
+#EXTINF:-1,LA: PR Teleoro Canal 13
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8547
+#EXTINF:-1,LA: Wapa America HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8551
+#EXTINF:-1,LA: FOX Deportes HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/563
+#EXTINF:-1,SP: ESPN Deportes HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/534
+#EXTINF:-1,SP: Univision Deportes HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/651
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28659
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28658
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
+#EXTINF:-1,PT: Sporting TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28661
+#EXTINF:-1,PT: TV Galicia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28676
+#EXTINF:-1,PT: TV Globo Premium
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28679
+#EXTINF:-1,PT: TV Series HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28670
+#EXTINF:-1,PT: TV5 Monde
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28675
+#EXTINF:-1,PT: TVCine 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28674
+#EXTINF:-1,PT: TVCine 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28673
+#EXTINF:-1,PT: TVCine 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28672
+#EXTINF:-1,PT: TVCine 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28671
+#EXTINF:-1,PT: TVE International
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28678
+#EXTINF:-1,PT: TVE24 Horas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28677
+#EXTINF:-1,PT: TVI HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28662
+#EXTINF:-1,PT: SYFY HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28669
+#EXTINF:-1,PT: Sic Caras HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28687
+#EXTINF:-1,PT: Sic Mulher HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28686
+#EXTINF:-1,PT: Sic Noticias HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28688
+#EXTINF:-1,PT: Sic Radical HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28689
+#EXTINF:-1,PT: RTP 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28832
+#EXTINF:-1,PT: RTP Acores
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28682
+#EXTINF:-1,PT: RTP Africa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28685
+#EXTINF:-1,PT: RTP Madeira
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28684
+#EXTINF:-1,PT: RTP Memoria
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28683
+#EXTINF:-1,PT: Porto Canal HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28681
+#EXTINF:-1,PT: Natgeo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28666
+#EXTINF:-1,PT: MTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28663
+#EXTINF:-1,PT: Travel Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28664
+#EXTINF:-1,PT: Sundance HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28667
+#EXTINF:-1,PT: Kombat Sports
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28692
+#EXTINF:-1,PT: Jim Jam HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28693
+#EXTINF:-1,PT: Hollywood HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28694
+#EXTINF:-1,PT: Fox Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28699
+#EXTINF:-1,PT: Fox Crime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28698
+#EXTINF:-1,PT: Fox Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28697
+#EXTINF:-1,PT: Fox Movies HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28696
+#EXTINF:-1,PT: Food Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28700
+#EXTINF:-1,PT: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28702
+#EXTINF:-1,PT: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28701
+#EXTINF:-1,PT: Discovery Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28705
+#EXTINF:-1,PT: Discovery Showcase
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28704
+#EXTINF:-1,PT: Disney Junior HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28703
+#EXTINF:-1,PT: Crime Investigation
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28665
+#EXTINF:-1,PT: CM TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28706
+#EXTINF:-1,PT: Cinemundo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28707
+#EXTINF:-1,PT: CBS Reality HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28708
+#EXTINF:-1,PT: Cartoon Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28709
+#EXTINF:-1,PT: Canal Panda
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28710
+#EXTINF:-1,PT: Benfica TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
+#EXTINF:-1,PT: Baby HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28712
+#EXTINF:-1,PT: AXN Black HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28714
+#EXTINF:-1,PT: AXN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28715
+#EXTINF:-1,PT: AXN White HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28713
+#EXTINF:-1,PT: AMC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28668
+#EXTINF:-1,PT: Local Visao TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28680
+#EXTINF:-1,PT: MCS Extreme
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28691
+#EXTINF:-1,PT: Motors HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28690
+#EXTINF:-1,PM: Epix 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/441
+#EXTINF:-1,PM: Epix Drive in HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/443
+#EXTINF:-1,PM: Epix HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/486
+#EXTINF:-1,PM: Epix Hits HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/442
+#EXTINF:-1,PM: Cinemax Action HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/454
+#EXTINF:-1,PM: Cinemax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/450
+#EXTINF:-1,PM: Cinemax Moremax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/451
+#EXTINF:-1,PM: Cinemax Outermax HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/453
+#EXTINF:-1,PM: Cinemax Thriller UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/452
+#EXTINF:-1,PM: Starz Cinema HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/456
+#EXTINF:-1,PM: Starz Edge HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/457
+#EXTINF:-1,PM: Starz Encore HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/458
+#EXTINF:-1,PM: Starz Encore Western HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/459
+#EXTINF:-1,PM: Starz HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/455
+#EXTINF:-1,PM: Starz in Black HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/461
+#EXTINF:-1,PM: Starz Kids & Family HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/462
+#EXTINF:-1,PM: HBO 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/445
+#EXTINF:-1,PM: HBO Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/446
+#EXTINF:-1,PM: HBO Family HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/449
+#EXTINF:-1,PM: HBO HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/444
+#EXTINF:-1,PM: HBO Signature HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/447
+#EXTINF:-1,PM: HBO Zone HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/448
+#EXTINF:-1,PM: Showtime 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/464
+#EXTINF:-1,PM: Showtime Beyond HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/467
+#EXTINF:-1,PM: Showtime Extreme HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/466
+#EXTINF:-1,PM: Showtime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/463
+#EXTINF:-1,PM: Showtime Next HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/465
+#EXTINF:-1,PM: Showtime Showcase HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/468
+#EXTINF:-1,PM: Showtime Women HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/469
+#EXTINF:-1,PM: Sky CInema Action & Adventure UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/475
+#EXTINF:-1,PM: Sky Cinema Comedy UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/476
+#EXTINF:-1,PM: Sky Cinema Crime & Thriller UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/477
+#EXTINF:-1,PM: Sky Cinema Drama & Romance UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/471
+#EXTINF:-1,PM: Sky Cinema Disney UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/38742
+#EXTINF:-1,PM: Sky Cinema Family UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/474
+#EXTINF:-1,PM: Sky Cinema Greats UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/472
+#EXTINF:-1,PM: Sky Cinema Hits UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/478
+#EXTINF:-1,PM: Sky Cinema Premiere UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/470
+#EXTINF:-1,PM: Sky Cinema Sci-Fi & Horror UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/479
+#EXTINF:-1,PM: Sky Cinema Select UHD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/480
+#EXTINF:-1,SP: NFL Redzone Backup
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44449
+#EXTINF:-1,PM: TMN 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/481
+#EXTINF:-1,PM: TMN 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/482
+#EXTINF:-1,PM: TMN 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/483
+#EXTINF:-1,PM: TMN 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/484
+#EXTINF:-1,IT: RAI 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8554
+#EXTINF:-1,IT: RAI 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8555
+#EXTINF:-1,IT: RAI 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8556
+#EXTINF:-1,IT: RAI 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8557
+#EXTINF:-1,IT: RAI 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8558
+#EXTINF:-1,IT: RAI Gulp HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8561
+#EXTINF:-1,IT: RAI Movie HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8559
+#EXTINF:-1,IT: RAI Premium HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8560
+#EXTINF:-1,IT: RAI Storia HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8562
+#EXTINF:-1,IT: RAI Yoyo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8592
+#EXTINF:-1,IT: Eagle HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8591
+#EXTINF:-1,IT: Fine Living HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8563
+#EXTINF:-1,IT: Giallo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8573
+#EXTINF:-1,IT: Iris HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8574
+#EXTINF:-1,IT: Mediaset Extra HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8575
+#EXTINF:-1,IT: MTV Brand New HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8576
+#EXTINF:-1,IT: MTV Live HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8577
+#EXTINF:-1,IT: Studio Universal HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8572
+#EXTINF:-1,IT: Super +1
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8565
+#EXTINF:-1,IT: Premium Action HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8566
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8567
+#EXTINF:-1,IT: Premium Cinema Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8568
+#EXTINF:-1,IT: Premium Cinema Emotion HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8570
+#EXTINF:-1,IT: Premium Crime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8569
+#EXTINF:-1,IT: Premium Stories HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8571
+#EXTINF:-1,IT: Premium Top Crime
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8564
+#EXTINF:-1,IT: Sky PRIMAFILA 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8578
+#EXTINF:-1,IT: Sky PRIMAFILA 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8579
+#EXTINF:-1,IT: Sky PRIMAFILA 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8580
+#EXTINF:-1,IT: Sky PRIMAFILA 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8581
+#EXTINF:-1,IT: Sky PRIMAFILA 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8582
+#EXTINF:-1,IT: Sky PRIMAFILA 6 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8583
+#EXTINF:-1,IT: Sky PRIMAFILA 7 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8584
+#EXTINF:-1,IT: Sky PRIMAFILA 10 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8585
+#EXTINF:-1,IT: Sky PRIMAFILA 11 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8586
+#EXTINF:-1,IT: Sky PRIMAFILA 12 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8587
+#EXTINF:-1,IT: Sky PRIMAFILA 13 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8588
+#EXTINF:-1,IT: Sky PRIMAFILA 14 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8589
+#EXTINF:-1,IT: Sky PRIMAFILA 15 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8590
+#EXTINF:-1,501 Nation (Dangriga)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4536
+#EXTINF:-1,840 Rural Radio (West Point)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4804
+#EXTINF:-1,88 FM (Avarua Dist.)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4549
+#EXTINF:-1,89.5 KWGS-HD1 Public Radio (Tulsa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4786
+#EXTINF:-1,8K.NZ (ChristChurch)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4603
+#EXTINF:-1,91.1 KJRF-FM (Lawton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4797
+#EXTINF:-1,91.3 WUNH-FM (Durham)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4745
+#EXTINF:-1,91.9 The Cat KWSC (Wayne)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4803
+#EXTINF:-1,92.5 KMXW-FM (Casper)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4749
+#EXTINF:-1,94.9 BOB FM (Georgetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5011
+#EXTINF:-1,95.3 KBBN-FM (Broken Bow)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4793
+#EXTINF:-1,95bFM (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4590
+#EXTINF:-1,96.1 WDEV-FM (Waterbury)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4720
+#EXTINF:-1,96.5 KECO (Elk City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4798
+#EXTINF:-1,97.7 KICM (Healdton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4795
+#EXTINF:-1,94.5 Jack FM (CKCK) (Regina)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5040
+#EXTINF:-1,99.9 Z99 (CIZL) (Regina)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5041
+#EXTINF:-1,97.8 áŠ¢á‰µá‹® FM (Addis Ababa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4693
+#EXTINF:-1,97Minivan (Male)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4652
+#EXTINF:-1,98.1 Radio Democracy FM (Freetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4702
+#EXTINF:-1,99.1 Joy FM (Des Peres)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4871
+#EXTINF:-1,Ahadu Radio (Addis Ababa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4690
+#EXTINF:-1,Air 1 Radio (Omaha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4809
+#EXTINF:-1,Al Zain Quran Radio (Khartoum)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4665
+#EXTINF:-1,Alleluia FM 98.9 (Petion-Ville)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4996
+#EXTINF:-1,Alliance 92 (Antananarivo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4899
+#EXTINF:-1,Almaher FM Ø§Ø°Ø§Ø¹Ø© Ø§Ù„Ù…Ø§Ù‡Ø± (Tarim)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4685
+#EXTINF:-1,Amped Out (Kansas City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4857
+#EXTINF:-1,Andhow.FM (Porirua)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4559
+#EXTINF:-1,BeagleRadio (Whangarei)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4594
+#EXTINF:-1,Beladi FM (Khartoum)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4663
+#EXTINF:-1,Best FM 98.5 (Ulaanbaatar)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5029
+#EXTINF:-1,Best On Top Radio (Mangaf)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4952
+#EXTINF:-1,bestcoast.fm (Hiriketiya)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4648
+#EXTINF:-1,Cave FM Gore (Gore)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4613
+#EXTINF:-1,Channel Z (ChristChurch)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4602
+#EXTINF:-1,Chikuni Radio (Monze)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4909
+#EXTINF:-1,Christian Power Praise (Springfield)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4886
+#EXTINF:-1,Coast Access Radio 104.7 FM (Waikanae)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4560
+#EXTINF:-1,Covenant Network (St. Louis)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4876
+#EXTINF:-1,Coyote Radio KAOR 91.1 FM (Vermillion)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4833
+#EXTINF:-1,CRI Sri Lanka 97.9 FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4640
+#EXTINF:-1,Dave FM (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4588
+#EXTINF:-1,Faith 1270 KTIS-AM (Sioux Falls)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4832
+#EXTINF:-1,FLAVA FM (Kitwe)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4910
+#EXTINF:-1,Gold FM Sri Lanka (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4638
+#EXTINF:-1,Gospel FM (Kingston)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4934
+#EXTINF:-1,Heads (Mangawhai)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4591
+#EXTINF:-1,Heart & Soul Broadcasting (Harare)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4908
+#EXTINF:-1,High Country FM (Omarama)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4607
+#EXTINF:-1,Hot 93.1 FM (Rapid City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4839
+#EXTINF:-1,Hot FM (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4918
+#EXTINF:-1,Hott 107.5 FM (Hamilton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4939
+#EXTINF:-1,KBACK (Sioux Falls)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4831
+#EXTINF:-1,KBCU 88.1 FM (North Newton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4761
+#EXTINF:-1,KBFL 99.9 FM (Buffalo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4867
+#EXTINF:-1,KBIA-HD2 (Columbia)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4862
+#EXTINF:-1,KBXR 102.3 FM (Columbia)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4861
+#EXTINF:-1,KCNI 1280 AM (Broken Bow)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4792
+#EXTINF:-1,KCOU 88.1 FM (Columbia)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4860
+#EXTINF:-1,Keene Police Scanner (Keene)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4731
+#EXTINF:-1,KFAB 1110 AM (Omaha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4808
+#EXTINF:-1,KFEQ 630 AM (St. Joseph)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4858
+#EXTINF:-1,KFGO The Mighty 790 AM (Fargo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4823
+#EXTINF:-1,KFGO-AM (possibly duplicate) (Fargo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4822
+#EXTINF:-1,KFM 106.9 (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4585
+#EXTINF:-1,KFYR Radio 99.7 (Bismarck)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4826
+#EXTINF:-1,KGOR 99.9 FM (Omaha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4807
+#EXTINF:-1,KGOU 106.3 (Norman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4774
+#EXTINF:-1,KIOL 1370 AM (Iola)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4769
+#EXTINF:-1,Kiribati Radio Live (Tarawa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5022
+#EXTINF:-1,KISO 96.1 FM (Omaha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4806
+#EXTINF:-1,Kiss FM 96.9 Sri Lanka (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4635
+#EXTINF:-1,KIX FM (Wellington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4558
+#EXTINF:-1,KJHK 90.7 FM (Lawrence)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4764
+#EXTINF:-1,KJMM K-Jamz 105.3 (Bixby)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4788
+#EXTINF:-1,KJTH The House FM (Ponca City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4782
+#EXTINF:-1,KLOZ Mix 92.7 (Eldon)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4865
+#EXTINF:-1,KMNR 89.7 FM (Rolla)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4868
+#EXTINF:-1,KMUW (Wichita)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4760
+#EXTINF:-1,KNEB 960 AM (Scottsbluff)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4814
+#EXTINF:-1,KNKL (Sturgis)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4840
+#EXTINF:-1,KNOX News Radio (Grand Forks)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4816
+#EXTINF:-1,LamRim Tibetan Buddhist Internet Radio (Lhasa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4943
+#EXTINF:-1,Laser 558 (Denniston)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4598
+#EXTINF:-1,Legend FM 101.1 (Port Moresby)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5013
+#EXTINF:-1,Live FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4634
+#EXTINF:-1,Live Free or Die Radio (Somersworth)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4744
+#EXTINF:-1,LM Radio FM 87.8 (Maputo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4892
+#EXTINF:-1,Lord Radio (Jaffna)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4651
+#EXTINF:-1,Love FM 98.1 (Orange Walk)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4538
+#EXTINF:-1,LRN.FM (Keene)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4730
+#EXTINF:-1,Luanda Antena Comercial (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4925
+#EXTINF:-1,Lusaka Music Radio (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4917
+#EXTINF:-1,LuvHouse Radio (Oklahoma City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4775
+#EXTINF:-1,Madieh Radio Sudan (Khartoum)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4662
+#EXTINF:-1,Magic 102.7 FM (Hamilton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4938
+#EXTINF:-1,Magic 95 KMGZ (Lawton)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4796
+#EXTINF:-1,Malai Osai (Kandy)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4647
+#EXTINF:-1,Maranui FM (Wellington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4557
+#EXTINF:-1,Marib Radio (Marib)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4683
+#EXTINF:-1,Marina FM 90.4 (Salmiya)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4951
+#EXTINF:-1,Mello FM 88 (Montego Bay)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4937
+#EXTINF:-1,Miraya FM (Juba)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4694
+#EXTINF:-1,Mirchi FM (Suva)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4544
+#EXTINF:-1,Missouri State Senate (Jefferson City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4863
+#EXTINF:-1,Mix 93.9 KKMK (Rapid City)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4837
+#EXTINF:-1,Mix 96.1 KZRC (Durant)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4794
+#EXTINF:-1,Mix FM (Georgetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4980
+#EXTINF:-1,Mix FM 87.7 (Wellington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4556
+#EXTINF:-1,Mix FM 93.8 (Lautoka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4546
+#EXTINF:-1,MNB P3 100.9 FM (Ulaanbaatar)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5028
+#EXTINF:-1,My Bridge Radio (Lincoln)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4811
+#EXTINF:-1,Nostalgie GuineÃ© FM 98.2 (Conakry)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4959
+#EXTINF:-1,NTN Radio FM 89.1 (Georgetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4979
+#EXTINF:-1,Nyumba Yanga Radio (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4915
+#EXTINF:-1,OcÃ©ane FM (NoumÃ©a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4548
+#EXTINF:-1,OMCRN (Wanaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4608
+#EXTINF:-1,Omdurman Radio Sudan (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4658
+#EXTINF:-1,Quran Radio (Al Jahra)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4949
+#EXTINF:-1,Radio 1 (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4913
+#EXTINF:-1,Radio 10 Magic FM 88.1 (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4973
+#EXTINF:-1,Radio 2 (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4912
+#EXTINF:-1,Radio 2Day FM (Suva)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4543
+#EXTINF:-1,Radio 4 (Lusaka)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4911
+#EXTINF:-1,RÃ¡dio 5 (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4924
+#EXTINF:-1,Radio 531pi (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4581
+#EXTINF:-1,Radio 6o8 (Tehran)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4947
+#EXTINF:-1,Radio ABC FM 101.7 (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4972
+#EXTINF:-1,Radio Active (Wellington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4554
+#EXTINF:-1,Radio Al Bayane 95.7 FM (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4710
+#EXTINF:-1,Radio Al Quafi (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4657
+#EXTINF:-1,Radio Alwan (Sana'a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4675
+#EXTINF:-1,Radio Apintie Suriname FM 97.1 (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4971
+#EXTINF:-1,Radio Bakwas (Belfield)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4827
+#EXTINF:-1,Radio Balade FM (Port-de-Paix)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5007
+#EXTINF:-1,Radio Bartica 95.1 FM (Bartica)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4984
+#EXTINF:-1,Radio Bendele (Kinshasa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4954
+#EXTINF:-1,Radio BLM (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4709
+#EXTINF:-1,Radio Botswana 2 103.0 FM (Gaborone)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4902
+#EXTINF:-1,Radio Bukalanga (Plumtree)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4904
+#EXTINF:-1,Radio Cabo Verde International (Santa Maria)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4697
+#EXTINF:-1,Radio Ceylon (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4631
+#EXTINF:-1,Radio Cidade 91.1 FM (Praia)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4696
+#EXTINF:-1,Radio City (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4580
+#EXTINF:-1,Radio Control (Palmerston North)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4561
+#EXTINF:-1,Radio Couleur FM (Port-de-Paix)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5006
+#EXTINF:-1,Radio Damash (Rasht)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4944
+#EXTINF:-1,Radio Degnigban (LomÃ©)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4844
+#EXTINF:-1,Radio Don Bosco (Antananarivo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4898
+#EXTINF:-1,Radio Espoir 102.8 FM (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4708
+#EXTINF:-1,Radio Esther FM (Saint-Marc)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5004
+#EXTINF:-1,Radio Fahazavana (Antananarivo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4897
+#EXTINF:-1,Radio FÃ©nique Inter (Cap-Haitien)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5009
+#EXTINF:-1,Radio FidÃ¨le FM (Port-au-Prince)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4989
+#EXTINF:-1,Radio Fiji GOLD FM 100.4 (Suva)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4542
+#EXTINF:-1,Radio Fiji ONE FM 107.4 (Suva)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4541
+#EXTINF:-1,Radio Fiji Two (Suva)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4540
+#EXTINF:-1,Radio Fleuve de Vie (Port-au-Prince)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4990
+#EXTINF:-1,RÃ¡dio FM StÃ©reo (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4923
+#EXTINF:-1,Radio Frequence Vie (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4707
+#EXTINF:-1,Radio Gameli (LomÃ©)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4843
+#EXTINF:-1,Radio Grammar Club (St. Louis)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4873
+#EXTINF:-1,Radio Guangdong (Guangdong)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4941
+#EXTINF:-1,Radio GuineÃ© Sud FM 105.7 (Conakry)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4958
+#EXTINF:-1,Radio Guyana 89.5 FM RGI (Georgetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4978
+#EXTINF:-1,Radio Hemicycle (Porto Novo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4852
+#EXTINF:-1,Radio Ibo (Port-au-Prince)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4988
+#EXTINF:-1,Radio ImmaculÃ©e ConcepciÃ³n (Contonou)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4850
+#EXTINF:-1,Radio Kankan (Kankan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4957
+#EXTINF:-1,Radio Kidnappers (Hastings)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4563
+#EXTINF:-1,Radio Kulmiye 88.0 (Mogadishu)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4667
+#EXTINF:-1,Radio Langues de Feu (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4706
+#EXTINF:-1,Radio Le Bon 102.1 FM (Les Cayes)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4997
+#EXTINF:-1,Radio LomÃ© FM 99.5 (LomÃ©)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4842
+#EXTINF:-1,RÃ¡dio Luanda (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4922
+#EXTINF:-1,Radio Madhia 95.1 FM (Madhia)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4985
+#EXTINF:-1,Radio Madjoura 94.0 (Touba)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5024
+#EXTINF:-1,Radio Mahoor (Tehran)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4946
+#EXTINF:-1,RÃ¡dio Mais (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4921
+#EXTINF:-1,Radio Mais FM 94.1
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4891
+#EXTINF:-1,Radio Maria Congo (Brazzaville)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4956
+#EXTINF:-1,Radio Maria Mozambique (Maputo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4890
+#EXTINF:-1,Radio Maria RDC (Kinshasa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4953
+#EXTINF:-1,Radio Maria Togo FM 97.9 (LomÃ©)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4841
+#EXTINF:-1,Radio Mauretanie 783 AM/93.3 FM (Nouakchott)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4711
+#EXTINF:-1,Radio Mayouri Campus (Cayenne)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4964
+#EXTINF:-1,Radio MEDOH (Port-au-Prince)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4987
+#EXTINF:-1,Radio Metis FM (Cayenne)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4963
+#EXTINF:-1,Radio Mirchi Bahrain (Manama)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4686
+#EXTINF:-1,RÃ¡dio MoÃ§ambique FM 97.9 (Maputo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4889
+#EXTINF:-1,Radio Morabeza (Mindelo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4698
+#EXTINF:-1,Radio Moshta (Sarzeh)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4948
+#EXTINF:-1,Radio Nationale Catholique FM 102.5 (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4705
+#EXTINF:-1,Radio Ndeke Luka FM 100.8 (Bangui)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5027
+#EXTINF:-1,Radio New Zealand National (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4579
+#EXTINF:-1,Radio Nostalgie 101.1 (Abidjan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4704
+#EXTINF:-1,Radio One 91 FM (Dunedin)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4612
+#EXTINF:-1,Radio Retbranche (Fort Liberte)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5010
+#EXTINF:-1,Radio RNA Antalaha Madagascar (Antalaha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4900
+#EXTINF:-1,Radio Romantica (Luanda)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4920
+#EXTINF:-1,Radio Rythme Bleu (NoumÃ©a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4547
+#EXTINF:-1,Radio Sangeetmala (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4970
+#EXTINF:-1,Radio Shruti (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4969
+#EXTINF:-1,Radio Southland 96.4 FM (Invercargill)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4614
+#EXTINF:-1,Radio St. Marc 104.9 FM (Saint-Marc)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5003
+#EXTINF:-1,Radio Starvision Inter. (Saint-Marc)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5002
+#EXTINF:-1,Radio Tapinozet (Dondon)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5008
+#EXTINF:-1,Radio Tele Ginen 92.9 FM  (Port-au-Prince)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4986
+#EXTINF:-1,Radio Tele Ideal (Port-de-Paix)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5005
+#EXTINF:-1,Radio TÃ©lÃ© Parisienne (Saint-Marc)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5001
+#EXTINF:-1,Radio The Voice of Ummah (Manama)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4687
+#EXTINF:-1,Radio Tonga (Nuku'alofa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5017
+#EXTINF:-1,Radio Trishul (Paramaribo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4968
+#EXTINF:-1,Radio Turquesa Belize 91.5 FM (Corozal)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4539
+#EXTINF:-1,RÃ dio Valira (Encamp)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5016
+#EXTINF:-1,Radio Vaovao Mahasoa FM 106.8 (Antananarivo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4896
+#EXTINF:-1,Radio vNews (Male)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4654
+#EXTINF:-1,Radio Vox Brazil (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4578
+#EXTINF:-1,Radio à®¤à®®à®¿à®´à®¾ FM (Nallur)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4650
+#EXTINF:-1,RadioLaGuerre (Petion-Ville)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4995
+#EXTINF:-1,RAG FM 107.7 (Raglan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4569
+#EXTINF:-1,Raglan Community Radio (Raglan)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4568
+#EXTINF:-1,Shaa FM 91.1 (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4628
+#EXTINF:-1,Shakthi FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4627
+#EXTINF:-1,Shirley & Spinoza Radio (Dali)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4942
+#EXTINF:-1,Sierra Network Radio (Freetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4699
+#EXTINF:-1,Siyatha FM 98.2 (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4626
+#EXTINF:-1,SLBC Asia Service (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4625
+#EXTINF:-1,SLBC City FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4624
+#EXTINF:-1,SLBC Radio Sri Lanka 97.4 FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4623
+#EXTINF:-1,SLBC Sinhala Commercial Service (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4622
+#EXTINF:-1,SLBC Sinhala National Service (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4621
+#EXTINF:-1,SLBC Tamil National Service (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4620
+#EXTINF:-1,SLBC Thendral FM (Colombo)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4619
+#EXTINF:-1,Sleep Radio (Te Aroha)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4571
+#EXTINF:-1,The Groove (Waiuku)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4572
+#EXTINF:-1,The Most 100.4 FM (New Plymouth)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4566
+#EXTINF:-1,The Record Selector (Hermann)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4869
+#EXTINF:-1,Voice of Guyana (Georgetown)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4977
+#EXTINF:-1,VT Public Radio - BBC World Service (WVPS-HD3) (Burlington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4724
+#EXTINF:-1,WASR 1470AM/97.1FM (Wolfeboro)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4738
+#EXTINF:-1,WBRU Brown University (Providence)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5031
+#EXTINF:-1,WCFR-AM (Springfield)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4712
+#EXTINF:-1,WCNL Country 1010 AM (Newport)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4734
+#EXTINF:-1,WCRI-FM Classical 95.9 (Block Is.)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5039
+#EXTINF:-1,WDRE Radio (Hampstead)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4746
+#EXTINF:-1,Wellington Access Radio 106.1 (Wellington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4551
+#EXTINF:-1,WEQX-FM (Manchester)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4714
+#EXTINF:-1,West Coast FM (Swakopmund)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4927
+#EXTINF:-1,West FM (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4576
+#EXTINF:-1,WEZF Star 92.9 (Burlington)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4725
+#EXTINF:-1,WFEA 1370AM/99.9FM (Manchester)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4741
+#EXTINF:-1,ZFM - All the Hits (Auckland)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4575
+#EXTINF:-1,Zideral Radio Web (St. Bernard)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4801
+#EXTINF:-1,Ø¥Ø°Ø§Ø¹Ø© Ø§Ù„Ù…Ø¯ÙŠØ­ (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4661
+#EXTINF:-1,Ø§Ø°Ø§Ø¹Ø© Ø§Ù„Ø´ÙŠØ® ÙØ§Ø±Ø³ Ø¹Ø¨Ø§Ø¯ (Al Mukalla)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4684
+#EXTINF:-1,Ø§Ø°Ø§Ø¹Ø© Ø§Ù„Ø´ÙŠØ® Ù…Ø­Ù…Ø¯ Ø§ÙŠÙˆØ¨ (Hajjah)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4682
+#EXTINF:-1,Ø§Ø°Ø§Ø¹Ø© Ø§Ù„Ù‚Ø§Ø±Ø¦ Ø§Ø¨ÙˆØ¨ÙƒØ± Ø§Ù„Ø´Ø§Ø·Ø±ÙŠ (Aden)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4679
+#EXTINF:-1,Ø§Ø°Ø§Ø¹Ø© Ø§Ù„Ù…ØµØ­Ù Ø§Ù„Ù…Ø¹Ù„Ù… (Sana'a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4671
+#EXTINF:-1,Ø§Ø°Ø§Ø¹Ø© Ø¹Ø¨Ø¯Ø§Ù„Ø¨Ø§Ø³Ø· Ø¹Ø¨Ø¯Ø§Ù„ØµÙ…Ø¯ (Aden)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4678
+#EXTINF:-1,Ø§Ù„Ø²Ø§ÙˆÙŠØ© Ø§Ù„ØªØ¬Ø§Ù†ÙŠØ© (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4660
+#EXTINF:-1,Ø§Ù„Ø³ÙŠØ§Ø¯Ø© (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4659
+#EXTINF:-1,Ø¨Ø±Ù‚ FM (Sana'a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4670
+#EXTINF:-1,Ø¨Ù†Ø¯Ø± Ø¹Ø¯Ù†  FM 99.9 (Aden)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4677
+#EXTINF:-1,Ø±Ø§Ø¯ÙŠÙˆ Ø§Ù„Ø¨Ù†Ø§Øª (Omdurman)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4656
+#EXTINF:-1,Ø±Ø§Ø¯ÙŠÙˆ Ø§Ù„Ø¬Ù†Ø¯ Aljanad (Taizz)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4680
+#EXTINF:-1,Ø±Ø§Ø¯ÙŠÙˆ Ø§Ù„Ø´ÙŠØ® ÙˆØ¯ÙŠØ¹ Ø§Ù„ÙŠÙ…Ù†ÙŠ (Ibb)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4681
+#EXTINF:-1,Ø±Ø§Ø¯ÙŠÙˆ Ø§Ù„ÙŠÙ…Ù† Ø§Ù„Ø¹Ø±Ø¨ÙŠ (Sana'a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4669
+#EXTINF:-1,Ø±Ø§Ø¯ÛŒÙˆ Ø±Ù†Ú¯ÛŒÙ† Ú©Ù…Ø§Ù† Rainbow RanginKaman (Tehran)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4945
+#EXTINF:-1,ÙŠÙ…Ù† Ø´Ø¨Ø§Ø¨ Yemen Shabab (Sana'a)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4668
+#EXTINF:-1,á‹¨áˆ¸áŒˆáˆ­ Sheger FM 102.1 (Addis Ababa)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4688
+#EXTINF:-1,å¹¿ä¸œå¹¿æ’­ FM 99.3 (Guangdong)
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/4940
+#EXTINF:-1,ASIA: Zee Bangla
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/520
+#EXTINF:-1,ASIA: Zee Bangla Cinema
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/521
+#EXTINF:-1,ASIA: Zee Bollywood
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/517
+#EXTINF:-1,ASIA: Zee Cinema HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/506
+#EXTINF:-1,ASIA: Zee Kannada HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/516
+#EXTINF:-1,ASIA: Zee Marathi HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/519
+#EXTINF:-1,ASIA: Zee TV Canada HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/501
+#EXTINF:-1,ASIA: Zee TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/500
+#EXTINF:-1,ASIA: Zee TV USA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/502
+#EXTINF:-1,ASIA: Star Gold HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/499
+#EXTINF:-1,ASIA: Star Plus HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/493
+#EXTINF:-1,ASIA: PTC Punjabi
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/523
+#EXTINF:-1,ASIA: PTC Punjabi Chakde
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/524
+#EXTINF:-1,ASIA: PTC Punjabi News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/522
+#EXTINF:-1,ASIA: Punjabi Saab Gurbani
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/525
+#EXTINF:-1,ASIA: 9X Tashan
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/526
+#EXTINF:-1,ASIA: &Pictures HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/505
+#EXTINF:-1,ASIA: &TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/503
+#EXTINF:-1,ASIA: &TV USA HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/504
+#EXTINF:-1,ASIA: Colors HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/494
+#EXTINF:-1,ASIA: Colors Kannada HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/514
+#EXTINF:-1,ASIA: Udaya TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/515
+#EXTINF:-1,ASIA: News Malayalam
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/511
+#EXTINF:-1,ASIA: Flowers TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/513
+#EXTINF:-1,ASIA: Music India
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/510
+#EXTINF:-1,ASIA: B4U Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/509
+#EXTINF:-1,ASIA: NTV Houston
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/508
+#EXTINF:-1,ASIA: Manorama HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/512
+#EXTINF:-1,ASIA: Sony Max 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/497
+#EXTINF:-1,ASIA: Sony Max IN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/496
+#EXTINF:-1,ASIA: Sony Sab HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/498
+#EXTINF:-1,ASIA: Sony TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/495
+#EXTINF:-1,ASIA: Rishtey HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/507
+#EXTINF:-1,ASIA: B4U Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5048
+#EXTINF:-1,ASIA: Bhakti TD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5052
+#EXTINF:-1,ASIA: Boss TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5053
+#EXTINF:-1,ASIA: BTVi
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5054
+#EXTINF:-1,ASIA: Captain News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5055
+#EXTINF:-1,ASIA: Captain TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5056
+#EXTINF:-1,ASIA: Cartoon Network Ind
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5058
+#EXTINF:-1,ASIA: Chutti TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5057
+#EXTINF:-1,ASIA: CNBC Awaaz
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5059
+#EXTINF:-1,ASIA: Colors Tamil
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5060
+#EXTINF:-1,ASIA: CVR Health
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5061
+#EXTINF:-1,ASIA: CVR News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5062
+#EXTINF:-1,ASIA: Dabangg TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5064
+#EXTINF:-1,ASIA: DAN Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5065
+#EXTINF:-1,ASIA: DAN News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5066
+#EXTINF:-1,ASIA: DAN Tamil
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5067
+#EXTINF:-1,ASIA: DD Bharti
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5068
+#EXTINF:-1,ASIA: DD Bihar
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5069
+#EXTINF:-1,ASIA: DD Chandana
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5070
+#EXTINF:-1,ASIA: DD India
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5071
+#EXTINF:-1,ASIA: DD Kisan
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5072
+#EXTINF:-1,ASIA: DD Madhya Pradesh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5073
+#EXTINF:-1,ASIA: DD Malayalam
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5074
+#EXTINF:-1,ASIA: DD News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5075
+#EXTINF:-1,ASIA: DD Podhigai
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5076
+#EXTINF:-1,ASIA: DD Sapptagiri
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5077
+#EXTINF:-1,ASIA: DD Uttar Pradesh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5078
+#EXTINF:-1,ASIA: Dhamaal TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5079
+#EXTINF:-1,ASIA: Dighvijay News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5080
+#EXTINF:-1,ASIA: DSport
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5063
+#EXTINF:-1,ASIA: Rishtey Cineplex
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5049
+#EXTINF:-1,ASIA: Star Bharat HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5050
+#EXTINF:-1,ASIA: Star Gold Select HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5051
+#EXTINF:-1,ASIA: Dilse
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5081
+#EXTINF:-1,ASIA: Divya
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5082
+#EXTINF:-1,ASIA: EET TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5083
+#EXTINF:-1,ASIA: Epic HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5084
+#EXTINF:-1,ASIA: ET Now
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5085
+#EXTINF:-1,ASIA: Fashion TV Midnite
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5086
+#EXTINF:-1,ASIA: Fashion TV Paris
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5087
+#EXTINF:-1,ASIA: Gemini Comedy
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5088
+#EXTINF:-1,ASIA: Gemini Life
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5089
+#EXTINF:-1,ASIA: Gemini Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5090
+#EXTINF:-1,ASIA: Gemini Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5091
+#EXTINF:-1,ASIA: Gemini TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5092
+#EXTINF:-1,ASIA: HBO India
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5094
+#EXTINF:-1,ASIA: History TV 18
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5095
+#EXTINF:-1,ASIA: IBC 24
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5096
+#EXTINF:-1,ASIA: IBC Bakhti
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5097
+#EXTINF:-1,ASIA: IBC Comedy
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5098
+#EXTINF:-1,ASIA: IBC Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5099
+#EXTINF:-1,ASIA: IBC Tamil
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5100
+#EXTINF:-1,ASIA: ID Fashion
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5101
+#EXTINF:-1,ASIA: India News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5102
+#EXTINF:-1,ASIA: India Today
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5103
+#EXTINF:-1,ASIA: India TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5104
+#EXTINF:-1,ASIA: India Voice
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5105
+#EXTINF:-1,ASIA: Isaiaruvi
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5106
+#EXTINF:-1,ASIA: ITN
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5107
+#EXTINF:-1,ASIA: Jahind TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5108
+#EXTINF:-1,ASIA: Jana TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5110
+#EXTINF:-1,ASIA: Janam TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5109
+#EXTINF:-1,ASIA: Jaya Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5111
+#EXTINF:-1,ASIA: Kadak Hits
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5116
+#EXTINF:-1,ASIA: Kairali TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5112
+#EXTINF:-1,ASIA: Kaumedy TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5113
+#EXTINF:-1,ASIA: KTV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5114
+#EXTINF:-1,ASIA: Kushi TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5115
+#EXTINF:-1,ASIA: Jaya Plus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5123
+#EXTINF:-1,ASIA: Jaya TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5124
+#EXTINF:-1,ASIA: Maa Gold
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5121
+#EXTINF:-1,ASIA: Maa Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5117
+#EXTINF:-1,ASIA: Maa TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5122
+#EXTINF:-1,ASIA: Malai Mursasu
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5118
+#EXTINF:-1,ASIA: Mastiii TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5125
+#EXTINF:-1,ASIA: Mirror Now
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5119
+#EXTINF:-1,ASIA: MK Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5120
+#EXTINF:-1,ASIA: NDTV India
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5126
+#EXTINF:-1,ASIA: News Nation
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5127
+#EXTINF:-1,ASIA: News World India
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5128
+#EXTINF:-1,ASIA: Poppataka
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5129
+#EXTINF:-1,ASIA: Raj Digital Plus
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5130
+#EXTINF:-1,ASIA: Raj Musix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5132
+#EXTINF:-1,ASIA: Raj Musix Malayalam
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5131
+#EXTINF:-1,ASIA: Raj News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5133
+#EXTINF:-1,ASIA: Raj TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5134
+#EXTINF:-1,ASIA: Sony ESPN
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5135
+#EXTINF:-1,ASIA: Sony PIX
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5136
+#EXTINF:-1,ASIA: Sony Six
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5137
+#EXTINF:-1,ASIA: Star Pravah
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5144
+#EXTINF:-1,ASIA: Star Utsav
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5145
+#EXTINF:-1,ASIA: Star Vijay
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5138
+#EXTINF:-1,ASIA: Sun Life
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5139
+#EXTINF:-1,ASIA: Sun Music
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5140
+#EXTINF:-1,ASIA: Sun News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5141
+#EXTINF:-1,ASIA: Sun TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5142
+#EXTINF:-1,ASIA: Suriya TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5143
+#EXTINF:-1,ASIA: Tamil Comedy
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5158
+#EXTINF:-1,ASIA: Tamilian
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5146
+#EXTINF:-1,ASIA: Ten 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5147
+#EXTINF:-1,ASIA: Ten 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5148
+#EXTINF:-1,ASIA: Ten 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5149
+#EXTINF:-1,ASIA: Willow Cricket HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8544
+#EXTINF:-1,ASIA: Times Now
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5150
+#EXTINF:-1,ASIA: Total TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5151
+#EXTINF:-1,ASIA: TV Derana
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5153
+#EXTINF:-1,ASIA: TV5 News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5154
+#EXTINF:-1,ASIA: TV9 Kannada
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5152
+#EXTINF:-1,ASIA: TV9 Karnataka
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5155
+#EXTINF:-1,ASIA: TV9 News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5156
+#EXTINF:-1,ASIA: TV9 Telugu
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5157
+#EXTINF:-1,ASIA: Udaya Comedy
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5160
+#EXTINF:-1,ASIA: Udaya Movies
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5161
+#EXTINF:-1,ASIA: UNTV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5159
+#EXTINF:-1,ASIA: V6 News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5162
+#EXTINF:-1,ASIA: Vasanth
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5163
+#EXTINF:-1,ASIA: Vasantham TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5164
+#EXTINF:-1,ASIA: 92 News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5176
+#EXTINF:-1,ASIA: Aastha
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5177
+#EXTINF:-1,ASIA: ABP News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5178
+#EXTINF:-1,ASIA: Ahlulbay TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5179
+#EXTINF:-1,ASIA: Akaal Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5180
+#EXTINF:-1,ASIA: ATN Bangla
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5181
+#EXTINF:-1,ASIA: Brit Asia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5182
+#EXTINF:-1,ASIA: DUNYA News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5183
+#EXTINF:-1,ASIA: Geo Khani
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5184
+#EXTINF:-1,ASIA: Geo News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5185
+#EXTINF:-1,ASIA: Geo TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5186
+#EXTINF:-1,ASIA: Hum Masala
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5187
+#EXTINF:-1,ASIA: Iqra Bangla
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5189
+#EXTINF:-1,ASIA: Iqra TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5188
+#EXTINF:-1,ASIA: Islam Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5190
+#EXTINF:-1,ASIA: Jus Punjabi
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5191
+#EXTINF:-1,ASIA: Medani Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5192
+#EXTINF:-1,ASIA: New Vision TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5193
+#EXTINF:-1,ASIA: Noor TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5194
+#EXTINF:-1,ASIA: Samaa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5195
+#EXTINF:-1,ASIA: Sangat
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5196
+#EXTINF:-1,ASIA: Sikh Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5197
+#EXTINF:-1,ASIA: Sony Mix
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5198
+#EXTINF:-1,ASIA: Zee Action
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5165
+#EXTINF:-1,ASIA: Zee Anmol
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5166
+#EXTINF:-1,ASIA: Zee Business
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5167
+#EXTINF:-1,Asia: Zee Cafe
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5168
+#EXTINF:-1,ASIA: Zee Hindustan
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5170
+#EXTINF:-1,ASIA: Zee Kannada
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5169
+#EXTINF:-1,ASIA: Zee Keralam
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5171
+#EXTINF:-1,ASIA: Zee Madhya Pradesh
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5172
+#EXTINF:-1,ASIA: Zee Tamil
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5173
+#EXTINF:-1,ASIA: Zee Tulugu
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5174
+#EXTINF:-1,ASIA: Zee Yuva
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/5175
+#EXTINF:-1,ASIA: Ary Digital
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8532
+#EXTINF:-1,ASIA: Ary News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8531
+#EXTINF:-1,ASIA: Express Entertainment
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8530
+#EXTINF:-1,ASIA: HUM TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8529
+#EXTINF:-1,ASIA: PTV Bolan
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8525
+#EXTINF:-1,ASIA: PTV Global
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8526
+#EXTINF:-1,ASIA: PTV Home
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8527
+#EXTINF:-1,ASIA: PTV News
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8528
+#EXTINF:-1,ASIA: PTV Prime
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/8524
+#EXTINF:-1,NFL Redzone
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/44448
+#EXTINF:-1,NFL #1 | Vikings @ Bills 7PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37199
+#EXTINF:-1,NFL #2 | Steelers @ Panthers 7PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37200
+#EXTINF:-1,NFL #3 | Colts @ Bengals 7PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37201
+#EXTINF:-1,NFL #4 | Falcons @ Jaguars 7PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37202
+#EXTINF:-1,NFL #5 | Eagles @ Jets 7PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37203
+#EXTINF:-1,NFL #6 | Lions @ Browns 730PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37204
+#EXTINF:-1,NFL #7 | Giants @ Patriots 730PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37205
+#EXTINF:-1,NFL #8 | Ravens @ Redskins 730PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37206
+#EXTINF:-1,NFL #9 | Titans @ Bears 8PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37207
+#EXTINF:-1,NFL #10 | Buccaneers @ Cowboys 8PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37208
+#EXTINF:-1,NFL #11 | Chiefs @ Packers 8PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37209
+#EXTINF:-1,NFL #12 | Rams @ Texans 8PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37210
+#EXTINF:-1,NFL #13 | 
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37211
+#EXTINF:-1,NFL #14 | Chargers @ 49ers 9PM EST
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37212
+#EXTINF:-1,NFL #15 | 
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/37213
+#EXTINF:-1,NFL #16 | 
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/40297
+#EXTINF:-1,NFLT: Arizona Cardinals
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43355
+#EXTINF:-1,NFLT: Atlanta Falcons
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43356
+#EXTINF:-1,NFLT: Baltimore Ravens
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43357
+#EXTINF:-1,NFLT: Buffalo Bills
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43358
+#EXTINF:-1,NFLT: Carolina Panthers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43359
+#EXTINF:-1,NFLT: Chicago Bears
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43360
+#EXTINF:-1,NFLT: Cincinnati Bengals
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43361
+#EXTINF:-1,NFLT: Cleveland Browns
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43362
+#EXTINF:-1,NFLT: Dallas Cowboys
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43363
+#EXTINF:-1,NFLT: Denver Broncos
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43364
+#EXTINF:-1,NFLT: Detroit Lions
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43365
+#EXTINF:-1,NFLT: Green Bay Packers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43366
+#EXTINF:-1,NFLT: Houston Texans
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43367
+#EXTINF:-1,NFLT: Indianapolis Colts
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43368
+#EXTINF:-1,NFLT: Jacksonville Jaguars
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43369
+#EXTINF:-1,NFLT: Kansas City Chiefs
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43370
+#EXTINF:-1,NFLT: Los Angeles Chargers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43371
+#EXTINF:-1,NFLT: Los Angeles Rams
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43372
+#EXTINF:-1,NFLT: Miami Dolphins
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43373
+#EXTINF:-1,NFLT: Minnesota Vikings
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43374
+#EXTINF:-1,NFLT: New England Patriots
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43375
+#EXTINF:-1,NFLT: New York Giants
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43377
+#EXTINF:-1,NFLT: New York Jets
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43378
+#EXTINF:-1,NFLT: Oakland Raiders
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43379
+#EXTINF:-1,NFLT: Philadelphia Eagles
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43380
+#EXTINF:-1,NFLT: Pittsburgh Steelers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43381
+#EXTINF:-1,NFLT: Seattle Seahawks
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43383
+#EXTINF:-1,NFLT: Tampa Bay Buccaneers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43384
+#EXTINF:-1,NFLT: Tennessee Titans
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43385
+#EXTINF:-1,NFLT: Washington Redskins
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43386
+#EXTINF:-1,NFLT: New Orleans Saints
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43376
+#EXTINF:-1,NFLT: San Francisco 49ers
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/43382
