@@ -1,134 +1,1319 @@
 #EXTM3U
 
 #EXTINF:-1,###### SPORTS VIP ######
-#EXTINF:-1,DESP |Sky Sport Bundesliga 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
-#EXTINF:-1,DESP | Sky Bundesliga 2 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
-#EXTINF:-1,DESP | Sky Bundesliga 3
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
-#EXTINF:-1,DESP | Sky Bundesliga 4
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
-#EXTINF:-1,DESP | Sky Sport 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
-#EXTINF:-1,DESP |Sky Sport 2  HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
-#EXTINF:-1,DESP | Sport1  HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
-#EXTINF:-1,DESP | Dazn Bar 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
-#EXTINF:-1,DESP | Sport Digital HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
-#EXTINF:-1,DESP | Sky Sport News HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
-#EXTINF:-1,DESP | EuroSport 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
-#EXTINF:-1,DESP | Eurosport 2 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
-#EXTINF:-1,DESP | Eurosport 2 HD Xtra
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
-#EXTINF:-1,Abu Dhabi Sports 1 SD (Opt-1)
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1 HD (Opt-1)
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,Abu Dhabi Sports 1 HD (Opt-2)
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1 HD (Opt-3)
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 SD (Opt-2)
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD (Opt-1)
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 2 HD (Opt-2)
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2 HD (Opt-3)
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Rai Sport (Geo)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
-#EXTINF:-1,Rai Sport+ (Geo)
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
-#EXTINF:-1,ORF Sport
-http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1,(TR) EUROSPORT 2 (TR)
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.m3u8
-#EXTINF:-1,(TR) EUROSPORT 1 (TR)
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.m3u8
-#EXTINF:-1,DESP |Sky Sport Bundesliga 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.m3u8
-#EXTINF:-1,DESP | Sky Bundesliga 2 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.m3u8
-#EXTINF:-1,DESP | Sky Sport 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.m3u8
-#EXTINF:-1,DESP |Sky Sport 2  HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.m3u8
-#EXTINF:-1,DESP | Sport1  HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.m3u8
-#EXTINF:-1,DESP | Dazn Bar 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.m3u8
-#EXTINF:-1,DESP | Sport Digital HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.m3u8
-#EXTINF:-1,DESP | Sky Sport News HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.m3u8
-#EXTINF:-1,DESP | EuroSport 1 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.m3u8
-#EXTINF:-1,DESP | Eurosport 2 HD
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.m3u8
-#EXTINF:-1,DESP | Eurosport 2 HD Xtra
-http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.m3u8
-#EXTINF:-1,beIN Sports News
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26037.ts
-#EXTINF:-1,beIN SPORTS Global
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26039.ts
-#EXTINF:-1,beIN Sports NBA
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26038.ts
-#EXTINF:-1,beIN Sports 1 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25526.ts
-#EXTINF:-1,beIN Sports 2 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25529.ts
-#EXTINF:-1,beIN Sports 3 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25532.ts
-#EXTINF:-1,beIN Sports 4 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25535.ts
-#EXTINF:-1,beIN Sports 5 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25538.ts
-#EXTINF:-1,beIN Sports 6 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25541.ts
-#EXTINF:-1,beIN Sports 7 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25544.ts
-#EXTINF:-1,beIN Sports 8 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25547.ts
-#EXTINF:-1,beIN Sports 9 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25550.ts
-#EXTINF:-1,beIN Sports 10 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25553.ts
-#EXTINF:-1,beIN Sports 11 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25590.ts
-#EXTINF:-1,beIN Sports 12 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25591.ts
-#EXTINF:-1,beIN Sports 13 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25592.ts
-#EXTINF:-1,beIN Sports 14 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25593.ts
-#EXTINF:-1,beIN Sports 15 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25594.ts
-#EXTINF:-1,beIN Sports 16 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25595.ts
-#EXTINF:-1,BeoutQ 2 HD
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26088.ts
-#EXTINF:-1,Bein Sport 1HD FR
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26003.ts
-#EXTINF:-1,Bein Sport 2HD FR
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26004.ts
-#EXTINF:-1,Bein Sport 3HD FR
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/26005.ts
-#EXTINF:-1,Biban Tv
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25753.ts
-#EXTINF:-1,Salam Tv
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25631.ts
-#EXTINF:-1,KURD GOAL
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25632.ts
-#EXTINF:-1,AR:Arriadia Sat
-http://157.230.121.147:8000/live/SULTANTEAMNOW/HEFDVD9RTRE6DC/25854.ts
+#EXTINF:-1,AR: Bein Sport 1 HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42529.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42530.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42531.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42532.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42533.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42534.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42535.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42536.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42537.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42538.m3u8
+#EXTINF:-1,AR: Bein Sport 11
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42539.m3u8
+#EXTINF:-1,AR: BeIN Sport 12
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42540.m3u8
+#EXTINF:-1,SP: ESPN HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5.m3u8
+#EXTINF:-1,SP: ESPN 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/533.m3u8
+#EXTINF:-1,SP: ESPNU HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/559.m3u8
+#EXTINF:-1,SP: ESPN News HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/558.m3u8
+#EXTINF:-1,SP: NFL Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/693.m3u8
+#EXTINF:-1,SP: ACC Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44052.m3u8
+#EXTINF:-1,SP: NBA TV HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/705.m3u8
+#EXTINF:-1,SP: FOX Sports North HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/726.m3u8
+#EXTINF:-1,SP: FOX Sports South East HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/721.m3u8
+#EXTINF:-1,SP: FOX Sports South HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/719.m3u8
+#EXTINF:-1,SP: FOX Sports South West HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/718.m3u8
+#EXTINF:-1,SP: FOX Sports West HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/715.m3u8
+#EXTINF:-1,SP: FOX Sports Yes HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/713.m3u8
+#EXTINF:-1,SP: Fantasy Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/562.m3u8
+#EXTINF:-1,SP: MSG HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/707.m3u8
+#EXTINF:-1,SP: MSG 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/708.m3u8
+#EXTINF:-1,SP: Racing UK HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/683.m3u8
+#EXTINF:-1,SP: Sportsnet New York HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/663.m3u8
+#EXTINF:-1,SP: Sportsnet Los Angeles HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/664.m3u8
+#EXTINF:-1,SP: Sportsman Channel HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/667.m3u8
+#EXTINF:-1,SP: BT Sport 1 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/439.m3u8
+#EXTINF:-1,SP: BT Sport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/440.m3u8
+#EXTINF:-1,SP: BT Sport 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/527.m3u8
+#EXTINF:-1,SP: BT Sport ESPN HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/528.m3u8
+#EXTINF:-1,SP: CBS Sports Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/529.m3u8
+#EXTINF:-1,SP: NBC Golf Channel HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/704.m3u8
+#EXTINF:-1,SP: NBC Sports Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/698.m3u8
+#EXTINF:-1,SP: Sportsnet One HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/662.m3u8
+#EXTINF:-1,SP: Sportsnet East HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/665.m3u8
+#EXTINF:-1,SP: Sportsnet West HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/659.m3u8
+#EXTINF:-1,SP: Sportsnet Pacific HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/660.m3u8
+#EXTINF:-1,SP: Sportsnet 360 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/666.m3u8
+#EXTINF:-1,SP: TSN 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/655.m3u8
+#EXTINF:-1,SP: TSN 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/654.m3u8
+#EXTINF:-1,SP: TSN 4 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/653.m3u8
+#EXTINF:-1,SP: TSN 5 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/652.m3u8
+#EXTINF:-1,SP: RDS 1 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/682.m3u8
+#EXTINF:-1,SP: RDS 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/681.m3u8
+#EXTINF:-1,SP: Astro Supersports 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44418.m3u8
+#EXTINF:-1,SP: Astro Supersports 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44419.m3u8
+#EXTINF:-1,SP: Astro Supersports 4 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44420.m3u8
+#EXTINF:-1,SP: Sky Sports Main Event HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/105.m3u8
+#EXTINF:-1,SP: Sky Sports Cricket HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8618.m3u8
+#EXTINF:-1,SP: Sky Sports Action HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/678.m3u8
+#EXTINF:-1,SP: Sky Sports Arena HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/677.m3u8
+#EXTINF:-1,SP: Sky Sports Football HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/673.m3u8
+#EXTINF:-1,SP: Sky Sports Golf HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/672.m3u8
+#EXTINF:-1,SP: Sky Sports Premier League HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/668.m3u8
+#EXTINF:-1,SP: Sky Sports F1 HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/674.m3u8
+#EXTINF:-1,SP: Sky Sports Mix HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/670.m3u8
+#EXTINF:-1,SP: Sky Sports News HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/669.m3u8
+#EXTINF:-1,SP: Eurosport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/561.m3u8
+#EXTINF:-1,SP: Eir Sport 1 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/531.m3u8
+#EXTINF:-1,SP: Eir Sport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/532.m3u8
+#EXTINF:-1,SP: Premier Sports HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/684.m3u8
+#EXTINF:-1,SP: LFC TV HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/711.m3u8
+#EXTINF:-1,SP: MUTV HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/706.m3u8
+#EXTINF:-1,SP: UFC Fight Pass HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8617.m3u8
+#EXTINF:-1,SP: NBC Sports Boston HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/702.m3u8
+#EXTINF:-1,SP: NBC Sports California HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/701.m3u8
+#EXTINF:-1,SP: NBC Sports Chicago HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/700.m3u8
+#EXTINF:-1,SP: NBC Sports Washington HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/699.m3u8
+#EXTINF:-1,SP: NBC Sports North West HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/697.m3u8
+#EXTINF:-1,SP: NBC Sports Philadelphia HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/696.m3u8
+#EXTINF:-1,SP: NBC Sports Washington
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8620.m3u8
+#EXTINF:-1,SP: PAC-12 Network HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/687.m3u8
+#EXTINF:-1,SP: PAC-12 Arizona HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/691.m3u8
+#EXTINF:-1,SP: PAC-12 Bay-Area HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/690.m3u8
+#EXTINF:-1,SP: PAC-12 Los Angeles HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/689.m3u8
+#EXTINF:-1,SP: PAC-12 Mountain HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/688.m3u8
+#EXTINF:-1,SP: PAC-12 Oregon HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/686.m3u8
+#EXTINF:-1,SP: PAC-12 Washington HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/685.m3u8
+#EXTINF:-1,SP: FOX Sports 1 MX
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/828.m3u8
+#EXTINF:-1,SP: FOX Sports 2 BR
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/829.m3u8
+#EXTINF:-1,SP: FOX Sports 3 MX
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/830.m3u8
+#EXTINF:-1,SP: FOX Sports Arizona HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/568.m3u8
+#EXTINF:-1,SP: FOX Sports Carolinas HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/739.m3u8
+#EXTINF:-1,SP: FOX Sports Cincinnati HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/738.m3u8
+#EXTINF:-1,SP: FOX Sports Cleveland HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/737.m3u8
+#EXTINF:-1,SP: FOX Sports Detroit HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/736.m3u8
+#EXTINF:-1,SP: FOX Sports Florida HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/735.m3u8
+#EXTINF:-1,SP: FOX Sports Florida North HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/734.m3u8
+#EXTINF:-1,SP: FOX Sports Houston HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/733.m3u8
+#EXTINF:-1,SP: FOX Sports Indiana HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/732.m3u8
+#EXTINF:-1,SP: FOX Sports Kansas City HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/731.m3u8
+#EXTINF:-1,SP: FOX Sports New Orleans HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/728.m3u8
+#EXTINF:-1,SP: FOX Sports North Atlanta HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/727.m3u8
+#EXTINF:-1,SP: FOX Sports Ohio HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/725.m3u8
+#EXTINF:-1,SP: FOX Sports Oklahoma HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/724.m3u8
+#EXTINF:-1,SP: FOX Sports San Antonio HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/723.m3u8
+#EXTINF:-1,SP: FOX Sports San Diego HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/722.m3u8
+#EXTINF:-1,SP: FOX Sports South Georgia HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/720.m3u8
+#EXTINF:-1,SP: FOX Sports Sun HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/717.m3u8
+#EXTINF:-1,SP: FOX Sports Tennessee HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/716.m3u8
+#EXTINF:-1,SP: FOX Sports Wisconsin HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/714.m3u8
+#EXTINF:-1,SP: FOX Sportstime Ohio HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/712.m3u8
+#EXTINF:-1,SP: NFL Redzone
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/44448.m3u8
+#EXTINF:-1,PT: Sport  HD_https://dailym3uiptv.com
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28660.m3u8
+#EXTINF:-1,PT: Sport 1 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28659.m3u8
+#EXTINF:-1,PT: Sport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28658.m3u8
+#EXTINF:-1,PT: Sport 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28657.m3u8
+#EXTINF:-1,PT: Sport 4 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28656.m3u8
+#EXTINF:-1,PT: Sport 5 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28655.m3u8
+#EXTINF:-1,PT: Sporting TV HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/28661.m3u8
+#EXTINF:-1,SP: FOX Sports Mid West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/729.m3u8
+#EXTINF:-1,SP: FOX Sports North HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/726.m3u8
+#EXTINF:-1,SP: FOX Sports South East UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/721.m3u8
+#EXTINF:-1,SP: FOX Sports South UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/719.m3u8
+#EXTINF:-1,SP: FOX Sports South West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/718.m3u8
+#EXTINF:-1,SP: FOX Sports West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/715.m3u8
+#EXTINF:-1,SP: FOX Sports Yes HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/713.m3u8
+#EXTINF:-1,SP: WWE Network UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/650.m3u8
+#EXTINF:-1,SP: Tennis Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/657.m3u8
+#EXTINF:-1,SP: BeIN Sports US HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/436.m3u8
+#EXTINF:-1,SP: Box Nation HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/438.m3u8
+#EXTINF:-1,SP: NESN HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/695.m3u8
+#EXTINF:-1,SP: MSG HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/707.m3u8
+#EXTINF:-1,SP: MSG 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/708.m3u8
+#EXTINF:-1,SP: Racing UK UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/683.m3u8
+#EXTINF:-1,SP: Sportsnet New York HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/663.m3u8
+#EXTINF:-1,SP: Sportsnet Los Angeles HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/664.m3u8
+#EXTINF:-1,SP: Sportsman Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/667.m3u8
+#EXTINF:-1,SP: BT Sport 1 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/439.m3u8
+#EXTINF:-1,SP: BT Sport 2 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/440.m3u8
+#EXTINF:-1,SP: BT Sport 3 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/527.m3u8
+#EXTINF:-1,SP: CBS Sports Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/529.m3u8
+#EXTINF:-1,SP: NBC Golf Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/704.m3u8
+#EXTINF:-1,SP: NBC Sports Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/698.m3u8
+#EXTINF:-1,SP: Sportsnet One HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/662.m3u8
+#EXTINF:-1,SP: Sportsnet East HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/665.m3u8
+#EXTINF:-1,SP: Sportsnet West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/659.m3u8
+#EXTINF:-1,SP: Sportsnet Pacific HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/660.m3u8
+#EXTINF:-1,SP: Sportsnet 360 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/666.m3u8
+#EXTINF:-1,SP: TSN 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/656.m3u8
+#EXTINF:-1,SP: TSN 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/655.m3u8
+#EXTINF:-1,SP: TSN 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/654.m3u8
+#EXTINF:-1,SP: TSN 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/653.m3u8
+#EXTINF:-1,SP: TSN 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/652.m3u8
+#EXTINF:-1,SP: RDS 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/682.m3u8
+#EXTINF:-1,SP: RDS 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/681.m3u8
+#EXTINF:-1,SP: Astro Supersports 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44417.m3u8
+#EXTINF:-1,SP: Astro Supersports 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44418.m3u8
+#EXTINF:-1,SP: Astro Supersports 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44419.m3u8
+#EXTINF:-1,SP: Astro Supersports 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44420.m3u8
+#EXTINF:-1,SP: Sky Sports Main Event UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/105.m3u8
+#EXTINF:-1,SP: Sky Sports Cricket UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8618.m3u8
+#EXTINF:-1,SP: Sky Sports Action UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/678.m3u8
+#EXTINF:-1,SP: Sky Sports Arena UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/677.m3u8
+#EXTINF:-1,SP: Sky Sports Football UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/673.m3u8
+#EXTINF:-1,SP: Sky Sports Golf UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/672.m3u8
+#EXTINF:-1,SP: Sky Sports Premier League UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/668.m3u8
+#EXTINF:-1,SP: Sky Sports F1 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/674.m3u8
+#EXTINF:-1,SP: Sky Sports Mix UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/670.m3u8
+#EXTINF:-1,SP: Eir Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/531.m3u8
+#EXTINF:-1,SP: Eir Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/532.m3u8
+#EXTINF:-1,SP: Premier Sports HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/684.m3u8
+#EXTINF:-1,SP: NBC Sports Bay Area HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/703.m3u8
+#EXTINF:-1,SP: NBC Sports California HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/701.m3u8
+#EXTINF:-1,SP: NBC Sports Chicago HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/700.m3u8
+#EXTINF:-1,SP: NBC Sports North West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/697.m3u8
+#EXTINF:-1,SP: PAC-12 Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/687.m3u8
+#EXTINF:-1,SP: PAC-12 Arizona HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/691.m3u8
+#EXTINF:-1,SP: PAC-12 Bay-Area HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/690.m3u8
+#EXTINF:-1,SP: PAC-12 Mountain HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/688.m3u8
+#EXTINF:-1,SP: PAC-12 Oregon HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/686.m3u8
+#EXTINF:-1,SP: PAC-12 Washington HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/685.m3u8
+#EXTINF:-1,SP: FOX Sports 1 MX
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/828.m3u8
+#EXTINF:-1,SP: FOX Sports 2 BR
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/829.m3u8
+#EXTINF:-1,SP: FOX Sports 3 MX
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/830.m3u8
+#EXTINF:-1,SP: FOX Sports Detroit HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/736.m3u8
+#EXTINF:-1,SP: FOX Sports Florida HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/735.m3u8
+#EXTINF:-1,SP: FOX Sports Houston HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/733.m3u8
+#EXTINF:-1,SP: FOX Sports Indiana HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/732.m3u8
+#EXTINF:-1,SP: FOX Sports Kansas City HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/731.m3u8
+#EXTINF:-1,SP: FOX Sports New Orleans HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/728.m3u8
+#EXTINF:-1,SP: FOX Sports North Atlanta HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/727.m3u8
+#EXTINF:-1,SP: FOX Sports San Diego HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/722.m3u8
+#EXTINF:-1,SP: FOX Sports South Georgia HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/720.m3u8
+#EXTINF:-1,SP: FOX Sports Sun HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/717.m3u8
+#EXTINF:-1,SP: FOX Sports Tennessee HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/716.m3u8
+#EXTINF:-1,SP: FOX Sports Wisconsin HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/714.m3u8
+#EXTINF:-1,SP: FOX Sportstime Ohio HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/712.m3u8
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28660.m3u8
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28659.m3u8
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28658.m3u8
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28657.m3u8
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28656.m3u8
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28655.m3u8
+#EXTINF:-1,PT: Sporting TV HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28661.m3u8
+#EXTINF:-1,PT: Kombat Sports
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28692.m3u8
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42529.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42530.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42531.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42532.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42533.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42534.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42535.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42536.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42537.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42538.m3u8
+#EXTINF:-1,AR: Bein Sport 11
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42539.m3u8
+#EXTINF:-1,AR: BeIN Sport 12
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42540.m3u8
+#EXTINF:-1,live 1
+http://103.194.171.4:1935/abr/abr-S-1/live/S-1_480p/chunks.m3u8
+#EXTINF:-1,live 2
+http://103.194.171.4:1935/abr/abr-S-2/live/S-2_480p/chunks.m3u8
+#EXTINF:-1,live 3
+http://103.194.171.4:1935/abr/abr-S-3/live/S-3_480p/chunks.m3u8
+#EXTINF:-1,live 1
+http://194.67.208.149/hls/102.m3u8
+#EXTINF:-1,live 2
+http://194.67.208.149/hls/103.m3u8
+#EXTINF:-1,live 4
+http://194.67.208.149/hls/105.m3u8
+#EXTINF:-1,live 6
+http://194.67.208.149/hls/107.m3u8
+#EXTINF:-1,live 7
+http://194.67.208.149/hls/108.m3u8
+#EXTINF:-1,live 8
+http://194.67.208.149/hls/109.m3u8
+#EXTINF:-1,live 9
+http://194.67.208.149/hls/110.m3u8
+#EXTINF:-1,match_football_1
+http://edem2.ottv.info/iptv/RFMDRVFNWH7TBY/124/index.m3u8
+#EXTINF:-1,match_football_2
+http://edem2.ottv.info/iptv/RFMDRVFNWH7TBY/530/index.m3u8
+#EXTINF:-1,match_football_2
+http://persik.by/stream/3477/395381/10217.m3u8
+#EXTINF:-1,Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1,live
+http://194.67.220.30/hls/101.m3u8
+#EXTINF:-1,live 10
+http://194.67.220.30/hls/111.m3u8
+#EXTINF:-1,live 11
+http://194.67.220.30/hls/112.m3u8
+#EXTINF:-1,Eurosport 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1,EX-YU: HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/02.m3u8
+#EXTINF:-1,Football 1 RU
+http://edem2.ottv.info/iptv/RFMDRVFNWH7TBY/124/index.m3u8
+#EXTINF:-1,Football 2 RU
+http://edem2.ottv.info/iptv/RFMDRVFNWH7TBY/530/index.m3u8
+#EXTINF:-1,Football 3 RU
+http://edem2.ottv.info/iptv/RFMDRVFNWH7TBY/522/index.m3u8
+#EXTINF:-1,IDMAN Sport HD
+http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
+#EXTINF:-1,Turkmenistan Sport HD
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,belarus-5
+https://sport7.biz/lba/123/g1/bel555.m3u8
+#EXTINF:-1,belarus-5
+http://178.124.183.13/hls/JRKVSUPCP8/variant.m3u8?version=2
+
+#EXTINF:-1,CL: ESPN Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20172.m3u8
+#EXTINF:-1,CL: ESPN HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14742.m3u8
+#EXTINF:-1,CL: ESPN 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14860.m3u8
+#EXTINF:-1,CL: ESPN 2 HD [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20173.m3u8
+#EXTINF:-1,CL: ESPN 3 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20174.m3u8
+#EXTINF:-1,CL: ESPN 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14861.m3u8
+#EXTINF:-1,CL: Fox Sports Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20162.m3u8
+#EXTINF:-1,CL: Fox Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/15469.m3u8
+#EXTINF:-1,CL: Fox Sports HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/9384.m3u8
+#EXTINF:-1,CL: Fox Sports 1 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20163.m3u8
+#EXTINF:-1,CL: Fox Sports 1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/15470.m3u8
+#EXTINF:-1,CL: Fox Sports 1 HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14557.m3u8
+#EXTINF:-1,CL: Fox Sports 1 HD [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/10406.m3u8
+#EXTINF:-1,CL: Fox Sports 2 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20164.m3u8
+#EXTINF:-1,CL: Fox Sports 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18486.m3u8
+#EXTINF:-1,CL: Fox Sports 2 HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18489.m3u8
+#EXTINF:-1,CL: Fox Sports 2 HD [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18482.m3u8
+#EXTINF:-1,CL: Fox Sports 3 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20165.m3u8
+#EXTINF:-1,CL: Fox Sports 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/15472.m3u8
+#EXTINF:-1,CL: Fox Sports 3 HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14870.m3u8
+#EXTINF:-1,CL: Fox Sports 3 HD [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4886.m3u8
+#EXTINF:-1,(ARG) FOX SPORTS PREMIUM HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18492.m3u8
+#EXTINF:-1,(ARG) FOX SPORTS PREMIUM HD.
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14732.m3u8
+#EXTINF:-1,Fox Sports Chile Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16264.m3u8
+#EXTINF:-1,(Colombia) Claro Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13985.m3u8
+#EXTINF:-1,(México) Fox Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14008.m3u8
+#EXTINF:-1,(México) Fox Sports 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14007.m3u8
+#EXTINF:-1,(México) Fox Sports 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14006.m3u8
+#EXTINF:-1,CDF Full HD (Solo Eventos)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18496.m3u8
+#EXTINF:-1,CDF HD (Solo Eventos)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20221.m3u8
+#EXTINF:-1,CDF HD (1080P) [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18484.m3u8
+#EXTINF:-1,CDF HD (1080P)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14544.m3u8
+#EXTINF:-1,CDF HD (720P) [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18494.m3u8
+#EXTINF:-1,CDF HD (720P)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18491.m3u8
+#EXTINF:-1,CDF HQ (480P) [60 FPS]
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18487.m3u8
+#EXTINF:-1,CDF HQ (480P)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18488.m3u8
+#EXTINF:-1,CDF HD (CL)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14450.m3u8
+#EXTINF:-1,CDF HD (L)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14451.m3u8
+#EXTINF:-1,CDF HD (Conexiones lentas)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/10730.m3u8
+#EXTINF:-1,Estadio CDF HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/8944.m3u8
+#EXTINF:-1,Fox Sports Chile HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11713.m3u8
+#EXTINF:-1,Azteca Deportes Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17158.m3u8
+#EXTINF:-1,Bein Sports La Liga HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16760.m3u8
+#EXTINF:-1,BeIN Sports 1 HD (Arabia)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16771.m3u8
+#EXTINF:-1,BeIN Sports 1 HD (Francia)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16746.m3u8
+#EXTINF:-1,BeIN Sports 2 HD (Arabia)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16770.m3u8
+#EXTINF:-1,BeIN Sports 2 HD (Francia)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16745.m3u8
+#EXTINF:-1,BeIN Sports 3 HD (Francia)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16744.m3u8
+#EXTINF:-1,BEIN 3 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11082.m3u8
+#EXTINF:-1,BEIN 4 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11081.m3u8
+#EXTINF:-1,BEIN 5 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11080.m3u8
+#EXTINF:-1,BEIN 6 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11079.m3u8
+#EXTINF:-1,BEIN 7 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11078.m3u8
+#EXTINF:-1,BEIN 8 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11077.m3u8
+#EXTINF:-1,BEIN 9 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11076.m3u8
+#EXTINF:-1,BEIN 10 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11084.m3u8
+#EXTINF:-1,Bein Sports English FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11126.m3u8
+#EXTINF:-1,Bein Sports Ñ [Español] FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11127.m3u8
+#EXTINF:-1,Eleven Sports FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11117.m3u8
+#EXTINF:-1,DirecTV Sports Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17429.m3u8
+#EXTINF:-1,DirecTV Sports 2 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17430.m3u8
+#EXTINF:-1,ESPN + Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11162.m3u8
+#EXTINF:-1,ESPN Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11163.m3u8
+#EXTINF:-1,ESPN 2 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16262.m3u8
+#EXTINF:-1,ESPN 3 Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16263.m3u8
+#EXTINF:-1,ESPN Deportes HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16976.m3u8
+#EXTINF:-1,Fight Network FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11115.m3u8
+#EXTINF:-1,Fox Sports 1 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11227.m3u8
+#EXTINF:-1,Fox Sports 2 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18499.m3u8
+#EXTINF:-1,Fox Sports 3 FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11225.m3u8
+#EXTINF:-1,Golf Channel Latin America FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11219.m3u8
+#EXTINF:-1,Golf Channel Latin America Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17119.m3u8
+#EXTINF:-1,Px Sports FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11201.m3u8
+#EXTINF:-1,Px Sports Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17091.m3u8
+#EXTINF:-1,The Golf Channel HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11094.m3u8
+#EXTINF:-1,TNT Sports Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14727.m3u8
+#EXTINF:-1,TVC Deportes FULL HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11185.m3u8
+#EXTINF:-1,TVC Deportes Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17064.m3u8
+#EXTINF:-1,Win Sports Full HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13937.m3u8
+#EXTINF:-1,Benfica TV HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11064.m3u8
+#EXTINF:-1,BOX Nation HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16989.m3u8
+#EXTINF:-1,CBS Sports Network HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11060.m3u8
+#EXTINF:-1,CDO Básico HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16180.m3u8
+#EXTINF:-1,CDO Play HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14875.m3u8
+#EXTINF:-1,CDO Premium HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4896.m3u8
+#EXTINF:-1,Chelsea TV HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11123.m3u8
+#EXTINF:-1,Claro Sports Latinoamerica HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13984.m3u8
+#EXTINF:-1,DirecTV Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11706.m3u8
+#EXTINF:-1,DirecTV Sports HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17431.m3u8
+#EXTINF:-1,DirecTV Sports 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11707.m3u8
+#EXTINF:-1,DirecTV Sports 2 HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17432.m3u8
+#EXTINF:-1,DirecTV Sports Plus HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11708.m3u8
+#EXTINF:-1,DirecTV Sports Plus HD *
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17433.m3u8
+#EXTINF:-1,ESPN HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19857.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/12945.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/12946.m3u8
+#EXTINF:-1,ESPN + HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/4751.m3u8
+#EXTINF:-1,Fight Box HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16970.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16969.m3u8
+#EXTINF:-1,FOX Deportes HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11113.m3u8
+#EXTINF:-1,Fox Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14026.m3u8
+#EXTINF:-1,Fox Sports HD |CL|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16958.m3u8
+#EXTINF:-1,Fox Sports 1 HD sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16966.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18490.m3u8
+#EXTINF:-1,Fox Sports 2 HD sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16962.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14024.m3u8
+#EXTINF:-1,Fox Sports 3 HD sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16960.m3u8
+#EXTINF:-1,FS1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11110.m3u8
+#EXTINF:-1,FS2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11109.m3u8
+#EXTINF:-1,Gol TV English HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11104.m3u8
+#EXTINF:-1,Gol TV HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11105.m3u8
+#EXTINF:-1,Golf Channel Latinoamerica HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13995.m3u8
+#EXTINF:-1,Sky Sport 1 HD (Alemania)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16765.m3u8
+#EXTINF:-1,Sky Sport 2 HD (Alemania)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16764.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16762.m3u8
+#EXTINF:-1,Sky Sport HD (Austria)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16763.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16761.m3u8
+#EXTINF:-1,Tennis Channel HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14036.m3u8
+#EXTINF:-1,TNT Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18493.m3u8
+#EXTINF:-1,TNT Sports HD |AR|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18495.m3u8
+#EXTINF:-1,TyC Sports Internacional HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14743.m3u8
+#EXTINF:-1,UFC Latinoamérica HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/10407.m3u8
+#EXTINF:-1,UFC TV HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16946.m3u8
+#EXTINF:-1,Win Sports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16448.m3u8
+#EXTINF:-1,Aym Sports HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11342.m3u8
+#EXTINF:-1,DirecTV Sports HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17434.m3u8
+#EXTINF:-1,DirecTV Sports 2 HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17435.m3u8
+#EXTINF:-1,DirecTV Sports Plus HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17436.m3u8
+#EXTINF:-1,ESPN HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11337.m3u8
+#EXTINF:-1,ESPN 2 HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11336.m3u8
+#EXTINF:-1,ESPN 3 HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11335.m3u8
+#EXTINF:-1,ESPN + HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11282.m3u8
+#EXTINF:-1,ESPN SEC HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11264.m3u8
+#EXTINF:-1,ESPN U HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11263.m3u8
+#EXTINF:-1,Fox Sports 1 HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11334.m3u8
+#EXTINF:-1,Fox Sports 2 HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18497.m3u8
+#EXTINF:-1,Golf Channel Latinoamerica HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11286.m3u8
+#EXTINF:-1,Latin American Sports HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11388.m3u8
+#EXTINF:-1,TVC Deportes HQ
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11343.m3u8
+#EXTINF:-1,ESPN SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20168.m3u8
+#EXTINF:-1,ESPN 2 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20169.m3u8
+#EXTINF:-1,ESPN 3 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20170.m3u8
+#EXTINF:-1,ESPN + SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20171.m3u8
+#EXTINF:-1,Afizzionados (Exclusivo)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11259.m3u8
+#EXTINF:-1,Bein Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16990.m3u8
+#EXTINF:-1,CDF Básico
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19559.m3u8
+#EXTINF:-1,CDF Premium
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14224.m3u8
+#EXTINF:-1,CDO Básico
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14223.m3u8
+#EXTINF:-1,Claro Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16983.m3u8
+#EXTINF:-1,CNT Sports |EC|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16982.m3u8
+#EXTINF:-1,DirecTV Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/20203.m3u8
+#EXTINF:-1,DirecTV Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16981.m3u8
+#EXTINF:-1,DirecTV Sports Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16980.m3u8
+#EXTINF:-1,ESPN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19858.m3u8
+#EXTINF:-1,ESPN sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16972.m3u8
+#EXTINF:-1,ESPN 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16978.m3u8
+#EXTINF:-1,ESPN 2 sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14220.m3u8
+#EXTINF:-1,ESPN 3 sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16977.m3u8
+#EXTINF:-1,ESPN +
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16973.m3u8
+#EXTINF:-1,Fox Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16968.m3u8
+#EXTINF:-1,Fox Sports |CL|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16967.m3u8
+#EXTINF:-1,Fox Sports sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16965.m3u8
+#EXTINF:-1,Fox Sports VEN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16956.m3u8
+#EXTINF:-1,Fox Sports 1 Sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11710.m3u8
+#EXTINF:-1,Fox Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16963.m3u8
+#EXTINF:-1,Fox Sports 2 Sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11711.m3u8
+#EXTINF:-1,Fox Sports 3
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16959.m3u8
+#EXTINF:-1,Fox Sports 3 Sur
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11712.m3u8
+#EXTINF:-1,Fox Sports Premium |AR|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18485.m3u8
+#EXTINF:-1,Golf Latin America
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16954.m3u8
+#EXTINF:-1,GOLPERU |PE|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16953.m3u8
+#EXTINF:-1,Gol TV
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16955.m3u8
+#EXTINF:-1,Movistar Deportes |PE|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16952.m3u8
+#EXTINF:-1,Px Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16950.m3u8
+#EXTINF:-1,TDN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16949.m3u8
+#EXTINF:-1,TNT Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14728.m3u8
+#EXTINF:-1,TyC Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16947.m3u8
+#EXTINF:-1,univision Deportes
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16945.m3u8
+#EXTINF:-1,Win Sports |CO|
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16942.m3u8
+#EXTINF:-1,Brasil | FOX Sports 1
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19523.m3u8
+#EXTINF:-1,Brasil | Fox Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19522.m3u8
+#EXTINF:-1,Brasil | SPORT TV 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16768.m3u8
+#EXTINF:-1,Brasil | SPORT TV 3 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16767.m3u8
+#EXTINF:-1,ES: Barca TV
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17338.m3u8
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17330.m3u8
+#EXTINF:-1,ES: Esport 3 CAT
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17328.m3u8
+#EXTINF:-1,ES: ETB Sat
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17203.m3u8
+#EXTINF:-1,ES: Euronews HD en Español
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17202.m3u8
+#EXTINF:-1,ES: Eurosport 1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17320.m3u8
+#EXTINF:-1,ES: Eurosport 1 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17319.m3u8
+#EXTINF:-1,ES: EUROSPORT 1
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16758.m3u8
+#EXTINF:-1,ES: Eurosport 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17318.m3u8
+#EXTINF:-1,ES: EUROSPORT 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16757.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17317.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 1 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17316.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17315.m3u8
+#EXTINF:-1,ES: Movistar  Deportes 2 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17314.m3u8
+#EXTINF:-1,ES: Movistar  Disney
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17301.m3u8
+#EXTINF:-1,ES: Movistar  eSports HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17313.m3u8
+#EXTINF:-1,ES: Movistar  Estrenos HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17300.m3u8
+#EXTINF:-1,ES: Movistar  Estrenos SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17299.m3u8
+#EXTINF:-1,ES: Movistar  Formula 1 SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17312.m3u8
+#EXTINF:-1,ES: Movistar  Futbol HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17325.m3u8
+#EXTINF:-1,ES: Movistar  Futbol SD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17324.m3u8
+#EXTINF:-1,ES: Movistar  Golf
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17311.m3u8
+#EXTINF:-1,Italia | Sky Sports 1
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13058.m3u8
+#EXTINF:-1,Italia | Sky Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13057.m3u8
+#EXTINF:-1,Italia | Sky Sports 24
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13056.m3u8
+#EXTINF:-1,Italia | Sky Sports 3
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13055.m3u8
+#EXTINF:-1,Italia | Sky Sports 4
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13054.m3u8
+#EXTINF:-1,Italia | Supercalcio HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13053.m3u8
+#EXTINF:-1,PT| EUROSPORT 1 FHD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16743.m3u8
+#EXTINF:-1,PT| EUROSPORT 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16742.m3u8
+#EXTINF:-1,PT| Sport TV 1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16741.m3u8
+#EXTINF:-1,PT| Sport TV 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16740.m3u8
+#EXTINF:-1,PT| Sport TV 3 FHD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16739.m3u8
+#EXTINF:-1,PT| Sport TV Plus  HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16738.m3u8
+#EXTINF:-1,PT| SPORTING TV HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16737.m3u8
+#EXTINF:-1,UK | Premiere Sports FHD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16736.m3u8
+#EXTINF:-1,UK | SKY Sports ACTION HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16733.m3u8
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19558.m3u8
+#EXTINF:-1,UK | Sky Sport Football HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16734.m3u8
+#EXTINF:-1,UK | Sky Sport Arena HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18772.m3u8
+#EXTINF:-1,UK | SKY Sports CRICKET
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16732.m3u8
+#EXTINF:-1,UK | SKY Sports GOLF HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16730.m3u8
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16729.m3u8
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/18483.m3u8
+#EXTINF:-1,UK | Sky Sports News HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16727.m3u8
+#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16726.m3u8
+#EXTINF:-1,UK | Sky Sports The Open HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16725.m3u8
+#EXTINF:-1,USA | AFN SPORTS
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16645.m3u8
+#EXTINF:-1,USA | AFN SPORTS 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16644.m3u8
+#EXTINF:-1,USA | Bein Sports USA HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16642.m3u8
+#EXTINF:-1,USA | Bein Sports USA HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14509.m3u8
+#EXTINF:-1,USA | CBS Sports Network HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16640.m3u8
+#EXTINF:-1,USA | CBS Sports Network HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14507.m3u8
+#EXTINF:-1,USA | ESPN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16633.m3u8
+#EXTINF:-1,USA | ESPN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14500.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16632.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14499.m3u8
+#EXTINF:-1,USA | ESPN News US HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16631.m3u8
+#EXTINF:-1,USA | ESPN News US HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14498.m3u8
+#EXTINF:-1,USA | ESPN U HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16630.m3u8
+#EXTINF:-1,USA | ESPN U HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14497.m3u8
+#EXTINF:-1,USA | Fight HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16629.m3u8
+#EXTINF:-1,USA | FIGHT SPORT
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16628.m3u8
+#EXTINF:-1,USA | FOX Collage Sports Atlantic HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11056.m3u8
+#EXTINF:-1,USA | FOX Collage Sports Central HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11055.m3u8
+#EXTINF:-1,USA | FOX Collage Sports Pacific HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11054.m3u8
+#EXTINF:-1,USA | Fox Sports 1
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16623.m3u8
+#EXTINF:-1,USA | Fox Sports 1
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14490.m3u8
+#EXTINF:-1,USA | Fox Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16622.m3u8
+#EXTINF:-1,USA | Fox Sports 2
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14489.m3u8
+#EXTINF:-1,USA | Fox SPORTS 506 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16621.m3u8
+#EXTINF:-1,USA | Fox SPORTS 506 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14488.m3u8
+#EXTINF:-1,USA | FOX Sports Arizona 2 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11156.m3u8
+#EXTINF:-1,USA | FOX Sports Arizona HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11062.m3u8
+#EXTINF:-1,USA | FOX Sports Carolinas HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11155.m3u8
+#EXTINF:-1,USA | FOX Sports Detroit HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11053.m3u8
+#EXTINF:-1,USA | FOX Sports Florida HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11052.m3u8
+#EXTINF:-1,USA | FOX Sports Midwest HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11154.m3u8
+#EXTINF:-1,USA | FOX Sports New Orleans HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11153.m3u8
+#EXTINF:-1,USA | FOX Sports North HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11152.m3u8
+#EXTINF:-1,USA | FOX Sports North Plus HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11151.m3u8
+#EXTINF:-1,USA | FOX Sports Ohio HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11150.m3u8
+#EXTINF:-1,USA | FOX Sports Oklahoma HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11149.m3u8
+#EXTINF:-1,USA | Fox Sports Prime Ticket HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11051.m3u8
+#EXTINF:-1,USA | WWE HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16582.m3u8
+#EXTINF:-1,USA VIP: CBS Sports Network
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16578.m3u8
+#EXTINF:-1,USA VIP: CNBC
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16577.m3u8
+#EXTINF:-1,USA VIP: CNBC World USA
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16576.m3u8
+#EXTINF:-1,USA VIP: Eleven Sports
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16575.m3u8
+#EXTINF:-1,USA VIP: Fight Network
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16574.m3u8
+#EXTINF:-1,USA VIP: FOX Collage Sports Atlantic
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16573.m3u8
+#EXTINF:-1,USA VIP: FOX Collage Sports Central
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16572.m3u8
+#EXTINF:-1,USA VIP: FOX Collage Sports Pacific
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16571.m3u8
+#EXTINF:-1,USA VIP: Fox Soccer Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16570.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Arizona
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16569.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Carolinas
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16568.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Detroit
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16567.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Midwest
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16566.m3u8
+#EXTINF:-1,USA VIP: FOX Sports New Orleans
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16565.m3u8
+#EXTINF:-1,USA VIP: FOX Sports North
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16564.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Ohio
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16563.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Oklahoma
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16562.m3u8
+#EXTINF:-1,USA VIP: Fox Sports San Diego USA
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16561.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Southeast
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16560.m3u8
+#EXTINF:-1,USA VIP: FOX Sports SouthWest
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16559.m3u8
+#EXTINF:-1,USA VIP: FOX Sports SouthWest Plus
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16558.m3u8
+#EXTINF:-1,USA VIP: FOX Sports SUN
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16557.m3u8
+#EXTINF:-1,USA VIP: FOX Sports West
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16556.m3u8
+#EXTINF:-1,USA VIP: Fox Sports West USA
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16555.m3u8
+#EXTINF:-1,USA VIP: FOX Sports Wisconsin
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16554.m3u8
+#EXTINF:-1,SP: FOX Sports Mid West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/729.m3u8
+#EXTINF:-1,SP: FOX Sports North HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/726.m3u8
+#EXTINF:-1,SP: FOX Sports South East UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/721.m3u8
+#EXTINF:-1,SP: FOX Sports South UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/719.m3u8
+#EXTINF:-1,SP: FOX Sports South West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/718.m3u8
+#EXTINF:-1,SP: FOX Sports West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/715.m3u8
+#EXTINF:-1,SP: FOX Sports Yes HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/713.m3u8
+#EXTINF:-1,SP: WWE Network UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/650.m3u8
+#EXTINF:-1,SP: Tennis Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/657.m3u8
+#EXTINF:-1,SP: BeIN Sports US HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/436.m3u8
+#EXTINF:-1,SP: Box Nation HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/438.m3u8
+#EXTINF:-1,SP: NESN HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/695.m3u8
+#EXTINF:-1,SP: MSG HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/707.m3u8
+#EXTINF:-1,SP: MSG 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/708.m3u8
+#EXTINF:-1,SP: Racing UK UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/683.m3u8
+#EXTINF:-1,SP: Sportsnet New York HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/663.m3u8
+#EXTINF:-1,SP: Sportsnet Los Angeles HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/664.m3u8
+#EXTINF:-1,SP: Sportsman Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/667.m3u8
+#EXTINF:-1,SP: BT Sport 1 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/439.m3u8
+#EXTINF:-1,SP: BT Sport 2 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/440.m3u8
+#EXTINF:-1,SP: BT Sport 3 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/527.m3u8
+#EXTINF:-1,SP: BT Sport ESPN UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/528.m3u8
+#EXTINF:-1,SP: CBS Sports Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/529.m3u8
+#EXTINF:-1,SP: NBC Golf Channel HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/704.m3u8
+#EXTINF:-1,SP: NBC Sports Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/698.m3u8
+#EXTINF:-1,SP: Sportsnet One HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/662.m3u8
+#EXTINF:-1,SP: Sportsnet East HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/665.m3u8
+#EXTINF:-1,SP: Sportsnet West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/659.m3u8
+#EXTINF:-1,SP: Sportsnet Pacific HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/660.m3u8
+#EXTINF:-1,SP: Sportsnet 360 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/666.m3u8
+#EXTINF:-1,SP: Sportsnet World HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/658.m3u8
+#EXTINF:-1,SP: TSN 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/656.m3u8
+#EXTINF:-1,SP: TSN 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/655.m3u8
+#EXTINF:-1,SP: TSN 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/654.m3u8
+#EXTINF:-1,SP: TSN 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/653.m3u8
+#EXTINF:-1,SP: TSN 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/652.m3u8
+#EXTINF:-1,SP: RDS 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/682.m3u8
+#EXTINF:-1,SP: RDS 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/681.m3u8
+#EXTINF:-1,SP: RDS Info HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/680.m3u8
+#EXTINF:-1,SP: Astro Supersports 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44417.m3u8
+#EXTINF:-1,SP: Astro Supersports 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44418.m3u8
+#EXTINF:-1,SP: Astro Supersports 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44419.m3u8
+#EXTINF:-1,SP: Astro Supersports 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/44420.m3u8
+#EXTINF:-1,SP: Sky Sports Main Event UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/105.m3u8
+#EXTINF:-1,SP: Sky Sports Cricket UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8618.m3u8
+#EXTINF:-1,SP: Sky Sports Action UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/678.m3u8
+#EXTINF:-1,SP: Sky Sports Arena UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/677.m3u8
+#EXTINF:-1,SP: Sky Sports Football UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/673.m3u8
+#EXTINF:-1,SP: Sky Sports Golf UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/672.m3u8
+#EXTINF:-1,SP: Sky Sports Premier League UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/668.m3u8
+#EXTINF:-1,SP: Sky Sports F1 UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/674.m3u8
+#EXTINF:-1,SP: Sky Sports Mix UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/670.m3u8
+#EXTINF:-1,SP: Sky Sports News UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/669.m3u8
+#EXTINF:-1,SP: Sky Sports Box Office HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/676.m3u8
+#EXTINF:-1,SP: Eurosport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/560.m3u8
+#EXTINF:-1,SP: Eurosport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/561.m3u8
+#EXTINF:-1,SP: Eir Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/531.m3u8
+#EXTINF:-1,SP: Eir Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/532.m3u8
+#EXTINF:-1,SP: Premier Sports HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/684.m3u8
+#EXTINF:-1,SP: Chelsea TV (Live on Matches) UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/530.m3u8
+#EXTINF:-1,SP: LFC TV HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/711.m3u8
+#EXTINF:-1,SP: MUTV HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/706.m3u8
+#EXTINF:-1,SP: UFC Fight Pass UHD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8617.m3u8
+#EXTINF:-1,SP: UFC Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8616.m3u8
+#EXTINF:-1,SP: NBC Sports Bay Area HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/703.m3u8
+#EXTINF:-1,SP: NBC Sports Boston HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/702.m3u8
+#EXTINF:-1,SP: NBC Sports California HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/701.m3u8
+#EXTINF:-1,SP: NBC Sports Chicago HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/700.m3u8
+#EXTINF:-1,SP: NBC Sports Washington HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/699.m3u8
+#EXTINF:-1,SP: NBC Sports North West HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/697.m3u8
+#EXTINF:-1,SP: NBC Sports Philadelphia HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/696.m3u8
+#EXTINF:-1,SP: NBC Sports Washington
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8620.m3u8
+#EXTINF:-1,SP: PAC-12 Network HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/687.m3u8
+#EXTINF:-1,SP: PAC-12 Arizona HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/691.m3u8
+#EXTINF:-1,SP: PAC-12 Bay-Area HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/690.m3u8
+#EXTINF:-1,SP: PAC-12 Los Angeles HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/689.m3u8
+#EXTINF:-1,SP: PAC-12 Mountain HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/688.m3u8
+#EXTINF:-1,SP: PAC-12 Oregon HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/686.m3u8
+#EXTINF:-1,SP: PAC-12 Washington HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/685.m3u8
+#EXTINF:-1,SP: FOX Sports 1 MX
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/828.m3u8
+#EXTINF:-1,SP: FOX Sports 2 BR
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/829.m3u8
+#EXTINF:-1,SP: FOX Sports 3 MX
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/830.m3u8
+#EXTINF:-1,SP: FOX Sports Arizona HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/568.m3u8
+#EXTINF:-1,SP: FOX Sports Carolinas HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/739.m3u8
+#EXTINF:-1,SP: FOX Sports Cincinnati HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/738.m3u8
+#EXTINF:-1,SP: FOX Sports Cleveland HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/737.m3u8
+#EXTINF:-1,SP: FOX Sports Detroit HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/736.m3u8
+#EXTINF:-1,SP: FOX Sports Florida HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/735.m3u8
+#EXTINF:-1,SP: FOX Sports Florida North HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/734.m3u8
+#EXTINF:-1,SP: FOX Sports Houston HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/733.m3u8
+#EXTINF:-1,SP: FOX Sports Indiana HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/732.m3u8
+#EXTINF:-1,SP: FOX Sports Kansas City HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/731.m3u8
+#EXTINF:-1,SP: FOX Sports New Orleans HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/728.m3u8
+#EXTINF:-1,SP: FOX Sports North Atlanta HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/727.m3u8
+#EXTINF:-1,SP: FOX Sports Ohio HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/725.m3u8
+#EXTINF:-1,SP: FOX Sports Oklahoma HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/724.m3u8
+#EXTINF:-1,SP: FOX Sports San Antonio HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/723.m3u8
+#EXTINF:-1,SP: FOX Sports San Diego HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/722.m3u8
+#EXTINF:-1,SP: FOX Sports South Georgia HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/720.m3u8
+#EXTINF:-1,SP: FOX Sports Sun HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/717.m3u8
+#EXTINF:-1,SP: FOX Sports Tennessee HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/716.m3u8
+#EXTINF:-1,SP: FOX Sports Wisconsin HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/714.m3u8
+#EXTINF:-1,SP: FOX Sportstime Ohio HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/712.m3u8
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28660.m3u8
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28659.m3u8
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28658.m3u8
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28657.m3u8
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28656.m3u8
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28655.m3u8
+#EXTINF:-1,PT: Sporting TV HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28661.m3u8
+#EXTINF:-1,PT: Kombat Sports
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/28692.m3u8
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42529.m3u8
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42530.m3u8
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42531.m3u8
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42532.m3u8
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42533.m3u8
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42534.m3u8
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42535.m3u8
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42536.m3u8
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42537.m3u8
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42538.m3u8
+#EXTINF:-1,AR: Bein Sport 11
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42539.m3u8
+#EXTINF:-1,AR: BeIN Sport 12
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/42540.m3u8
 
 
 SPORTS M3U PLAYLIST 22/06/2019 
