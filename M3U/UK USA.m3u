@@ -1,13 +1,43 @@
 #EXTM3U
-#EXTINF:0,Bournemouth vs Manchester City
-http://acdn60.youpit.site/live/yp3/chunks.m3u8
-#EXTINF:0,Bournemouth vs Manchester City
-http://acdn60.youpit.site/live/yp2/chunks.m3u8
-#EXTINF:0,Bournemouth vs Manchester City
-https://ul.cdn946.net:8443/hls/i9tos.m3u8?s=9wbhgAv16AvbLmBgKuergA&e=1566760037
-#EXTINF:0,Bournemouth vs Manchester City
-https://ul.cdn946.net:8443/hls/u6qndo.m3u8?s=9o3qaJBe1ax4IPbUSsbrYA&e=1566760078
-#EXTINF:0,Bournemouth vs Manchester City
-https://ul.cdn946.net:8443/hls/vkhgr.m3u8?s=HXhv50g2k2odqsF2_YnC7A&e=1566760147
-#EXTINF:0,Bournemouth vs Manchester City
-http://mhdtvlive.online/hotstar/hotplus.php?c=ssselecthd1&e=.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/25501.m3u8?sf=MVNwczEwU2JE&token=pJ22I-VKtXHdhruBrE1YZA&expires=1567249460&rnd=25501
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/25501.m3u8?sf=MVNwczEwU2JE&token=SObcmNtbWThHmQ_OZblD8A&expires=1567249730&rnd=25501
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/25521.m3u8?sf=MjFwczEwU2JE&token=_8PDzO1uhKTmT5xnh6dJIg&expires=1567249775&rnd=25521
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=1JHaNAnx1rh3bH3VBa5fMQ&e=1567264264
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=fSnv66vo2MjnU9VW6KzCAQ&e=1567264339
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+http://tv.b4ucast.me/tv/SULfL4yHw720180321/chunklist_w838690743_tkaGxzZW5kdGltZT0xNTY3MjQ1NzgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bTcyQjdyYTRFSmhVTVpqMGlmQVJUcGs1TzZEWWJsd3p3RTdiQWVhbVRwVT0=.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=2YVcfv-g7pv4pr5MKmHHVw&e=1567264565
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/gzdphhu.m3u8?s=EJo_-SUSNQNKShCPe4ye6Q&e=1567264676
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/cvjbdjjnvh25y.m3u8?s=KSt9L50LU0xPuCrxZyx2qw&e=1567264970
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+http://103.194.171.155:8081/abr_live/abr-S1/live/SN-S1_480p/chunks.m3u8?nimblesessionid=12269580&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE5IDk6MzA6NDIgQU0maGFzaF92YWx1ZT13UUVLTmg0VXRmSjRUdzlST0crWE1RPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE0MS4xMDEuMTA3LjIzNSZzdHJtX2xlbj05
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+http://tv.b4ucast.me/tv/PPRh154UUz20180321/chunklist_w1936252571_tkaGxzZW5kdGltZT0xNTY3MjQ4MTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OV9hOFAwZFBLTmFzbzduNUJicnp3dXE5N0tLdERZYXBLLThKMjVRRmx2az0=.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://hls305304.r-cdn.com/trn_61810/561/576p/playlist.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+http://34.96.101.175/live/ch3/index.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://cdx.dailysport.pw/1/1.m3u8
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://d3.airhdx.com:30443/live/spstreameurosport/chunks.m3u8?nimblesessionid=68600&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE5IDc6Mjg6MDYgQU0maGFzaF92YWx1ZT1EVlRVditMKzh4SVRaSVpKeGlPZCtBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/33398.m3u8?sf=MVNwczEwU2JE&token=252A_9SI5Xy3RrblQjYMdw&expires=1567254051&rnd=33398
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/33418.m3u8?sf=MjFwczEwU2JE&token=kh-9jyhLry0WuGj-iS7F2g&expires=1567254088&rnd=33418
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest09/33398.m3u8?sf=MVNwczEwU2JE&token=Z0snXg2nMIn8h0Jmpk66Pg&expires=1567254150&rnd=33398
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://d3.airhdx.com:30443/live/ch19/chunks.m3u8?nimblesessionid=68957&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDE5IDc6Mzg6NDkgQU0maGFzaF92YWx1ZT16dHQzNmJBSmJNL1MzS28vZkdPbW5BPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://ul.cdn946.net:8443/hls/gzdphhu.m3u8?s=g0PFkg7sxKGrh_CC7d5QYw&e=1567268670
+#EXTINF:0,12:30 England Premier League: Southampton - Manchester United
+https://mob.tellerium.website/ingest01/53800.m3u8?sf=QUx2OFJFNUJwag==&token=rJ085qSLXlrm8_xhz_5eOg&expires=1567254528&rnd=53800
