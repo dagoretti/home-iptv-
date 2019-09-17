@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:0,Premier League: Manchester Utd vs Leicester 
-https://mbb.tellerium.website/ingest09/25521.m3u8?sf=MjFwczEwU2JE&token=L0N1_YFVcGFgymuZ-ijJDg&expires=1568477057&rnd=25521
-#EXTINF:0,Premier League: Manchester Utd vs Leicester 
-http://das3.serdan.xyz/hls/lsh9hd53/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE5IDI6MDM6MDkgUE0maGFzaF92YWx1ZT1oU2ZsWnE2ZGc5cEMzRnAveHlTWU1BPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Premier League: Manchester Utd vs Leicester 
-http://das3.serdan.xyz/hls/lsh9hd53/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE5IDE6NTc6MjcgUE0maGFzaF92YWx1ZT01bXNjYWFsbmRLTldlWEhiREJ2dWF3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=QBLKwliyVcVzztnzKTX-xQ&e=1568767739
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+https://ul.cdn946.net:8443/hls/o1n49qeq.m3u8?s=Wue1qD-mjykMLhVEpg0jPQ&e=1568767830
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+https://ul.cdn946.net:8443/hls/2xaykpf8iyd.m3u8?s=mrp7bn12HubaLJflgS9e3Q&e=1568767988
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+http://34.102.132.157/live/ch8/index.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=nU36uZaOh6tDbC3AuP0qtg&e=1568768203
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=DLv6rcs6xXY4hXBZP_-ToQ&e=1568768284
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+http://tv.b4ucast.me/tv/BSr715Im6t20180321/chunklist_w1652323524_tkaGxzZW5kdGltZT0xNTY4NzQ5ODYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NjJHNkZ5VnhfQkM5a1E3b0l3bEhVQ0JnSkQ5MmVwODVlaURTd0lsVkUybz0=.m3u8
+#EXTINF:0,20:00 Clubs UEFA Champions League, Group E: SSC Napoli - Liverpool FC
+http://serevr1.thetrxdaily.com/live/ch7.m3u8
