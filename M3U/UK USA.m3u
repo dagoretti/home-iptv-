@@ -23,3 +23,21 @@ https://d7.airhdx.com:30443/live/ZxXpfDtL/chunks.m3u8?nimblesessionid=960133&wms
 http://185.39.11.109:8081/live/btsports1lsh58.m3u8?e=1569103356&st=byrxb-ccuccASHVTPMHn1Q
 #EXTINF:0,[11:30 GMT] Leicester City vs Tottenham Hotspur
 http://das17.serdan.xyz/hls/bt1sd12/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE5IDE6MDU6NDIgUE0maGFzaF92YWx1ZT1YbHlvbk5wdzY4VGpvdWlpaWc3Y1l3PT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:0,15:00 England Premier League: Burnley FC - Norwich City
+https://mob.tellerium.website/ingest09/25533.m3u8?sf=MzNwczEwU2JE&token=7mVPJ-Ni4_wZl6MS5GrI5w&expires=1569087727&rnd=25533
+#EXTINF:0,15:00 England Premier League: Burnley FC - Norwich City
+https://mob.tellerium.website/ingest08/27349.m3u8?sf=QmVZOGg4MGhOZA==&token=jNd0Rr_sDvsXkfctE2I5RQ&expires=1569087790&rnd=27349
+#EXTINF:0,15:00 England Premier League: Burnley FC - Norwich City
+15:00 England Premier League: Manchester City - Watford
+#EXTINF:0,http://ul.cdn946.net:8080/hls/u6t91m.m3u8?s=HIq966I_T1lhOO13qPnilQ&e=1569095477
+15:00 England Premier League: Manchester City - Watford
+#EXTINF:0,http://cdn.60fps.live/live/yp3/chunks.m3u8
+15:00 England Premier League: Manchester City - Watford
+#EXTINF:0,https://d5.airhdx.com:30443/live/spstream7/chunks.m3u8?nimblesessionid=973597&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE5IDExOjEyOjE1IEFNJmhhc2hfdmFsdWU9RklzNXpOWHJzYnAvd045ZmR2M1pqUT09JnZhbGlkbWludXRlcz0xMjA=
+15:00 England Premier League: Everton FC - Sheffield United
+#EXTINF:0,https://e7.cdn4.us/ingest666/everton.m3u8
+15:00 England Premier League: Everton FC - Sheffield United
+#EXTINF:0,http://das20.serdan.xyz/hls/ch8sd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE5IDI6MDE6MTUgUE0maGFzaF92YWx1ZT1wQkhGQUthMGtZYUtCL2JmQ1gzTi9RPT0mdmFsaWRtaW51dGVzPTEyMA==
+15:00 England Premier League: Everton FC - Sheffield United
+#EXTINF:0,https://d5.airhdx.com:30443/live/uRfafWCk/chunks.m3u8?nimblesessionid=974216&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE5IDExOjE1OjA4IEFNJmhhc2hfdmFsdWU9bXJPeDdtMklLeFUvZ2h5YXQwT1IwUT09JnZhbGlkbWludXRlcz0xMjA=
