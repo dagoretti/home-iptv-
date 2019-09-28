@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0,20:00 England EFL Cup: Manchester United - Rochdale AFC
-http://34.77.195.210/live/ovo3/chunks.m3u8?nimblesessionid=34337
-#EXTINF:0,20:00 England EFL Cup: Manchester United - Rochdale AFC
-http://34.98.69.139/live/ch3/index.m3u8
+#EXTINF:0,tottenham-vs-southampton
+https://d5.airhdx.com:30443/live/spstream4/chunks.m3u8?nimblesessionid=1469663&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI5OjE0IEFNJmhhc2hfdmFsdWU9YWJ1bVdOdWowNVBaWHRPUDNCblFaZz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,tottenham-vs-southampton
+https://bb.tfwsynt.live/ingest09/25508.m3u8?sf=OFNwczEwU2JE&token=0d1uIgkaKRzLlyR7ndsSVQ&expires=1569694539&rnd=
+#EXTINF:0,tottenham-vs-southampton
+https://bb.tfwsynt.live/ingest08/27360.m3u8?sf=VVp1dnBBWDZXNg==&token=z3uXh-zCOy2kyR3PPjR1VQ&expires=1569694465&rnd=
