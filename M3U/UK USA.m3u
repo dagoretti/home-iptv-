@@ -1,13 +1,20 @@
 #EXTM3U
-#EXTINF:0,tottenham-vs-southampton
-https://d5.airhdx.com:30443/live/spstream4/chunks.m3u8?nimblesessionid=1469663&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjI5OjE0IEFNJmhhc2hfdmFsdWU9YWJ1bVdOdWowNVBaWHRPUDNCblFaZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,tottenham-vs-southampton
-https://bb.tfwsynt.live/ingest09/25508.m3u8?sf=OFNwczEwU2JE&token=0d1uIgkaKRzLlyR7ndsSVQ&expires=1569694539&rnd=
-#EXTINF:0,tottenham-vs-southampton
-https://bb.tfwsynt.live/ingest08/27360.m3u8?sf=VVp1dnBBWDZXNg==&token=z3uXh-zCOy2kyR3PPjR1VQ&expires=1569694465&rnd=
-#EXTINF:0,Bournemouth vs West Ham
-https://bb.tfwsynt.live/ingest08/27358.m3u8?sf=MHpGWnN6N0Fkdg==&token=KZFAL2WdDJGoBa-cHwbwqw&expires=1569694861&rnd=
 #EXTINF:0,Bournemouth vs West Ham
 http://tv.b4ucast.me/tv/HuuuIcuy9l20180321/chunklist_w944706903_tkaGxzZW5kdGltZT0xNTY5NjgzMzQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9M29JdnRPN0xEUUhCMTVFajNhZTM4X2VlQUNlLVE4ZGNpUlhKMVRRNFBhST0=.m3u8
+#EXTINF:0,NBCSN SPORT
+http://cdn.60fps.live/live/yp2/chunks.m3u8
+#EXTINF:0,tottenham-vs-southampton
+https://bb.tfwsynt.live/ingest09/33405.m3u8?sf=OFNwczEwU2JE&token=uSt6Oim3ZB_Fmo4MFVhrwQ&expires=1569696069&rnd=
+#EXTINF:0,tottenham-vs-southampton
+https://p29.quest123.top:8088/live/sporcn0232/playlist.m3u8?id=110558&wowzasessionid=3891460453&pk=def598144b7101963c497241d4179de7fe242bae14f372c15ce697a7f21548c5
+#EXTINF:0,tottenham-vs-southampton
+https://bb.tfwsynt.live/ingest010/47221.m3u8?sf=T0ZDanF3eDc3NA==&token=Jp2fi8Xvqi2ZLYCNidOCoQ&expires=1569695767&rnd=
+#EXTINF:0,tottenham-vs-southampton
+http://34.89.69.213/live/ovo4/chunks.m3u8?nimblesessionid=70741
 #EXTINF:0,Bournemouth vs West Ham
-https://d7.airhdx.com:30443/live/spstream5/chunks.m3u8?nimblesessionid=1477094&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDE5IDExOjMxOjM2IEFNJmhhc2hfdmFsdWU9aDl2bmF2Y3ZhVGZFYnNKUVJtbDYzUT09JnZhbGlkbWludXRlcz0xMjA=
+https://e7.cdn4.us/ingest666/west-ham.m3u8
+#EXTINF:0,Bournemouth vs West Ham
+http://das18.serdan.xyz/hls/ch11sd7/chunks.m3u8
+#EXTINF:0,Bournemouth vs West Ham
+https://e7.cdn4.us/ingest666/west-ham.m3u8
+#EXTINF:0,Bournemouth vs West Ham
