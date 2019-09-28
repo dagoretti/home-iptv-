@@ -1,20 +1,7 @@
 #EXTM3U
-#EXTINF:0,Bournemouth vs West Ham
-http://tv.b4ucast.me/tv/HuuuIcuy9l20180321/chunklist_w944706903_tkaGxzZW5kdGltZT0xNTY5NjgzMzQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9M29JdnRPN0xEUUhCMTVFajNhZTM4X2VlQUNlLVE4ZGNpUlhKMVRRNFBhST0=.m3u8
 #EXTINF:0,NBCSN SPORT
 http://cdn.60fps.live/live/yp2/chunks.m3u8
-#EXTINF:0,tottenham-vs-southampton
-https://bb.tfwsynt.live/ingest09/33405.m3u8?sf=OFNwczEwU2JE&token=uSt6Oim3ZB_Fmo4MFVhrwQ&expires=1569696069&rnd=
-#EXTINF:0,tottenham-vs-southampton
-https://p29.quest123.top:8088/live/sporcn0232/playlist.m3u8?id=110558&wowzasessionid=3891460453&pk=def598144b7101963c497241d4179de7fe242bae14f372c15ce697a7f21548c5
-#EXTINF:0,tottenham-vs-southampton
-https://bb.tfwsynt.live/ingest010/47221.m3u8?sf=T0ZDanF3eDc3NA==&token=Jp2fi8Xvqi2ZLYCNidOCoQ&expires=1569695767&rnd=
-#EXTINF:0,tottenham-vs-southampton
-http://34.89.69.213/live/ovo4/chunks.m3u8?nimblesessionid=70741
-#EXTINF:0,Bournemouth vs West Ham
-https://e7.cdn4.us/ingest666/west-ham.m3u8
-#EXTINF:0,Bournemouth vs West Ham
-http://das18.serdan.xyz/hls/ch11sd7/chunks.m3u8
-#EXTINF:0,Bournemouth vs West Ham
-https://e7.cdn4.us/ingest666/west-ham.m3u8
-#EXTINF:0,Bournemouth vs West Ham
+#EXTINF:0,NBCSN SPORT
+https://bb.tfwsynt.live/ingest09/33400.m3u8?sf=M1NwczEwU2JE&token=__Mvp7YUWXyOy-A91v6oGQ&expires=1569702502&rnd=
+#EXTINF:0,NBCSN SPORT
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=V44SVS6gXrtnv7YbP82NUA&e=1569709780
