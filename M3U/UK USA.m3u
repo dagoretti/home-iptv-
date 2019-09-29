@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:0,NBCSN SPORT
-http://cdn.60fps.live/live/yp2/chunks.m3u8
+http://cdn.bfst.xyz/live/a/index.m3u8
 #EXTINF:0,NBCSN SPORT
-https://bb.tfwsynt.live/ingest09/33400.m3u8?sf=M1NwczEwU2JE&token=__Mvp7YUWXyOy-A91v6oGQ&expires=1569702502&rnd=
+http://cdn3.soccerfree.icu/live/ch5/index.m3u8
 #EXTINF:0,NBCSN SPORT
 https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=V44SVS6gXrtnv7YbP82NUA&e=1569709780
+#EXTINF:0,NBCSN SPORT
+http://soccer.bellwoodstreams.xyz/live/CH2/index.m3u8
+#EXTINF:0,NBCSN SPORT
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=tOpKiEFfCK5uBJ2AJCETOw&e=1569794254
