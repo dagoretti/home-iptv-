@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:0,NBCSN SPORT
-http://cdn.bfst.xyz/live/a/index.m3u8
+http://das1.serdan.xyz/hls/skymaineventhd132/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE5IDc6MTI6MTcgUE0maGFzaF92YWx1ZT11SGFqK2pESHUvMjZqaTdZYU5iRFhBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,NBCSN SPORT
-http://cdn3.soccerfree.icu/live/ch5/index.m3u8
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=e5HTp1oUhZPKu2zpuDcHeA&e=1569892271
 #EXTINF:0,NBCSN SPORT
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=V44SVS6gXrtnv7YbP82NUA&e=1569709780
+https://gif2.tellerium.xyz/ingest09/33438.m3u8?sf=NDFwczEwU2JE&token=jKmqIytVCAkH6jPXoSgMIg&expires=1569884970&rnd=
 #EXTINF:0,NBCSN SPORT
-http://soccer.bellwoodstreams.xyz/live/CH2/index.m3u8
+https://gif2.tellerium.xyz/ingest09/33438.m3u8?sf=NDFwczEwU2JE&token=7UXRJOp8g8dRyYXw7qY_0w&expires=1569884892&rnd=
 #EXTINF:0,NBCSN SPORT
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=tOpKiEFfCK5uBJ2AJCETOw&e=1569794254
+http://soccer.bellwoodstreams.xyz/live/CH1/index.m3u8
+#EXTINF:0,NBCSN SPORT
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=FOB_4Er7u-ctresvtxIAuA&e=1569892464
+#EXTINF:0,NBCSN SPORT
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=L302Zg7BXuQ2frgi3QrhLg&e=1569892726
