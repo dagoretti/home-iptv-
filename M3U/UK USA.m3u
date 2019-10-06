@@ -107,3 +107,13 @@ https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=yp9FxKNYhlb5V0dJIVDhbg&e=1
 http://cdn1.bfst.xyz/live/c/index.m3u8
 #EXTINF:0,Southampton vs Chelsea
 https://ul.cdn946.net:8443/hls/s2xg5jkkmmc2n2.m3u8?s=9s63MTmBfGu9Xjnk4dgXrw&e=1570388026
+#EXTINF:0,Premier League: Newcastle vs Manchester Utd
+http://das5.serdan.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6MTY6NDEgUE0maGFzaF92YWx1ZT03Z0t5YUQvdnpSenZVVklSSzhSYkt3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Premier League: Newcastle vs Manchester Utd
+http://das3.serdan.xyz/hls/skymaineventsd44/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6MTU6NTcgUE0maGFzaF92YWx1ZT11Uk00dUZNZ3VuWCtnRTVqK21lZjlBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Premier League: Newcastle vs Manchester Utd
+https://lala.chessbook.icu/ingest01/55577.m3u8?sf=UXB0M1NBWmx4aw==&token=EmsJVFNZFn-0ELV0houZrg&expires=1570389259&rnd=
+#EXTINF:0,Premier League: Newcastle vs Manchester Utd
+http://das18.serdan.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE5IDM6MTc6MTMgUE0maGFzaF92YWx1ZT1MUVlZcXBTaWlsQ2pMbWM0dmo2Z3BBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Premier League: Newcastle vs Manchester Utd
+http://185.39.11.109:8081/live/skyepllsh.m3u8?e=1570407241&st=guzCnNQEEedKNDwN3gkoAg
