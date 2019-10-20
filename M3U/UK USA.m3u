@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1, sky sports main event
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=OCnzhxhoR1l81fOuZcZQrA&e=1571586253
-#EXTINF:-1, NBCSN
-http://live.livesport247.live/live/mu2/chunks.m3u8?nimblesessionid=556
+#EXTINF:0,manchester-united-vs-liverpool-sky
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=f6-Gws__4-11LKr8O1keVQ&e=1571610096
+#EXTINF:0,manchester-united-vs-liverpool-sky
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=uI6hXtD4ujEfQf4V_DNUiQ&e=1571609996
+#EXTINF:0,manchester-united-vs-liverpool-sky
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=3qw8qPvcPkoexoVgxFEl_w&e=1571609935
+#EXTINF:0,manchester-united-vs-liverpool-nbc
+https://lclc.julinewr.xyz/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=1cNwT916kcrTvXU72zRY4Q&expires=1571602613&rnd=
+#EXTINF:0,manchester-united-vs-liverpool-nbc
+http://34.96.67.154/live/ch3/index.m3u8
+#EXTINF:0,manchester-united-vs-liverpool-nbc
+http://cdn.60fps.live/live/nbcsn/chunks.m3u8
 #EXTINF:-1, NBCSN
 https://ul.cdn946.net:8443/hls/v6zma8nyshpk6m.m3u8?s=7YiAubvxyjkJFb8Nh7i0tA&e=1571589041
