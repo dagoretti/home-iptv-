@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:0,manchester-united-vs-liverpool-sky
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=f6-Gws__4-11LKr8O1keVQ&e=1571610096
-#EXTINF:0,manchester-united-vs-liverpool-sky
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=uI6hXtD4ujEfQf4V_DNUiQ&e=1571609996
-#EXTINF:0,manchester-united-vs-liverpool-sky
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=3qw8qPvcPkoexoVgxFEl_w&e=1571609935
-#EXTINF:0,manchester-united-vs-liverpool-nbc
-https://lclc.julinewr.xyz/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=1cNwT916kcrTvXU72zRY4Q&expires=1571602613&rnd=
-#EXTINF:0,manchester-united-vs-liverpool-nbc
-http://34.96.67.154/live/ch3/index.m3u8
-#EXTINF:0,manchester-united-vs-liverpool-nbc
-http://cdn.60fps.live/live/nbcsn/chunks.m3u8
-#EXTINF:-1, NBCSN
-https://ul.cdn946.net:8443/hls/v6zma8nyshpk6m.m3u8?s=7YiAubvxyjkJFb8Nh7i0tA&e=1571589041
+#EXTINF:0,Supergirl.S05E03.HDTV
+https://ohmuchdownload.verystream.net/stream/QnpMbAQEoXk/w4LDZGXxxfstycgz/rMCPd0NSJTyopEIcbQxs4Fy_rZ_xnNV34-t6pnr-91yeFUO1IdgcJtYIs8NzxmzAkmY48bsUmw2JFR4SKrw4YWp3_hS285FLjsJRv0zM65qw339a2-drG2rAkRWxZ5LFyIs7wBXDGv6LcvYe0OpxRuvJDvW7WKIhm-ZALkmBNHa6VlaFMc7m67v9MPYEkqPsGW3G3wEWfRTNDoRLtXhYQkEOkE29HMn3Y-DTtASp8xssW6JreK7KsAMWx0tgLtbbp2ilJSjP3YkBRcX0UFQO3wWMoHrcpKcxrw2OdA5hhbn-f-DxtsqD4QKxoqq4JBRYHoZu47sO1C3SProeLJpXfeoKZGn-HqMTufxesrWo-y9SP1czQYtV63XQUgXj4JuCknafgYqsMXbvg2o7yAoY_4kepj-1EwbnLV3gjYmyu6vlB_En4OmZYJaRkFlv1vJp/Supergirl.S05E03.HDTV.x264-SVA.mp4?mime=true
+#EXTINF:0,Supergirl.S05E03.HDTV
+https://upload.cloudvideo.tv/mfqj7omix3o6sr7qw6ieziip4eujbfemy7ejloqwqqxxg6nbsaxnqy4ikwta/v.mp4
+#EXTINF:0,watchmen_s01e01_web_h264
+https://s13.vidtodo.com/2fb37gsouqhryyflg4y6osc3xnjulrd6pgvx7eaqq7ueiy6khykpdubzztja/v.mp4
+#EXTINF:0,watchmen_s01e01_web_h264
+http://51.91.48.222:8777/lyohp3fheiikkfn2mcvp63akfsfbzk6w5fuqgs3w364u2zsit2vs6inu6y/v.mp4
