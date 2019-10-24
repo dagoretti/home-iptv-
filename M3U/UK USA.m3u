@@ -1,24 +1,21 @@
 #EXTM3U
-#EXTINF:0,the-flash-season-6-episode-3/
-https://n6061.disk.ly/stream/78r8pw6yzn34.mp4?k9=AKs2Mg_ooWJpfJ9pn7H-yQ&vct=78r8pw6yzn34&iq=0&so=k16qpqx15nx9&ut=4f14aa78ce0e8788256a2c7860d0c36d&ol=551b723fa7164fbc69fa0792cf92ec5d&jj=107646&yu=a&xj=153781&io=1571873665&zp=b748831d8e84053790441760340a6441&hq=PopRcTtIOc0y0kzMasIgKVGBQzXFiUh&kl=1&op=0&jk=vev.io&uj=1&qw=1
-#EXTINF:0,the-flash-season-6-episode-3/
-http://51.91.31.165:8777/kqohpd4qeiikkfn2mcv76zayfqwarhtafrb2eapwkadsdtieqiwedkqsja/v.mp4
-#EXTINF:0,the-flash-season-6-episode-3/
-https://muchhttpspls.verystream.net/stream/45iQrc1C31k/uIKlAtPU29qqx0Xe/Cm3KY6bSKU8HcYUWKN07KN-8cW7UgXeBDCZv_U46tHhOQFkqC_kejwfPDRIagMmgXkGnnV_E4Ln0C9ZhSTdSclmwO9QEKkeOC0v7l0ALmklyZTdJOuw-SdQaMknt6mRY1k8TcXhl33Q2BBC6qwFpXmtUQAz5QpMomYV4DT3mnj6Bkln_DSJfE4gykHEtdvNkEaO-ErY3bQ7hkK2JwckPCSYNecnne8-FzigDjKicf2683T1e3uUKYiEQC4qiayl2jUNMLnqOmNXBwyaMDn-SbipZhbIXy7WA3v9JsrOJaIhL8XHcGakMPRvcCUJCFwxwsM8KrHUVSR62pXi4-wnKXSsBD2OdRAcep378tcHdDSSPgrzj0EtHJpbyWzbrRtH80eeaAJAR5L3HE4dRV1ZfYcU62fhnsC6e5stURMdIA4zJJ1jUT8lEvuk5axewS6nY/The.Flash.2014.S06E03.HDTV.x264-SVA.mp4?mime=true
-#EXTINF:0, UEFA Champions League:  GAMES LIVE 
-#EXTINF:0,Genk vs Liverpool
-https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=qqFfS4Bbq-zW9X3OqM9xdw&e=1571874034
-#EXTINF:0,Genk vs Liverpool
-http://das18.serdan.xyz/hls/btsports2lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxOSA1OjQ0OjMxIFBNJmhhc2hfdmFsdWU9ZjQrUUEreFVjTW9jLzhiNnZwOHd6QT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,Genk vs Liverpool
-http://34.98.111.105/live/ch8/index.m3u8
-#EXTINF:0,Inter vs Dortmund 
-http://das12.serdan.xyz/hls/espnuklsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxOSA1OjQ1OjU4IFBNJmhhc2hfdmFsdWU9Y3VvNXg3Vk83bWRqemYwR1JUZG5OUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,Inter vs Dortmund 
-https://ul.cdn946.net:8443/hls/zidumt7vhmen1a7.m3u8?s=QQ60EIv358GdmeWsz9giJA&e=1571874397
-#EXTINF:0,Inter vs Dortmund 
-http://das6.serdan.xyz/hls/lsh3sd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAxOSA1OjQ3OjM0IFBNJmhhc2hfdmFsdWU9ZW5sTDVMdVg2dHFWZEFuWHA4UHgyZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,20:00 Clubs UEFA Champions League: Simulcast (20:00-22:00)
-https://ul.cdn946.net:8443/hls/e6m9iq.m3u8?s=eXsrkKFHU9nfp7dclVLxXg&e=1571874602
-#EXTINF:0,20:00 Clubs UEFA Champions League: Simulcast (20:00-22:00)
-https://ul.cdn946.net:8443/hls/e6m9iq.m3u8?s=SqjFIaK2IS_z8RTP7FvBPA&e=1571874662
+#EXTINF:0, Partizan vs Manchester Utd 
+http://live.livesport247.live/live/Manchester/chunks.m3u8?nimblesessionid=27562
+#EXTINF:0, Partizan vs Manchester Utd 
+http://sds5.selez.xyz/hls/btsports2lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAxOSA2OjEwOjU3IFBNJmhhc2hfdmFsdWU9aTRqODc1Y0s0NkFTb2xiSHd1TExiQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0, Partizan vs Manchester Utd 
+http://das23.serdan.xyz/hls/bt2hd104/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAxOSA2OjEwOjIzIFBNJmhhc2hfdmFsdWU9ZzQ3NXF2RVBiQTFrNzVlUVNGNGJSUT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0, Partizan vs Manchester Utd 
+https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=Hq4_7_hMaGpN0t73DCjPBA&e=1571962409
+#EXTINF:0, Partizan vs Manchester Utd 
+http://35.228.59.188/hls/footy1.m3u8
+#EXTINF:0,The Purge Season 2 Episode 1
+https://c13.vidlox.me/hls/,oudvgvpw25tk2yixv7k6kcr6iexnrqege3ypxz4m7poye5lranwxuzwudd7q,.urlset/master.m3u8
+#EXTINF:0,The Purge Season 2 Episode 2
+https://t29old.ostreamcdn.com/hls/u5kjzbpkddhlsdgge7owgny2dj62rttt2blz34fxdlv2w6ttseiodf45dwoa/index-v1-a1.m3u8
+#EXTINF:0,Impulse Season 2 Episode 1
+https://soexcitewow.verystream.net/stream/HkkG8Z2jRCt/fXnt7XEFscpFzAq2/WbI-2gYYBOv88b9hxWdms6pIW7UqU4eIcY4gDCZAGgkAoGoXIzPyuIeCHcD8Rkpfyk_VfuW2U0RD_CtfoXRKEWwy3zJz12MuIT2m7grqWnwQkPE5mxdpnQs6mqzZZcNg64FysmJ-HHF-HzUq4WZ0N1BtpWU9bnqMIAmFkVOH8qnPHC-B9iS7TXxJvphUi8XclEv75QicSzJz_Tx7HDRQ_-zBWwjYK7DcE8AgGIMgeBiZtKCp1BfklYB8P7cIaBmOR6R061ewoG50obzLykJxcpmKjvWUEC3-vS5r83XbMS4icBzgwbnAerzAtGWsS4CUah4VVtUh-5sz9AuYMjcSXzaWJYXDDog9eJ93PhmmKL3hRVy7L6hyr-TZwyUWohfyFBJGAgXVgL9RJ5qcFPOIFtYUsaIaXTYQ4nz1qL_k8IWI9G62cwDQFwjORVDIE_WNkP3IYG4On6bASy7Se5tCNg/Impulse.S02E01.720p.WEBRip.x264-TVSLiCES.mp4?mime=true
+#EXTINF:0,Impulse Season 2 Episode 2
+https://c13.vidlox.me/hls/,oudvhylu25tk2yixv7h6kxb5lfneimdqzuj37jpgtn6k6wctnqsvjn3kfdiq,.urlset/master.m3u8
+#EXTINF:0,Impulse Season 2 Episode 2
+https://herreperolsof.pro/bDNCSUpDDCE6dwlkMjgHAX0LET1YcAMiCA5kNRsZOHUlBQsAfQhvPgVXf396XARycGwcWiZ0e0pANig+GUB/fnJKWiwvJVEVNHR7QgB2Z3tcHXFvPhxSJXR7SkM2PSZRAnd+e1UHcHhyWAt2fQ
