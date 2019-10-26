@@ -20,15 +20,17 @@ https://e3.cdn4.us/ingest09/25538.m3u8?sf=MzhwczEwU2JE&token=2ZRlG-GyMJ4zBahVpM3
 #EXTINF:0,12:30 England Premier League: Manchester City - Aston Villa
 https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=oYNYxsHn8W11Cnwk8ZPatA&e=1572088779
 #EXTINF:0,SKY SPORTS MAIN EVENT  SD 
-http://sds5.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSA1OjIzOjE4IEFNJmhhc2hfdmFsdWU9Zy9ydktQTjFFOHpNeFVBUFZjMmI4UT09JnZhbGlkbWludXRlcz0xMjA=
+
 #EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mGtH7Nt9Wmxs1xfrxy8kBw&e=1572089718
+http://das22.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAxMTo0Nzo1NiBBTSZoYXNoX3ZhbHVlPVdzOWQrSURJYW5hYU40b3A3VXU2eEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=busL4Wwvzd3phEXGbymqTA&e=1572089865
+http://sds3.selez.xyz/hls/btsports1lsh58/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSAxMTo0ODozNCBBTSZoYXNoX3ZhbHVlPTBscFJUS1Y2UFZJSmRjaFdsalEwZHc9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:0,EPL GAME LIVE 
-https://e3.cdn4.us/ingest01/46572.m3u8?sf=MGxtNk5rMUJBWA==&token=q4TKTIXSmp3pfQRxHsaFXw&expires=1572082871&rnd=
+https://ftlivemmd.s.llnwi.net/ftlivemmd/162ceb2934b2443a9980a766c4357ea1/chunklist_b352000.m3u8?p=73&ip=147.12.147.140&e=1572100590&h=e99acc298f4f91e56ace003332376f1c
 #EXTINF:0,EPL GAME LIVE 
-http://tv.b4ucast.me/tv/XXi3JB0S8v20180321/chunklist_w290970424_tkaGxzZW5kdGltZT0xNTcyMDcxNTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UGUzaEh3dm4zYXRqQlVqTHBGVi1CV01xSEg2b1RWYWtxakMtVFo3MHdwYz0=.m3u8
+http://cdn.youpit.site/live/bt1/chunks.m3u8
+#EXTINF:0,EPL GAME LIVE 
+http://www.richonforex.info/mount/aba12/index.m3u8
 #EXTINF:0,BT SPORT 1
 https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=fGqumWfGPVbhDCjwrkLWKw&e=1572090204
 #EXTINF:0,BT SPORT 1
