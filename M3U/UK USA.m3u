@@ -1,21 +1,37 @@
 #EXTM3U
-#EXTINF:0, Partizan vs Manchester Utd 
-http://live.livesport247.live/live/Manchester/chunks.m3u8?nimblesessionid=27562
-#EXTINF:0, Partizan vs Manchester Utd 
-http://sds5.selez.xyz/hls/btsports2lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAxOSA2OjEwOjU3IFBNJmhhc2hfdmFsdWU9aTRqODc1Y0s0NkFTb2xiSHd1TExiQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0, Partizan vs Manchester Utd 
-http://das23.serdan.xyz/hls/bt2hd104/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAxOSA2OjEwOjIzIFBNJmhhc2hfdmFsdWU9ZzQ3NXF2RVBiQTFrNzVlUVNGNGJSUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0, Partizan vs Manchester Utd 
-https://ul.cdn946.net:8443/hls/6pr95peo12uua.m3u8?s=Hq4_7_hMaGpN0t73DCjPBA&e=1571962409
-#EXTINF:0, Partizan vs Manchester Utd 
-http://35.228.59.188/hls/footy1.m3u8
-#EXTINF:0,The Purge Season 2 Episode 1
-https://c13.vidlox.me/hls/,oudvgvpw25tk2yixv7k6kcr6iexnrqege3ypxz4m7poye5lranwxuzwudd7q,.urlset/master.m3u8
-#EXTINF:0,The Purge Season 2 Episode 2
-https://t29old.ostreamcdn.com/hls/u5kjzbpkddhlsdgge7owgny2dj62rttt2blz34fxdlv2w6ttseiodf45dwoa/index-v1-a1.m3u8
-#EXTINF:0,Impulse Season 2 Episode 1
-https://soexcitewow.verystream.net/stream/HkkG8Z2jRCt/fXnt7XEFscpFzAq2/WbI-2gYYBOv88b9hxWdms6pIW7UqU4eIcY4gDCZAGgkAoGoXIzPyuIeCHcD8Rkpfyk_VfuW2U0RD_CtfoXRKEWwy3zJz12MuIT2m7grqWnwQkPE5mxdpnQs6mqzZZcNg64FysmJ-HHF-HzUq4WZ0N1BtpWU9bnqMIAmFkVOH8qnPHC-B9iS7TXxJvphUi8XclEv75QicSzJz_Tx7HDRQ_-zBWwjYK7DcE8AgGIMgeBiZtKCp1BfklYB8P7cIaBmOR6R061ewoG50obzLykJxcpmKjvWUEC3-vS5r83XbMS4icBzgwbnAerzAtGWsS4CUah4VVtUh-5sz9AuYMjcSXzaWJYXDDog9eJ93PhmmKL3hRVy7L6hyr-TZwyUWohfyFBJGAgXVgL9RJ5qcFPOIFtYUsaIaXTYQ4nz1qL_k8IWI9G62cwDQFwjORVDIE_WNkP3IYG4On6bASy7Se5tCNg/Impulse.S02E01.720p.WEBRip.x264-TVSLiCES.mp4?mime=true
-#EXTINF:0,Impulse Season 2 Episode 2
-https://c13.vidlox.me/hls/,oudvhylu25tk2yixv7h6kxb5lfneimdqzuj37jpgtn6k6wctnqsvjn3kfdiq,.urlset/master.m3u8
-#EXTINF:0,Impulse Season 2 Episode 2
-https://herreperolsof.pro/bDNCSUpDDCE6dwlkMjgHAX0LET1YcAMiCA5kNRsZOHUlBQsAfQhvPgVXf396XARycGwcWiZ0e0pANig+GUB/fnJKWiwvJVEVNHR7QgB2Z3tcHXFvPhxSJXR7SkM2PSZRAnd+e1UHcHhyWAt2fQ
+#EXTINF:0,The.Blacklist.S07E04.HDTV
+https://suchstreampls.verystream.net/stream/NYPq1AvAuh2/KsnUS71D4fKfzkj3/F7Qcg0OS8Fdg0NXHpDpbwEHlUlvxlbFj8Mckaj6nJVDgu7PXgrOtYapuQ3NTEx9iLgu7Y3XfdR4QcC8OYKb2KlxZwxw9IWkvTGdwD1dpj2tR4m5jbgBnCcgD9Se5BCslVQDW3NjEeRmcuWmyOfD2--BQA67DI-KKgwxxhHYJZ2s3Z2bdDCJM5_qpebggvsjB6kwn0OaM4lP8PPf0Ns4JZ4vnHqzZ-3zOfwaO7_rLmlpCMDS959JMj_aMA-pAVUtRZmxku7T55bbRvNYLLLgxH5FhbStg4jrnpRzTsX5KCDclE1GMAkIGj4Lp6E_cw6VOIPBcJh-odd3dlyC3jQON_oWbM7IICnum53vI7716uQuCa7EQUoSjqMp6E819qqwexiSmvknnC4KPqDdnmfwb4ZRn0dN8MdyU3Oauo_UoaUdl98xORQaHmKfY6wXVHo0v/The.Blacklist.S07E04.HDTV.x264-SVA.mp4?mime=true
+#EXTINF:0,The Blacklist S07E04 HDTV
+https://c15.vidlox.me/hls/oudvhpwf2ftk2yixv726kvjkj7p3lkhf2jgeejtzffpxvdognlkzvocfyiaa/seg-16-v1-a1.ts
+#EXTINF:0,The Blacklist S07E04 HDTV
+https://s10.vidtodo.com/2fb374xluqhryyflg43ooeqlucgo3rwed64xro7bva5tuddys33ljqvxb4iq/v.mp4
+#EXTINF:0,CHARMED 2018 S02E03 HDTV 
+https://s07.vidtodo.com/2fb373hluqhryyflg43oowilwrqhpp2qwn6bwkmdcwmqsboll5xsbxz5mpna/v.mp4
+#EXTINF:0,CHARMED 2018 S02E03 HDTV 
+https://e14.cdncv.net/mfqjsretx7o6sr7qw6huz4ix53svwrcmqmvqsyk2zpfnrpolvyjtomziylra/v.mp4
+#EXTINF:0,Titans.2018.S02E08
+https://s13.vidtodo.com/2fb373qsuqhryyflg426ovkrvfkbkypsykxn67zutyzw2hntoper7w5ojzqq/v.mp4
+#EXTINF:0,Titans.2018.S02E08
+https://ohmuchvideo.verystream.net/stream/8VnQWQGEdPQ/Ebk2Fy_AscteC0We/00VT_s-W8aSk8IzfcTpEsFIWQpjkMKG_j-LLH0oo_unBi2fkmWP3d-9PXQV_6xNdjfZdIzxG2GBPScsjnr0-2ZjnK1Zx5xsek1luxluYwwEHTZ-XfqdjKC7MLiwUVEd1_gq-5qEGjtRg_-71mqW1sztRHQ5gYRFHKQ7D2hLUMCr0w8Pwk8ldELYvgImmUt9aUEnxai9CbGpznmfCVGbY8tYsRpMPOLOvNexbZjjCFJLEFT8q73Lt83Rpyl6I0ISNXO-w1_Q6CjYOXLvayh15iVkQJZyE2nDqwjgjTG69cIWFoOI48kH_NRJNab9rNCP7RKNNHtXK3nngPxCH1cGmJQUFIdfUyTlfTlCoh8HVl1DPz45ev7BaSJvmRRzmXMoT6DmTCZXfHsGyC7ngEkeujO-05Lmz51dGikhek2qr0VB9Z8494OdRyyyKYJtgPMVW/Titans.2018.S02E08.WEB.X264-NoGRP.mp4?mime=true
+#EXTINF:0,Titans.2018.S02E08
+https://stream05.cdncv.net/hls/mfqjrs4lx7o6sr7qw6huzpy474pdr4bacrkgtc4kdhq5ldifygzffy7zlxpq/seg-7-v1-a1.ts
+#EXTINF:0,12:30 England Premier League: Manchester City - Aston Villa
+https://e3.cdn4.us/ingest09/25538.m3u8?sf=MzhwczEwU2JE&token=2ZRlG-GyMJ4zBahVpM3yrg&expires=1572081463&rnd=
+#EXTINF:0,12:30 England Premier League: Manchester City - Aston Villa
+https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=oYNYxsHn8W11Cnwk8ZPatA&e=1572088779
+#EXTINF:0,SKY SPORTS MAIN EVENT  SD 
+http://sds5.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOSA1OjIzOjE4IEFNJmhhc2hfdmFsdWU9Zy9ydktQTjFFOHpNeFVBUFZjMmI4UT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,EPL GAME LIVE 
+https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=mGtH7Nt9Wmxs1xfrxy8kBw&e=1572089718
+#EXTINF:0,EPL GAME LIVE 
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=busL4Wwvzd3phEXGbymqTA&e=1572089865
+#EXTINF:0,EPL GAME LIVE 
+https://e3.cdn4.us/ingest01/46572.m3u8?sf=MGxtNk5rMUJBWA==&token=q4TKTIXSmp3pfQRxHsaFXw&expires=1572082871&rnd=
+#EXTINF:0,EPL GAME LIVE 
+http://tv.b4ucast.me/tv/XXi3JB0S8v20180321/chunklist_w290970424_tkaGxzZW5kdGltZT0xNTcyMDcxNTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UGUzaEh3dm4zYXRqQlVqTHBGVi1CV01xSEg2b1RWYWtxakMtVFo3MHdwYz0=.m3u8
+#EXTINF:0,BT SPORT 1
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=fGqumWfGPVbhDCjwrkLWKw&e=1572090204
+#EXTINF:0,BT SPORT 1
+https://e3.cdn4.us/ingest02/46550.m3u8?sf=ZldHNDc0cXZHUQ==&token=IGMuFWZAsXrOBEGUyPi1lA&expires=1572083065&rnd=
+#EXTINF:0,BT SPORT 1
+http://tv.b4ucast.me/tv/PPRh154UUz20180321/chunklist_w868360382_tkaGxzZW5kdGltZT0xNTcyMDcxNzYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UkFudTIzMHNRN25kYzhFdTh4dFBFWHp0cnBnSVl1NXB6SVJOOHBocEhTMD0=.m3u8
