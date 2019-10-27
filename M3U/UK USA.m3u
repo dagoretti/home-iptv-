@@ -2,8 +2,8 @@
 #EXTINF:0,Arsenal - Crystal Palace ( Premier League )
 http://34.102.131.75/live/ch7/index.m3u8
 #EXTINF:0,////////////////////////////////////////////////////////////////////////////
-Liverpool - Tottenham ( Premier League )
-#EXTINF:0,http://sds2.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA0OjMwOjM0IFBNJmhhc2hfdmFsdWU9ZEFsN04xN1F6MVh3S0VQZGRGVFB6UT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,Liverpool - Tottenham ( Premier League )
+http://sds2.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA0OjMwOjM0IFBNJmhhc2hfdmFsdWU9ZEFsN04xN1F6MVh3S0VQZGRGVFB6UT09JnZhbGlkbWludXRlcz0xMjA=
 ////////////////////////////////////////////////////////////////////////////
 #EXTINF:0,Norwich - Manchester Utd ( Premier League )
 http://tv.b4ucast.me/tv/H5eGwOvzFT20180321/chunklist_w712680692_tkaGxzZW5kdGltZT0xNTcyMTk0MTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bjJZYjdLM0R6TGtMMlR3MlRDMjhwby0zeUNOUTZmVGc2d1pORVZFQ1g1Yz0=.m3u8
@@ -25,6 +25,10 @@ http://34.102.131.75/live/ch3/index.m3u8
 http://34.102.131.75/live/ch3/index.m3u8
 #EXTINF:0,Norwich - Manchester Utd ( Premier League )
 http://34.102.131.75/live/ch3/index.m3u8
+#EXTINF:0,epl half time show 
+https://e3.cdn4.us/ingest09/33405.m3u8?sf=OFNwczEwU2JE&token=p-1pr0_3HMrUQAtliIc64g&expires=1572211413&rnd=
+#EXTINF:0,epl half time show 
+https://p13.quest123.top:8088/stream/streamhd2260/playlist.m3u8?id=7048&wowzasessionid=3316542053&pk=9e4a47ed7770988e9cf99ca918b8c250a2ece4f00440bf860ec775f3fb8edd2b
 
 #EXTINF:0,EPL GAME LIVE 
 https://e3.cdn4.us/ingest09/25506.m3u8?sf=NlNwczEwU2JE&token=I67X3l9gaI_-2g5Xm_3yoA&expires=1572195883&rnd=
