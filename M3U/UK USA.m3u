@@ -1,63 +1,6 @@
 #EXTM3U
-#EXTINF:0,Arsenal - Crystal Palace ( Premier League )
-http://34.102.131.75/live/ch7/index.m3u8
-#EXTINF:0,////////////////////////////////////////////////////////////////////////////
-#EXTINF:0,Liverpool - Tottenham ( Premier League )
-http://sds2.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA0OjMwOjM0IFBNJmhhc2hfdmFsdWU9ZEFsN04xN1F6MVh3S0VQZGRGVFB6UT09JnZhbGlkbWludXRlcz0xMjA=
-////////////////////////////////////////////////////////////////////////////
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://tv.b4ucast.me/tv/H5eGwOvzFT20180321/chunklist_w712680692_tkaGxzZW5kdGltZT0xNTcyMTk0MTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9bjJZYjdLM0R6TGtMMlR3MlRDMjhwby0zeUNOUTZmVGc2d1pORVZFQ1g1Yz0=.m3u8
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-https://e3.cdn4.us/ingest08/27354.m3u8?sf=ZGM1b3Fhd1JmZw==&token=koRSESwLCBZbGUISuaVNkA&expires=1572208004&rnd=
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-https://ul.cdn946.net:8443/hls/cq0hr.m3u8?s=nqKxzflGDRb5Nz4W_7YvKg&e=1572215145
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://das7.serdan.xyz/hls/channel11hd25/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSA0OjI0OjIzIFBNJmhhc2hfdmFsdWU9R1RaYlJBQUdJSzhrR3JxK1hiNlVUdz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-https://e3.cdn4.us/ingest08/27354.m3u8?sf=ZGM1b3Fhd1JmZw==&token=8BPFm6fTBXQ2DHJ8ny0xTg&expires=1572207689&rnd=
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://194.67.208.149/hls/109.m3u8
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-https://ul.cdn946.net:8443/hls/lv2dn79af5e.m3u8?s=XmEQVKNfPYI8i33yx4CyWw&e=1572214771
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://34.102.131.75/live/ch3/index.m3u8
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://34.102.131.75/live/ch3/index.m3u8
-#EXTINF:0,Norwich - Manchester Utd ( Premier League )
-http://34.102.131.75/live/ch3/index.m3u8
-#EXTINF:0,epl half time show 
-https://e3.cdn4.us/ingest09/33405.m3u8?sf=OFNwczEwU2JE&token=p-1pr0_3HMrUQAtliIc64g&expires=1572211413&rnd=
-#EXTINF:0,epl half time show 
-https://p13.quest123.top:8088/stream/streamhd2260/playlist.m3u8?id=7048&wowzasessionid=3316542053&pk=9e4a47ed7770988e9cf99ca918b8c250a2ece4f00440bf860ec775f3fb8edd2b
-#EXTINF:0,epl half time show 
-https://e3.cdn4.us/ingest01/25028.m3u8?sf=VlBVSFF3MHhvNQ==&token=c9KjtFrm8WdRPgwL7tO9Sw&expires=1572211709&rnd=
-
-#EXTINF:0,EPL GAME LIVE 
-https://e3.cdn4.us/ingest09/25506.m3u8?sf=NlNwczEwU2JE&token=I67X3l9gaI_-2g5Xm_3yoA&expires=1572195883&rnd=
-#EXTINF:0,EPL GAME LIVE 
-https://e7.cdn4.us/ingest666/espn3_sur.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=c4bZDzsLUUWVLcQqvnXoSA&e=1572203431
-#EXTINF:0,EPL GAME LIVE 
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://e3.cdn4.us/ingest09/33403.m3u8?sf=NlNwczEwU2JE&token=0KhAU58_VOyU2T-i-wPQyg&expires=1572197008&rnd=
-#EXTINF:0,EPL GAME LIVE 
-http://sds6.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSAxOjI4OjQ1IFBNJmhhc2hfdmFsdWU9NDBWTGp1czIyOERzby9VcVZEVmhSZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE 
-http://sds1.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSAxOjI5OjIxIFBNJmhhc2hfdmFsdWU9aDZta2NvZysvT2x2eFdXOGZpQTFBZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE 
-http://sds4.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSAxOjM1OjA1IFBNJmhhc2hfdmFsdWU9ejBQRWUweThXaVorWXA4ZW40Z3lydz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE 
-http://sds2.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSAxOjM2OjE3IFBNJmhhc2hfdmFsdWU9T1E3Rnc0UDdKNG9JY0VoQVhLcW1DUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE 
-http://sds3.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAxOSAxOjM3OjEyIFBNJmhhc2hfdmFsdWU9WDZ1WEhWbUFkU3NyeE9KZXArOGpYUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE 
-https://e3.cdn4.us/ingest09/25506.m3u8?sf=NlNwczEwU2JE&token=5Txn9B2RvCWsk3_3lz5lSg&expires=1572199008&rnd=
-#EXTINF:0,EPL GAME LIVE 
-https://e7.cdn4.us/ingest666/newcastle.m3u8
-#EXTINF:0,EPL GAME LIVE 
-
+#EXTINF:0,EPL MOTD
+https://waw.easyview.eu/hls/bbc-1.m3u8
 #EXTINF:0,EPL GAME LIVE 
 
 #EXTINF:0,EPL GAME LIVE 
