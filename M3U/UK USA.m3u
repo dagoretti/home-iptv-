@@ -29,6 +29,8 @@ http://34.102.131.75/live/ch3/index.m3u8
 https://e3.cdn4.us/ingest09/33405.m3u8?sf=OFNwczEwU2JE&token=p-1pr0_3HMrUQAtliIc64g&expires=1572211413&rnd=
 #EXTINF:0,epl half time show 
 https://p13.quest123.top:8088/stream/streamhd2260/playlist.m3u8?id=7048&wowzasessionid=3316542053&pk=9e4a47ed7770988e9cf99ca918b8c250a2ece4f00440bf860ec775f3fb8edd2b
+#EXTINF:0,epl half time show 
+https://e3.cdn4.us/ingest01/25028.m3u8?sf=VlBVSFF3MHhvNQ==&token=c9KjtFrm8WdRPgwL7tO9Sw&expires=1572211709&rnd=
 
 #EXTINF:0,EPL GAME LIVE 
 https://e3.cdn4.us/ingest09/25506.m3u8?sf=NlNwczEwU2JE&token=I67X3l9gaI_-2g5Xm_3yoA&expires=1572195883&rnd=
