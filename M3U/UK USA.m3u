@@ -1,14 +1,24 @@
 #EXTM3U
-#EXTINF:0,Supergirl_S05E04_720p_HDTV_x264-AVS
-https://s215.clipwatching.com/zx5x2h3nrz2txcne43qspb7s3rtop3q2jjx6aofkt5htwuivygu2xhttlhpq/v.mp4
-#EXTINF:0,Supergirl_S05E04_720p_HDTV_x264-AVS
-https://s13.vidtodo.com/2fb37u7suqhryyflg436ory5xhbh3rkckrdbo62zbxtdopsakfnmetbnchea/v.mp4
-#EXTINF:0,Watchmen Season 1 Episode 2 (S01E02) 
-https://vs087.vshare.eu:182/d/h4eofdcu7hnroluvxsaakmvfkeavf5jocxzkuu3sbtyejer6se2gqgvq/vid.mp4
-#EXTINF:0,Watchmen Season 1 Episode 2 (S01E02) 
-https://s-delivery4.mixdrop.co/v/9c11e6da837d624d12915ab02b4f88e3.mp4?s=PMddMy8ppdQP41D4R5cZIw&e=1572317708
-#EXTINF:0,Watchmen Season 1 Episode 2 (S01E02) 
-https://cloud-a4091-48-216.spcdn.cc/dash/h75fvgamrhekalhulmqdspoadlfmwyagwzuy6dvh56gkc3rtztbnbvadojxq/fragment-4-a1-x3.m4s
+#EXTINF:0,Liverpool vs Arsenal
+http://35.190.74.153/live/ch6/index.m3u8
+#EXTINF:0,Liverpool vs Arsenal
+http://35.189.94.240/live/ch8/index.m3u8
+#EXTINF:0,Liverpool vs Arsenal
+http://sds1.selez.xyz/hls/skyfootballlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSA3OjM5OjEwIFBNJmhhc2hfdmFsdWU9WkcwT2JUWEovVXVJZTJnYjNRZ2ZEUT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+http://195.181.172.99:7899/live/Austin/Austin/26.m3u8?token=GRdRWUpbQV9BCwpWVVtRWgRYCwUCUQpUA1RXBwUHXFRRBQEACwNVXFYRFEQQFxAGVQxnD1YVCVMFT0ZHQwZKbgtRGwIbAlVRUAQLUkFPQBddDF1ECAcfQ0MKABAKQQECUAAAGhURBh0XVkoIAg89B1EXUQVXFQkPRg8IHhIMVm4GUFRZV1dBX0EDGkpBChETFltWE15bH0NRChBAURddE1gXCgEICkFJQVBXEw0XEBoWWxohcBUfQ1YbEFdeEFFeDBcDGlQAFl1BHxoPEDwQBkcVSgNTWlYTEVlGAxJPGlwDTWZbVl0NAABHUQkNEEBZFlAaShBaXA9aFwtAbxNRVUAPGwwIB1RdVhFF
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+http://185.59.220.103:7899/live/betsam44zz1-restream/PWHvg2ot/40.m3u8?token=GRdRWUpbQV9BAFpXVQJXVQNRC1VWVFYHC1tSAQVRCwdVUwoPWwsCUVMRFEQQFxAGVQxnD1YVCVUDT0ZHQwZKbgtRGwIbAlZUVQMMUkFPQBddDF1ECAcfQ0MKABAKQQ4CUgIbFBtWGxEGQVYHDzwGBkIIWwMQDV0UXw9IEF8NZ1UHWFhWXRFZR1MRFEQKEBJBDg9NCl4bEQNaFxZTRAYaC0AHCwoOEU9HAFxNCBcRG0EOQ38kEBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFVEBxBVVAaalpXV10GBhdaVwgQQVhBBVEaShBaXA9aFwtAbxNRVUAPGwkNBVpTQU4=
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+http://cdn2.soccerfree.icu/live/ch5/index.m3u8
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=B01H_oZz6J_ICXuQY_yZjg&e=1572486348
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=8Oi-pa9hp5todmJV2yGV6w&e=1572486245
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+http://35.190.74.153/live/ch5/index.m3u8
+#EXTINF:0,efl-cup-chelsea-vs-manchester-utd
+http://das6.serdan.xyz/hls/skymaineventhd132/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOSA3OjUxOjM3IFBNJmhhc2hfdmFsdWU9ZUUySGozRzdyNXZ1UFByc0dyTlB6UT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:0,EPL GAME LIVE 
 
