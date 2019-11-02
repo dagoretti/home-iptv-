@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:0,Channel 1
-https://e3.cdn4.us/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=g1Voq8AaAxFza3GexaheIw&expires=1572716215&rnd=
-#EXTINF:0,Channel 2
-http://34.95.103.167/live/ch3/index.m3u8
-#EXTINF:0,Channel 3
-http://clook.probooks.club/hls/nbcsn/chunks.m3u8
-#EXTINF:0,Channel 4
-https://cloud-a4591-212-107.spcdn.cc/h75fvpxirdekalhulm4tsmuqjgtm4f4e6n6swv2ybfbzrudawf4bsp7bz7jq/v.mp4
-#EXTINF:0,Channel 5
-https://cloud-a4691-212-108.spcdn.cc/h75fvp7erdekalhulm4ds7e4di66vv356himl6lio3gk3mb6uitgmkrdjprq/v.mp4
-#EXTINF:0,Channel 6
-https://cache35.vidoza.net/x4lfzimwdzz7vjumxcaegvqv7n7xjly6sljkyoeqprcmjke27b67liasbcqa/v.mp4
-#EXTINF:0,Channel 7
-http://img20.gamovideo.com:8777/pnap47v4nvnv3h2yueenvmkjo74jukn2klzomzu6wtdxnehvkfswbhe57eqq/v.mp4
-#EXTINF:0,Channel 8
-https://ola37d.ostreamcdn.com/hls/,u5kjy5qydphlsdgge74wgpygdyqkbwwzrva6vewb6w47wnd72qfkm53nlv4a,.urlset/master.m3u8
-#EXTINF:0,Channel 9
-https://e15.cdncv.net/hls/mfqjxhk5xto6sr7qw6aezpq4xbtq4zqfsz2ueo6oa5cdnxehj6gscnuv6xra/index-v1-a1.m3u8
+#EXTINF:0,The_Blacklist_S07E05_HDTV
+https://cloud-a4691-212-108.spcdn.cc/h75fv7xerdekalhulm4dskmtdmpkkluofjy7q3ziftpcflnpvbl2fgsblvsq/v.mp4
+#EXTINF:0,The_Blacklist_S07E05_HDTV
+https://n1488.disk.ly/stream/4jrlp71dxmoy.mp4?k9=n_7-641-ayeNA7dOuDe6dw&vct=4jrlp71dxmoy&iq=0&so=7v6e72xekne4&ut=4f14aa78ce0e8788256a2c7860d0c36d&ol=61cc33b28076b747b802a53b8a21179e&jj=42401&yu=n&xj=60574&io=1572739642&zp=4d5dc16b99bad162ffa4ae62e056c551&hq=PopRcTtIOc0y0kzMasIgKVGBQzXFiUh&kl=1&op=0&jk=vev.io&uj=1&qw=1
+#EXTINF:0,The_Blacklist_S07E05_HDTV
+https://s360.clipwatching.com/zx5x2pjxrb2txcne43hspbhz3w4oqjdhk3ev6ry45ku2hxtq2qaluzkedqta/v.mp4
 
 #EXTINF:0,EPL GAME LIVE 
 
