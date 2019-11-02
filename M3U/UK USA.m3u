@@ -1,26 +1,22 @@
 #EXTM3U
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://d1.airhdx.com:30443/live/super3/chunks.m3u8?nimblesessionid=7665927&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE5IDk6MDY6NDcgQU0maGFzaF92YWx1ZT15eU50VUZWSmllZnIwdVMxVGg1Mk9RPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://d1.airhdx.com:30443/live/super3/chunks.m3u8?nimblesessionid=7665927&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE5IDk6MDY6NDcgQU0maGFzaF92YWx1ZT15eU50VUZWSmllZnIwdVMxVGg1Mk9RPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=Ux0MdkITOq8kYpBofj-xrA&e=1572714760
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=mr8I7mV_8KnDEZuW9qMa_w&e=1572714717
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-http://www.vipsportslive.eu/live/nbcsn.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE5IDU6NTI6MTEgQU0maGFzaF92YWx1ZT0yQlNncTZ5MmhOWVgxZkg1N094eTl3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTQ=
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-http://www.vipsportslive.eu/live/skysport1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDE5IDU6NDQ6NDYgQU0maGFzaF92YWx1ZT1vbjZwbmJwdDJvUnlKbkxDdlJ5V1lnPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTQ=
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=2De0SWA4ydHzs8NkWN3NyQ&e=1572715833
-#EXTINF:-1,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=LALgxq9DYFQ4YnsQvjdwXQ&e=1572716124
-#EXTINF:0,12:30 England Premier League: AFC Bournemouth - Manchester United
-http://tv.b4ucast.me/tv/PPRh154UUz20180321/chunklist_w227956591_tkaGxzZW5kdGltZT0xNTcyNjYyNjQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TDZITE1pd3ZkNi1IbElXYjJhTHRybnRkUDZrcl9FS0RRQ0lHSU1kOUltND0=.m3u8
-#EXTINF:0,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=2De0SWA4ydHzs8NkWN3NyQ&e=1572715833
-#EXTINF:0,12:30 England Premier League: AFC Bournemouth - Manchester United
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=LALgxq9DYFQ4YnsQvjdwXQ&e=1572716124
+#EXTINF:0,Channel 1
+https://e3.cdn4.us/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=g1Voq8AaAxFza3GexaheIw&expires=1572716215&rnd=
+#EXTINF:0,Channel 2
+http://34.95.103.167/live/ch3/index.m3u8
+#EXTINF:0,Channel 3
+http://clook.probooks.club/hls/nbcsn/chunks.m3u8
+#EXTINF:0,Channel 4
+https://cloud-a4591-212-107.spcdn.cc/h75fvpxirdekalhulm4tsmuqjgtm4f4e6n6swv2ybfbzrudawf4bsp7bz7jq/v.mp4
+#EXTINF:0,Channel 5
+https://cloud-a4691-212-108.spcdn.cc/h75fvp7erdekalhulm4ds7e4di66vv356himl6lio3gk3mb6uitgmkrdjprq/v.mp4
+#EXTINF:0,Channel 6
+https://cache35.vidoza.net/x4lfzimwdzz7vjumxcaegvqv7n7xjly6sljkyoeqprcmjke27b67liasbcqa/v.mp4
+#EXTINF:0,Channel 7
+http://img20.gamovideo.com:8777/pnap47v4nvnv3h2yueenvmkjo74jukn2klzomzu6wtdxnehvkfswbhe57eqq/v.mp4
+#EXTINF:0,Channel 8
+https://ola37d.ostreamcdn.com/hls/,u5kjy5qydphlsdgge74wgpygdyqkbwwzrva6vewb6w47wnd72qfkm53nlv4a,.urlset/master.m3u8
+#EXTINF:0,Channel 9
+https://e15.cdncv.net/hls/mfqjxhk5xto6sr7qw6aezpq4xbtq4zqfsz2ueo6oa5cdnxehj6gscnuv6xra/index-v1-a1.m3u8
 
 #EXTINF:0,EPL GAME LIVE 
 
