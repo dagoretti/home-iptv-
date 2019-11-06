@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:0,/portals
-https://www2035.hlsmp4.com/token=ohDsnSYP1kDy0iIr8iw0rQ/1572908437/147.12.0.0/77/8/9a/d596c0f11b7c16d407611395eb03f9a8-480p.mp4
-#EXTINF:0,Supergirl Season 5 Episode 5
-https://c37.vidlox.me/hls/,oudvgzqn2jtk2yixv6dokdzajviu7i3x3z2o3ly7d6ivv3mfav57ajwbsbza,.urlset/master.m3u8
-#EXTINF:0,Supergirl Season 5 Episode 5
-http://51.91.212.98:8777/kaohpkjjeiikkfn2mcw76zqje7ebc5xjocojcmvsbusxjct6sx7tp6nn3u/v.mp4
-#EXTINF:0, Watchmen s01e03
-https://c42.vidlox.me/hls/,oudvhna32jtk2yixv6dokalscz57tltrlkmhjvhmzrojiaqkert6mch7amna,.urlset/master.m3u8
-#EXTINF:0, Watchmen s01e03
-https://str10.vidoza.net/x4lfr7d3dbz7vjumxcpegucy7uffrtvdcr7kikbvkyoqirn2x4ikpc7uewza/v.mp4
+https://str22.vidoza.net/x4lf7tgecjz7vjumxbmegqit7tvqfvo6esc56zxnywmjkkqismsdbiudsnya/v.mp4
+#EXTINF:0,The Flash 2014 S06E05 HDTV
+http://51.91.31.161:8777/kyohofazeiikkfn2mcrp6yizhtdejkkcabj3hcfsqew3ge5rzmaxoc73jy/v.mp4
+#EXTINF:0,Emergence_S01E05_HDTV
+https://s13.vidtodo.com/2fb37gg7uqhryyflg44ootipx2v3xegojkfpuhdh2bpdkrdztox23p6hipqa/v.mp4
+#EXTINF:0,Emergence_S01E06_HDTV
+https://s12.vidtodo.com/2fb37hczu4hryyflg476ors47uyjgilesrsxjuwjglwxf4sdu7czsxi7z7jq/v.mp4
 
 #EXTINF:0,EPL GAME LIVE 
 
