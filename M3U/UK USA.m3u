@@ -1,12 +1,24 @@
 #EXTM3U
-#EXTINF:0,/portals
-https://str22.vidoza.net/x4lf7tgecjz7vjumxbmegqit7tvqfvo6esc56zxnywmjkkqismsdbiudsnya/v.mp4
-#EXTINF:0,The Flash 2014 S06E05 HDTV
-http://51.91.31.161:8777/kyohofazeiikkfn2mcrp6yizhtdejkkcabj3hcfsqew3ge5rzmaxoc73jy/v.mp4
-#EXTINF:0,Emergence_S01E05_HDTV
-https://s13.vidtodo.com/2fb37gg7uqhryyflg44ootipx2v3xegojkfpuhdh2bpdkrdztox23p6hipqa/v.mp4
-#EXTINF:0,Emergence_S01E06_HDTV
-https://s12.vidtodo.com/2fb37hczu4hryyflg476ors47uyjgilesrsxjuwjglwxf4sdu7czsxi7z7jq/v.mp4
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://35.233.103.233/live/CH1/index.m3u8
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://sds2.selez.xyz/hls/btsports2lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDc6MTg6NDkgUE0maGFzaF92YWx1ZT15cGN3VEZ6cnhZNElaOVAyb3QxbkdRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,manchester-united-vs-fk-partizan-
+https://edge.nlive.club/ingest01/38942.m3u8?sf=NWM0YTQ4OTBjYWQ3Yg==&token=rN5iNDQv0VLWNofpga3zZA&expires=1573162742
+#EXTINF:0,manchester-united-vs-fk-partizan-
+https://ul.cdn946.net:8443/hls/cg2hrchp.m3u8?s=CYrF5q7UPylFhGOxl_V7GQ&e=1573177222
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://zone.azureedge.eu/live/dubs_s3_abr/live/s3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDc6NDc6NDcgUE0maGFzaF92YWx1ZT1nTVRtVWppdVFjdkRISDJjTEdVTytBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2NS4yMjcuMTc3LjYzJnN0cm1fbGVuPTU=
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://storage2.nicotech.xyz/live/CH1/index.m3u8
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://34.95.67.131/live/ch2/index.m3u8
+#EXTINF:0,manchester-united-vs-fk-partizan-
+http://1xi.basay.xyz/hls3/live.m3u8
+#EXTINF:0,manchester-united-vs-fk-partizan-
+https://d4.airhdx.com:30443/live/spstream1/chunks.m3u8?nimblesessionid=7468248&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDg6MDM6MDYgUE0maGFzaF92YWx1ZT1WNzI4LzlPQXhLckd3a1lXZ3lpNkNnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,manchester-united-vs-fk-partizan-
+https://d4.airhdx.com:30443/live/spstreamd2/chunks.m3u8?nimblesessionid=7468475&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDg6MDQ6MTkgUE0maGFzaF92YWx1ZT0rM1g3WkdzVkRBdkl2T1prNG9MeHVBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:0,EPL GAME LIVE 
 
