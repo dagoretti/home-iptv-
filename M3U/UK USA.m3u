@@ -1,24 +1,22 @@
 #EXTM3U
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://35.233.103.233/live/CH1/index.m3u8
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://sds2.selez.xyz/hls/btsports2lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDc6MTg6NDkgUE0maGFzaF92YWx1ZT15cGN3VEZ6cnhZNElaOVAyb3QxbkdRPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,manchester-united-vs-fk-partizan-
-https://edge.nlive.club/ingest01/38942.m3u8?sf=NWM0YTQ4OTBjYWQ3Yg==&token=rN5iNDQv0VLWNofpga3zZA&expires=1573162742
-#EXTINF:0,manchester-united-vs-fk-partizan-
-https://ul.cdn946.net:8443/hls/cg2hrchp.m3u8?s=CYrF5q7UPylFhGOxl_V7GQ&e=1573177222
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://zone.azureedge.eu/live/dubs_s3_abr/live/s3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDc6NDc6NDcgUE0maGFzaF92YWx1ZT1nTVRtVWppdVFjdkRISDJjTEdVTytBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2NS4yMjcuMTc3LjYzJnN0cm1fbGVuPTU=
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://storage2.nicotech.xyz/live/CH1/index.m3u8
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://34.95.67.131/live/ch2/index.m3u8
-#EXTINF:0,manchester-united-vs-fk-partizan-
-http://1xi.basay.xyz/hls3/live.m3u8
-#EXTINF:0,manchester-united-vs-fk-partizan-
-https://d4.airhdx.com:30443/live/spstream1/chunks.m3u8?nimblesessionid=7468248&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDg6MDM6MDYgUE0maGFzaF92YWx1ZT1WNzI4LzlPQXhLckd3a1lXZ3lpNkNnPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,manchester-united-vs-fk-partizan-
-https://d4.airhdx.com:30443/live/spstreamd2/chunks.m3u8?nimblesessionid=7468475&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDE5IDg6MDQ6MTkgUE0maGFzaF92YWx1ZT0rM1g3WkdzVkRBdkl2T1prNG9MeHVBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Norwich City vs Watford Live
+https://ul.cdn946.net:8443/hls/hwhknansr8.m3u8?s=dFI29PtHhqGD9p2JVuKEKQ&e=1573265638
+#EXTINF:0,Norwich City vs Watford Live
+https://ul.cdn946.net:8443/hls/hwhknansr8.m3u8?s=dFI29PtHhqGD9p2JVuKEKQ&e=1573265638
+#EXTINF:0,Norwich City vs Watford Live
+http://cdn.60fps.live/live/sme/chunks.m3u8
+#EXTINF:0,Norwich City vs Watford Live
+https://d2.airhdx.com:30443/live/ch2/chunks.m3u8?nimblesessionid=6753763&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDE6NTEgUE0maGFzaF92YWx1ZT16aTNkZjdaeEl0UHd3RUs4U0xxellRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Norwich City vs Watford Live
+http://das16.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDA6MjUgUE0maGFzaF92YWx1ZT1YM2o0Zy80YlVFcVYwWXFZdWs4Vi9BPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Norwich City vs Watford Live
+http://tv.b4ucast.me/tv/H5eGwOvzFT20180321/chunklist_w1934737766_tkaGxzZW5kdGltZT0xNTczMjQ4OTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NUItdHIwTkZIRUhTRlY2Y2JmeDZIYllVVnlnQTMwMUphdmRMUjlfZHBQOD0=.m3u8
+#EXTINF:0,Norwich City vs Watford Live
+https://d2.airhdx.com:30443/live/spstream3/chunks.m3u8?nimblesessionid=6755212&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NTQ6NDQgUE0maGFzaF92YWx1ZT1obFdCVHpaNzVSMnlqYjZMTUY1RVF3PT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Norwich City vs Watford Live
+http://sds1.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDc6NDkgUE0maGFzaF92YWx1ZT15UUpmZU5WN1BkN3FrQ21OcHhqN05RPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Norwich City vs Watford Live
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=_h8WDnhHZ9nCHd_IbuqjzQ&e=1573267959
 
 #EXTINF:0,EPL GAME LIVE 
 
