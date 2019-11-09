@@ -1,60 +1,24 @@
 #EXTM3U
-#EXTINF:0,the.blacklist.s07e06.hdtv.
-https://upload02.vidoza.net/x4lf422bdjz7vjumxc6uguyr7z6qqunwpnpmxd76f2lcphs4nedb7pgxlpca/v.mp4
-#EXTINF:0,the.blacklist.s07e06.hdtv.
-https://vs086.vshare.eu:182/d/hyepyp2w7hnroluvy6abslvnk7nv35rlfcr4tvkg66midibyrnlaicna/vid.mp4
-#EXTINF:0,charmed.2018.s02e05.hdtv
-https://cloud-a3691-48-213.spcdn.cc/dash/h75fv6cer3ekalhulnats4wdarjodbd5c2kfpkh3mdmx2bhn3oojhvdttmfq/fragment-4-v1-x3.m4s
-#EXTINF:0,charmed.2018.s02e05.hdtv
-https://vs090.vshare.eu:182/d/giecwp2w7hnroluvy6abwm5rkc3z34nii6ssd4soz2t7rd5gdetvrdmy/vid.mp4
-#EXTINF:0,Titans S02E010 VO HDTV
-https://s10.vidtodo.com/2fb363yju4hryyflg4q6ossqvoxlots57fp3mkcbzuaqr5vnru26eej724pa/v.mp4
-#EXTINF:0,Titans S02E010 VO HDTV
-https://str09.vidoza.net/x4lflkdddjz7vjumxc5ugtklv4rpkmt66dv3ad5wbdg6d4agedeug6fipaia/v.mp4
-#EXTINF:0,Legacies.S02E04.HDTV
-https://s07.vidtodo.com/2fb363rru4hryyflg4q6oqaz77fmkfqblixd6ksrak3rbhp7fea6mdntieza/v.mp4
-#EXTINF:0,Legacies.S02E04.HDTV
-https://cloud-a3791-48-214.spcdn.cc/dash/h75fvpdir3ekalhulnbtsigrc2ou2enxixicqj7okuvspdiyyhvj255hrhyq/fragment-2-a1-x3.m4s
-
-#EXTINF:0,Norwich City vs Watford Live
-https://ul.cdn946.net:8443/hls/hwhknansr8.m3u8?s=dFI29PtHhqGD9p2JVuKEKQ&e=1573265638
-#EXTINF:0,Norwich City vs Watford Live
-https://ul.cdn946.net:8443/hls/hwhknansr8.m3u8?s=dFI29PtHhqGD9p2JVuKEKQ&e=1573265638
-#EXTINF:0,Norwich City vs Watford Live
-http://cdn.60fps.live/live/sme/chunks.m3u8
-#EXTINF:0,Norwich City vs Watford Live
-https://d2.airhdx.com:30443/live/ch2/chunks.m3u8?nimblesessionid=6753763&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDE6NTEgUE0maGFzaF92YWx1ZT16aTNkZjdaeEl0UHd3RUs4U0xxellRPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Norwich City vs Watford Live
-http://das16.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDA6MjUgUE0maGFzaF92YWx1ZT1YM2o0Zy80YlVFcVYwWXFZdWs4Vi9BPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Norwich City vs Watford Live
-http://tv.b4ucast.me/tv/H5eGwOvzFT20180321/chunklist_w1934737766_tkaGxzZW5kdGltZT0xNTczMjQ4OTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NUItdHIwTkZIRUhTRlY2Y2JmeDZIYllVVnlnQTMwMUphdmRMUjlfZHBQOD0=.m3u8
-#EXTINF:0,Norwich City vs Watford Live
-https://d2.airhdx.com:30443/live/spstream3/chunks.m3u8?nimblesessionid=6755212&wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NTQ6NDQgUE0maGFzaF92YWx1ZT1obFdCVHpaNzVSMnlqYjZMTUY1RVF3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Norwich City vs Watford Live
-http://sds1.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE5IDg6NDc6NDkgUE0maGFzaF92YWx1ZT15UUpmZU5WN1BkN3FrQ21OcHhqN05RPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Norwich City vs Watford Live
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=_h8WDnhHZ9nCHd_IbuqjzQ&e=1573267959
-
 #EXTINF:0,EPL GAME LIVE 
-
+http://das3.serdan.xyz/hls/lshch4hd17/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6Mzg6NTIgUE0maGFzaF92YWx1ZT1yVmVOSFNlYnhlTTB6ZmwrTXRBMmt3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,EPL GAME LIVE 
-
+http://sds2.selez.xyz/hls/ch4sd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDA6MzMgUE0maGFzaF92YWx1ZT1oQllhYTJ4ZjJmb05OMFNEV1pNV0N3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,EPL GAME LIVE 
-
+http://sds4.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDE6MDEgUE0maGFzaF92YWx1ZT1aVHNrOTJBQ3BYcVR3L2RGRCtqeXRRPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,EPL GAME LIVE 
-
+http://sds1.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDE6MzAgUE0maGFzaF92YWx1ZT10YmZCZitXQkhsdzFyK0Y0dXpIODNBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0,EPL GAME LIVE 
-
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=8hULGxLH-qNFDE7RLjd76A&e=1573343051
 #EXTINF:0,EPL GAME LIVE 
-
+https://ul.cdn946.net:8443/hls/e9yuixl6lmaryr.m3u8?s=26k1VnJHRG4zgqTTGSz0lw&e=1573343109
 #EXTINF:0,EPL GAME LIVE 
-
+https://e1.cdn4.us/ingest08/27334.m3u8?sf=MGtJdkhQdWxRbw==&token=FHGPRXyCVMrLgycaoj3VPA&expires=1573336039&rnd=
 #EXTINF:0,EPL GAME LIVE 
-
+https://e1.cdn4.us/ingest08/27336.m3u8?sf=bElLckVCU2FycA==&token=Rw3UHAam8GFuojnduqZjwA&expires=1573336087&rnd=
 #EXTINF:0,EPL GAME LIVE 
-
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=bouQjxCcJR9qpEKXkSkX2Q&e=1573343357
 #EXTINF:0,EPL GAME LIVE 
-
+http://zone.azureedge.eu/live/dubs_s5_abr/live/s5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NTM6MjcgUE0maGFzaF92YWx1ZT1DZGR6QXFLWTBYMXJoMUpEM3psVlBnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2NS4yMjcuMTc3LjYzJnN0cm1fbGVuPTU=
 #EXTINF:0,BT SPORT 1
 
 #EXTINF:0,BT SPORT 1
