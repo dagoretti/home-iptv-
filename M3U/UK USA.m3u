@@ -1,57 +1,11 @@
 #EXTM3U
-#EXTINF:0,NBCSN
-https://d2.airhdx.com:30443/live/ssnbc/chunks.m3u8?nimblesessionid=6980830&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMToyMzoyOSBBTSZoYXNoX3ZhbHVlPTV0MElMdjJ3bFdQWGkwQU96YlRVZEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:0,NBCSN
-https://e1.cdn4.us/ingest09/33401.m3u8?sf=NFNwczEwU2JE&token=z3WYgQ-_oVGjduoG3FkHow&expires=1573405976&rnd=
-#EXTINF:0,SUPER-SPORT-3 RSA
-https://d4.airhdx.com:30443/live/super3/chunks.m3u8?nimblesessionid=7684491&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMToyNTowNCBBTSZoYXNoX3ZhbHVlPXpPWWpDRFdKeXkzaytQUTgyWWQ0Q0E9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:0,SUPER-SPORT-3 RSA
-https://d2.airhdx.com:30443/live/super3/chunks.m3u8?nimblesessionid=6995206&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxOjE1OjUyIFBNJmhhc2hfdmFsdWU9YldNcCsraHBocUp3SkUvb1o2YWZSdz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-http://cdn2.soccerfree.icu/live/ch5/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMToxNDowNyBBTSZoYXNoX3ZhbHVlPW1TczJ2Tndkc2NOeVIwckM5MkdVNVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTQ3LjEyLjE0Ny4xNDAmc3RybV9sZW49Nw==
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=DeOEbA1WgqX0Z27v0tyo1A&e=1573406638
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-http://tv.b4ucast.me/tv/MMx06H2LOL20180323/chunklist_w1631032933_tkaGxzZW5kdGltZT0xNTczMzg4MTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9dHM2SF91cTVaTEhROWpBck9YaUZ0aGxfc2tyQmZqT1pRajZIUk5ZSFloOD0=.m3u8
-#EXTINF:0,NBCSN US
-http://cdn1.soccerfree.icu/live/ch8/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMToxOTo0NSBBTSZoYXNoX3ZhbHVlPW0xaUJtZkg5TmpRQTJTZzdESWdrWVE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTQ3LjEyLjE0Ny4xNDAmc3RybV9sZW49Nw==
-#EXTINF:0,NBCSN US
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=lZq7kAsAweJylLaXGEg2XQ&e=1573406962
-#EXTINF:0,NBCSN US
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=W2vm9qqc28P7NBIn6viNQA&e=1573407032
-#EXTINF:0,NBCSN US
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=_2tosUahLpbZ-dIxaolLSw&e=1573409319
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-https://mmm.sport7boom.com/lba/YmE0OTU2NDcwZmY4NDg2ZjY3ZmJjYTU4YWNjNmY0NTk=/g7/maineventss.m3u8?token=YmE0OTU2NDcwZmY4NDg2ZjY3ZmJjYTU4YWNjNmY0NTk=&id=NjUxOWExNmU5MzBlM2I5ZGUyNDE1MTNhM2NmZDdlZmM=&vip=1573381187&dip=NjhkODE1ZjkyNjc2NWIzOTJhMjNmZTNmZTBiMmM2Zjc=&pip=147.12.147.140&hip=NGJhMGZhMmE4MGEwZDZkN2JhY2NiOTczNzY2YjBkOGU=
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-https://d2.airhdx.com:30443/live/spstream2/chunks.m3u8?nimblesessionid=6987159&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMjozMDoxNCBQTSZoYXNoX3ZhbHVlPWg4TDBJL0JZZ2ZINWllazJkUzhOeUE9PSZ2YWxpZG1pbnV0ZXM9MTIw
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-https://e1.cdn4.us/ingest08/27366.m3u8?sf=TVFjY1g3YjBkTg==&token=mC18ZpNPxrZdPqpII4Oziw&expires=1573403030&rnd=
-#EXTINF:0,bien sports 11 
-https://video-b-dfw.xx.fbcdn.net/hvideo-ash101/v/rLCYw86rMbRyPfTOEYqO1/live-dash/live-hd1-v/v2_QWJ4emVXWnhnM0hYRkdRQW5ZMA==_2764023556961479_0-1252567.m4v
-#EXTINF:0,NBCSN
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=zGPec183hFPCNNYUEVM7Sw&e=1573411576
-#EXTINF:0,NBCSN
-https://e1.cdn4.us/ingest09/33435.m3u8?sf=MzhwczEwU2JE&token=o80Fuk56f7rN_MhD7oBAYg&expires=1573404890&rnd=
-#EXTINF:0,BEIN SPORTS
-http://wwvv.dwdw.store/images/ZZ02.m3u8
-#EXTINF:0,SKY SPORTS MAIN EVENT -UK
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=YROdYGoFLY2nC1jEtMIrBA&e=1573412533
+#EXTM3U
+#EXTINF:0,Supergirl.S05E06.HDTV.
+https://s10.vidtodo.com/2fb36jxcu4hryyflg4r6ovytxgpxdbngg4pgjfpmynjxas77y2kzxed5gt7q/v.mp4
+#EXTINF:0,Supergirl.S05E06.HDTV.
+https://4n6557.disk.ly/stream/j0omxkwy5prm.mp4?k9=-83GbaVkaZamfPZUEumMLQ&vct=j0omxkwy5prm&iq=0&so=1en5qjz7pn0w&ut=4f14aa78ce0e8788256a2c7860d0c36d&ol=44a1cd7b0cd4ee803abee178a2839f2a&jj=42308&yu=n&xj=60441&io=1573530762&zp=5ae06684888d4f84c59e3b5eae68dd30&hq=PopRcTtIOc0y0kzMasIgKVGBQzXFiUh&kl=1&op=0&jk=vev.io&uj=1&qw=1
 
-#EXTINF:0,EPL GAME LIVE 
-http://das3.serdan.xyz/hls/lshch4hd17/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6Mzg6NTIgUE0maGFzaF92YWx1ZT1yVmVOSFNlYnhlTTB6ZmwrTXRBMmt3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,EPL GAME LIVE 
-http://sds2.selez.xyz/hls/ch4sd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDA6MzMgUE0maGFzaF92YWx1ZT1oQllhYTJ4ZjJmb05OMFNEV1pNV0N3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,EPL GAME LIVE 
-http://sds4.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDE6MDEgUE0maGFzaF92YWx1ZT1aVHNrOTJBQ3BYcVR3L2RGRCtqeXRRPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,EPL GAME LIVE 
-http://sds1.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDU6NDE6MzAgUE0maGFzaF92YWx1ZT10YmZCZitXQkhsdzFyK0Y0dXpIODNBPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=8hULGxLH-qNFDE7RLjd76A&e=1573343051
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/e9yuixl6lmaryr.m3u8?s=26k1VnJHRG4zgqTTGSz0lw&e=1573343109
-#EXTINF:0,EPL GAME LIVE 
-https://e1.cdn4.us/ingest08/27334.m3u8?sf=MGtJdkhQdWxRbw==&token=FHGPRXyCVMrLgycaoj3VPA&expires=1573336039&rnd=
+
 #EXTINF:0,EPL GAME LIVE 
 
 #EXTINF:0,EPL GAME LIVE 
