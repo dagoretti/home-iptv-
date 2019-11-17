@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:0,Kosovo vs England
+http://das7.serdan.xyz/hls/ch12hd35/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxOSA0OjQ0OjE3IFBNJmhhc2hfdmFsdWU9YlM2eVhUb1NYVVh0dGdjdHJoRE1xZz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,Kosovo vs England
+http://weak_spell.carniferou.club/edge/ITV1/chunks.m3u8
+#EXTINF:0,Kosovo vs England
+http://4.cr7.live/live/ch1/index.m3u8
+#EXTINF:0,Kosovo vs England
+https://video-a-sea.xx.fbcdn.net/hvideo-ash218/v/r7Y6TX9Iq7ePa0ChHSthT/live-dash/dash-abr-ibr-audio/715839255604228_0.mpd?_nc_rl=AfCHv-xPJCQX1rJnEEs&lvp=1&oh=1ae23db27f14846e59fe13b4f152e064&oe=5DD380E8
+#EXTINF:0,Kosovo vs England
+http://cdn2.footballstream.to/live/S10/index.m3u8
+#EXTINF:0,Kosovo vs England
+http://103.194.171.151/hls/espn+.m3u8
+
 #EXTINF:0,Nancy_Drew_S01E02_720p_HDTV
 https://vs085.vshare.eu:182/d/huedgmcu7hnroluvukab4nxubfly5jfjpdqvawg2jonksxyl2qybg76j/vid.mp4
 
