@@ -48,6 +48,16 @@ http://ul.cdn946.net:8080/hls/zak0e30w.m3u8?s=3TReTXm8EfWZNUVZpUBNPQ&e=157522965
 https://e1.cdn4.us/ingest09/25506.m3u8?sf=NlNwczEwU2JE&token=E0-eQuLIAImG1cWennAdtg&expires=1575222491&rnd=
 #EXTINF:0,EPL GAME LIVE
 http://tv.b4ucast.me/tv/SULfL4yHw720180321/chunklist_w378431119_tkaGxzZW5kdGltZT0xNTc1MjExMDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UHVXVVk1RDJXUFlMT1EzaUNzRW9nVmQ4LUt4Y3loLXZ2VHhyYUpBLUV2OD0=.m3u8
+#EXTINF:0,EPL GAME LIVE
+http://ul.cdn946.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=_twS4BMSYywZqYkQO1IpTw&e=1575229836
+#EXTINF:0,EPL GAME LIVE
+http://das4.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDE6NTA6MjIgUE0maGFzaF92YWx1ZT0wRDczNG85Y3NJOFdtSVhQUnBhalBnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/we4ei6ici66iv8.m3u8?s=IaK4yAwTKpyB-GhenAAJBA&e=1575229924
+#EXTINF:0,EPL GAME LIVE
+http://ul.cdn946.net:8080/hls/zak0e30w.m3u8?s=HDTzFSU4nfAGrWlPVyAfMg&e=1575229966
+#EXTINF:0,EPL GAME LIVE
+http://ul.cdn946.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=H8nRfW9fQCHcerAMeBIJqA&e=1575230001
 
 #EXTINF:0,EPL GAME LIVE 
 
