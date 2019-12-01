@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:0,The Flash 2014 S06E07 HDTV
-https://s13.vidtodo.com/2fb37bnuuyhryyflg5k6orkruqgtvmqljzc35gz7vi6xncv6xihxbhfjvima/v.mp4
+#EXTINF:0,EPL GAME LIVE 
+https://d1.airhdx.com:30443/live/ssnbc/chunks.m3u8?nimblesessionid=10346224&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDE6MjA6MDYgUE0maGFzaF92YWx1ZT1NUm1PQldJKzRWNG5VdlZ0T1dleHFRPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,EPL GAME LIVE 
+https://e1.cdn4.us/ingest09/33403.m3u8?sf=NlNwczEwU2JE&token=t9-h_AZ2q83Q4AMlJpnJDQ&expires=1575220581&rnd=
+#EXTINF:0,EPL GAME LIVE 
+http://tv.b4ucast.me/tv/SULfL4yHw720180321/chunklist_w1161975559_tkaGxzZW5kdGltZT0xNTc1MjA5MzQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9MHd3NWlrVWhBQWFqbDFmLTNZczBHYXVGNVk4dThGclhCRU05clVCY3dfWT0=.m3u8
+#EXTINF:0,EPL GAME LIVE 
+https://d3.airhdx.com:30443/live/ch2/chunks.m3u8?nimblesessionid=6550079&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDE6MjU6MjcgUE0maGFzaF92YWx1ZT01UGxBeDR1VWdzNU53RmhpOVl0QkRnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,EPL GAME LIVE 
+https://d1.airhdx.com:30443/live/super3/chunks.m3u8?nimblesessionid=10347077&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDE5IDE6MjY6NDAgUE0maGFzaF92YWx1ZT1JcmxkWTU0M29hSk02MFdsN1V2RFdnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:0,EPL GAME LIVE 
 
