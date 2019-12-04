@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:0,EPL GAME LIVE  MAN U VS TOT /rmc-sport-3
 https://e1.cdn4.us/ingest012/35238.m3u8?sf=OG1GWVBVeTNGag==&token=BBfymNy5wP-U2UwGAEOd-Q&expires=1575499216&rnd=
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=4TgQiZ09HNVHeA80hiz4UQ&e=1575506935
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+http://cdn1.hdstreams.club/live/ch6/index.m3u8
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+http://4.cr7.live/live/ch3/index.m3u8
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+http://4.cr7.live/live/ch3/index.m3u8
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+http://1.azureedge.eu/live/a/index.m3u8
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=0xTpi7efpt2Ln9bfbeSndw&e=1575507367
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=0xTpi7efpt2Ln9bfbeSndw&e=1575507367
+#EXTINF:0,EPL GAME LIVE  MAN U VS TOT
+http://cdn2.bfst.xyz/live/a/index.m3u8
 
 
 
