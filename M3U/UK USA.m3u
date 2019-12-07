@@ -1,30 +1,16 @@
 #EXTM3U
-#EXTINF:0,EPL GAME LIVE
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-##EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=mqy7MEjhv9WsHF5B38Emcw&e=1575768486
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=_ryUP_0OH0mxpqyd7Kja-A&e=1575769018
-#EXTINF:0,EPL GAME LIVE
-https://e1.cdn4.us/ingest09/25531.m3u8?sf=MzFwczEwU2JE&token=F9OL19SzN-P_gLiP3SKCZQ&expires=1575761913&rnd=
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=PIuzxy3NTdNweHsVadrJjg&e=1575769207
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=5KAG5A157ge3cjn8d4C6wQ&e=1575769373
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=Pz68K2MIUvL8MgKPbIM7HA&e=1575769446
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/kf236.m3u8?s=s_lqox5LGaqv5bOyQPXifg&e=1575769481
-#EXTINF:0,Sky Sports News Live
-http://tv.b4ucast.me/tv/dYAREzIbUs20180321/chunklist_w751639971_tkaGxzZW5kdGltZT0xNTc1NDg5NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UGpzQllqMmNLOWJYODZLTXNjam8zcDVGazV2TkltRHhaMG01Q0ZNWTljVT0=.m3u8
-#EXTINF:0,Sky Sports News Live
-https://d4.airhdx.com:30443/live/ssnews/chunks.m3u8?nimblesessionid=9653758&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDc6MjA6NDkgUE0maGFzaF92YWx1ZT1FTHRxMzJBWTFqZllKZHVTUzIydnhnPT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0,Sky Sports News Live
-http://tv.b4ucast.me/tv/dYAREzIbUs20180321/chunklist_w276860467_tkaGxzZW5kdGltZT0xNTc1NDkwMDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UmFlVWZTLW5kZWVGcjBqZ1JUdXhTODVTc0JQSmVxTjhISnlXOE5hWU5lRT0=.m3u8
-
-
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+http://34.82.120.220/live/ovo3/chunks.m3u8?nimblesessionid=71969
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+https://e32.dotice.me/zmelive/wtVf6SFa2HocG4QDJde5/chunklist.m3u8
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+https://e32.dotice.me/zmelive/wtVf6SFa2HocG4QDJde5/chunklist.m3u8
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+http://sds6.selez.xyz/hls/ch7sd1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDk6MjQ6MDIgUE0maGFzaF92YWx1ZT1uVW5wR0VRLytWVHZkMmJieFRIQ1hBPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+http://das10.serdan.xyz/hls/lsh7hd53/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDk6MjQ6MzMgUE0maGFzaF92YWx1ZT1IVnlpcE5WOHhQSHc4Z3d5UFBIKzZnPT0mdmFsaWRtaW51dGVzPTcw
+#EXTINF:0,Andy Ruiz vs Anthony Joshua
+http://35.231.79.139/live/ovo3/chunks.m3u8?nimblesessionid=45484
 
 #EXTINF:0,EPL GAME LIVE
 
