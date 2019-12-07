@@ -3,12 +3,20 @@
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
 #EXTINF:0,EPL GAME LIVE
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://103.194.171.66/hls/tv5.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://uhsakamai-a.akamaihd.net/fra02/fra02-uhs-beta02/live/23744205/1575737469951/plain/uhs/3/chunk_1575739124_8f1be09813.m4v
-#EXTINF:0,EPL GAME LIVE 
-https://video-b-sjc.xx.fbcdn.net/hvideo-ash106/v/r6Qi6jivBTfHRpFLyFMrY/live-dash/dash-abr-ibr-audio/2213425532295491_0.mpd?_nc_rl=AfCg59y8m6za4imL&lvp=1&oh=cb00704ae5d4a8e4cc704bd6099b09a4&oe=5DEECD15
+##EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=mqy7MEjhv9WsHF5B38Emcw&e=1575768486
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=_ryUP_0OH0mxpqyd7Kja-A&e=1575769018
+#EXTINF:0,EPL GAME LIVE
+https://e1.cdn4.us/ingest09/25531.m3u8?sf=MzFwczEwU2JE&token=F9OL19SzN-P_gLiP3SKCZQ&expires=1575761913&rnd=
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=PIuzxy3NTdNweHsVadrJjg&e=1575769207
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=5KAG5A157ge3cjn8d4C6wQ&e=1575769373
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=Pz68K2MIUvL8MgKPbIM7HA&e=1575769446
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=s_lqox5LGaqv5bOyQPXifg&e=1575769481
 #EXTINF:0,Sky Sports News Live
 http://tv.b4ucast.me/tv/dYAREzIbUs20180321/chunklist_w751639971_tkaGxzZW5kdGltZT0xNTc1NDg5NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UGpzQllqMmNLOWJYODZLTXNjam8zcDVGazV2TkltRHhaMG01Q0ZNWTljVT0=.m3u8
 #EXTINF:0,Sky Sports News Live
