@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTINF:0,EPL GAME LIVE
 https://e31.dotice.me/zmelive/9AcPVhtlO0pabq2jRIUw/chunklist.m3u8
+#EXTINF:0,EPL GAME LIVE
+https://e1.cdn4.us/ingest09/25508.m3u8?sf=OFNwczEwU2JE&token=aZdemnHePJRv7lt1f4XfaQ&expires=1575826049&rnd=
+#EXTINF:0,EPL GAME LIVE
+https://e1.cdn4.us/ingest013/58411.m3u8?sf=UXVIWVhhRzlRNA==&token=Tum7curJNaoqM6870CtrSA&expires=1575826226&rnd=
+#EXTINF:0,EPL GAME LIVE
+https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=819850&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOC8yMDE5IDE6MzE6MzMgUE0maGFzaF92YWx1ZT01QnJycHo1NFAwbmlUM0I0dHljakNnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD0xNDcuMTIuMTQ3LjE0MA==
+#EXTINF:0,EPL GAME LIVE
+http://194.67.208.149/hls/102.m3u8
+
 
 #EXTINF:0,EPL GAME LIVE
 
