@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,The_Blacklist_S07E09_720p_HDTV
-curl "http://rat23.gamovideo.com:8777/pbap55atnfnv3h2yue6nv3ykeu7b4u6tqhj6llx5tkpsvbcehexno2tek5va/v.mp4" -H "Connection: keep-alive" -H "Accept-Encoding: identity;q=1, *;q=0" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" -H "Accept: */*" -H "Referer: http://gamovideo.com/m65ff9o0k2a8" -H "Accept-Language: en-US,en;q=0.9" -H "Cookie: __cfduid=d7c7483a4224c6afac0700d9da261d19a1575765612; gul=1; gyns=1; fbm=1; gew=1; col=1; cul=1; lang=1" -H "Range: bytes=3899392-83025541" -H "If-Range: Sat, 07 Dec 2019 10:21:43 GMT" --compressed --insecure#EXTINF:0,EPL GAME LIVE
+#EXTINF:0,EPL GAME LIVE
+https://e31.dotice.me/zmelive/9AcPVhtlO0pabq2jRIUw/chunklist.m3u8
 
 #EXTINF:0,EPL GAME LIVE
 
