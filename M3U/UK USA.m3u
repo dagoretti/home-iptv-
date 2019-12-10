@@ -1,22 +1,27 @@
 #EXTM3U
-#EXTINF:0,EPL GAME LIVE
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE
-https://d1a3otujrbpy3i.cloudfront.net/out/v1/9e4c0c4b69ec4a019995a31bcbf2b8d1/index_1.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://cdn.60fps.live/live/sme/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://194.67.208.149/hls/102.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://194.67.208.149/hls/106.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://194.67.208.149/hls/106.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://194.67.208.149/hls/106.m3u8
+#EXTINF:0,ECL GAME LIVE
+http://das1.serdan.xyz/hls/bt3hd70/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA2OjE5OjU2IFBNJmhhc2hfdmFsdWU9WTVBdWdzaEtSdHVzRG1PcjZZR2VEQT09JnZhbGlkbWludXRlcz03MA==
+#EXTINF:0,ECL GAME LIVE
+https://e1.cdn4.us/ingest011/57619.m3u8?sf=S3ZiRUE5Z1pwVg==&token=JBjL4N_aFtsYRwyWoKtsAQ&expires=1576016591&rnd=
+#EXTINF:0,ECL GAME LIVE
+http://ul.cdn946.net:8080/hls/rmszc209h2bdnz4.m3u8?s=eLNa11PJzbGggYqSQrzlng&e=1576023829
+#EXTINF:0,ECL GAME LIVE
+https://site.api.espn.com/apis/v2/scoreboard/header?sport=&league=&_ceID=24781898&lang=en&region=ww&contentorigin=espn
+#EXTINF:0,ECL GAME LIVE
+http://sds6.selez.xyz/hls/bt3lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA2OjI0OjMzIFBNJmhhc2hfdmFsdWU9VHZwa2R0T3pDN2RNUyt3RjJRVnNidz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,ECL GAME LIVE
+https://e1.cdn4.us/ingest011/53802.m3u8?sf=NXVlQTFQbmdKcA==&token=cYH4QEccvFx05F-ZTT9lKw&expires=1576016811&rnd=
+#EXTINF:0,ECL GAME LIVE
+http://ul.cdn946.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=rU9utAOgaPAyHQ9hMx4EIQ&e=1576024041
+#EXTINF:0,ECL GAME LIVE
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=m2oAPepRIhtozHIIFqhHDA&e=1576024128
+#EXTINF:0,ECL GAME LIVE
+https://ul.cdn946.net:8443/hls/9uu1uxfe.m3u8?s=T2vDeNPqk8ip9yhqT97vwQ&e=1576024170
+
 
 #EXTINF:0,EPL GAME LIVE
+
+#EXTINF:0,ECL GAME LIVE
 
 #EXTINF:0,BT SPORT 1
 
