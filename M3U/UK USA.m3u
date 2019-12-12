@@ -1,23 +1,8 @@
 #EXTM3U
 #EXTINF:0,ECL GAME LIVE
-http://das1.serdan.xyz/hls/bt3hd70/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA2OjE5OjU2IFBNJmhhc2hfdmFsdWU9WTVBdWdzaEtSdHVzRG1PcjZZR2VEQT09JnZhbGlkbWludXRlcz03MA==
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
 #EXTINF:0,ECL GAME LIVE
-https://e1.cdn4.us/ingest011/57619.m3u8?sf=S3ZiRUE5Z1pwVg==&token=JBjL4N_aFtsYRwyWoKtsAQ&expires=1576016591&rnd=
-#EXTINF:0,ECL GAME LIVE
-http://ul.cdn946.net:8080/hls/rmszc209h2bdnz4.m3u8?s=eLNa11PJzbGggYqSQrzlng&e=1576023829
-#EXTINF:0,ECL GAME LIVE
-https://site.api.espn.com/apis/v2/scoreboard/header?sport=&league=&_ceID=24781898&lang=en&region=ww&contentorigin=espn
-#EXTINF:0,ECL GAME LIVE
-http://sds6.selez.xyz/hls/bt3lsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOSA2OjI0OjMzIFBNJmhhc2hfdmFsdWU9VHZwa2R0T3pDN2RNUyt3RjJRVnNidz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,ECL GAME LIVE
-https://e1.cdn4.us/ingest011/53802.m3u8?sf=NXVlQTFQbmdKcA==&token=cYH4QEccvFx05F-ZTT9lKw&expires=1576016811&rnd=
-#EXTINF:0,ECL GAME LIVE
-http://ul.cdn946.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=rU9utAOgaPAyHQ9hMx4EIQ&e=1576024041
-#EXTINF:0,ECL GAME LIVE
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=m2oAPepRIhtozHIIFqhHDA&e=1576024128
-#EXTINF:0,ECL GAME LIVE
-https://ul.cdn946.net:8443/hls/9uu1uxfe.m3u8?s=T2vDeNPqk8ip9yhqT97vwQ&e=1576024170
-
+https://r1---sn-aigzrn7d.googlevideo.com/videoplayback?expire=1576185579&ei=i1ryXaPXD42oVsGrmsAF&ip=147.12.147.140&id=o-ANiYUiOXwwHf1tDV9iJvH6Ff1DeEwHDJub15-gAeYDga&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-aigzrn7d%2Csn-5hne6ns6&ms=au%2Conr&mv=m&mvi=0&pl=17&initcwndbps=2700000&mime=video%2Fwebm&gir=yes&clen=45861612&dur=1130.440&lmt=1576151509227761&mt=1576163926&fvip=1&keepalive=yes&fexp=23842630&beids=9466588&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAODVnrTxtUJgUN4cOorpcL9mXg-E0zULQyWA-bU71J5VAiEAjBj3MmCYKBaaK-fN9UPLoO2amxJoUU9kp027S2ZrGb0%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAIdwa_zmu0fnKskj0hSlpkP6kp2jceMf0RDRO4srPFPoAiBt9_1nLV9sbWzBX0a5ODM6GeLqaUVExwUPHGQCXOc5sA%3D%3D&alr=yes&cpn=C3YI7I5XZ6LZmi5O&cver=2.20191211.04.00&range=10778030-12823441&rn=907&rbuf=39532
 
 #EXTINF:0,EPL GAME LIVE
 
