@@ -11,6 +11,19 @@ https://video-a-mxp.xx.fbcdn.net/hvideo-ash177/v/rpbTYT_Z400vQ6KWbVcId/live-dash
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8
 #EXTINF:0,EPL GAME LIVE
 http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:0,EPL GAME LIVE
+http://das5.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSAxOjU4OjU0IFBNJmhhc2hfdmFsdWU9U0k1b2ZZTGJIS0JFM1NFaU1lbVRidz09JnZhbGlkbWludXRlcz03MA==
+#EXTINF:0,EPL GAME LIVE
+http://sds3.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSAxOjU3OjIwIFBNJmhhc2hfdmFsdWU9NGR1Y3lBVHhBOFJIUnhNOGRqaXlDdz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,EPL GAME LIVE
+http://sds5.selez.xyz/hls/btsports1lsh58/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSAxOjU2OjM1IFBNJmhhc2hfdmFsdWU9MDZRNHlQT1B3enJDZ0R3bG54QVd6QT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,EPL GAME LIVE
+http://das15.serdan.xyz/hls/nbcsportshd39/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSAxOjU1OjUwIFBNJmhhc2hfdmFsdWU9aHNsZnNKM2FoTmJsNmFXTUx1RWlZdz09JnZhbGlkbWludXRlcz03MA==
+#EXTINF:0,EPL GAME LIVE
+http://195.154.114.22:80/hls/102.m3u8
+#EXTINF:0,EPL GAME LIVE
+http://103.194.171.66/hls/tv1.m3u8
+
 
 #EXTINF:0,EPL GAME LIVE
 
