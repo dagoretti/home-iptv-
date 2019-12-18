@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:0,Manchester United vs Colchester United
+https://ul.cdn946.net:8443/hls/lv2dn79af5e-2096370.ts
+#EXTINF:0,Manchester United vs Colchester United
+http://35.236.90.161/live/ace4/chunks.m3u8?nimblesessionid=72602
+#EXTINF:0,Manchester United vs Colchester United
+https://e1.cdn4.us/ingest08/27362.m3u8?sf=SFB3UENDbTRCNQ==&token=Q-1z-WXTNoieh3OraqH8Ug&expires=1576713780&rnd=
+#EXTINF:0,Manchester United vs Colchester United
+https://e1.cdn4.us/ingest09/25524.m3u8?sf=MjRwczEwU2JE&token=PkZLV3rPD9_gD41KE8EsJQ&expires=1576713810&rnd=
+#EXTINF:0,Manchester United vs Colchester United
+https://ul.cdn946.net:8443/hls/lv2dn79af5e.m3u8?s=KB1gO0W5iEgJ23_F9g19YQ&e=1576721234
+#EXTINF:0,Manchester United vs Colchester United
+http://103.194.171.66/hls/tv3.m3u8
+#EXTINF:0,Manchester United vs Colchester United
+http://cdn.60fps.live/live/e2/chunks.m3u8
+#EXTINF:0,Manchester United vs Colchester United
+http://103.194.171.4/live/S-7/chunks.m3u8?nimblesessionid=98465851
+
 #EXTINF:0,EPL GAME LIVE
 https://ul.cdn946.net:8443/hls/kf236.m3u8?s=sB-rOUgiox4t7Fbs-OX9Ng&e=1576436414
 #EXTINF:0,EPL GAME LIVE
