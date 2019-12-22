@@ -38,8 +38,8 @@ http://195.154.114.22/hls/102.m3u8
 http://cdn.60fps.live/live/sme/chunks.m3u8
 #EXTINF:0,EPL GAME LIVE
 http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-
-#EXTINF:0,EPL GAME LIVE
+#EXTINF:0,movie 
+https://r2---sn-aigzrn7z.googlevideo.com/videoplayback?expire=1577033107&ei=c4H_XYXMCYy31gKegqPwDQ&ip=159.69.35.146&id=a8fd6b732306e4f7&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=7139.671&lmt=1574200649648515&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ALgxI2wwRQIhAKwdYaK8A6NMZkqoAaHIDwgMy-uiDi4MPleEUC5NjK8tAiAjzslt0r__05MIKQ5MCa2KllLcQg3ohjYg1vgvcJ3Ixw==&cms_redirect=yes&mip=2a02:6b60:920b:0:c52b:f926:fe63:3d03&mm=30&mn=sn-aigzrn7z&ms=nxu&mt=1577032285&mv=m&mvi=1&pl=29&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAK1ZQv2NMjC9mm1kI5mj68lWNadkB5cTriOBn6hH0PwOAiEA3inj4WV-x6ve4HXaqz0fGHonh70i1CJuLwdfAZnPVGc=
 
 #EXTINF:0,ECL GAME LIVE
 
