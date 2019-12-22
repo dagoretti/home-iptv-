@@ -15,6 +15,20 @@ http://sds4.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 http://push9.feber.xyz/hls/skymaineventhd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQzOjU1IFBNJmhhc2hfdmFsdWU9OEM2aDVuZzNQRnFoa0dqL0RiRHk3dz09JnZhbGlkbWludXRlcz03MA==
 #EXTINF:0,EPL GAME LIVE
 http://103.194.171.4/live/S-3/chunks.m3u8?nimblesessionid=99320209
+#EXTINF:0,EPL GAME LIVE
+http://u73165.cdn884.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=MvhJ1eVSRWFvO5-5m-sg7w&e=1577044222
+#EXTINF:0,EPL GAME LIVE
+http://tv.b4ucast.me/tv/36QufNGzoD20190929/chunklist_w1454820694_tkaGxzZW5kdGltZT0xNTc3MDI1NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZFVHM2dfN2dxSkJIbUdjMG5qWm5ad1hGUnZjQXZORm5vSDBSWW1PQzA3QT0=.m3u8
+#EXTINF:0,EPL GAME LIVE
+http://cdn.btstream.live/hls/footy5.m3u8
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=HKSE6q0uTwFwKpygZMNVCA&e=1577044536
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=rezPRND_ctl6531JoEBiDw&e=1577044577
+#EXTINF:0,EPL GAME LIVE
+http://195.154.114.22/hls/102.m3u8
+#EXTINF:0,EPL GAME LIVE
+http://cdn2.soccerfree.icu/live/ch6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjU3OjQwIFBNJmhhc2hfdmFsdWU9MTY3K2hWSXF0T3oxS1ZBRTNxZmo1dz09JnZhbGlkbWludXRlcz0xMCZpZD0yNjA3OmZlYTg6ODRhMDo3M2Q6MTBhMDpkMGVmOmNmYmI6YTQxNSZzdHJtX2xlbj03
 
 #EXTINF:0,EPL GAME LIVE
 https://cdn11.dailysport.pw/11/1.m3u8
