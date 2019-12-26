@@ -1,48 +1,20 @@
 #EXTM3U
-#EXTINF:0,EPL GAME LIVE
-http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQwOjU0IFBNJmhhc2hfdmFsdWU9bkNRUEpVbEJDRGNLRG9HY3NRa2k4dz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE
-http://sds3.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQxOjMyIFBNJmhhc2hfdmFsdWU9TmMzOGlGbXBQcFFmNG85cnduMXBlUT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=u-xKJE2Jo6TsKp0RrgD_fw&e=1577356937
-#EXTINF:0,EPL SKY NEWS LIVE
-http://tv.b4ucast.me/tv/MqThIfsVCz20190929/chunklist_w1999960984_tkaGxzZW5kdGltZT0xNTc3MzM4NjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TkRGNURaSXdxa0xlcHowT1M1NG0xOU5IbUFmdGJJLWNkZTN1M0pKTmFKMD0=.m3u8
-#EXTINF:0,EPL SKY NEWS LIVE
-https://ul.cdn946.net:8443/hls/4crnesb.m3u8?s=SO-8vVFo4w_JnA6bRSSy5A&e=1577357892
-#EXTINF:0,EPL GAME LIVE
-http://tv.b4ucast.me/tv/fTPcX1BhLK20190901/chunklist_w589942818_tkaGxzZW5kdGltZT0xNTc3MzM4NjgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SzVMcGxfeFdnTWN5RGR6SWJpYURHMmdCZVZjWEs1LWNsRXItdE1WT2ZYST0=.m3u8
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=WUj6eeGAgo1Zv_Eq8RL-aA&e=1577358187
-#EXTINF:0,EPL GAME LIVE
-http://cdn2.hdstreams.club/live/ch2/index.m3u8
-#EXTINF:0,EPL GAME LIVE
-https://e1.cdn4.us/ingest011/25016.m3u8?sf=SXZmWFBIdTZ6ZA==&token=c5JgdxYqT12I3-t1HsC_fg&expires=1577351595&rnd=
-#EXTINF:0,EPL GAME LIVE
-https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1447370&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjI5OjEyIEFNJmhhc2hfdmFsdWU9Z2VyK0NwUWxLdlRaSWpHc0xPNVEvZz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9MTQ3LjEyLjE0Ny4xNDA=
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=c2xB9V7ys4-91Q47BmByPQ&e=1577359812
-#EXTINF:0,EPL SKY NEWS LIVE
-https://d1.airhdx.com:30443/live/ssnews/chunks.m3u8?nimblesessionid=12649653&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjQ5OjU2IEFNJmhhc2hfdmFsdWU9YjFkenFwa0doWHJlSndmYjRhMWxCZz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL SKY NEWS LIVE
-https://d4.airhdx.com:30443/live/ssnews/chunks.m3u8?nimblesessionid=11575423&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjUyOjA1IEFNJmhhc2hfdmFsdWU9Z3hUdEhRWEYxbUpjQU03WitUUXZpQT09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:0,EPL SKY NEWS LIVE
-https://e3.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
-#EXTINF:0,EPL SKY NEWS LIVE
-https://e27.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
-#EXTINF:0,EPL SKY NEWS LIVE
-https://e27.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
-#EXTINF:0,EPL STREAM LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=Oe9K1durbxOIuro5yiHAMg&e=1577361345
+#EXTINF:0,EPL GAME LIVE 
+http://103.194.171.66/hls/s1.m3u8
+#EXTINF:0,EPL GAME LIVE 
+http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
+#EXTINF:0,EPL GAME LIVE 
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=rzqY80Tjq_e8UL5ggeLNrw&e=1577390397
+#EXTINF:0,EPL GAME LIVE 
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=rzqY80Tjq_e8UL5ggeLNrw&e=1577390397
+#EXTINF:0,EPL GAME LIVE 
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=gWCcIrgObv2EoeuSrSc2KQ&e=1577390588
 
 #EXTINF:0,ECL GAME LIVE
 
 #EXTINF:0,EPL GAME LIVE
+#EXTINF:0,EPL SKY NEWS LIVE
+
 
 #EXTINF:0,BT SPORT 1
 
