@@ -27,6 +27,18 @@ https://e1.cdn4.us/ingest011/25016.m3u8?sf=SXZmWFBIdTZ6ZA==&token=c5JgdxYqT12I3-
 https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1447370&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjI5OjEyIEFNJmhhc2hfdmFsdWU9Z2VyK0NwUWxLdlRaSWpHc0xPNVEvZz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9MTQ3LjEyLjE0Ny4xNDA=
 #EXTINF:0,EPL GAME LIVE
 https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=c2xB9V7ys4-91Q47BmByPQ&e=1577359812
+#EXTINF:0,EPL SKY NEWS LIVE
+https://d1.airhdx.com:30443/live/ssnews/chunks.m3u8?nimblesessionid=12649653&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjQ5OjU2IEFNJmhhc2hfdmFsdWU9YjFkenFwa0doWHJlSndmYjRhMWxCZz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,EPL SKY NEWS LIVE
+https://d4.airhdx.com:30443/live/ssnews/chunks.m3u8?nimblesessionid=11575423&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjUyOjA1IEFNJmhhc2hfdmFsdWU9Z3hUdEhRWEYxbUpjQU03WitUUXZpQT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,EPL SKY NEWS LIVE
+https://e3.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:0,EPL SKY NEWS LIVE
+https://e27.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:0,EPL SKY NEWS LIVE
+https://e27.dotice.me/zmelive/6iFHDjpzlNGKZU3LEVsx/chunklist.m3u8
+#EXTINF:0,EPL STREAM LIVE
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=Oe9K1durbxOIuro5yiHAMg&e=1577361345
 
 #EXTINF:0,ECL GAME LIVE
 
