@@ -1,47 +1,36 @@
 #EXTM3U
 #EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=xvqzJAFMWsPldf5Y3R9_0A&e=1577043618
-#EXTINF:0,EPL GAME LIVE
-http://cdn3.hdstreams.club/live/ch6/index.m3u8
-#EXTINF:0,EPL GAME LIVE
 http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQwOjU0IFBNJmhhc2hfdmFsdWU9bkNRUEpVbEJDRGNLRG9HY3NRa2k4dz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,EPL GAME LIVE
 http://sds3.selez.xyz/hls/skymaineventlsh/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQxOjMyIFBNJmhhc2hfdmFsdWU9TmMzOGlGbXBQcFFmNG85cnduMXBlUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:0,EPL GAME LIVE
-http://sds2.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQyOjA1IFBNJmhhc2hfdmFsdWU9eVJscm1RTGwySTVyUXczUmY2Sm5zQT09JnZhbGlkbWludXRlcz0xMjA=
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
 #EXTINF:0,EPL GAME LIVE
-http://sds4.selez.xyz/hls/nbcsportssd8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQzOjE4IFBNJmhhc2hfdmFsdWU9T1Q4MmVWVHQ0bWNIVm5yZ3BoU1FIQT09JnZhbGlkbWludXRlcz0xMjA=
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
 #EXTINF:0,EPL GAME LIVE
-http://push9.feber.xyz/hls/skymaineventhd133/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjQzOjU1IFBNJmhhc2hfdmFsdWU9OEM2aDVuZzNQRnFoa0dqL0RiRHk3dz09JnZhbGlkbWludXRlcz03MA==
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=f0WTaoHlX5V0IUk8tI--sQ&e=1577356769
 #EXTINF:0,EPL GAME LIVE
-http://103.194.171.4/live/S-3/chunks.m3u8?nimblesessionid=99320209
+https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=u-xKJE2Jo6TsKp0RrgD_fw&e=1577356937
+#EXTINF:0,EPL SKY NEWS LIVE
+http://tv.b4ucast.me/tv/MqThIfsVCz20190929/chunklist_w1999960984_tkaGxzZW5kdGltZT0xNTc3MzM4NjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TkRGNURaSXdxa0xlcHowT1M1NG0xOU5IbUFmdGJJLWNkZTN1M0pKTmFKMD0=.m3u8
+#EXTINF:0,EPL SKY NEWS LIVE
+https://ul.cdn946.net:8443/hls/4crnesb.m3u8?s=SO-8vVFo4w_JnA6bRSSy5A&e=1577357892
 #EXTINF:0,EPL GAME LIVE
-http://u73165.cdn884.net:8080/hls/r4x6s9zcdf74tv.m3u8?s=MvhJ1eVSRWFvO5-5m-sg7w&e=1577044222
+http://tv.b4ucast.me/tv/fTPcX1BhLK20190901/chunklist_w589942818_tkaGxzZW5kdGltZT0xNTc3MzM4NjgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SzVMcGxfeFdnTWN5RGR6SWJpYURHMmdCZVZjWEs1LWNsRXItdE1WT2ZYST0=.m3u8
 #EXTINF:0,EPL GAME LIVE
-http://tv.b4ucast.me/tv/36QufNGzoD20190929/chunklist_w1454820694_tkaGxzZW5kdGltZT0xNTc3MDI1NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZFVHM2dfN2dxSkJIbUdjMG5qWm5ad1hGUnZjQXZORm5vSDBSWW1PQzA3QT0=.m3u8
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=WUj6eeGAgo1Zv_Eq8RL-aA&e=1577358187
 #EXTINF:0,EPL GAME LIVE
-http://cdn.btstream.live/hls/footy5.m3u8
+http://cdn2.hdstreams.club/live/ch2/index.m3u8
 #EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=HKSE6q0uTwFwKpygZMNVCA&e=1577044536
+https://e1.cdn4.us/ingest011/25016.m3u8?sf=SXZmWFBIdTZ6ZA==&token=c5JgdxYqT12I3-t1HsC_fg&expires=1577351595&rnd=
 #EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=rezPRND_ctl6531JoEBiDw&e=1577044577
+https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8?nimblesessionid=1447370&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAxOSA1OjI5OjEyIEFNJmhhc2hfdmFsdWU9Z2VyK0NwUWxLdlRaSWpHc0xPNVEvZz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9MTQ3LjEyLjE0Ny4xNDA=
 #EXTINF:0,EPL GAME LIVE
-http://195.154.114.22/hls/102.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://cdn2.soccerfree.icu/live/ch6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAxOjU3OjQwIFBNJmhhc2hfdmFsdWU9MTY3K2hWSXF0T3oxS1ZBRTNxZmo1dz09JnZhbGlkbWludXRlcz0xMCZpZD0yNjA3OmZlYTg6ODRhMDo3M2Q6MTBhMDpkMGVmOmNmYmI6YTQxNSZzdHJtX2xlbj03
-
-#EXTINF:0,EPL GAME LIVE
-https://cdn11.dailysport.pw/11/1.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://195.154.114.22/hls/102.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://cdn.60fps.live/live/sme/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE
-http://weak_spell.carniferou.club/edge/SSME/chunks.m3u8
-#EXTINF:0,movie 
-https://r2---sn-aigzrn7z.googlevideo.com/videoplayback?expire=1577033107&ei=c4H_XYXMCYy31gKegqPwDQ&ip=159.69.35.146&id=a8fd6b732306e4f7&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=7139.671&lmt=1574200649648515&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ALgxI2wwRQIhAKwdYaK8A6NMZkqoAaHIDwgMy-uiDi4MPleEUC5NjK8tAiAjzslt0r__05MIKQ5MCa2KllLcQg3ohjYg1vgvcJ3Ixw==&cms_redirect=yes&mip=2a02:6b60:920b:0:c52b:f926:fe63:3d03&mm=30&mn=sn-aigzrn7z&ms=nxu&mt=1577032285&mv=m&mvi=1&pl=29&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAK1ZQv2NMjC9mm1kI5mj68lWNadkB5cTriOBn6hH0PwOAiEA3inj4WV-x6ve4HXaqz0fGHonh70i1CJuLwdfAZnPVGc=
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=c2xB9V7ys4-91Q47BmByPQ&e=1577359812
 
 #EXTINF:0,ECL GAME LIVE
+
+#EXTINF:0,EPL GAME LIVE
 
 #EXTINF:0,BT SPORT 1
 
