@@ -1,42 +1,18 @@
 #EXTM3U
-#EXTINF:0,EPL GAME LIVE 
-http://103.194.171.66/hls/s1.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://weak_spell.carniferou.club/edge/NBCSN/chunks.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=rzqY80Tjq_e8UL5ggeLNrw&e=1577390397
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=rzqY80Tjq_e8UL5ggeLNrw&e=1577390397
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=gWCcIrgObv2EoeuSrSc2KQ&e=1577390588
-#EXTINF:0,EPL GAME LIVE 
-http://1.azureedge.eu/live/f/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://cdn.seehd.world/hls/epl2.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://nfl.seehd.world/hls/epl1.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=sN_HSyOqX1PtQ-pdlq-ilw&e=1577394210
-#EXTINF:0,EPL GAME LIVE 
-http://9.cr7.live/live/ch10/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://new1.sportson.info/live/S60/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://cdn.seehd.world/hls/epl3.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://ul.cdn946.net:8443/hls/8x5kyd2dh4y.m3u8?s=--CQlMPoq9c1Zy2vYKalWQ&e=1577394529
-#EXTINF:0,EPL GAME LIVE 
-http://35.231.242.82/live/ovo4/chunks.m3u8?nimblesessionid=15713
-#EXTINF:0,EPL GAME LIVE 
-http://34.96.113.53/live/ch6/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://7.cr7.live/live/ch5/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-http://10.cr7.live/live/ch11/index.m3u8
-#EXTINF:0,EPL GAME LIVE 
-https://video-b-lhr.xx.fbcdn.net/hvideo-ash105/v/rfdwk3HVnO0x4t40y3ui5/live-dash/live-hd1-v/v2_QWJ4NmNvOENlRGlYczg0Vk1xYw==_2565505260335039_0-6997968.m4v
-#EXTINF:0,EPL GAME LIVE 
-https://video-b-lhr.xx.fbcdn.net/hvideo-ash105/v/rfdwk3HVnO0x4t40y3ui5/live-dash/dash-abr-ibr-audio/2565505260335039_0.mpd?_nc_rl=AfC26zKiy2kCBBOE&lvp=1&oh=89459647499c8e787f9921a903ce1782&oe=5E06F008
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/e9yuixl6lmaryr.m3u8?s=H01U8dn0WT1dDvkPrp6xmQ&e=1577582885
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=urYbiScuXBgbBlGwCzUCTA&e=1577582943
+#EXTINF:0,EPL GAME LIVE
+https://u73165.cdn884.net:8443/hls/e9yuixl6lmaryr.m3u8?s=XDmoGJT8W9z2jdx9bpJI0g&e=1577583010
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=iWL-YV2r8OFEQG0j11MRrQ&e=1577583057
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/e9yuixl6lmaryr.m3u8?s=u0RLS5N_OSmr15F1WKYeOw&e=1577583212
+#EXTINF:0,EPL GAME LIVE
+http://cdn1.hdstreams.club/live/ch1/index.m3u8
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/e7o61xsd3sj.m3u8?s=m22budgL3uh8y6FGL4s8Gg&e=1577583702
 
 #EXTINF:0,ECL GAME LIVE
 
