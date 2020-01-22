@@ -1,7 +1,6 @@
 ##EXTM3U
 #EXTINF:0,live epl
-https://u73165.cdn884.net:8443/hls/y4rwgm0v9jcya.m3u8?s=wWswrp9pPvCxqVNk1bQ1xw&e=1579746016
-
+http://cdn.exprestream.net/live/a/index.m3u8
 #EXTINF:0,ECL GAME LIVE
 
 #EXTINF:0,EPL GAME LIVE
