@@ -1,20 +1,11 @@
 #EXTM3U
-#EXTINF:0,Manifest.S02E03.HDTV
-https://s07.vidtodo.com/2fb3765z3ihryyflg5uoouibvjv4hgcmclfwvyqwbiwupviyyqq2mxrefaxa/v.mp4
-#EXTINF:0,Manifest S02E04 HDTV
-https://str03.vidoza.net/x4lfxzskjvz7vjumxdcf2d2nvhcovxj2u5ajzbsyonsr7lg345zfq7tsqvia/v.mp4
-
-#EXTINF:0,live epl
-https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=4bGrN79DUao4Mhtq9wMfRA&e=1579746655
-#EXTINF:0,live epl
-https://hz04.dmcatd.xyz:8088/live/SuperS3/playlist.m3u8?id=73&wowzasessionid=307290893&pk=a31f35d160dd4d8abbdaed43bb8913ea3b5b328db38361ca73ee1e0456d92d41
-#EXTINF:0,live epl
-http://103.194.171.151/hls/nbcsn.m3u8
-#EXTINF:0,live epl
-http://34.107.132.141/live/ch6/index.m3u8
+#EXTINF:0,efl cup 
+http://3.cr7.live/live/ch4/index.m3u8
 
 
 
+
+#EXTINF:0,live epl
 
 #EXTINF:0,ECL GAME LIVE
 
