@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:0,efl cup 
-http://3.cr7.live/live/ch4/index.m3u8
+https://u86715.cdn884.net:8443/hls/wtswasobwlmgv.m3u8?s=CO4hqNANZ4hvIkU5GsF-NQ&e=1580349574
+#EXTINF:0,efl cup 
+http://cdn.cr7.live/live/ch4/index.m3u8
+#EXTINF:0,efl cup 
+https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=64bWA9JGbUaYGX2a8C4_og&e=1580349793
+#EXTINF:0,efl cup 
+https://hz04.dmcatd.xyz:8088/live/SuperS4/playlist.m3u8?id=79&wowzasessionid=3114128423&pk=a31f35d160dd4d8abbdaed43bb8913ea3b5b328db38361ca73ee1e0456d92d41
+#EXTINF:0,efl cup 
+https://ul.cdn946.net:8443/hls/wtswasobwlmgv.m3u8?s=4RyT4cD5O3syZD3H0tmGAA&e=1580350050
+#EXTINF:0,efl cup 
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=DnXBC6-NrZabp-EFxHyIBg&e=1580350090
 
 
 
