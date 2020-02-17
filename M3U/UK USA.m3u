@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,EPL GAME LIVE
+http://cdn1.hdstreams.club/live/ch2/index.m3u8
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=kU41PRjDsYsyJLHLVXw_KQ&e=1581992149
+#EXTINF:0,EPL GAME LIVE
+https://ul.cdn946.net:8443/hls/rmvkt9a6xa86x.m3u8?s=2sclBUcT7k4iBCbj7Rwb2g&e=1581992499
 #EXTINF:0,NBCSN
 http://tvla.xyz:80/noslsahr/X5G01h0xki/1361625
 
