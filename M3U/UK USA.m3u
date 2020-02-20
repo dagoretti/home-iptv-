@@ -1,12 +1,31 @@
 #EXTM3U
-#EXTINF:0,EPL GAME LIVE
-http://cdn1.hdstreams.club/live/ch2/index.m3u8
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/7ksvk1ppa.m3u8?s=kU41PRjDsYsyJLHLVXw_KQ&e=1581992149
-#EXTINF:0,EPL GAME LIVE
-https://ul.cdn946.net:8443/hls/rmvkt9a6xa86x.m3u8?s=2sclBUcT7k4iBCbj7Rwb2g&e=1581992499
-#EXTINF:0,NBCSN
-http://tvla.xyz:80/noslsahr/X5G01h0xki/1361625
+#EXTINF:0,Channel 1
+http://cerbot.kastream.biz:8081/edge/ver6fed7df5ce226b54c7474c23204e9b81/chunks.m3u8?nimblesessionid=747345&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDQ6NTU6MzYgUE0maGFzaF92YWx1ZT13YkxOakhMSnE2aWsvU0kyR2FnMVpnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0,Channel 2
+http://tv.b4ucast.me/tv/R8z5vxADlQ20190901/chunklist_w927060760_tkaGxzZW5kdGltZT0xNTgyMjIxMTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9T1VsQ1BHVWdXbnFZbjdvd3I4V0JyY0d6U0JQQ3haWmRoRnhMOFFJRHJaZz0=.m3u8
+#EXTINF:0,Channel 3
+https://2202.janjua.pw:8088/live/beisnportsh10djcza/playlist.m3u8?id=96524&wowzasessionid=545055920&pk=9e4a47ed7770988e9cf99ca918b8c250a2ece4f00440bf860ec775f3fb8edd2b
+#EXTINF:0,Channel 4
+http://194.67.208.149/hls/106.m3u8
+#EXTINF:0,Channel 5
+https://e1.cdn4.us/ingest09/33400.m3u8?sf=M1NwczEwU2JE&token=PDF9UgLfq01V9oovpRVg_A&expires=1582232794&rnd=
+#EXTINF:0,Channel 6
+https://e7.cdn4.us/ingest666/espn2_sur.m3u8
+#EXTINF:0,Channel 7
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=8Na6lIGu2dcK88ATUlRCTA&e=1582240112
+#EXTINF:0,Channel 8
+https://ul.cdn946.net:8443/hls/blwyjmxiqaoh.m3u8?s=BMuM03vt6tXC836579AuoA&e=1582240432
+#EXTINF:0,Channel 9
+https://e1.cdn4.us/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=MrRoGK7sQLib1Fbwy8KL3A&expires=1582233294&rnd=
+#EXTINF:0,Channel 10
+https://ul.cdn946.net:8443/hls/blwyjmxiqaoh.m3u8?s=xru4CkGHdOdhpMSviy62tQ&e=1582240570
+#EXTINF:0,Channel 11
+https://e26.dotice.me/zmelive/plTJHrqPLe4QxjXz3WaF/chunklist.m3u8
+#EXTINF:0,Channel 12
+https://e6.dotice.me/zmelive/lXn260mykReUBIuWCaiN/chunklist.m3u8
+#EXTINF:0,Channel 13
+https://e29.dotice.me/zmelive/lXn260mykReUBIuWCaiN/chunklist.m3u8
+
 
 
 #EXTINF:0,live epl
