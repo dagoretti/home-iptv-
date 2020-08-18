@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0,The Great  Hack 2019 
-https://v25.viduplayer.com/vxokekylwcalavf4eqbivko3sft4ginmangmxijgi6kdncg3tljmhntbpdma/v.mp4
-
-
+#EXTINF:0,
 
 #EXTINF:0,live epl
 
@@ -12,8 +9,9 @@ https://v25.viduplayer.com/vxokekylwcalavf4eqbivko3sft4ginmangmxijgi6kdncg3tljmh
 #EXTINF:0,EPL SKY NEWS LIVE
 
 
+#EXTINF:0,BT SPORT ESPN
+http://185.39.11.35:8081/live/espnuklsh.m3u8?e=1597789617&st=5zsVNFK-a1DVYCMu20F3iA
+#EXTINF:0,BT SPORT ESPN
+http://185.39.10.15:8081/live/espnuklsh.m3u8?e=1597788264&st=jvY1sbZP-AD0_c8cqeReEw
 #EXTINF:0,BT SPORT 1
-
-#EXTINF:0,BT SPORT 1
-
-#EXTINF:0,BT SPORT 1
+https://ul.cdn946.net:8443/hls/9uu1uxfe.m3u8?s=ibqCV3dpNsBKbVmdZyTmBA&e=1597809297
